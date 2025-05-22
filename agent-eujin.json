@@ -1,0 +1,342 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/agent-eujin",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b1cd4ba9-6bcc-547c-9ee6-0160e88f7edd",
+            "updatedAt": "2025-03-27T09:23:17.349Z",
+            "createdAt": "2022-01-25T08:04:20.080Z",
+            "unitId": "2005",
+            "fullName": "Agent Eujin",
+            "slug": "agent-eujin",
+            "shortName": "Agent Eujin",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5ff8967263704b6130f071ad72d83a90/acb7c/emp-2005.png",
+                        "srcSet": "/static/5ff8967263704b6130f071ad72d83a90/1c9ce/emp-2005.png 64w,\n/static/5ff8967263704b6130f071ad72d83a90/bf8e1/emp-2005.png 128w,\n/static/5ff8967263704b6130f071ad72d83a90/acb7c/emp-2005.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5ff8967263704b6130f071ad72d83a90/8257c/emp-2005.webp 64w,\n/static/5ff8967263704b6130f071ad72d83a90/6766a/emp-2005.webp 128w,\n/static/5ff8967263704b6130f071ad72d83a90/22bfc/emp-2005.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Special Agent",
+            "seaReleaseDate": "May 17th, 2022",
+            "krReleaseDate": "January 25th, 2022",
+            "globalReleaseDate": "December 8th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Executor",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Special Agent Eujin (REujin) is a short-range Sniper who targets  furthest enemy with Special Skill and Enhance Attack.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"REujin’s gimmick is never needed in PVE stages. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, REujin is used as a backline access unit to set up kills on vulnerable backline units. Compared to other units that share the niche (e.g. Lily), REujin is capable of much higher burst damage; her Special Skill can instantly kill most ground damage-oriented backline units, especially when coupled with a synergistic operator (Vivian Rashford). From there, her Enhanced attacks apply constant pressure to what backline remains. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unfortunately, REujin can be easily countered by playing around her targeting. REujin’s immediate impact can be nullified by deploying a tanky unit to absorb the initial cast of her Special Skill. Without the instant swing provided by killing something with the first Special Skill, REujin isn’t worth her high upfront cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Targets furthest enemies\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High burst damage\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Squishy\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Low range\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can’t target air\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Struggles to kill units with HP gates\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "8",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A sniper who can assassinate backline units"
+            },
+            "introduction": {
+              "introduction": "연이어 강적들과 맞닥뜨리면서, 유진은 막무가내로 싸우는 것에 한계를 느꼈습니다.\n그리고 그 고민은 과거 연구진들이 일깨우는 데 실패했던 야수성의 일부를 끌어냈습니다. 환상종의 것으로 추정되는 이 힘은, 적의 약점을 포착하는 예리한 후각과 함께 한정된 영역의 물리법칙을 왜곡시킵니다.\n이제 유진은 사냥개처럼 사각으로 파고드는 총탄과 풍부한 실전 경험을 통해 조금 거친 방식이 필요한 골칫거리들을 해결해 나갑니다. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Ranged Damage Britra Relics",
+                "notes": "Exclusive Equipment is usable but not optimal."
+              },
+              "pvp": {
+                "set": "Flame Relics",
+                "notes": "Exclusive Equipment is usable but not optimal."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2005_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires her pistols at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2005_2",
+                "name": "Not a Chance!",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After every 4 Basic attacks, additionally attacks the farthest target, inflicting the same damage. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "CRIT +3%"
+                },
+                "level3": {
+                  "level3": "CRIT +3%"
+                },
+                "level4": {
+                  "level4": "CRIT +9%"
+                },
+                "level5": {
+                  "level5": "Gains 10% HIT every time an Enhanced attack is cast (up to 50%)."
+                },
+                "level6": {
+                  "level6": "CRIT +3%"
+                },
+                "level7": {
+                  "level7": "CRIT +3%"
+                },
+                "level8": {
+                  "level8": "CRIT +3%"
+                },
+                "level9": {
+                  "level9": "CRIT +6%"
+                },
+                "level10": {
+                  "level10": "Passive condition changes to 3 attacks"
+                }
+              },
+              {
+                "skillId": "2005_3",
+                "name": "Curved Shot",
+                "type": "Special",
+                "validHits": 1,
+                "cooldown": 10,
+                "baseDescription": {
+                  "baseDescription": "Inflicts Sure Fire damage on the farthest target (bosses excluded). Instantly kills if the target is a Ranger, Sniper, or Supporter with 30% or less remaining HP (Bosses excluded. Non-Awakened units in the Gauntlet: 50% or less HP)."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Seals target's skills for 8 s (bosses excluded)."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Cooldown count -2"
+                }
+              },
+              {
+                "skillId": "2005_4",
+                "name": "Freeshooter",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Shoots all her fired bullets at once, inflicting AoE damage on and around the target. During the rapid fire, she becomes immune to damage. Enemies around her don't receive damage, but are knocked backward in her facing direction."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Decrease the required number of basic attacks by 1 after every Enhanced attack."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Valid Hits +1"
+                }
+              },
+              {
+                "skillId": "2005_5",
+                "name": "Hound Noir",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The wild hound has learned cool-headed calculation. Maximizes CRIT Rate (85%) for 6 seconds upon deployment."
+                },
+                "level2": {
+                  "level2": "Crit Damage +10%"
+                },
+                "level3": {
+                  "level3": "Buff duration +2 seconds."
+                },
+                "level4": {
+                  "level4": "Crit Damage +10%"
+                },
+                "level5": {
+                  "level5": "Buff duration +2 seconds."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 39.29,
+                "critical": 2.36,
+                "def": 3.52,
+                "evade": 1.26,
+                "hit": 4.31,
+                "hp": 290
+              },
+              "base": {
+                "hp": 2302,
+                "atk": 385,
+                "def": 246,
+                "hit": 301,
+                "critical": 165,
+                "evade": 88
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1005",
+              "slug": "eujin",
+              "shortName": "Eujin",
+              "rarityClassName": "SR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/70f8161c2f418c6e4486aa5f6c45dfe1/acb7c/emp-1005.png",
+                          "srcSet": "/static/70f8161c2f418c6e4486aa5f6c45dfe1/1c9ce/emp-1005.png 64w,\n/static/70f8161c2f418c6e4486aa5f6c45dfe1/bf8e1/emp-1005.png 128w,\n/static/70f8161c2f418c6e4486aa5f6c45dfe1/acb7c/emp-1005.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/70f8161c2f418c6e4486aa5f6c45dfe1/8257c/emp-1005.webp 64w,\n/static/70f8161c2f418c6e4486aa5f6c45dfe1/6766a/emp-1005.webp 128w,\n/static/70f8161c2f418c6e4486aa5f6c45dfe1/22bfc/emp-1005.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b1cd4ba9-6bcc-547c-9ee6-0160e88f7edd"
+    }
+  },
+  "staticQueryHashes": []
+}

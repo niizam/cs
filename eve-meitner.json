@@ -1,0 +1,242 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/eve-meitner",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b84fba9b-6961-5b0b-b15c-de4d18e8a01e",
+            "updatedAt": "2025-03-15T17:01:42.290Z",
+            "createdAt": "2023-11-17T11:11:48.167Z",
+            "unitId": "1260",
+            "fullName": "Eve Meitner",
+            "slug": "eve-meitner",
+            "shortName": "Eve Meitner",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/73126c6e788543246fc34e0359f01a56/acb7c/1260.png",
+                        "srcSet": "/static/73126c6e788543246fc34e0359f01a56/1c9ce/1260.png 64w,\n/static/73126c6e788543246fc34e0359f01a56/bf8e1/1260.png 128w,\n/static/73126c6e788543246fc34e0359f01a56/acb7c/1260.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/73126c6e788543246fc34e0359f01a56/8257c/1260.webp 64w,\n/static/73126c6e788543246fc34e0359f01a56/6766a/1260.webp 128w,\n/static/73126c6e788543246fc34e0359f01a56/22bfc/1260.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "ESPR",
+            "seaReleaseDate": "May 15th, 2024",
+            "krReleaseDate": "November 14th, 2023",
+            "globalReleaseDate": "May 15th, 2024",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Dispeller",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Eve Meitner (Eve) is a short range backline damage dealer. She passively has tripled damage multipliers on non-Ultimate abilities in PVE and against low cost units in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Eve’s special skill and enhanced attack target the furthest enemy in range. While this range isn’t mapwide, it allows her to reach otherwise inaccessible targets, which is especially relevant in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Eve is an absurdly potent damage dealer on account of her passive that triples damage. She sees use in all content where her range and survivability are not an issue.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Eve thrives in weekly metagames dominated by low-cost frontline units and fragile backline threats. Her ability to chain off enhanced attacks and special skill counters enables rapid snowball potential that is very hard to stop once it gets going. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, her viability hinges on several critical metagame conditions:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Lack of aggressive Awakened Strikers:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Expensive offensive units (e.g. Awakened Sigma, Awakened Yoo Mina, Shepherd & Lurcher) easily access and kill Eve before she can execute her gameplan. On top of that Awakened Mordred sees higher usage on weeks with awakened strikers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Prevalence of Low-Cost Frontlines:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Cheap, disposable units activate her damage passive, enabling the rest of Eve’s kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Killable Backline Threats:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Backline should not have backsteps, invincibility or phase changes as this prevents Eve from snowballing. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Even when necessary conditions are met for baseline Eve viability, she still has to deal with counterplay inherent to her kit. Her backline access tools can be redirected by playing units behind her and, even when this is not an option, her snowball is preventable by deploying tanks behind backline threats right before special/ enhanced attack is triggered.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Triple damage \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Low range and survivability\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "1",
+              "pve_early": "11",
+              "pve_late": "11"
+            },
+            "description": {
+              "description": "A Striker who can control the battlefield with powerful Counters"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Auto Attack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Auto Attack DPS",
+                "notes": "Usually prefers Anti-Counter Flame Relic gear"
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1260_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Commands an indescribable being to attack, dealing AoE damage in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1260_2",
+                "name": "Manifestation of Shub-Niggurath",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "DMG Dealt by all attacks excluding Ultimate is increased by 200%. (In Gauntlet, this effect only applies to targets with 3 Deployment cost or lower). Every time an enemy dies, deliver an enhanced attack to the furthest unit within sight range, dealing single-target damage with hitstun. The enhanced attack dispels barriers but cannot CRIT. Immune to hitstun from Special skill or Lower while casting enhanced attack."
+                },
+                "level2": {
+                  "level2": "DMG Amplification +7.5%"
+                },
+                "level3": {
+                  "level3": "DMG Amplification +7.5%"
+                },
+                "level4": {
+                  "level4": "DMG Amplification +15%"
+                },
+                "level5": {
+                  "level5": "Resets Special skill CD if an enhanced attack kills an enemy"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1260_3",
+                "name": "Black goat",
+                "type": "Special",
+                "validHits": 1,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "When Eve receives hitstun from Non-Ultimate attacks, Indescribable beings surrounds and protect Eve, negating the damage, then deals single-target damage to the furthest unit within sight range. Dispels barrier from damaged targets, and enters Sure Fire state for 8s after casting. (Cannot be removed)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Ultimate CD -5s when casting Special skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1260_4",
+                "name": "Palingenesis",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Eve sacrifices indescribable beings to resurge the remains of Gha’agsheblah. Summons black roots behind the furthest unit within sight range, dealing AoE damage with hitstun. Ultimate DMG AMP is increased by 20% during Ultimate. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Dispels barriers from targets damaged by Ultimate."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 49.66,
+                "critical": 4.61,
+                "def": 4.44,
+                "evade": 3.51,
+                "hit": 4.35,
+                "hp": 429
+              },
+              "base": {
+                "hp": 3414,
+                "atk": 467,
+                "def": 259,
+                "hit": 304,
+                "critical": 322,
+                "evade": 310
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b84fba9b-6961-5b0b-b15c-de4d18e8a01e"
+    }
+  },
+  "staticQueryHashes": []
+}

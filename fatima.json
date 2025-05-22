@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/fatima",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "9106eb42-644b-5572-b8dc-2daec0725c6a",
+            "updatedAt": "2024-11-20T08:13:27.376Z",
+            "createdAt": "2024-10-02T13:43:58.928Z",
+            "unitId": "1276",
+            "fullName": "Fatima",
+            "slug": "fatima",
+            "shortName": "Fatima",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#282828",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/610986a472624dd0a6676c66c2c8b5f7/22bfc/1277.webp",
+                        "srcSet": "/static/610986a472624dd0a6676c66c2c8b5f7/8257c/1277.webp 64w,\n/static/610986a472624dd0a6676c66c2c8b5f7/6766a/1277.webp 128w,\n/static/610986a472624dd0a6676c66c2c8b5f7/22bfc/1277.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "November 6th, 2024",
+            "krReleaseDate": "September 25th, 2024",
+            "globalReleaseDate": "November 6th, 2024",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fatima is a PVP-oriented frontline “utility” tank notable for her high impact crowd control on ETB and Special skill. Fatima can chain CC nearby enemies for ~8 seconds on deploy, giving her a valued niche as one of the few sources of on-demand disruption. For a utility tank, Fatima does not compromise on stats; she boasts an impressive health pool rivaling that of rearm defenders, landing her squarely in the pool of competitive priority picks for any given week she is free.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, frontline tanks with buffs/debuffs are valued more highly than those focused solely on tanking for themselves. Fatima meets the baseline requirements expected of her as a frontline tank, but she contributes nothing more to the team. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Fatima fulfills the role of “cheap defender” (e.g. Rearm Alex) while simultaneously providing coverage against high-pressure rush comps. Fatima’s CC shuts down any kind of forward momentum from the enemy team, which can be used to stall out the unhinged levels of burst damage that characterize (among other teams) Sasha-based rush comps. Beyond her initial impact, her relatively short cooldowns let her pump out value as the match progresses.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fatima combines all the desired qualities of a PVP-oriented frontline tank: durability, utility, and affordability. She provides all these in one cost-effective package, making her a highly attractive option whenever she is free.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Extremely potent CC capability.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Low cooldown on the 5 second stun Special skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- None.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "11",
+              "pvp_global": "11",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": null,
+            "introduction": {
+              "introduction": "Fatima follows her own version of justice and uses faith as her weapon. Lotus's Crime Syndicate\nIt is also famous for her to put herself under her administration and to spread injustice beyond the law that has become ineffective. \nBecause she wanted the power to judge. But she never abuses the authority of the Bureau. Only the heads of the bureau are correct.\nI believe I can make decisions, and I just follow their instructions. Of course, she does not believe that the Bureau's choice is necessarily right, and she\nShe appears to be willing to give advice.\nPeople often have preconceptions about Fatima because of her fierce appearance, but in fact, she is calm in everything. She is serious and shows an infinitely warm attitude towards children."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1277_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her fist, dealing AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1277_2",
+                "name": "No use asking questions",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Upon deployment, gains 20% DMG Reduction for 10s, inflicts Freeze to enemies near the deployment position, and deals AoE damage. "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Resets Special Skill CD upon redeployment, additionally grants all allies 10% DMG Reduction for 10s, excluding self."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1277_3",
+                "name": "Kneel Down ",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 15,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage in front with powerful kicks. Dispels barriers from damaged targets and Stuns them for 3s. Gain immunity to hitstun from Special Skills for 10s after casting. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Stun duration +2s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1277_4",
+                "name": "Warning is over",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Attacks 1 target in front with Uppercuts. Then, launches Roundhouse kick attacks, dealing AoE damage with knockback\n- Uppercut: Inflicts Freeze to targets\n- Roundhouse kick: Reduces targets’ EVA by 45%. When attacking targets afflicted with Freeze from Uppercuts, EVA is reduced by 90%."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "When attacking targets afflicted with Freeze, dispel 1 non-Permanent buff."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 20.82,
+                "critical": 0.41,
+                "def": 6.03,
+                "evade": 3.27,
+                "hit": 2.85,
+                "hp": 349
+              },
+              "base": {
+                "hp": 2774,
+                "atk": 204,
+                "def": 421,
+                "hit": 199,
+                "critical": 28,
+                "evade": 228
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "9106eb42-644b-5572-b8dc-2daec0725c6a"
+    }
+  },
+  "staticQueryHashes": []
+}

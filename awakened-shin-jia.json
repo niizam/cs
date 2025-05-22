@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/awakened-shin-jia",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a95dcd58-9a04-58c0-81c6-2e6d4326d43c",
+            "updatedAt": "2025-05-01T07:55:50.168Z",
+            "createdAt": "2022-03-09T01:03:27.675Z",
+            "unitId": "1206",
+            "fullName": "Awakened Shin Jia",
+            "slug": "awakened-shin-jia",
+            "shortName": "Awakened Shin Jia",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/efc7259623854b0ce094123bf10f0624/acb7c/emp-1206.png",
+                        "srcSet": "/static/efc7259623854b0ce094123bf10f0624/1c9ce/emp-1206.png 64w,\n/static/efc7259623854b0ce094123bf10f0624/bf8e1/emp-1206.png 128w,\n/static/efc7259623854b0ce094123bf10f0624/acb7c/emp-1206.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/efc7259623854b0ce094123bf10f0624/8257c/emp-1206.webp 64w,\n/static/efc7259623854b0ce094123bf10f0624/6766a/emp-1206.webp 128w,\n/static/efc7259623854b0ce094123bf10f0624/22bfc/emp-1206.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Singularity",
+            "seaReleaseDate": "August 24th, 2022",
+            "krReleaseDate": "March 8th, 2022",
+            "globalReleaseDate": "January 12th, 2023",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "CC",
+              "Healer",
+              "Shielder",
+              "Barrier"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Shin Jia (AJia) is a 5 cost supporter who provides a combination of offensive and defensive buffs for your team. She costs more than your average supporter, but in turn provides a wide spread of utility and more potent buffs than would be found on other supporters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"By micromanaging AJia’s kit mechanics, AJia can provide the largest ATK and CRIT buffs from a single unit in the game. On top of that, she also provides consistent shielding and some healing. This makes her extremely prevalent across all PVE content, and also gives her a niche in PVP. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AJia provides a plethora of buffs, including the strongest damage buffs in the game. This makes her a core character in almost any PVE content. Her consistent uptime on her high ATK/ CRIT buffs are appreciated everywhere, and her ultimate skill is a massive enabler for burst damage set ups. AJia’s ultimate skill reapplies the buffs granted by her special skill, allowing you to double up on AJia’s special skill buffs. Notably, she is a mainstay buffer in the Danger Close used in competitive comps across most bosses, though she doesn’t see as much use as before due to changes in the meta environment of the game mode.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AJia’s barrier mechanic is distinct from other supporters who apply barriers in that the shield from her special skill is applied multiple times over the duration of her special, providing consistent protection for her backline and herself.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AJia is a strong ASSR but she inherits all the problems inherent to being a supporter. She is a powerful force multiplier but if the damage is lacking, her buffs won’t make a difference. Ultimately, there is a limit to what supporters can accomplish individually.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AJia periodically sees use in PVP as a buffer, providing a combination of defensive and offensive buffs. Issues inherent to buffer supporters prevent AJia from seeing more widespread use, but in spite of the archetype’s awkward position in the PVP environment she is still able to muscle her way into relevance thanks to the sheer amount of utility in her kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AJia’s buffs provide good value to the team and can help shore up stat differences between you and your opponent, provided you are granted the opportunity to play her. Notably, AJia can be used to increase the lethality of certain ultimates (e.g. Replacer Queen) by timing her buff application with the ultimate cast to deal significantly more burst damage than is otherwise achievable. AJia’s high cost can be awkward to work around, especially when she herself doesn’t apply any pressure. Thankfully, AJia’s innate tankiness and safe range make her relatively easier to manage compared to other backline supporters. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Generally speaking, there is a noticeable lack of support buffers in PVP compared to PVE. This is due to the fact many support buffers need time to ramp up their buffs, whereas damage dealers are able to immediately apply pressure and contribute value. It is difficult to find the time to deploy supporters when your opponent is actively trying to kill your stuff. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a long range backline supporter, AJia can be difficult to deal with. Contrasting backline damage dealers who sacrifice tank stats for damage, AJia forgoes damage for the tank stats (Anti-X DMG RES%) on a proper support CDR set. It isn’t worth allocating resources towards targeted counterplay against an opponent’s AJia. Ultimately, AJia should be treated as an accessory to her team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Single strongest offensive buffer in the game. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Single best source of consistent shielding. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Consolidates a lot of buffs into one unit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"High cost supporter with low immediate impact is frequently a deal-breaker in PVP. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Struggles to synergize with snipers on autoplay due to range limitations on buff aura. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "8",
+              "pve_early": "9",
+              "pve_late": "11"
+            },
+            "description": {
+              "description": "A support unit who enhances allies and neutralizes enemies"
+            },
+            "introduction": {
+              "introduction": "싱귤러리티 신지아는 입자화된 CRF로 적을 무력화하는 동시에 아군에게 유리한 효과를 부여하는 서포터입니다.\n그녀는 자신의 상상력에 기반해 물질을 생성할 수 있는, 무궁무진한 가능성을 지닌 존재입니다. 혹자가 평가한 대로 인류라는 종의 특이점에 도달한 결과물일지도 모릅니다. 하지만 태생적으로 불완전하다는 한계를 가지고 있기에, 그 힘은 사용하면 사용할수록 인간성을 마모시켜 무기물에 가까운 존재로 만들 위험이 존재합니다. 그렇기에 역으로 인간성을 추구하는 그녀에게 주어진 결과 상상의 날개라는 형태를 이루게 되었는지도 모릅니다. 한 사람의 비틀린 두려움이 낳은 산물 중에서 가장 올바른 결과를 맞이한 존재는, 오늘도 더 나은 세상을 위해 사람들 곁에 존재합니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1206_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires lasers using compressed particles from her Laser Wings, inflicting AoE DMG in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1206_2",
+                "name": "Perfect Cube",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Skill Haste +4% to self and all allies. The next Basic Attack after Special skill damages the farthest target in range, stuns target and seals skill for 5s (Mechs included, Bosses excluded)."
+                },
+                "level2": {
+                  "level2": "Self and allies Skill Haste +1%"
+                },
+                "level3": {
+                  "level3": "Self and allies Skill Haste +1%"
+                },
+                "level4": {
+                  "level4": "Self and allies Skill Haste +2%"
+                },
+                "level5": {
+                  "level5": "Duration of skill sealing changed to 10s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1206_3",
+                "name": "Mirage Promotion",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 32,
+                "baseDescription": {
+                  "baseDescription": "Creates a zone that grants allies ATK +40%, CRIT +300. Effect decays to ATK +10%, CRIT +150 over 30s."
+                },
+                "level2": {
+                  "level2": "Cooldown -1s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2s"
+                },
+                "level5": {
+                  "level5": "Grants allies within zone with Barrier equal to 10% of HP for 10s\""
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1206_4",
+                "name": "Innovation Reality",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 68,
+                "baseDescription": {
+                  "baseDescription": "After dealing AoE DMG to nearby enemies, grants all allies with current Special skill’s ATK and CRIT increase effect for 12s. (Cannot be canceled. If Special skill is not activated, only the minimum Stats are granted.)"
+                },
+                "level2": {
+                  "level2": "Cooldown -2s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4s"
+                },
+                "level5": {
+                  "level5": "Recover 30% of all units’ HP (excluding herself) when cast."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 22.83,
+                "critical": 2.68,
+                "def": 2.18,
+                "evade": 2.8,
+                "hit": 2.58,
+                "hp": 348
+              },
+              "base": {
+                "hp": 2818,
+                "atk": 228,
+                "def": 165,
+                "hit": 195,
+                "critical": 203,
+                "evade": 212
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a95dcd58-9a04-58c0-81c6-2e6d4326d43c"
+    }
+  },
+  "staticQueryHashes": []
+}

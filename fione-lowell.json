@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/fione-lowell",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "3457b09b-9897-5669-acbb-dfe8031b65af",
+            "updatedAt": "2024-10-17T21:18:36.354Z",
+            "createdAt": "2021-10-21T13:32:47.864Z",
+            "unitId": "1088",
+            "fullName": "Fione Lowell",
+            "slug": "fione-lowell",
+            "shortName": "Fione Lowell",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a7d7d4c9069b25f78023b65480411192/acb7c/emp-1088.png",
+                        "srcSet": "/static/a7d7d4c9069b25f78023b65480411192/1c9ce/emp-1088.png 64w,\n/static/a7d7d4c9069b25f78023b65480411192/bf8e1/emp-1088.png 128w,\n/static/a7d7d4c9069b25f78023b65480411192/acb7c/emp-1088.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a7d7d4c9069b25f78023b65480411192/8257c/emp-1088.webp 64w,\n/static/a7d7d4c9069b25f78023b65480411192/6766a/emp-1088.webp 128w,\n/static/a7d7d4c9069b25f78023b65480411192/22bfc/emp-1088.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Zodiac Knights: Blue Shift",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Barrier",
+              "Buffer",
+              "CC",
+              "ETB",
+              "Healer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Fione Lowell does not have the stats necessary to meet the baseline requirements expected of her as a frontline tank.\\n\\nFione Lowell does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Uses Taunt and DEF buffs on the front lines, protecting allies."
+            },
+            "introduction": {
+              "introduction": "　The Knight of Scorpio. Fione Lowell is a supportive defender who enhances ally's defense.\n\n　She is the deputy captain of the Zodiac Knights. Grown up in a military family, she firmly believes that discipline is what it takes to control a group. Therefore, she emphasizes regular training and individual integrity, while strictly penalizing the lightest deviations. Other knights are stressed out by her upright attitude, but because they are also aware of their grave responsibilities, they approve of her methods to a certain degree.\n　The Lowell family has a lot of expectations towards Fione and wants her to pull down Estherosa to become the captain herself. But Fione respects Estherosa as much as she respects discipline, and she is satisfied with her current position of deputy captain. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1088_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Stabs a lance at a forward area, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1088_2",
+                "name": "Tenacious Scorpion",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses her shield as soon as she appears, knocking enemies backward with AoE damage. Forces the inflicted enemy to attack her for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -15% for 15 s when deployed"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1088_3",
+                "name": "Tail Sting",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 19,
+                "baseDescription": {
+                  "baseDescription": "Leaps backward into the air and crashes onto the ground, inflicting AoE damage. Forces the inflicted enemy to target on her for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Casts a barrier equal to 15% of Max HP for 15 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1088_4",
+                "name": "Let's Fight Together",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Discharges protective energy, inflicting AoE damage on surrounding enemies. Also decreases her and allies' DMG Taken by 20% for 15 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -3 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -3 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -6 s"
+                },
+                "level5": {
+                  "level5": "Restores surrounding allies' HP by 20% when cast"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 16.42,
+                "critical": 0.51,
+                "def": 5.4,
+                "evade": 0.4,
+                "hit": 1.01,
+                "hp": 269
+              },
+              "base": {
+                "hp": 2176,
+                "atk": 164,
+                "def": 409,
+                "hit": 76,
+                "critical": 38,
+                "evade": 30
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "3457b09b-9897-5669-acbb-dfe8031b65af"
+    }
+  },
+  "staticQueryHashes": []
+}

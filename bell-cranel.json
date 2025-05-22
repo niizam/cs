@@ -1,0 +1,298 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/bell-cranel",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "7556758e-9e1b-5e7c-bdc5-ae83054183b5",
+            "updatedAt": "2025-05-01T13:38:02.827Z",
+            "createdAt": "2025-01-23T09:17:59.720Z",
+            "unitId": "1284",
+            "fullName": "Bell Cranel",
+            "slug": "bell-cranel",
+            "shortName": "Bell Cranel",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/8dc7c0708eebabeba0c4a4d60f00d621/22bfc/1284.webp",
+                        "srcSet": "/static/8dc7c0708eebabeba0c4a4d60f00d621/8257c/1284.webp 64w,\n/static/8dc7c0708eebabeba0c4a4d60f00d621/6766a/1284.webp 128w,\n/static/8dc7c0708eebabeba0c4a4d60f00d621/22bfc/1284.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "January 22nd, 2025",
+            "krReleaseDate": "January 22nd, 2025",
+            "globalReleaseDate": "January 22nd, 2025",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bell Cranel is a frontline damage dealer that does no damage. There is no reason to play this unit over better frontline tanks or damage dealers that already exist.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He was given out for free during the collab \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He is completely useless \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank/ Auto Attack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank/ Auto Attack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1284_1",
+                "name": "Basic attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings The Hestia Knife and The Hakugen, inflicting AoE damage to enemies in front."
+                },
+                "level2": {
+                  "level2": "Basic attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "1284_2",
+                "name": "Admiration Toward Her",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The desire to reach his admiration becomes a driving force for rapid growth. Adds 1 additional [Admiration] stack to self for every 4 basic attacks.\n[Admiration] : ASPD and EVA increase by 1 % per stack (Up to 50 stacks, cannot be canceled)\nRedeployment will reset the buff stacks."
+                },
+                "level2": {
+                  "level2": "ATK +2%"
+                },
+                "level3": {
+                  "level3": "ATK +2%"
+                },
+                "level4": {
+                  "level4": "ATK +3%"
+                },
+                "level5": {
+                  "level5": "[Admiration] stacks for every 3 basic attacks instead"
+                },
+                "level6": {
+                  "level6": "ATK +2%"
+                },
+                "level7": {
+                  "level7": "ATK +2%"
+                },
+                "level8": {
+                  "level8": "ATK +2%"
+                },
+                "level9": {
+                  "level9": "ATK +3%"
+                },
+                "level10": {
+                  "level10": "Upon [Admiration] stacks, ATK +20% for 5s"
+                }
+              },
+              {
+                "skillId": "1284_3",
+                "name": "Fire Bolt",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Fires a Fire Bolt, inflicting AoE damage in front. Becomes immune to Hitstun from Special or lower skills for 8 seconds after casting skill. If [Admiration] is 20 stacks or above, DEF Penetration +50% is applied while casting skill."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4s"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Upon 20 [Admiration] stacks, applies Sure Fire to Special Skill"
+                }
+              },
+              {
+                "skillId": "1284_4",
+                "name": "Argo Vesta",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Fires dual charged mana slashes using Argonaut, dealing AoE damage as well as removing barriers."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Based on HP loss, ATK up to +50% while casting Ultimate Skill"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Grants 20 [Admiration] stacks to self and resets Special Skill cooldown when casting Ultimate Skill"
+                }
+              },
+              {
+                "skillId": "1284_5",
+                "name": "Rabbit's Foot",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "With quick, rabbit-like movements, he earned the second name \"Rabbit's Foot\". Upon Bell Cranel's deployment, adds 10 [Admiration] stacks to self."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Upon deployment, adds 20 [Admiration] stacks to self instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 31.95,
+                "critical": 3.07,
+                "def": 3.07,
+                "evade": 4.88,
+                "hit": 2.92,
+                "hp": 311
+              },
+              "base": {
+                "hp": 2475,
+                "atk": 313,
+                "def": 214,
+                "hit": 204,
+                "critical": 214,
+                "evade": 341
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "7556758e-9e1b-5e7c-bdc5-ae83054183b5"
+    }
+  },
+  "staticQueryHashes": []
+}

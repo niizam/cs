@@ -1,0 +1,210 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/charlie-rockwood",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "54fa2c68-e0a9-58d5-82a4-5c884d46647c",
+            "updatedAt": "2024-10-17T21:16:01.373Z",
+            "createdAt": "2021-10-22T00:23:50.882Z",
+            "unitId": "1144",
+            "fullName": "Charlie Rockwood",
+            "slug": "charlie-rockwood",
+            "shortName": "Charlie Rockwood",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/84f086fa1c6b20bb69a9baddc8b2eaa5/acb7c/emp-1144.png",
+                        "srcSet": "/static/84f086fa1c6b20bb69a9baddc8b2eaa5/1c9ce/emp-1144.png 64w,\n/static/84f086fa1c6b20bb69a9baddc8b2eaa5/bf8e1/emp-1144.png 128w,\n/static/84f086fa1c6b20bb69a9baddc8b2eaa5/acb7c/emp-1144.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/84f086fa1c6b20bb69a9baddc8b2eaa5/8257c/emp-1144.webp 64w,\n/static/84f086fa1c6b20bb69a9baddc8b2eaa5/6766a/emp-1144.webp 128w,\n/static/84f086fa1c6b20bb69a9baddc8b2eaa5/22bfc/emp-1144.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "R7 Irregular Scouts",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Charlie Rockwood does not have the stats necessary to meet the baseline requirements expected of him as a frontline tank.\\n\\nCharlie Rockwood does not possess relevant utility that would justify using him. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A defensive unit that Taunts enemies on the front lines, keeping them away from his allies."
+            },
+            "introduction": {
+              "introduction": "　Charlie Rockwood is a defender who endures enemy attacks before striking a powerful counterattack with his submachine gun.\n\n　He is the typical talkative mercenary you would meet at a local bar. He was a minor football player in college. One day, Charlie met a mercenary at a bar, whose stories made him immediately pack up and leave the dorm. Having already experienced harsh training and communal life, Charlie seems more cut out to be a mercenary than a football player.\n　He always picks up rumors about absurd profitable gigs, but has never achieved success. But he is still dreaming of hitting the jackpot. Maybe that's why he is never intimidated on the battlefield. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1144_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Smites a target in front with his big shield."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1144_2",
+                "name": "Stalwart Mercenary",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Holds his ground against enemies. Basic attacks force their targets to attack him for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "HP +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1144_3",
+                "name": "Fire Light Machine Gun",
+                "type": "Special",
+                "validHits": 1,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Fires a light machine gun at the foremost target, using his strength that enables him to carry the big shield."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -30% during skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 12.82,
+                "critical": 1.31,
+                "def": 3.45,
+                "evade": 1.18,
+                "hit": 1.26,
+                "hp": 255
+              },
+              "base": {
+                "hp": 2065,
+                "atk": 128,
+                "def": 261,
+                "hit": 95,
+                "critical": 99,
+                "evade": 89
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "54fa2c68-e0a9-58d5-82a4-5c884d46647c"
+    }
+  },
+  "staticQueryHashes": []
+}

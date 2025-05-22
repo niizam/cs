@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/chris",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "21a3b736-28a9-5a02-8d6e-6f417fb59a0c",
+            "updatedAt": "2024-11-07T21:46:15.621Z",
+            "createdAt": "2022-10-18T07:03:48.654Z",
+            "unitId": "1234",
+            "fullName": "Christina Brecht",
+            "slug": "chris",
+            "shortName": "Christina Brecht",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/69c13f3afce04fc985859cbb11cfc9d6/acb7c/emp-1234.png",
+                        "srcSet": "/static/69c13f3afce04fc985859cbb11cfc9d6/1c9ce/emp-1234.png 64w,\n/static/69c13f3afce04fc985859cbb11cfc9d6/bf8e1/emp-1234.png 128w,\n/static/69c13f3afce04fc985859cbb11cfc9d6/acb7c/emp-1234.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/69c13f3afce04fc985859cbb11cfc9d6/8257c/emp-1234.webp 64w,\n/static/69c13f3afce04fc985859cbb11cfc9d6/6766a/emp-1234.webp 128w,\n/static/69c13f3afce04fc985859cbb11cfc9d6/22bfc/emp-1234.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "The Gronia Department of National Security",
+            "seaReleaseDate": "November 30th, 2022",
+            "krReleaseDate": "October 18th, 2022",
+            "globalReleaseDate": "July 12th, 2023",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Perfect Evasion"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Chris is a super weird character. In some matches, she can carry you and kill enemy after enemy just by running away from them, in others, she runs into them and dies doing nothing. Her damage output is pretty high but comes at the cost of her being pretty expensive to deploy as you need 4 Deployment resources.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Still, while her running away from Defenders and killing them before they can catch her is pretty fun in 1 vs 1, in normal matches it rarely happens. Overall, she's a fun character to use but she brings the element of chaos to the match and you never know what she will do.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great damage,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can kite enemies and straight up murder them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- you never know what she will do.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "8",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A ranged striker who increases her survivability by keeping her enemies at a safe distance"
+            },
+            "introduction": {
+              "introduction": "크리스는 적과 거리를 상시 유지하는 것으로 생존력을 확보한 지원형 레인저입니다. 궁극기를 사용함으로써 범위 내 적들에게 불규칙한 피해를 가하며 코스트를 회복할 수 있습니다.\n크리스티나 브레히트 중사는 그로니아가 건국된 이래 살아서 무공훈장을 받은 유일한 사례입니다. 비록 징집병 신분으로 훈련도 제대로 못 받고 최전방에 투입되었지만, 어떤 치열한 전투에서도 생환하여 상관들을 경악하게 했습니다. 특히 정부군에게 악몽 같았던 춘계 전투 중 중사에게 구조된 부상자들 중에는 고위 장교들도 있었습니다.\n정부군은 소녀를 전쟁사에 남을 영웅으로 선전하면서 병사들의 사기 진작을 꾀했습니다. 그리고 보안국으로 임시 배속된 현재, 그 선전은 노골적인 프로파간다 이상의 의미를 지니게 되었습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1234_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Shoots her submachine gun and deals damage to a single target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1234_2",
+                "name": "Priority Survival",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Danger is bad! Chris believes survival comes first, and this self-preservation instinct is evident on the battlefield. Chris feels endangered whenever an ally dies, reducing the Cooldown of her Ultimate Skill by 2 seconds. (Summons excluded)"
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Ultimate Skill DMG RDC +30%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1234_3",
+                "name": "Avoid Falling Leaves",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": 1,
+                "baseDescription": {
+                  "baseDescription": "Chris always needs to keep a safe distance between herself and her enemy. When a target is within 500 distances of her, she senses danger approaching and retreats 550 distances back while attacking 4 times."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Grants Perfect EVA for skill duration"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1234_4",
+                "name": "Danger Close",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 65,
+                "baseDescription": {
+                  "baseDescription": "Chris is startled by the super close-ranged fire support and plays dead in the heat of battle to return to the ship. Enemies within range take regional damage based on their location."
+                },
+                "level2": {
+                  "level2": "EVA +10%"
+                },
+                "level3": {
+                  "level3": "EVA +10%"
+                },
+                "level4": {
+                  "level4": "EVA +20%"
+                },
+                "level5": {
+                  "level5": "Deployment resource recovery +2 when moving to the ship location"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 33.18,
+                "critical": 3.27,
+                "def": 1.9,
+                "evade": 4.41,
+                "hit": 2.99,
+                "hp": 204
+              },
+              "base": {
+                "hp": 1589,
+                "atk": 319,
+                "def": 123,
+                "hit": 194,
+                "critical": 212,
+                "evade": 286
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "21a3b736-28a9-5a02-8d6e-6f417fb59a0c"
+    }
+  },
+  "staticQueryHashes": []
+}

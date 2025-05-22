@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ella",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "6b114194-1fcf-5b37-b734-a4a56344639b",
+            "updatedAt": "2024-08-31T20:15:53.587Z",
+            "createdAt": "2022-07-26T06:35:51.379Z",
+            "unitId": "1222",
+            "fullName": "Ella",
+            "slug": "ella",
+            "shortName": "Ella",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/9fe6b57fcba20c34bcea8f3a6d5bdeb0/acb7c/emp-1222.png",
+                        "srcSet": "/static/9fe6b57fcba20c34bcea8f3a6d5bdeb0/1c9ce/emp-1222.png 64w,\n/static/9fe6b57fcba20c34bcea8f3a6d5bdeb0/bf8e1/emp-1222.png 128w,\n/static/9fe6b57fcba20c34bcea8f3a6d5bdeb0/acb7c/emp-1222.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/9fe6b57fcba20c34bcea8f3a6d5bdeb0/8257c/emp-1222.webp 64w,\n/static/9fe6b57fcba20c34bcea8f3a6d5bdeb0/6766a/emp-1222.webp 128w,\n/static/9fe6b57fcba20c34bcea8f3a6d5bdeb0/22bfc/emp-1222.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Border Guard",
+            "seaReleaseDate": "December 28th, 2022",
+            "krReleaseDate": "July 26th, 2022",
+            "globalReleaseDate": "May 24th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Barrier",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ella is the third character that has a counter-type skill that allows her to, you guessed it, nullify enemy skills and counterattack. Still, similar to normal Joo Shiyoon, she can only counter Special type skills and Ultimates still will be ignored.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Compared to Joo Shiyoon, she deals more damage, but it comes at the cost of losing some utility. First of all, she doesn't stun enemies when she counters and only blinds them. Also, she has bigger cooldowns on her skills which means she's even more gear hungry than Shiyoon. She has longer attack range meaning she will be more focused on countering skills that affect backlines.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sadly, PVP is full of awakened characters and the counter doesn't work on them making it hard to use her to her full potential, so she's mostly used for dealing with Levia Tanis. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- counter!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great single target damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can't counter ultimate skills and awakened characters,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Has no AoE damage\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "7",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "\"A mid-ranged attacker who swiftly eliminates a single target with her Ultimate skill and blinding AoE counterattack"
+            },
+            "introduction": {
+              "introduction": "엘라는 CRF로 충격을 흡수하고 그 힘을 광자로 전환시키는 반격형 스트라이커입니다.\n엘라는 노르드나빅 남부 국경수비대의 군인입니다. 그리고 부대에서 유일한 카운터이자 하나뿐인 의사이기도 합니다. \n그녀는 전투를 제외한 대부분의 여가시간을 화살을 깎으면서 보냅니다. 말수가 적고 규율에 엄격하며 항상 무뚝뚝한 표정을 짓고 있어서 대하기 어렵게 느껴집니다. 함께 일하는 대원들조차 그녀가 웃는 모습은 거의 본 적이 없습니다. \n하지만 대원들은 그녀가 차가운 사람이라 생각하지 않습니다. 위기에 처한 사람을 보면 뛰어들고 보는 헌신, 배고픈 이에게 베푸는 정성 어린 감자 요리가 그녀의 미소를 대변하고 있으니까요."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1222_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires multiple CRF arrows at the closest target, dealing AOE Damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1222_2",
+                "name": "Lightshot",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Casts an enhanced attack with an arrow full of CRF for 8 seconds every 12 seconds, increasing DEF penetration by 15% and providing immunity to Hitstun from special or lower skills."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "Increases DEF penetration by 30% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1222_3",
+                "name": "Trail of Sporadic Blindness",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "After blocking the enemy's Special skill, counterattacks by firing an arrow of light. The arrow explodes, emitting a bright flash and blinding the target and the enemy behind it for 4 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "After casting skill, creates Barrier worth 10% of Max HP for 10 seconds."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1222_4",
+                "name": "Piercing Starlight",
+                "type": "Ultimate",
+                "validHits": 1,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Rapid fires her two crossbows in place at the enemy's weak point. This skill can't damage targets that exceed its Valid Hits. (Initial charge not provided)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Ultimate skill deals CRIT DMG instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 31.54,
+                "critical": 3.32,
+                "def": 3.71,
+                "evade": 2.89,
+                "hit": 3.14,
+                "hp": 293
+              },
+              "base": {
+                "hp": 2331,
+                "atk": 309,
+                "def": 259,
+                "hit": 219,
+                "critical": 232,
+                "evade": 202
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "6b114194-1fcf-5b37-b734-a4a56344639b"
+    }
+  },
+  "staticQueryHashes": []
+}

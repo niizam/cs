@@ -1,0 +1,240 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/frederick-yuma",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b072d39e-c531-58a9-a5ea-c7717e0b967c",
+            "updatedAt": "2024-10-17T21:39:51.468Z",
+            "createdAt": "2021-10-21T23:37:27.973Z",
+            "unitId": "1111",
+            "fullName": "Frederick Yuma",
+            "slug": "frederick-yuma",
+            "shortName": "Frederick Yuma",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/712e7e284b08d2b5d41a2074792b8628/acb7c/emp-1111.png",
+                        "srcSet": "/static/712e7e284b08d2b5d41a2074792b8628/1c9ce/emp-1111.png 64w,\n/static/712e7e284b08d2b5d41a2074792b8628/bf8e1/emp-1111.png 128w,\n/static/712e7e284b08d2b5d41a2074792b8628/acb7c/emp-1111.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/712e7e284b08d2b5d41a2074792b8628/8257c/emp-1111.webp 64w,\n/static/712e7e284b08d2b5d41a2074792b8628/6766a/emp-1111.webp 128w,\n/static/712e7e284b08d2b5d41a2074792b8628/22bfc/emp-1111.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Fallen Hawk",
+            "seaReleaseDate": "September 22nd, 2021",
+            "krReleaseDate": "May 21st, 2020",
+            "globalReleaseDate": "May 27th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Frederick Yuma does not have the stats necessary to meet the baseline requirements expected of her as a frontline tank.\\n\\nFrederick Yuma does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee attacker who gets stronger as her HP decreases"
+            },
+            "introduction": {
+              "introduction": "　Frederick Yuma is vanguard who charges enemy lines and engages in a scuffle.\n\n　When she's at the detective agency, she can barely calculate the price of the food she ordered, but once she enters battle, she becomes more fearless and aggressive than anyone else.\n　Yuma doesn't care if her enemy's strong or weak. Gangs in the slum, whom she hangs around, teach their new members to lower their heads as soon as they see Yuma, so she can't pick a fight with them.\n　To others like them, she's as dangerous as a ticking time bomb, but around her kind brother, Doma, she acts like a puppy who's eager to please."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1111_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Violently punches and kicks at a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1111_2",
+                "name": "Joy of Violence",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She gets more excited the tougher the fight becomes. Increases her own ATK Increases in proportion to HP lost (50% cap)."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "The ATK bonus cap increased to 100%."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1111_3",
+                "name": "Scram!",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Leaps forward into the air and crashes onto the ground, inflicting AoE damage on surrounding targets and knocking them backward with a kick."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -20% for 10 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1111_4",
+                "name": "Undertaker",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Moves to her target and metes out indiscriminate violence, inflicting AoE damage on and around the target. The targets lose 50% of HIT for 15 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Recover 20% max HP after casting the skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.99,
+                "critical": 3.22,
+                "def": 2.51,
+                "evade": 2.79,
+                "hit": 1.12,
+                "hp": 381
+              },
+              "base": {
+                "hp": 3028,
+                "atk": 284,
+                "def": 175,
+                "hit": 78,
+                "critical": 225,
+                "evade": 195
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b072d39e-c531-58a9-a5ea-c7717e0b967c"
+    }
+  },
+  "staticQueryHashes": []
+}

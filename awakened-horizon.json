@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/awakened-horizon",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "7cff4037-a643-5da8-b400-3958955b71c1",
+            "updatedAt": "2025-04-12T08:21:46.146Z",
+            "createdAt": "2021-11-16T09:08:33.328Z",
+            "unitId": "1197",
+            "fullName": "Awakened Horizon",
+            "slug": "awakened-horizon",
+            "shortName": "Awakened Horizon",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/eb5938b60d22af906df1a9f4827003bd/acb7c/emp-1197.png",
+                        "srcSet": "/static/eb5938b60d22af906df1a9f4827003bd/1c9ce/emp-1197.png 64w,\n/static/eb5938b60d22af906df1a9f4827003bd/bf8e1/emp-1197.png 128w,\n/static/eb5938b60d22af906df1a9f4827003bd/acb7c/emp-1197.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/eb5938b60d22af906df1a9f4827003bd/8257c/emp-1197.webp 64w,\n/static/eb5938b60d22af906df1a9f4827003bd/6766a/emp-1197.webp 128w,\n/static/eb5938b60d22af906df1a9f4827003bd/22bfc/emp-1197.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Coldcase",
+            "seaReleaseDate": "May 17th, 2022",
+            "krReleaseDate": "November 16th, 2021",
+            "globalReleaseDate": "November 24th, 2022",
+            "cost": 6,
+            "type": [
+              "Mech"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "True Damage"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Horizon is the second awakened Mech employee added to the game and also the second awakened Air unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE she shines because of the damage she brings. Especially her passive that deals additional damage based on the enemy current HP makes her chunk their HP bars with each strike. It's worth noting that the 30% HP-based damage is applied not only on her basic attacks but also on her Special and Ultimate (both use her swords).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"%HP-based abilities are always strong in games where enemies HP inflates into millions, and similar to A.Yuna this makes her great against bulky enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While there are better picks for Dive 50, she shines in Shadow Palace floor 5 and the Relic Dungeons where she can help with the Maria stage, though she needs good gear there.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, she's ultra-hard to kill because with her high attack speed, she gains immunity to all damage periodically and this allows her to survive where she shouldn't. Also, her damage is actually great despite only having 5% HP-based damage instead of 30%. She can be countered by dedicated anti-Air employees like Awakened Lee Sooyeon though.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Alongside other behemoths, she is one of the meta employees in PVP currently.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- %HP based damage that helps with super end-game content where enemies have millions of HP,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- the 3 seconds immunity is a great asset,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- high uptime on the immunity,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- as an air employee she's safer in the sky.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- weak defensive base stats for a 6 cost employee,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- her special makes her stay close to the frontline which sometimes gets her killed if her immunity isn't up,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- immortality can be buff stripped.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "10",
+              "pve_early": "9",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "An air employee that deals damage based on enemy HP."
+            },
+            "introduction": {
+              "introduction": "「엠버 박사의 일지를 번안한 내용입니다.」\n전투 형태로 재기동한 호라이즌은 공중에서 적의 체력에 비례한 피해를 입히는 스트라이커입니다.\n신뢰할 수 있는 연구진의 분석 결과, 콜드 케이스 137번은 단독 공간도약 및 성간항행이 가능하게 설계된 호위기로 추정됩니다. 교전에 필요한 무장은 시무르그 실루엣이라는 플랫폼을 통해 조달하며, 따라서 비전투 상태에서 발생시키는 역장은 항행 중 손상을 막기 위한 보호 수단일 가능성이 높습니다. \n이번 분석으로 안드로이드에 관련되어 큰 소득을 얻었습니다. 다만 이 프레임이 전략병기로 악용될 우려에 연구진 전원이 동의하였기에, 활용 불가로 판정 후 봉인 조치할 계획입니다. \n부디, 내 걱정보다 이로운 곳에 쓰일 수 있길."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": "Good user of a Challenger weapon."
+              },
+              "pvp": {
+                "set": "Autoattack DPS, good user of a Challenger weapon.",
+                "notes": "Prefers anti-striker lines due to strikers not having MDL. With proper gear, she can almost one-shot most striker frontlines."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1197_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires pulse guns to inflict damage on a single target. Conducts 3 valid hits of enhanced sword attacks for every 4 basic attacks."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1197_2",
+                "name": "Purification Weapon Alborz",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Inflicting damage with the greatsword Alborz will deal extra damage equal to 30% (5% for gauntlets) of the target's current HP, except for bosses."
+                },
+                "level2": {
+                  "level2": "+10% ATK as per HP Loss"
+                },
+                "level3": {
+                  "level3": "+10% ATK as per HP Loss"
+                },
+                "level4": {
+                  "level4": "+20% ATK as per HP Loss"
+                },
+                "level5": {
+                  "level5": "3-second immunity to damage when passive effect kicks in"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1197_3",
+                "name": "Radiant Dash",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 34,
+                "baseDescription": {
+                  "baseDescription": "Tracks down the target to deal AoE damage with a sword before falling back. For targets beyond 600 reach, casts skill while ignoring the cooldown."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Ranged DMG RES +30% for 10 s when cast"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1197_4",
+                "name": "Over the Horizon",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 62,
+                "baseDescription": {
+                  "baseDescription": "Combines two swords to take a big swing. Increases ASPD by 20% until killed."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Changes the last hit to true damage. Skill grants immunity to all debuffs except permanent debuffs for 10 secs."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 42.85,
+                "critical": 1.79,
+                "def": 3.45,
+                "evade": 2.68,
+                "hit": 3.36,
+                "hp": 281
+              },
+              "base": {
+                "hp": 2274,
+                "atk": 428,
+                "def": 261,
+                "hit": 254,
+                "critical": 135,
+                "evade": 203
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "7cff4037-a643-5da8-b400-3958955b71c1"
+    }
+  },
+  "staticQueryHashes": []
+}

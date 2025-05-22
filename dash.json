@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/dash",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b2b52f8b-3358-569d-ab9d-d93f7486c6fe",
+            "updatedAt": "2024-05-21T11:12:53.637Z",
+            "createdAt": "2021-10-22T06:59:50.891Z",
+            "unitId": "1180",
+            "fullName": "Dash",
+            "slug": "dash",
+            "shortName": "Dash",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4ef9eb8ff381fe2df2ca10b6a507a0b6/acb7c/emp-1180.png",
+                        "srcSet": "/static/4ef9eb8ff381fe2df2ca10b6a507a0b6/1c9ce/emp-1180.png 64w,\n/static/4ef9eb8ff381fe2df2ca10b6a507a0b6/bf8e1/emp-1180.png 128w,\n/static/4ef9eb8ff381fe2df2ca10b6a507a0b6/acb7c/emp-1180.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4ef9eb8ff381fe2df2ca10b6a507a0b6/8257c/emp-1180.webp 64w,\n/static/4ef9eb8ff381fe2df2ca10b6a507a0b6/6766a/emp-1180.webp 128w,\n/static/4ef9eb8ff381fe2df2ca10b6a507a0b6/22bfc/emp-1180.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Horizon Finance",
+            "seaReleaseDate": "January 26th, 2022",
+            "krReleaseDate": "April 20th, 2021",
+            "globalReleaseDate": "October 13th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dash is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"a PVE-only unit that shines in Raids, Guild Coop, and Danger Close because of all the debuffs she provides and because of being a sniper - all those operators with sniper employee required in their skill trigger order love her.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- tons of great debuffs,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great for operator trigger skill due to being a 3 cost sniper.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- useless in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A ranged attacker that weakens and pushes away enemies."
+            },
+            "introduction": {
+              "introduction": "  Dash is a Sniper who shoots sharp winds at distant enemies, decreasing their DEF. Her scythe is made to agitate the air into a strong wind when swung.\n\n  Dash is an intern at Horizon Finance, charged with mortgage interest collection. She's working off her parents' debt. Rita thinks she's a dratted broad who does nothing but causing trouble. The company's CEO, Horizon, thinks she's a mood maker who brightens up the workplace."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR or CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR or CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1180_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her scythe at nearby targets, inflicting Melee AoE damage. Shoots projectiles at targets 350 reach away from her, inflicting 20% more AoE damage than she does on Melee targets."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1180_2",
+                "name": "Seized Property #11: Floaty",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Dash's projectiles decrease enemy DEF by 1% (up to 10%) for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DEF Penetration +3%"
+                },
+                "level3": {
+                  "level3": "DEF Penetration +3%"
+                },
+                "level4": {
+                  "level4": "DEF Penetration +6%"
+                },
+                "level5": {
+                  "level5": "DEF -1.5% (up to 15%) instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1180_3",
+                "name": "Triple Slash",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Spins and shoots projectiles 3 times at the front area, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1180_4",
+                "name": "Aerial Vortex",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Spins her scythe and shoots a compact projectile at the front area, inflicting AoE damage. The targets lose 15% of DEF for 12 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "EVA -15% added to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.68,
+                "critical": 2.59,
+                "def": 1.39,
+                "evade": 1.01,
+                "hit": 4.35,
+                "hp": 132
+              },
+              "base": {
+                "hp": 1043,
+                "atk": 281,
+                "def": 97,
+                "hit": 304,
+                "critical": 181,
+                "evade": 70
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b2b52f8b-3358-569d-ab9d-d93f7486c6fe"
+    }
+  },
+  "staticQueryHashes": []
+}

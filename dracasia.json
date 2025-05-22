@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/dracasia",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "0f9dd475-1a31-500f-bf43-7310e322a712",
+            "updatedAt": "2025-01-28T07:13:40.799Z",
+            "createdAt": "2021-11-16T09:11:29.672Z",
+            "unitId": "1199",
+            "fullName": "Dracasia",
+            "slug": "dracasia",
+            "shortName": "Dracasia",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2af9a301922780e6f97d277f2e1841ba/acb7c/emp-1199.png",
+                        "srcSet": "/static/2af9a301922780e6f97d277f2e1841ba/1c9ce/emp-1199.png 64w,\n/static/2af9a301922780e6f97d277f2e1841ba/bf8e1/emp-1199.png 128w,\n/static/2af9a301922780e6f97d277f2e1841ba/acb7c/emp-1199.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2af9a301922780e6f97d277f2e1841ba/8257c/emp-1199.webp 64w,\n/static/2af9a301922780e6f97d277f2e1841ba/6766a/emp-1199.webp 128w,\n/static/2af9a301922780e6f97d277f2e1841ba/22bfc/emp-1199.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Front Bay Sharks",
+            "seaReleaseDate": "April 13th, 2022",
+            "krReleaseDate": "November 15th, 2021",
+            "globalReleaseDate": "December 29th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dracasia is a unique Striker that focuses on the nearest target and keeps attacking it until it dies. Her quite high HP (over 50k ungeared) combined with regaining HP back on attack allows her to stick to her target and make sure that it dies before she does. Whenever the target moves away (like ASY or Ministra jumping back), she will use her special to jump toward them instantly and continue her onslaught of attacks. Which comes in handy in PVP modes.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Still, the tracking mechanic is quite useless in PVE, where in most cases, people just auto-play, so she will focus on the nearest target which in most cases will be a tank. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Considering that she often fights in Silenced state, the ASPD gear with defensive stats seems like the best choice.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- unique tracking mechanism,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- quite good stats for a 3 cost employee.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- doesn't work that well on auto-play,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- if she targets a sturdy defender, she's useless.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Striker that follows her target until it dies and specializes in enhanced Normal attacks"
+            },
+            "introduction": {
+              "introduction": "드라코는 표적으로 지목한 적 한 명을 끝까지 추격하는 스트라이커입니다. 표적이 멀어지면 닻을 걸어 빠르게 접근할 수 있습니다.\n「드레이크 선장」은 본래 상선만을 노리던 교활한 침식체의 별명이었습니다. 드레이크 선장을 매번 간발의 차로 놓쳤던 프론트 베이의 용병들은 당당히 사냥에 성공한 어린 소녀에게 그 별명을 넘겨 주었습니다.\n물론 프론트 베이 샤크스는 아직 새내기 태스크포스입니다. 심지어 최근에는 방벽 건축제에서 다른 회사와 시비가 붙었다가 귀중한 배를 날려 먹기도 했습니다.\n드라코는 자신의 실력으로 사소한 손해 따위 금방 메꿀 수 있다고 믿어 의심치 않습니다. 그 자신감이 프론트 베이 샤크스에 바람 잘 날 없는 이유이기도 하지만 말입니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1199_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Claws at a single target, inflicting Melee damage. Targets the nearest enemy, and never changes her target until she or it dies."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1199_2",
+                "name": "I Promise I'll Be Gentle",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After every 3 Basic attacks, delivers an enhanced attack that causes Hitstun. This enhanced attack restores 5% of HP (10% in Ultimate Skill mode)."
+                },
+                "level2": {
+                  "level2": "ASPD +5%"
+                },
+                "level3": {
+                  "level3": "ASPD +5%"
+                },
+                "level4": {
+                  "level4": "ASPD +10%"
+                },
+                "level5": {
+                  "level5": "Remaining Ultimate skill cooldown -8 s by enhanced attacks"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1199_3",
+                "name": "Grappling Anchor",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 3,
+                "baseDescription": {
+                  "baseDescription": "Dracasia glides across the ground, downing enemies in her path. (Disabled if enemies are within 300 reach)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Her ASPD +15% for 10 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1199_4",
+                "name": "Shark's Bite",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Explodes water, inflicting AoE damage on surrounding enemies. Increases her Basic/enhanced attack damage, and sets Valid Hits to 2. Also, becomes immune to all Hitstun for 15 seconds (can't be canceled)."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 seconds"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 seconds"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 seconds"
+                },
+                "level5": {
+                  "level5": "Ranged DMG RES +30% for Ultimate skill duration"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 27.05,
+                "critical": 2.79,
+                "def": 3.19,
+                "evade": 5.58,
+                "hit": 3.31,
+                "hp": 343
+              },
+              "base": {
+                "hp": 2726,
+                "atk": 265,
+                "def": 223,
+                "hit": 231,
+                "critical": 195,
+                "evade": 390
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "0f9dd475-1a31-500f-bf43-7310e322a712"
+    }
+  },
+  "staticQueryHashes": []
+}

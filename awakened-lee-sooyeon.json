@@ -1,0 +1,253 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/awakened-lee-sooyeon",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "bdb590fc-48b7-5755-a9df-99b97c02f0f8",
+            "updatedAt": "2025-03-27T09:24:00.128Z",
+            "createdAt": "2021-10-22T00:43:39.353Z",
+            "unitId": "1159",
+            "fullName": "Awakened Lee Sooyeon",
+            "slug": "awakened-lee-sooyeon",
+            "shortName": "Awakened Lee Sooyeon",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/25eb198b97c7b6ff119472f791559929/acb7c/emp-1159.png",
+                        "srcSet": "/static/25eb198b97c7b6ff119472f791559929/1c9ce/emp-1159.png 64w,\n/static/25eb198b97c7b6ff119472f791559929/bf8e1/emp-1159.png 128w,\n/static/25eb198b97c7b6ff119472f791559929/acb7c/emp-1159.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/25eb198b97c7b6ff119472f791559929/8257c/emp-1159.webp 64w,\n/static/25eb198b97c7b6ff119472f791559929/6766a/emp-1159.webp 128w,\n/static/25eb198b97c7b6ff119472f791559929/22bfc/emp-1159.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Ace of Wings",
+            "seaReleaseDate": "October 27th, 2021",
+            "krReleaseDate": "September 24th, 2020",
+            "globalReleaseDate": "July 28th, 2022",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "Meritocracy",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Ace Fighter's Qualifications",
+              "description": "ATK +20%, Passive Skill's buff available to self, additional damage on Air units upon deployment is gauranteed to CRIT (Ships excluded)"
+            },
+            "hasAlternium": true,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "Barrier",
+              "Buffer",
+              "CC",
+              "Debuffer",
+              "ETB",
+              "Healblock"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ALSY is the first awakened air employee that was added to the game and at the same time, she's also an anti-air specialist. Guess she doesn't like to share the space with others. Still, being the best anti-air employee in the game isn't the only thing good about her. First of all, she's a 5-cost awakened employee, meaning it's easier to fit her in a team, but she's also a great buffer that makes Counter Rangers in your team way way stronger by buffing their Skill Haste. She has the strongest ETB passive in the game; not only does it hit the whole battlefield, but it can one-shot most flying units like Rosalia/Lyudmila. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE content ALSY shines in:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Guild Coop - ALSY is considered the Best-in-Slot character to guard the ship against all the flying units,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shadow Palace Floor 3 - the floor is quite punishing if you try to brute force it using ground units and teams made of only air units have a much easier time there,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Relic Dungeons against Edel - as similar to Shadow Palace Floor 3, air teams shine there and ALSY is a core unit in that team,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"any event stage where Air enemies are common as she can easily deal with them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Still, keep in mind that besides Guild Coop where she is a must-have for those that plan to conquer the harder levels of the Guild Boss, you always have some alternatives - they might be slightly inferior to ALSY, but they can still work well.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP because of her 5 base cost, she's easier to fit in your team than other awakened units. While other awakened employees have ups and downs and sometimes fall out of meta, ALSY is always dangerous. This is due to her lower cost which allows her to be used in various compositions, and also whenever she isn't banned, using air units is risky because a wild ALSY might appear and ruin someone's day. Especially Awakened Horizon abusers hate ALSY as she can ruin their day if she's deployed at the right moment.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ALSY is also one of the few units that reached Ban level 4 in PVP - not once, but multiple times and across multiple regions.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Air units quiver in fear once they see ALSY take the field,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low cost for an awakened employee,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- massively buffs Counter Rangers in your team,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can survive quite long thanks to her barrier and being an Air unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- she's not a fire-and-forget type of awakened employee like Awakened Yuna or Awakened Seo Yoon. You need to deploy her at the right moment,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- she's a more PVP oriented employee,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- countered by anti-Air employees in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "9",
+              "pve_early": "7",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A Ranged Attacker who dominates the sky with her incredible firepower."
+            },
+            "introduction": {
+              "introduction": "　Lee Sooyeon has returned to the battlefield, armed with new gear! She's a powerful Ranged attacker who sweeps enemies aside as she enters battle from the air, singlehandedly securing air supremacy.\n\n　She has been serving as the vice president of the Coffin Company, during which her career as a Grade S Counter became all but a memory. However, she recently made a secret comeback and proved she hasn't gotten rusty by renewing her old performance record with flying colors.\n　She's still the same miser with a cold, businesslike attitude, but at least now when she's in battle, she makes everyone forget that and remember why she's the ace of the company.\n　She takes pride in her fighting ability, but for some reason doesn't like to talk about her old fighting style."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS or Shadow Hall anti-air set",
+                "notes": "Heavily benefits from Loyal/Courageous anti-counter set for most of her use cases."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1159_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a blaster, inflicting AoE damage on and around a target. In Gauntlet, aerial Melee attacks additionally inflict damage by 20% of current HP. (Ship excluded)"
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Aerial Melee attack targets' healing amounts -100% for 20s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1159_2",
+                "name": "Ace Fighter's Qualifications",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Quickly enters battle and attacks all units when deployed. In Gauntlet, additionally inflicts damage on Air units except for Ship by 33% of their current HP. Grants all non-Awakened Ranger Counters immunity to Hitstun from Special or lower skills."
+                },
+                "level2": {
+                  "level2": "Air unit DMG +10% and DMG Taken -10%"
+                },
+                "level3": {
+                  "level3": "Air unit DMG +10% and DMG Taken -10%"
+                },
+                "level4": {
+                  "level4": "Air unit DMG +20% and DMG Taken -20%"
+                },
+                "level5": {
+                  "level5": "Buff also adds Skill Haste +30%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1159_3",
+                "name": "Release Arsenal Wings",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 23,
+                "baseDescription": {
+                  "baseDescription": "Releases her new strategic uniform Arsenal Wings' autonomous weapons, inflicting AoE damage on and around her target. Casts a barrier equal to 30% of Max HP for 6 seconds after this skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -30% for barrier duration"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1159_4",
+                "name": "Strike Code: LSY",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 54,
+                "baseDescription": {
+                  "baseDescription": "Combines her Arsenal Wings and Reactive Sword, inflicting AoE damage in front with their powerful energy. Grants immunity to Hitstun from Special or lower skills for 12 seconds after this skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -6 s Buff also adds ATK +15%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 44.8,
+                "critical": 3.44,
+                "def": 1.91,
+                "evade": 4.54,
+                "hit": 3.75,
+                "hp": 235
+              },
+              "base": {
+                "hp": 1866,
+                "atk": 439,
+                "def": 133,
+                "hit": 262,
+                "critical": 240,
+                "evade": 317
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "bdb590fc-48b7-5755-a9df-99b97c02f0f8"
+    }
+  },
+  "staticQueryHashes": []
+}

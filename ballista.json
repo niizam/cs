@@ -1,0 +1,214 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ballista",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a1de48c3-6819-54c5-83f4-472f3749f600",
+            "updatedAt": "2024-10-18T23:23:36.533Z",
+            "createdAt": "2021-10-21T11:44:33.364Z",
+            "unitId": "1039",
+            "fullName": "Ballista",
+            "slug": "ballista",
+            "shortName": "Ballista",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6bef66d145c57d0165bf2bdb05ff19e0/acb7c/emp-1039.png",
+                        "srcSet": "/static/6bef66d145c57d0165bf2bdb05ff19e0/1c9ce/emp-1039.png 64w,\n/static/6bef66d145c57d0165bf2bdb05ff19e0/bf8e1/emp-1039.png 128w,\n/static/6bef66d145c57d0165bf2bdb05ff19e0/acb7c/emp-1039.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6bef66d145c57d0165bf2bdb05ff19e0/8257c/emp-1039.webp 64w,\n/static/6bef66d145c57d0165bf2bdb05ff19e0/6766a/emp-1039.webp 128w,\n/static/6bef66d145c57d0165bf2bdb05ff19e0/22bfc/emp-1039.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Future-at-War",
+            "seaReleaseDate": "June 17th, 2021",
+            "krReleaseDate": "June 4th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Mech"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Barrier",
+              "Buffer",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ballista was designed in the early days of CounterSide as a low rarity alternative within an inherently gimmicky role. As a low rarity unit,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Ballista does not have the stats to compensate for their kit design.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ballista does not possess relevant utility that would justify their use. There are no trade-offs within the kit that would compensate for the stat deficiency.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There are no scenarios in which it would make sense to bring Ballista.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "High HP and powerful AoE attacks"
+            },
+            "introduction": {
+              "introduction": "　Ballista is a guard that generates a barrier and uses its high ATK to hold off enemy lines.\n\n　A tactical mobile turret originally developed with air-launched ground support in mind, it provides such great firepower that it's also used to defend the ship.\n　Embedded with an experimental AI personality, it can become very emotional at times."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1039_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires its Gatling gun at the foremost target, continuously inflicting damage. Targets Air units within range first, and stops attacking if the target dies or moves 1000 reach away from the caster.\n"
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1039_2",
+                "name": "Repulsive Barrier",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Generates a barrier that covers 50% of its Max HP upon deployment, at the cost of 1.5% of HP every second. Increases ATK by 25% for this barrier's duration."
+                },
+                "level2": {
+                  "level2": "ASPD +5%"
+                },
+                "level3": {
+                  "level3": "ASPD +5%"
+                },
+                "level4": {
+                  "level4": "ASPD +10%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -15% for the barrier's duration"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1039_3",
+                "name": "Stopping-power Rounds",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks increase DEF Penetration by 1% for 3 seconds every time they're performed, up to 25%."
+                },
+                "level2": {
+                  "level2": "Buff duration +1 s"
+                },
+                "level3": {
+                  "level3": "Buff duration +1 s"
+                },
+                "level4": {
+                  "level4": "Buff duration +2 s"
+                },
+                "level5": {
+                  "level5": "Casts the buff at 10 stacks for 30 s when deployed"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 31.64,
+                "critical": 0.96,
+                "def": 3.11,
+                "evade": 0,
+                "hit": 1.64,
+                "hp": 233
+              },
+              "base": {
+                "hp": 1888,
+                "atk": 316,
+                "def": 235,
+                "hit": 124,
+                "critical": 72,
+                "evade": 0
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a1de48c3-6819-54c5-83f4-472f3749f600"
+    }
+  },
+  "staticQueryHashes": []
+}

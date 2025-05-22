@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/gabriel-jun-the-vicious-breaker",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "651b3cbb-c585-578e-9960-763cc18341cd",
+            "updatedAt": "2024-10-13T15:06:35.261Z",
+            "createdAt": "2021-10-21T23:55:09.257Z",
+            "unitId": "1123",
+            "fullName": "Gabriel Jun the Vicious Breaker ",
+            "slug": "gabriel-jun-the-vicious-breaker",
+            "shortName": "Gabriel",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/82cfaa51ea3a5e884a1e349e1d7214bd/acb7c/emp-1123.png",
+                        "srcSet": "/static/82cfaa51ea3a5e884a1e349e1d7214bd/1c9ce/emp-1123.png 64w,\n/static/82cfaa51ea3a5e884a1e349e1d7214bd/bf8e1/emp-1123.png 128w,\n/static/82cfaa51ea3a5e884a1e349e1d7214bd/acb7c/emp-1123.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/82cfaa51ea3a5e884a1e349e1d7214bd/8257c/emp-1123.webp 64w,\n/static/82cfaa51ea3a5e884a1e349e1d7214bd/6766a/emp-1123.webp 128w,\n/static/82cfaa51ea3a5e884a1e349e1d7214bd/22bfc/emp-1123.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Alphatrix Innovation",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gabriel Jun the Vic... Ekhm, let's just call him Gabriel. In PVE. the human Tower is pretty useless and he's used only in some niche situations where Siege enemies appear. One of them is Soli boss in Danger Close and the other is Rhino boss in Challenge Mode act 3.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP he is an anti-backdoor employee and depending on the week's meta he can be used as an anti-rush Tower that defends the ship.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- has some niche uses in PVE and PVP,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- pretty useless otherwise.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Enhances surrounding Melee units and pushes enemy lines while standing on the same spot."
+            },
+            "introduction": {
+              "introduction": "　Gabriel Jun the Vicious Breaker is a powerful guard who enhances allies' evasion with his unique stationary swordsmanship.\n\n　He traveled the world and learned various swordsmanship skills, but none of them satisfied him. So he created a new one for himself just in a month. His Stationary Swordsmanship allows him to fend off enemies from all sides, but he is the only person who has been able to master it.\n　Currently, he is acting as the Judicator of Evil in order to maintain the balance of the world, which he realized while creating his swordsmanship.\n * This particular statement is not confirmed to be true. It is just a personal claim of the subject. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1123_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Kicks his legs high in the air, generating a shock wave to attack a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1123_2",
+                "name": "Immobile Gabriel",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "A real man knows how to hold his ground. Stands where he's deployed, forcing 2 surrounding units to attack him for 6 seconds. Increases EVA by 30% for all surrounding units except for Defenders."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Passive buff also adds DMG Taken -40% from Siege"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1123_3",
+                "name": "Tornado Spin",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Spins with his dual swords and shoots a big twister, inflicting AoE damage on enemies in front. Forces the enemies to attack him for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG RES +25% for 8 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1123_4",
+                "name": "A Badass Saves His Words",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Delivers a slash so fast that he momentarily disappears from view as surrounding enemies receive AoE damage. Invincible while invisible."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.5,
+                "critical": 2.71,
+                "def": 2.39,
+                "evade": 2.46,
+                "hit": 1.03,
+                "hp": 295
+              },
+              "base": {
+                "hp": 2347,
+                "atk": 191,
+                "def": 167,
+                "hit": 72,
+                "critical": 189,
+                "evade": 172
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "651b3cbb-c585-578e-9960-763cc18341cd"
+    }
+  },
+  "staticQueryHashes": []
+}

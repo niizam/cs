@@ -1,0 +1,341 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/expert-mercenary-yoo-mina",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "0186a195-1a64-5943-b693-538259f250e4",
+            "updatedAt": "2024-03-19T21:00:53.819Z",
+            "createdAt": "2021-11-16T10:26:23.924Z",
+            "unitId": "2001",
+            "fullName": "Expert Mercenary Yoo Mina",
+            "slug": "expert-mercenary-yoo-mina",
+            "shortName": "Expert Merc Yoo Mina",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/ebdb7b808c12434017f85b3895f7a2eb/acb7c/2001.png",
+                        "srcSet": "/static/ebdb7b808c12434017f85b3895f7a2eb/1c9ce/2001.png 64w,\n/static/ebdb7b808c12434017f85b3895f7a2eb/bf8e1/2001.png 128w,\n/static/ebdb7b808c12434017f85b3895f7a2eb/acb7c/2001.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/ebdb7b808c12434017f85b3895f7a2eb/8257c/2001.webp 64w,\n/static/ebdb7b808c12434017f85b3895f7a2eb/6766a/2001.webp 128w,\n/static/ebdb7b808c12434017f85b3895f7a2eb/22bfc/2001.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Expert Mercenary",
+            "seaReleaseDate": "March 2nd, 2022",
+            "krReleaseDate": "November 2nd, 2021",
+            "globalReleaseDate": "December 8th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Barrier"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Expert Merc Yoo Mina sadly is as underwhelming as her base version. While she did get better stats and damage, she's still not really worth using mainly due to her being a 4-cost damage dealer that only deals damage (and less than other employees with the same cost, like Sobin).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her biggest issue though is that she has a CRIT-reliant kit which in the current state of the game where you can't ever reach 100% CRIT always puts you at the mercy of RNG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- if all stars align, she is able to deal a lot of burst damage,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- shines in stages with a lot of enemies, where her wide AOE is great.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- high cost,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- CRIT-reliant kit that makes her too RNG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A powerful Ranged attacker with AoE skills"
+            },
+            "introduction": {
+              "introduction": "Yoo Mina carries out missions as boldly as before, but now with more professionalism and efficiency, based on her experience at the Coffin Company. She is now using new energy cylinders, which have been officially introduced as of late. These energy cylinders, capable of flying a short distance, absorb the excessive energy from her unique gear and discharge it, helping regulate her unstable firepower."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2001_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a gun at a target. Last attacks inflict AoE damage around the target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": " Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2001_2",
+                "name": "Seasoned Veteran",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The rookie has grown into a seasoned veteran. Increases CRIT DMG by 20%."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +2%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +2%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +5%"
+                },
+                "level5": {
+                  "level5": "CRIT DMG +20%"
+                },
+                "level6": {
+                  "level6": "CRIT DMG +2%"
+                },
+                "level7": {
+                  "level7": "CRIT DMG +2%"
+                },
+                "level8": {
+                  "level8": "CRIT DMG +2%"
+                },
+                "level9": {
+                  "level9": "CRIT DMG +5%"
+                },
+                "level10": {
+                  "level10": "CRIT DMG +25% for 6 s after 6 CRIT attacks (CRIT count doesn't increase during buff.)"
+                }
+              },
+              {
+                "skillId": "2001_3",
+                "name": "Pulse Impact",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Fires high-powered energy, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Cooldown -4 s"
+                }
+              },
+              {
+                "skillId": "2001_4",
+                "name": "Uber Wolvesbane",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Draws out the sword housed inside her gun and shoots a massive spirit sword to the front, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +5%"
+                },
+                "level5": {
+                  "level5": "ATK +10% after skill and until death"
+                },
+                "level6": {
+                  "level6": "DMG +5%"
+                },
+                "level7": {
+                  "level7": "DMG +5%"
+                },
+                "level8": {
+                  "level8": "DMG +5%"
+                },
+                "level9": {
+                  "level9": "DMG +5%"
+                },
+                "level10": {
+                  "level10": "Barrier equal to 25% of Max HP for 10 s immediately after skill"
+                }
+              },
+              {
+                "skillId": "2001_5",
+                "name": "Aggressive Entry",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Being the leader doesn't mean one has to charge into enemy territory. Still, it seems she understands the basic principles of the Fenrir Squad. Increases ATK and ASPD by 12% for 8 seconds when deployed."
+                },
+                "level2": {
+                  "level2": "HP +10%"
+                },
+                "level3": {
+                  "level3": "Buff duration +2 s"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Buff duration +2 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 42.54,
+                "critical": 5.27,
+                "def": 2.65,
+                "evade": 1.84,
+                "hit": 3.99,
+                "hp": 252
+              },
+              "base": {
+                "hp": 1963,
+                "atk": 409,
+                "def": 172,
+                "hit": 259,
+                "critical": 342,
+                "evade": 119
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1001",
+              "slug": "yoo-mina",
+              "shortName": "Yoo Mina",
+              "rarityClassName": "SR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/5541aed544211c921d84db1fb8365a85/acb7c/emp-1001.png",
+                          "srcSet": "/static/5541aed544211c921d84db1fb8365a85/1c9ce/emp-1001.png 64w,\n/static/5541aed544211c921d84db1fb8365a85/bf8e1/emp-1001.png 128w,\n/static/5541aed544211c921d84db1fb8365a85/acb7c/emp-1001.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/5541aed544211c921d84db1fb8365a85/8257c/emp-1001.webp 64w,\n/static/5541aed544211c921d84db1fb8365a85/6766a/emp-1001.webp 128w,\n/static/5541aed544211c921d84db1fb8365a85/22bfc/emp-1001.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "0186a195-1a64-5943-b693-538259f250e4"
+    }
+  },
+  "staticQueryHashes": []
+}

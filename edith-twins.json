@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/edith-twins",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "eb24624a-3809-50bb-842c-c777a6a93b37",
+            "updatedAt": "2024-10-18T23:25:51.441Z",
+            "createdAt": "2021-10-22T00:35:46.105Z",
+            "unitId": "1152",
+            "fullName": "Edith Twins",
+            "slug": "edith-twins",
+            "shortName": "Edith Twins",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6fbc6c9627232f9b4a1d8ce03870c051/acb7c/emp-1152.png",
+                        "srcSet": "/static/6fbc6c9627232f9b4a1d8ce03870c051/1c9ce/emp-1152.png 64w,\n/static/6fbc6c9627232f9b4a1d8ce03870c051/bf8e1/emp-1152.png 128w,\n/static/6fbc6c9627232f9b4a1d8ce03870c051/acb7c/emp-1152.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6fbc6c9627232f9b4a1d8ce03870c051/8257c/emp-1152.webp 64w,\n/static/6fbc6c9627232f9b4a1d8ce03870c051/6766a/emp-1152.webp 128w,\n/static/6fbc6c9627232f9b4a1d8ce03870c051/22bfc/emp-1152.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Academy Student Council",
+            "seaReleaseDate": "September 15th, 2021",
+            "krReleaseDate": "July 23rd, 2020",
+            "globalReleaseDate": "August 18th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Barrier",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Edith Twins was designed in the early days of CounterSide as a gimmicky damage dealer within an inherently gimmicky role. Edith Twins does not have the stats to compensate for her kit design.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Edith Twins does not possess relevant utility that would justify their use. There are no trade-offs within the kit that would compensate for the stat deficiency.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There are no scenarios in which it would make sense to bring Edith Twins.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- None.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- None.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "An offensive Tower whose firepower increases the lower her HP becomes."
+            },
+            "introduction": {
+              "introduction": "　The security chair, J.O.U.R., is a long-ranged guard that ensures its rider's uninterrupted sleep. If it receives a certain amount of damage and Edith Twins wakes up, it rises into the air and becomes very aggressive.\n\n　Edith Twins, the designer of J.O.U.R., is a member of the Academy Student Council, and has recently been recruited by Future-at-War as an honorary senior researcher. The girl who used to turn house furniture into gadgets she saw in sci-fi movies and animation has grown into a genius engineering scientist.\n　But when others' expectations of her interfered with her favorite pastime, napping, she finally accepted the Academy's admission offer and left behind her lab life to start living as a Grade D Counter student.\n　Even now, she designs transformative robots for Future-at-War as a hobby, but no one know what our life could have been if she gave up on napping and focused on research."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1152_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires both machine guns at a single target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1152_2",
+                "name": "Who Dares Wake Me?!",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When deployed, her skills are sealed and ATK is permanently decreased by 30%. When her HP drops to 80% or below, however, she inflicts AoE damage as she rises into the air, unlocking her skills and replacing her ATK reduction with DEF reduction. Permanently decreases her HP by 1% per second in all modes."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Gain barrier equal to 20% of Max HP upon transformation. When her HP falls below 20%, stop losing HP from the passive."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1152_3",
+                "name": "Micro Missile",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Fires small missiles from her container, inflicting AoE damage on and around a target. The targets lose 15% of DEF for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1152_4",
+                "name": "Satellite Buster",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Signals a satellite and fires a massive laser beam from the sky, inflicting AoE damage on and around a target. First transformations fill this skill's cooldown by 50%."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Laser beam duration +50%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 40.45,
+                "critical": 1.79,
+                "def": 3.98,
+                "evade": 0.3,
+                "hit": 1.17,
+                "hp": 302
+              },
+              "base": {
+                "hp": 2445,
+                "atk": 404,
+                "def": 301,
+                "hit": 88,
+                "critical": 135,
+                "evade": 22
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "eb24624a-3809-50bb-842c-c777a6a93b37"
+    }
+  },
+  "staticQueryHashes": []
+}

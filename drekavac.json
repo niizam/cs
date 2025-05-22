@@ -1,0 +1,223 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/drekavac",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "544d5206-3af3-55b5-8a70-508566d7f182",
+            "updatedAt": "2024-08-13T13:02:45.557Z",
+            "createdAt": "2024-06-03T11:53:34.404Z",
+            "unitId": "1268",
+            "fullName": "Drekavac",
+            "slug": "drekavac",
+            "shortName": "Drekavac",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#d8c8b8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/f6f7e0212faf977039399af67575d78c/22bfc/1268.webp",
+                        "srcSet": "/static/f6f7e0212faf977039399af67575d78c/8257c/1268.webp 64w,\n/static/f6f7e0212faf977039399af67575d78c/6766a/1268.webp 128w,\n/static/f6f7e0212faf977039399af67575d78c/22bfc/1268.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "August 14th, 2024",
+            "krReleaseDate": "March 19th, 2024",
+            "globalReleaseDate": null,
+            "cost": 4,
+            "type": [
+              "Mech"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"BSide cooked so hard they reinvented a three year old problem designing characters with DMG% in their kit and then neutering their damage modifiers to compensate. The end result is that Drekavac, even with her anti-Boss DMG% active, deals about as much damage as Grendel. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For a character designed around dealing damage to bosses, she performs considerably worse than pre-existing alternatives. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"None\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is the mech faction’s one allotted SSR release per fiscal year. So excited for next year!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1268_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires her equipped firearm to deal damage to an enemy in front. Damage increases by 30% to C.O.s."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1268_2",
+                "name": "Kill the Boss First",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Permanently increases Anti-Boss DMG by 5% every 12 seconds (Up to 5 stacks). Immediately obtains max stacks upon deployment if the enemy boss is a C.O."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Anti-Boss DMG +10% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1268_3",
+                "name": "Now, Be Good and Listen to Me",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Fires missiles to enemies in front, dealing AoE damage. Inflicts Ranged DMG RES -30% to 3 enemies in front, which decays by 5% every 2 seconds until it wears off."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Special Skill DMG +30% to C.O.s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1268_4",
+                "name": "Punishing Tool",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Shoots a powerful beam in front after using Special Skill, dealing AoE damage to enemies in front. Hit C.O.s' ASPD is decreased by 20% for 12 seconds."
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "Passive Skill is also applied to enemies with the Special Skill debuff. ASPD -40% for C.O.s with the Special Skill debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 46.85,
+                "critical": 2.07,
+                "def": 1.36,
+                "evade": 0.19,
+                "hit": 7.73,
+                "hp": 174
+              },
+              "base": {
+                "hp": 1382,
+                "atk": 459,
+                "def": 95,
+                "hit": 540,
+                "critical": 147,
+                "evade": 13
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "544d5206-3af3-55b5-8a70-508566d7f182"
+    }
+  },
+  "staticQueryHashes": []
+}

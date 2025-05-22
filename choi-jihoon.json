@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/choi-jihoon",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "8a6eb0ef-9e5c-524f-a1fe-c9bdd9ea2e67",
+            "updatedAt": "2024-10-19T00:06:33.185Z",
+            "createdAt": "2021-10-21T23:33:05.355Z",
+            "unitId": "1105",
+            "fullName": "Choi Jihoon",
+            "slug": "choi-jihoon",
+            "shortName": "Choi Jihoon",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/200abb724b5f7a72dcfd0beea74cf1f8/acb7c/emp-1105.png",
+                        "srcSet": "/static/200abb724b5f7a72dcfd0beea74cf1f8/1c9ce/emp-1105.png 64w,\n/static/200abb724b5f7a72dcfd0beea74cf1f8/bf8e1/emp-1105.png 128w,\n/static/200abb724b5f7a72dcfd0beea74cf1f8/acb7c/emp-1105.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/200abb724b5f7a72dcfd0beea74cf1f8/8257c/emp-1105.webp 64w,\n/static/200abb724b5f7a72dcfd0beea74cf1f8/6766a/emp-1105.webp 128w,\n/static/200abb724b5f7a72dcfd0beea74cf1f8/22bfc/emp-1105.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "The Militia",
+            "seaReleaseDate": "March 8th, 2022",
+            "krReleaseDate": "January 26th, 2021",
+            "globalReleaseDate": "December 15th, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Choi Jihoon is a utility backline damage dealer who assists the team from afar with various effects. Choi Jihoon is notable in that he applies a 100% uptime skill seal + blind with his basic attacks, which can lock down frontline targets and greatly hinder their cast times. Choi Jihoon also has limited backline access through his sure-crit enhanced basic, which targets the furthest enemy in range. Unfortunately, Choi Jihoon struggles to find a real niche for himself.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Choi Jihoon’s skill seal doesn’t apply to bosses, severely limiting the situations in which his kit may provide value to the point where he is never realistically a consideration. For all scenarios, there exist more effective alternatives for the role (e.g. Awakened Lyudmila).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Choi Jihoon’s “100% uptime” skill seal needs to be constantly reapplied via his basic attacks. The skill seal falls off the moment he is disrupted or the shot is intercepted by another unit. As a backline access unit, Choi Jihoon cannot hold a candle to dedicated disruption units who commit harder and achieve more (e.g. Rearm Eujin, Rearm Sylvia). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Above all, Choi Jihoon’s personal damage output is anemic and without survivability tools himself it is frequently the case that he dies to the slightest pressure without achieving anything.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Effectively permanent uptime skill seal and blind against enemy frontline.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Buffs rangers and snipers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Costs too much for what he offers.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Ranged attacker with high firepower who weakens enemies from the hindmost side."
+            },
+            "introduction": {
+              "introduction": "Choi Jihoon is a Sniper who enhances his allies while periodically attacking enemies at the rear line. He's also a member of the Militia that hunts down Counter criminals. A former soldier and sniper, he uses his experience to teach shooting to new Militia recruits. He's straightforward, even harsh at times, but his honest advice helps his members stay on the right track. Despite his efforts, however, the Militia now only has a few members left. In the face of the harsh reality that costs him his men every day, he struggles to maintain his sanity for the sake of the others who rely on him."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1105_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a custom sniper rifle at the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1105_2",
+                "name": "Precise Shooting",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Inflicts 20% more damage on Counters. Basic attacks blind the target for 2 seconds. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "Passive also seals enemy's skills"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1105_3",
+                "name": "Field Instructor",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Increases Ranged DMG by 10% for all ally Rangers and Snipers while on the field."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "CRIT +150 added to Passive buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1105_4",
+                "name": "Here Comes the Ghost",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After every 5th Basic attack, he delivers an enhanced attack to the farthest enemy within range. This enhanced attack always crits and inflicts 100% more damage on Snipers."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "Lv. 5 Precise Shooting effect for 5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 32.87,
+                "critical": 3.62,
+                "def": 1.68,
+                "evade": 2.39,
+                "hit": 7.18,
+                "hp": 136
+              },
+              "base": {
+                "hp": 1060,
+                "atk": 316,
+                "def": 109,
+                "hit": 466,
+                "critical": 235,
+                "evade": 155
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "8a6eb0ef-9e5c-524f-a1fe-c9bdd9ea2e67"
+    }
+  },
+  "staticQueryHashes": []
+}

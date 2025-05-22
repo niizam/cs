@@ -1,0 +1,328 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/death-fighter-shiyoung",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "4e84c41f-a1d9-5718-9d06-3e8897d1e218",
+            "updatedAt": "2025-03-27T09:13:35.144Z",
+            "createdAt": "2023-09-26T13:10:56.260Z",
+            "unitId": "2138",
+            "fullName": "Suicide Squad Joo Shiyoung",
+            "slug": "death-fighter-shiyoung",
+            "shortName": "Suicide Squad Shiyoung",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/d6e47f28cde0244d272b076e471c2426/acb7c/2138.png",
+                        "srcSet": "/static/d6e47f28cde0244d272b076e471c2426/1c9ce/2138.png 64w,\n/static/d6e47f28cde0244d272b076e471c2426/bf8e1/2138.png 128w,\n/static/d6e47f28cde0244d272b076e471c2426/acb7c/2138.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/d6e47f28cde0244d272b076e471c2426/8257c/2138.webp 64w,\n/static/d6e47f28cde0244d272b076e471c2426/6766a/2138.webp 128w,\n/static/d6e47f28cde0244d272b076e471c2426/22bfc/2138.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "October 17th, 2023",
+            "krReleaseDate": "August 29th, 2023",
+            "globalReleaseDate": "January 3rd, 2024",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rearmed Shiyoung is sadly barely an upgrade to her base version who can't find a place for herself in either PVE and PVP metas. In Korea, she is considered among the worst rearms ever and most who rearmed her regret it. The Reflect damage added to her counterattack sadly only sounds great on paper - both Ciel and Levia can reflect more damage and do it without so many strings attached as Shiyoung is forced to do. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Rearmed Shiyoung often dies without doing anything as the counter stance and EVA boost isn't enough to keep her alive in the current Meta. As for PVE, you would rather bring characters that can do more damage and bring some offensive utility instead of a 4-cost characters that deals meaningless damage and is built around gimmick Counter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Counter is a fun mechanic to use...\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"... when it works. Often it doesn't in Shiyoung case,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The rearm is barely an upgrade to her base version and you might say it's actually a downgrade.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "1",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A close-range attacker who counterattacks basic attacks and enters a reflective state when evading"
+            },
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2138_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her longsword, inflicting AoE damage on enemies in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2138_2",
+                "name": "Gratuitous",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Ranged attack DMG Taken -30% After every 4th Basic attack, she takes the counterattack stance and responds to incoming Basic damage with AoE damage. Increases her EVA by 50% for 6s after counterattacking, her attack counter does not increase for the duration. "
+                },
+                "level2": {
+                  "level2": "ATK +2%"
+                },
+                "level3": {
+                  "level3": "ATK +2%"
+                },
+                "level4": {
+                  "level4": "ATK +3%"
+                },
+                "level5": {
+                  "level5": "Counterattack buff also increases her ASPD by 30%"
+                },
+                "level6": {
+                  "level6": "ATK +2%"
+                },
+                "level7": {
+                  "level7": "ATK +2%"
+                },
+                "level8": {
+                  "level8": "ATK +2%"
+                },
+                "level9": {
+                  "level9": "ATK +3%"
+                },
+                "level10": {
+                  "level10": "+30% Counterattack DMG"
+                }
+              },
+              {
+                "skillId": "2138_3",
+                "name": "Bite",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Swings her longsword and levitates nearby enemies. She then follows and cuts at them with a dagger, inflicting AoE damage. Blinds the targets for 4 seconds. "
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "HP+10%"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Valid Hit+1"
+                }
+              },
+              {
+                "skillId": "2138_4",
+                "name": "Spacetime Samsara",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Forcefully stabs with her longsword, inflicting AoE damage on enemies in front. Afterward, increases ATK and DMG RES by 20% for 12 seconds, and Stuns the enemies for 3 seconds. "
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "CD-8s"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Gain Perfect Eva for 3s after casting"
+                }
+              },
+              {
+                "skillId": "2138_5",
+                "name": "Sura’s Path",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Enters the counter stance for 5s after 20 attacks evaded, becoming Immune to hitstun from Ultimate Skills or lower, and reflecting 40% of DMG received as True damage. Unable to cast Special Skill in counter stance."
+                },
+                "level2": {
+                  "level2": "EVA +5% when deployed"
+                },
+                "level3": {
+                  "level3": "EVA +5% when deployed"
+                },
+                "level4": {
+                  "level4": "EVA +10% when deployed"
+                },
+                "level5": {
+                  "level5": "Reflected DMG is increased to 80% of received DMG."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.73,
+                "critical": 3.66,
+                "def": 2.37,
+                "evade": 5.89,
+                "hit": 2.41,
+                "hp": 392
+              },
+              "base": {
+                "hp": 3174,
+                "atk": 287,
+                "def": 179,
+                "hit": 182,
+                "critical": 277,
+                "evade": 446
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1138",
+              "slug": "joo-shiyoung",
+              "shortName": "Joo Shiyoung",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/c4b1a7ef96c467ab4cbff97050d234d7/acb7c/emp-1138.png",
+                          "srcSet": "/static/c4b1a7ef96c467ab4cbff97050d234d7/1c9ce/emp-1138.png 64w,\n/static/c4b1a7ef96c467ab4cbff97050d234d7/bf8e1/emp-1138.png 128w,\n/static/c4b1a7ef96c467ab4cbff97050d234d7/acb7c/emp-1138.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/c4b1a7ef96c467ab4cbff97050d234d7/8257c/emp-1138.webp 64w,\n/static/c4b1a7ef96c467ab4cbff97050d234d7/6766a/emp-1138.webp 128w,\n/static/c4b1a7ef96c467ab4cbff97050d234d7/22bfc/emp-1138.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "4e84c41f-a1d9-5718-9d06-3e8897d1e218"
+    }
+  },
+  "staticQueryHashes": []
+}

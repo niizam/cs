@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/alex",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "cd3b5382-e207-5531-a49f-3ce4c88e7ba2",
+            "updatedAt": "2024-07-24T09:14:52.152Z",
+            "createdAt": "2021-10-22T00:42:02.448Z",
+            "unitId": "1158",
+            "fullName": "Alex",
+            "slug": "alex",
+            "shortName": "Alex",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/0ee625adacd1451c766326e2b90f83bb/acb7c/emp-1158.png",
+                        "srcSet": "/static/0ee625adacd1451c766326e2b90f83bb/1c9ce/emp-1158.png 64w,\n/static/0ee625adacd1451c766326e2b90f83bb/bf8e1/emp-1158.png 128w,\n/static/0ee625adacd1451c766326e2b90f83bb/acb7c/emp-1158.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/0ee625adacd1451c766326e2b90f83bb/8257c/emp-1158.webp 64w,\n/static/0ee625adacd1451c766326e2b90f83bb/6766a/emp-1158.webp 128w,\n/static/0ee625adacd1451c766326e2b90f83bb/22bfc/emp-1158.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Old Administration: Maze Division",
+            "seaReleaseDate": "October 20th, 2021",
+            "krReleaseDate": "September 3rd, 2020",
+            "globalReleaseDate": "July 21st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Barrier",
+              "Detect Stealth",
+              "Dispeller"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Alex is a berserker-type unit that gets stronger the lower her HP gets.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Alex’s berserker gimmick struggles to find value in PVE. Even with the effect active, her tankiness pales in comparison to the pool of stronger, cheaper alternatives (e.g. Rearm Kaci, Rearm Alex).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Alex does not have the stats required to fulfill her role as a frontline tank.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rearm to make Breakbeat Alex, a top tier frontline tank.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Absence of team utility severely limits viability.\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee attacker whose survivability and ATK increase the lower her HP becomes."
+            },
+            "introduction": {
+              "introduction": "　(This text was restored by a Class 1 Administrator.)\n　Alex, the deputy commander of the Maze Division, is a vanguard who wields a plasma cannon that has been remodeled into a greatsword. She uses her ability to control waves to attack surrounding enemies, and her power grows stronger the more desperate she becomes.\n\n　Originally, one of the clones created by an enemy of the Administration, she was abandoned by her creator for being a failure, and later rescued by the Administration. She was first assigned to the Maze Division which specialized in long-range bombardment operations, because she wasn't strong enough to handle physical combat, but after she mastered how to control her weapon's output, she became a force to be reckoned with.\n　Many times her ability to carry out field duties were questioned, but her commander's unswayable faith in her and the Division's needs in emergency melee support has kept her in the Division.\n　The last bastion for her division, she's highly respected among her peers."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank or ASPD Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank or ASPD Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1158_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings a high-powered device, inflicting AoE damage in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1158_2",
+                "name": "Damage Limiter",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Detects Stealth. Activates her device when her HP drops to 50% or lower; Basic attacks additionally attack, and all attacks create a barrier equal to 3% of Max HP for 5 seconds."
+                },
+                "level2": {
+                  "level2": "ASPD +5%"
+                },
+                "level3": {
+                  "level3": "ASPD +5%"
+                },
+                "level4": {
+                  "level4": "ASPD +10%"
+                },
+                "level5": {
+                  "level5": "ATK up to +50% based on HP loss Immunity to Hitstun from Special or lower skills during barrier"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1158_3",
+                "name": "Life Overdrive",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Amplifies her device output, temporarily reinforcing her physical capability. Inflicts AoE damage in front, and increases Max HP by 25% for 12 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "HP +50% instead Randomly removes 1 non-Permanent buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1158_4",
+                "name": "Sidechain Compressor",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Maximizes her device output and causes an underground explosion, inflicting AoE damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG increases up to +50% based on HP loss"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 27.86,
+                "critical": 3.77,
+                "def": 2.08,
+                "evade": 1.54,
+                "hit": 1.61,
+                "hp": 426
+              },
+              "base": {
+                "hp": 3389,
+                "atk": 273,
+                "def": 145,
+                "hit": 112,
+                "critical": 263,
+                "evade": 107
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "cd3b5382-e207-5531-a49f-3ce4c88e7ba2"
+    }
+  },
+  "staticQueryHashes": []
+}

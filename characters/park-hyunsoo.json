@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/park-hyunsoo",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "4d6da3f8-a154-53f8-a75b-15b12dcef22e",
+            "updatedAt": "2024-10-17T21:28:55.591Z",
+            "createdAt": "2021-10-22T00:04:16.668Z",
+            "unitId": "1129",
+            "fullName": "Park Hyunsoo",
+            "slug": "park-hyunsoo",
+            "shortName": "Park Hyunsoo",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c51356420fdfd4b564d580e80cf85686/acb7c/emp-1129.png",
+                        "srcSet": "/static/c51356420fdfd4b564d580e80cf85686/1c9ce/emp-1129.png 64w,\n/static/c51356420fdfd4b564d580e80cf85686/bf8e1/emp-1129.png 128w,\n/static/c51356420fdfd4b564d580e80cf85686/acb7c/emp-1129.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c51356420fdfd4b564d580e80cf85686/8257c/emp-1129.webp 64w,\n/static/c51356420fdfd4b564d580e80cf85686/6766a/emp-1129.webp 128w,\n/static/c51356420fdfd4b564d580e80cf85686/22bfc/emp-1129.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Daymine Mining Team 4",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Park Hyunsoo does not have the stats necessary to meet the baseline requirements expected of him as a frontline tank.\\n\\nPark Hyunsoo does not possess relevant utility that would justify using him. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee attacker who enhances surrounding Strikers."
+            },
+            "introduction": {
+              "introduction": "　Park Hyunsoo is the leader of Daymine Mining Team 4. He is a vanguard who is skilled at collaborating with fellow attackers.\n\n　He used to be a field assistant who was more familiar with a pen than a sword. But he decided to engage in battle himself to survive the recession and frequent restructuring process.\n　Before becoming a Counter, he once hovered between life and death due to overworking. Because of the experience, he recommends his team members to only work during business hours and takes responsibility for any extra work.\n　In the past, he worked hard because he loved his work or because he wanted promotion. But now he is holding his position for his subordinates who rely on him."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1129_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings his sword, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1129_2",
+                "name": "Let's Give It Our Best",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "He may not be able to lead everyone, but he can at least take care of those around him. Increases surrounding Strikers' ATK by 10%."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "ATK +15% for 15 s upon deployment"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1129_3",
+                "name": "Consecutive Slashes",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Delivers multiple slashes, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1129_4",
+                "name": "Power Slash",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Momentarily explodes his power and strikes his sword downward, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 24.03,
+                "critical": 2.43,
+                "def": 2.17,
+                "evade": 2.43,
+                "hit": 1.46,
+                "hp": 241
+              },
+              "base": {
+                "hp": 1951,
+                "atk": 240,
+                "def": 164,
+                "hit": 110,
+                "critical": 184,
+                "evade": 184
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "4d6da3f8-a154-53f8-a75b-15b12dcef22e"
+    }
+  },
+  "staticQueryHashes": []
+}

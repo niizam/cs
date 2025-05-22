@@ -1,0 +1,240 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/stronghold",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b688fbab-1364-585b-be59-bcf7811113b2",
+            "updatedAt": "2024-10-17T21:33:44.978Z",
+            "createdAt": "2021-10-21T11:35:54.050Z",
+            "unitId": "1029",
+            "fullName": "Stronghold",
+            "slug": "stronghold",
+            "shortName": "Stronghold",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c1b0032b0e16f44deb3147f7320f1b6b/acb7c/emp-1029.png",
+                        "srcSet": "/static/c1b0032b0e16f44deb3147f7320f1b6b/1c9ce/emp-1029.png 64w,\n/static/c1b0032b0e16f44deb3147f7320f1b6b/bf8e1/emp-1029.png 128w,\n/static/c1b0032b0e16f44deb3147f7320f1b6b/acb7c/emp-1029.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c1b0032b0e16f44deb3147f7320f1b6b/8257c/emp-1029.webp 64w,\n/static/c1b0032b0e16f44deb3147f7320f1b6b/6766a/emp-1029.webp 128w,\n/static/c1b0032b0e16f44deb3147f7320f1b6b/22bfc/emp-1029.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Black Tide",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Retribution"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Stronghold does not have the stats necessary to meet the baseline requirements expected of them as a frontline tank.\\n\\nStronghold does not possess relevant utility that would justify using them. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Fights on the front lines, taunting enemies to keep them away from allies."
+            },
+            "introduction": {
+              "introduction": "　A defender who can launch all-around attacks while moving.\n\n　Strongholds are subjugation units deployed to prevent further damage in urban warfare. Their heavy reinforced suits prevent nearly all conventional personal weapons.\n　They are mostly composed of retired police officers. As the veterans who remained in battlefields from the Administration Failure to the Grand Purification War, they will gladly draw the attention of enemies with a pistol. They prefer to take on enemy attacks themselves rather than to lose a comrade. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1029_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Approaches and swings his shield at a Ground target, or fires a pistol at an Air target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1029_2",
+                "name": "Point Shooting",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses a pistol to perform Basic Attack while moving. Forces the inflicted enemy to attack him for 3 seconds."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Pistol DMG +100%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1029_3",
+                "name": "Titanium Body Bunker",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Wears a titanium alloy body bunker. Decreases DMG Taken by 10%."
+                },
+                "level2": {
+                  "level2": "Ranged DMG RES +5%"
+                },
+                "level3": {
+                  "level3": "Ranged DMG RES +5%"
+                },
+                "level4": {
+                  "level4": "Ranged DMG RES +10%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -10% from attacks from the front"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1029_4",
+                "name": "Can't Die Like This",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Acts selflessly, inspiring his comrades. Increases all units' DMG RES by 5% for 6 seconds upon death."
+                },
+                "level2": {
+                  "level2": "Buff duration +1 s"
+                },
+                "level3": {
+                  "level3": "Buff duration +1 s"
+                },
+                "level4": {
+                  "level4": "Buff duration +2 s"
+                },
+                "level5": {
+                  "level5": "Increases DMG RES by 10% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 16.82,
+                "critical": 0.44,
+                "def": 6.16,
+                "evade": 0.12,
+                "hit": 1.11,
+                "hp": 208
+              },
+              "base": {
+                "hp": 1688,
+                "atk": 168,
+                "def": 466,
+                "hit": 84,
+                "critical": 33,
+                "evade": 9
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b688fbab-1364-585b-be59-bcf7811113b2"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,234 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lenore",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "7ead4e42-7e6d-5782-9f55-54c03f263d04",
+            "updatedAt": "2024-02-18T08:33:47.571Z",
+            "createdAt": "2023-09-26T12:55:19.778Z",
+            "unitId": "1258",
+            "fullName": "Lenore",
+            "slug": "lenore",
+            "shortName": "Lenore",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/48f9d8b2a213a57d9c3b3a12778ae360/acb7c/1258.png",
+                        "srcSet": "/static/48f9d8b2a213a57d9c3b3a12778ae360/1c9ce/1258.png 64w,\n/static/48f9d8b2a213a57d9c3b3a12778ae360/bf8e1/1258.png 128w,\n/static/48f9d8b2a213a57d9c3b3a12778ae360/acb7c/1258.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/48f9d8b2a213a57d9c3b3a12778ae360/8257c/1258.webp 64w,\n/static/48f9d8b2a213a57d9c3b3a12778ae360/6766a/1258.webp 128w,\n/static/48f9d8b2a213a57d9c3b3a12778ae360/22bfc/1258.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "December 5th, 2023",
+            "krReleaseDate": "September 5th, 2023",
+            "globalReleaseDate": "December 13th, 2023",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Detect Stealth",
+              "Dispeller",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lenore is a 4-cost Strike who can do a lot of things. Not only she's quite tanky for her cost, but she can counter attacks, detect Stealth, reduce enemy DEF, deal HP% damage, knock enemies back, remove Barriers, and grant Sure Fire to herself. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Woah. That was a long list. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall Lenore is like a swiss army knife that can do a lot of things, but there's a cost to the versatility - everything she does is a bit worse than someone who is specialized can do. It's not a big issue, but it will become important when you need to choose someone for the team - especially in PVE and especially because of her 4-cost. Still, because of the Counter mechanic, she is very useful in Raids because on top of shredding the boss DEF, she can also protect her allies from certain attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lenore biggest issue is her Ultimate. It's a charge-type Ultimate which brings her further to the frontline and can get killed if used at a wrong time - it's an issue because while she has a lot of tools to deal with the enemy, she lacks defensive measures.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can do it all - DEF Shred, Remove Barriers, Detect Stealth,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Good stats so it's easy to keep her alive,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Counter helps in keeping her teammates alive,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Good in both PVE and PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jack of all trades, master of none,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate sometimes can get her killed in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "1",
+              "pve_early": "6",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A melee attacker specializing in weakening enemies and counterattacking"
+            },
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1258_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swipes her mechanical arm, dealing AoE damage in front. When receiving an attack while casting Basic attack or while moving, consumes 1 [Deceive] stack to perform a barrier removing counter attack, and inflicting knockback."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1258_2",
+                "name": "Observation Nerve",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Lenore can detect Stealth units. After receiving 15 hits, obtain 1 stack of [Deceive] which increases EVA by 50% (Max 4 stacks, Uncancelable). All of Lenore’s attacks inflicts 1 stack of [Sentence]. At 4 [Sentence] stacks, enforces [Execution] on enemies (excluding Bosses), dealing 15% of current HP as damage. Enemies with [Execution] does not accumulate [Sentence]. \n\n[Sentence]: DEF reduced by 5% for 6s\n\n[Execution]: DEF reduced by 20% for 12s.\n"
+                },
+                "level2": {
+                  "level2": "ASPD +5%"
+                },
+                "level3": {
+                  "level3": "ASPD +5%"
+                },
+                "level4": {
+                  "level4": "ASPD +10%"
+                },
+                "level5": {
+                  "level5": "Recovers 1 Deployment Resource if there are no other units present on the field."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1258_3",
+                "name": "Variable Control",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Negates damage upon receiving hitstun from Special skills and stabs the mechanical arm, dealing AoE damage in front and knocking enemies down. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Obtains 2 stacks of [Deceive] after casting skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1258_4",
+                "name": "Zmei Claw",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Scratches forward while invincible and knocks enemies back on the final hit. Removes barriers on damaged enemies and grants Lenore Sure Fire for 15s after casting "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Obtains 4 stacks of [Deceive] after casting skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 30.83,
+                "critical": 1.65,
+                "def": 2.35,
+                "evade": 3.66,
+                "hit": 3.74,
+                "hp": 368
+              },
+              "base": {
+                "hp": 3021,
+                "atk": 312,
+                "def": 194,
+                "hit": 309,
+                "critical": 136,
+                "evade": 302
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "7ead4e42-7e6d-5782-9f55-54c03f263d04"
+    }
+  },
+  "staticQueryHashes": []
+}

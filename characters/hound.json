@@ -1,0 +1,212 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/hound",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "d84b45f1-6fee-54b0-a058-13bf5f915f23",
+            "updatedAt": "2024-10-17T21:20:57.313Z",
+            "createdAt": "2021-10-21T11:13:52.720Z",
+            "unitId": "1014",
+            "fullName": "Hound",
+            "slug": "hound",
+            "shortName": "Hound",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/31b01bcf57243b514f2d9217eac42972/acb7c/emp-1014.png",
+                        "srcSet": "/static/31b01bcf57243b514f2d9217eac42972/1c9ce/emp-1014.png 64w,\n/static/31b01bcf57243b514f2d9217eac42972/bf8e1/emp-1014.png 128w,\n/static/31b01bcf57243b514f2d9217eac42972/acb7c/emp-1014.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/31b01bcf57243b514f2d9217eac42972/8257c/emp-1014.webp 64w,\n/static/31b01bcf57243b514f2d9217eac42972/6766a/emp-1014.webp 128w,\n/static/31b01bcf57243b514f2d9217eac42972/22bfc/emp-1014.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Steel Lane",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "May 27th, 2022",
+            "cost": 3,
+            "type": [
+              "Mech"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Hound does not have the stats necessary to meet the baseline requirements expected of it as a frontline tank.\\n\\nHound does not possess relevant utility that would justify using it. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Taunts and charges at enemies on the front lines, protecting allies."
+            },
+            "introduction": {
+              "introduction": "　A frontline defender that protects allies by pushing back and taunting enemies.\n\n　They are 3.5 generation civilian main battle tanks with standard specifications built by Steel Lane.\n　Due to their excellent ability to traverse through rough terrain, they are able to withstand the harsh environment of the Counterside. The digital integrated combat system required for large scale operations is an optional purchase item.\n　But the biggest advantage of Hounds is definitely their cost-efficiency. According to consultants in the industry, they are most recommended for small companies who want to purchase their first armored unit.\n　Wonder what kickbacks those consultants are getting. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1014_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires cannonballs, inflicting AoE damage on and around the target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1014_2",
+                "name": "Universal Battle Devices",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Disperses incoming damage through an organic co-op strategy. Basic attacks force their targets to attack it for 5 seconds."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "ATK +15%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1014_3",
+                "name": "Instant Accelerator",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Instantly charges 200 reach, knocking enemies back with AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -20% for 5 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 17.22,
+                "critical": 0.48,
+                "def": 4.47,
+                "evade": 0.49,
+                "hit": 1.72,
+                "hp": 385
+              },
+              "base": {
+                "hp": 3120,
+                "atk": 172,
+                "def": 338,
+                "hit": 130,
+                "critical": 36,
+                "evade": 37
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "d84b45f1-6fee-54b0-a058-13bf5f915f23"
+    }
+  },
+  "staticQueryHashes": []
+}

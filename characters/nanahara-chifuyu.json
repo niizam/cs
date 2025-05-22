@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/nanahara-chifuyu",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "01a4024b-ebce-5cff-810d-b7f680d9c9a5",
+            "updatedAt": "2025-04-12T08:20:23.808Z",
+            "createdAt": "2021-10-21T23:40:26.312Z",
+            "unitId": "1113",
+            "fullName": "Nanahara Chifuyu",
+            "slug": "nanahara-chifuyu",
+            "shortName": "Nanahara Chifuyu",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b9a2e4b2c36a5063946c79c4e4f7c331/acb7c/emp-1113.png",
+                        "srcSet": "/static/b9a2e4b2c36a5063946c79c4e4f7c331/1c9ce/emp-1113.png 64w,\n/static/b9a2e4b2c36a5063946c79c4e4f7c331/bf8e1/emp-1113.png 128w,\n/static/b9a2e4b2c36a5063946c79c4e4f7c331/acb7c/emp-1113.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b9a2e4b2c36a5063946c79c4e4f7c331/8257c/emp-1113.webp 64w,\n/static/b9a2e4b2c36a5063946c79c4e4f7c331/6766a/emp-1113.webp 128w,\n/static/b9a2e4b2c36a5063946c79c4e4f7c331/22bfc/emp-1113.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Nanahara Family Alliance",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "April 16th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Nanahara Chifuyu is a PVE-oriented utility tank notable for her 100% uptime DEF shred debuff. Chifuyu occupies the valued niche as a DEF shredder. For her consistent debuff uptime and above average survivability (for cost), Chifuyu is considered one of the better frontline tanks in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Chifuyu is notable in that she consolidates the roles of frontline tank and DEF shredder. DEF shred will provide a greater damage increase than an equivalent amount of ATK% (up to 100%, as you can’t shred more than 100% of a target’s DEF). PVE comps typically aim to mitigate 100% of the enemy’s DEF, most easily achieved through some combination of DEF shredders (e.g. Ciel, Chifuyu, Tarrasque). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At the highest levels of competitive content, Chifuyu struggles to compete with stronger DEF shredders. With multiple sources of extreme DEF shred (e.g. Ciel), the need for Chifuyu (and the 20% DEF shredders in general) is greatly lessened.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Very accessible; Chifuyu is included in all new player character selector coupons.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Scales poorly into endgame PVE content.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "9",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "Uses Knockback and Down attacks to decrease enemies' firepower from the front line."
+            },
+            "introduction": {
+              "introduction": "　Nanahara Chifuyu, the bodyguard of her Family leader, is a vanguard who defeats the Family Alliance's enemies solely with her sword.\n\n　She specializes in the Nanahara Style, the swordsmanship style only taught to a select group of swordsmen in her Family. Ancient martial arts authorities in modern times believe that this style has nothing to do with one's lineage and has everything to do with one being a Counter.\n　Chifuyu is a Grade D Noncombat Counter, but her mastery of sword skills, which she has acquired through a strenuous effort, has put her next to higher-grade Counters.\n　The Family Alliance, having spared no effort to restore this combat style, is not happy that she uses it for personal protection, even though it is to protect her leader."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1113_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her sword, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1113_2",
+                "name": "Cherry Blossom Slash",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Performs multiple slashes, destroying enemies' defense. After every 2nd Basic attack, the next Basic attack decreases targets' DEF by 10% for 4 seconds, and Stuns one of them for 1 second."
+                },
+                "level2": {
+                  "level2": "DMG to Defender +5%"
+                },
+                "level3": {
+                  "level3": "DMG to Defender +5%"
+                },
+                "level4": {
+                  "level4": "DMG to Defender +10%"
+                },
+                "level5": {
+                  "level5": "Special/Ultimate Skill attacks also count. DEF -20% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1113_3",
+                "name": "Cut Down Cherry Tree",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Draws out her sword, inflicting AoE damage. Permanently increases ATK by 5%, up to 15%, when cast."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Seals target's skills for 5 s (Bosses and ships excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1113_4",
+                "name": "Exquisite: Flower Strike",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 46,
+                "baseDescription": {
+                  "baseDescription": "Performs an upward strike followed by multiple slashes, inflicting AoE damage. Increases ASPD by 30% for 15 seconds afterward."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Also grants immunity to Hitstun from Special or lower skills for 15 s when cast"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.17,
+                "critical": 3.88,
+                "def": 5.62,
+                "evade": 2.97,
+                "hit": 2.61,
+                "hp": 372
+              },
+              "base": {
+                "hp": 2959,
+                "atk": 276,
+                "def": 393,
+                "hit": 182,
+                "critical": 271,
+                "evade": 207
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "01a4024b-ebce-5cff-810d-b7f680d9c9a5"
+    }
+  },
+  "staticQueryHashes": []
+}

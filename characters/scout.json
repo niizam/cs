@@ -1,0 +1,210 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/scout",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "7f52bf43-739a-58f7-8d69-fbeba323c4cf",
+            "updatedAt": "2024-10-17T21:30:57.030Z",
+            "createdAt": "2021-10-21T11:34:09.944Z",
+            "unitId": "1028",
+            "fullName": "Scout",
+            "slug": "scout",
+            "shortName": "Scout",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/ece1f6c3757c706e1569d081f941f60f/acb7c/emp-1028.png",
+                        "srcSet": "/static/ece1f6c3757c706e1569d081f941f60f/1c9ce/emp-1028.png 64w,\n/static/ece1f6c3757c706e1569d081f941f60f/bf8e1/emp-1028.png 128w,\n/static/ece1f6c3757c706e1569d081f941f60f/acb7c/emp-1028.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/ece1f6c3757c706e1569d081f941f60f/8257c/emp-1028.webp 64w,\n/static/ece1f6c3757c706e1569d081f941f60f/6766a/emp-1028.webp 128w,\n/static/ece1f6c3757c706e1569d081f941f60f/22bfc/emp-1028.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Black Tide",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Scout does not have the stats necessary to meet the baseline requirements expected of them as a damage dealer.\\n\\nScout does not possess relevant utility that would justify using them. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Ranged attacker that grows stronger as the battle continues."
+            },
+            "introduction": {
+              "introduction": "　A ranged attacker who grows stronger as the battle goes on.\n\n　Scouts are the units initially used in battle, removing enemy threats with a preemptive strike. Armed with lightweight combat suits and submachine guns, they roam through dangerous battlefields to help allies breech enemy lines and acquire valuable information.\n　Many of them are known to be blabbermouths, but maybe it is the only way for them to relieve the stress and fear they experience in battle. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1028_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a submachine gun at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1028_2",
+                "name": "PES Combat Suit",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The damage control system in his urban warfare suit ensures his survivability. Increases HP by 5%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "ATK +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1028_3",
+                "name": "High-mobility Combat Drill",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Demonstrates the results of his training which allows him to have the highest mobility in his unit. Basic attacks increase EVA by 1% every time they are performed, up to 15%."
+                },
+                "level2": {
+                  "level2": "HIT +5%"
+                },
+                "level3": {
+                  "level3": "HIT +5%"
+                },
+                "level4": {
+                  "level4": "HIT +10%"
+                },
+                "level5": {
+                  "level5": "Basic attacks also increase ASPD by 1% (up to 15%)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.93,
+                "critical": 3.58,
+                "def": 0.71,
+                "evade": 0.65,
+                "hit": 1.58,
+                "hp": 103
+              },
+              "base": {
+                "hp": 799,
+                "atk": 182,
+                "def": 46,
+                "hit": 102,
+                "critical": 232,
+                "evade": 42
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "7f52bf43-739a-58f7-8d69-fbeba323c4cf"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sky-layfield",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "ad7c98f7-f918-531c-9397-9e2d7518990a",
+            "updatedAt": "2024-12-03T06:48:21.004Z",
+            "createdAt": "2021-10-21T13:48:05.735Z",
+            "unitId": "1100",
+            "fullName": "Sky Layfield",
+            "slug": "sky-layfield",
+            "shortName": "Sky Layfield",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3a83756b6e39ccf02652f26c6c015982/acb7c/emp-1100.png",
+                        "srcSet": "/static/3a83756b6e39ccf02652f26c6c015982/1c9ce/emp-1100.png 64w,\n/static/3a83756b6e39ccf02652f26c6c015982/bf8e1/emp-1100.png 128w,\n/static/3a83756b6e39ccf02652f26c6c015982/acb7c/emp-1100.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3a83756b6e39ccf02652f26c6c015982/8257c/emp-1100.webp 64w,\n/static/3a83756b6e39ccf02652f26c6c015982/6766a/emp-1100.webp 128w,\n/static/3a83756b6e39ccf02652f26c6c015982/22bfc/emp-1100.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Special Hero Class",
+            "seaReleaseDate": "March 16th, 2022",
+            "krReleaseDate": "May 25th, 2021",
+            "globalReleaseDate": "November 3rd, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Debuffer",
+              "ETB",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sky is a very strong buffer - her ATK buff is equal to magnitude to Seo Yoon's, but she has much better uptime on it. Along with that, her skill also blinds enemies, making the frontline survive better, and her ult reduces EVA. This makes her a top tier pick in PVE such as Raids and Danger Close.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sadly buffers aren't really that useful in PVP and unless she is up, nobody uses her.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- massive ATK buffer for the whole team,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low cost which allows her to fit in any team,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can provide stun immunity to high-cost teammates.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- her uses in PVP are pretty limited, as she's too slow to affect the battle.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "5",
+              "pve_early": "10",
+              "pve_late": "10"
+            },
+            "description": {
+              "description": "A support who enhances allies and weakens enemies."
+            },
+            "introduction": {
+              "introduction": "Sky Layfield is a Supporter who strengthens the allies and weakens the enemy. She is a Counter from the Academy's elementary section. She's been alone for a long time, so she's used to playing with a ball by herself or playing with her imaginary friend. Even after she became a Counter and entered the Academy, she carried on the same way of life for a while. However, ever since she joined the Special Hero Class, everything has changed. She has made many friends and is now receiving a hero training from the club leader to protect them. Her ball and her imaginary friend have now become weapons to protect her real friends. Will she be able to make even more friends?"
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR or ASPD Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1100_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Gives an ego to a ball and throw it to an enemy, inflicting damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1100_2",
+                "name": "Wish to Fulfill",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Enters Stealth and increases DMG RDC by 50% for 15 seconds when deployed. After every 3rd Basic attack, inflicts AoE damage and increases ATK of allies except for herself by 10%, up to 30%, for 12 seconds in proportion to the number of ally units."
+                },
+                "level2": {
+                  "level2": "AoE DMG RDC +3%"
+                },
+                "level3": {
+                  "level3": "AoE DMG RDC +3%"
+                },
+                "level4": {
+                  "level4": "AoE DMG RDC +6%"
+                },
+                "level5": {
+                  "level5": "Passive effect also adds DMG RDC +5% (up to 15%). Adds Stun Immunity to allies with 4 cost or more."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1100_3",
+                "name": "Let's Play Ball!",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 23,
+                "baseDescription": {
+                  "baseDescription": "Throws a ball with an ego forward, inflicting AoE damage on and around the farthest target within range. The affected targets are blinded for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Debuff also decreases Ranged DMG by 25%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1100_4",
+                "name": "Little Big Smash",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Forms a huge fist with summoned objects and smashes it down, inflicting AoE damage in front. The affected enemies lose 50% of EVA for 12 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Stuns affected enemies for 3 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.45,
+                "critical": 1.45,
+                "def": 1.75,
+                "evade": 4.26,
+                "hit": 3.87,
+                "hp": 218
+              },
+              "base": {
+                "hp": 1703,
+                "atk": 187,
+                "def": 113,
+                "hit": 251,
+                "critical": 94,
+                "evade": 276
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "ad7c98f7-f918-531c-9397-9e2d7518990a"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,235 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/jack-o",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "fce93898-cd25-5ecc-8deb-8eef1de8e186",
+            "updatedAt": "2025-04-12T08:17:16.303Z",
+            "createdAt": "2024-06-04T08:53:58.165Z",
+            "unitId": "1249",
+            "fullName": "Jack-O",
+            "slug": "jack-o",
+            "shortName": "Jack-O",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#b83848",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/fe28e393bb02f27ec5fd9c82def2f3ad/22bfc/1249.webp",
+                        "srcSet": "/static/fe28e393bb02f27ec5fd9c82def2f3ad/8257c/1249.webp 64w,\n/static/fe28e393bb02f27ec5fd9c82def2f3ad/6766a/1249.webp 128w,\n/static/fe28e393bb02f27ec5fd9c82def2f3ad/22bfc/1249.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Unknown",
+            "seaReleaseDate": "June 5th, 2024",
+            "krReleaseDate": "June 5th, 2024",
+            "globalReleaseDate": "June 5th, 2024",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "True Damage",
+              "Executor"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-3\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Jack-O’ Valentine (Jack-O) is a frontline damage dealer notable for her powerful special skill and (more importantly) her massively increased PVE damage multipliers, which transforms an otherwise unassuming character into a potent PVE stat stick damage dealer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jack-O’s special skill can be broken down into three parts:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jack-O kicks forward a servant. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kick itself is a short range attack with a good multiplier.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The servant flies forward, stopping after hitting 3 enemies, dealing damage to each target hit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unlike many other similar attacks, this counts actual bodies, not valid hit absorption.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After 3 seconds, the servant explodes, dealing true damage to nearby enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The whole sequence combined has a damage modifier of ~7.2x, which increases to ~14.4x in PVE. To put this in perspective, Ministra, a character known for her special skill, has only a ~6.6x modifier. With proper buff-stacking (primarily in a PVE environment), Jack-O’s special becomes an excellent vehicle for nuking targets with a staggering amount of damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-3\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jack-O is a strong generalist PVE damage dealer akin to Eve Meitner, on account of her 100% PVE DMG passive. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While Eve outputs higher sustained DPS, Jack-O’s special and ultimate skill multipliers give her significantly higher burst potential. With proper setup, Jack-O can output one of the highest instances of burst damage in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Of note, Jack-O is core to a novel Branch Dive 60 speed clear strategy that revolves around one-shotting bosses with her special skill. To elaborate on the components that make up the strategy:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Special skill targeting mechanics\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" : When Jack-O casts her special skill and kicks forward her servant, it travels (functionally) indefinitely until it hits 3 enemies, otherwise it stops at the other end of the map. With one exception, this positions her servant on top of the stage boss. By bypassing stage mobs, Jack-O can access and damage the stage boss extremely early into the fight.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Special Skill DMG AMP Volcano gear\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" : In order for Jack-O’s special skill to deal enough damage to one-shot the stage boss, she needs gear that maximizes her special skill damage. For the popular variation of the comp, Jack-O will need Volcano gear on the following configuration:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Set: Special Skill DMG AMP%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Latent: Special Skill DMG AMP%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Substat 1: Special Skill DMG AMP%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Substat 2: Anti-Ground DMG%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Vivian Rashford operator\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" : Vivian is used for her massive +100% ATK buff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The new Jack-O speed clear strategy clears twice as fast as the previous fastest comps. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-3\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jack-O has found her niche in PVP by offering a unique take on two existing team archetypes: “backline hate” comps, and Vivian-based striker rush comps. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"“Backline hate” is a blanket term that encompasses comps built around applying constant pressure to opponents’ backlines using anti-backlines units (e.g. Rearm Sylvia, Rearm Eujin) with the intention of killing them so the team never gets set up. Jack-O breathes new life into this archetype as a new addition to the character roster of units with attacks that bypass the frontline. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Vivian-based striker rush comps use Vivian’s massive offensive buffs to smother the enemy team with overwhelming damage before they can stabilize. Jack-O is the latest in the list of Vivian-compatible strikers (e.g. Awakened Sigma, Veronica) who leverage her buffs best.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jack-O’s main weaknesses are redirection and multiple frontline bodies. Since her special skill is so important, losing the first cast to redirection is devastating. Similarly, getting blocked by multiple units prevents her special from targeting the backline. Opponents may achieve this using units that provide multiple bodies (e.g. Laura Beatrix, Einz and Zwei).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Obscene Special Skill multiplier, with true damage on the servant’s explosion.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extreme burst damage potential with Special and Ultimate skills.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Vulnerable to damage as a melee-range damage dealer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Limited Collab unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "9",
+              "pve_late": "8"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS/Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR Tank",
+                "notes": "Chally Hands recommended"
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1249_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage to enemies in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1249_2",
+                "name": "Summon Servant",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Summons servants to utilize in battle. Casts [Defend Command] every 4 basic attacks,and [Attack Command] every 13 seconds. Additionally, increases all damage by 100% and increases ATK and Skill Haste by 3% for every Guilty Gear unit on the battlefield in PVE. \n\n[Attack Command]: Summons a servant that flies a certain distance and then deals AoE damage inflicting Stun to hit enemies for 2 seconds.\n\n[Defend Command]: Summons a servant that provides DMG Reflection +60% to Jack-O' for 6 seconds."
+                },
+                "level2": {
+                  "level2": "DMG RDC +5%"
+                },
+                "level3": {
+                  "level3": "DMG RDC +5%"
+                },
+                "level4": {
+                  "level4": "DMG RDC +10%"
+                },
+                "level5": {
+                  "level5": "[Attack Command]: Servant DMG +50%. [Defend Command]: DMG Reflection +120% instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1249_3",
+                "name": "Servant Shoot",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Summons a servant and kicks it, penetrating up to 3 enemies. Afterwards, the servant explodes and deals AoE damage to nearby enemies."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Servant's explosion damage deals True damage instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1249_4",
+                "name": "Forever Elysion Driver",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Swallows the target with her ball-and-chain. dragging it up in the air before plummeting to the ground. dealing AoE damage. Instantly finishes 1 enemy with 25% or lower HP within range (Bosses excluded)."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Instantly finishes 2 enemies instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 42.87,
+                "critical": 1.81,
+                "def": 4.05,
+                "evade": 4.09,
+                "hit": 5.18,
+                "hp": 450
+              },
+              "base": {
+                "hp": 3578,
+                "atk": 420,
+                "def": 203,
+                "hit": 362,
+                "critical": 126,
+                "evade": 286
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": null,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "fce93898-cd25-5ecc-8deb-8eef1de8e186"
+    }
+  },
+  "staticQueryHashes": []
+}

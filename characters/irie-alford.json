@@ -1,0 +1,240 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/irie-alford",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "48af816f-c737-505a-ac1f-59046d4d500e",
+            "updatedAt": "2024-10-17T21:21:25.053Z",
+            "createdAt": "2021-10-22T00:12:04.236Z",
+            "unitId": "1134",
+            "fullName": "Irie Alford",
+            "slug": "irie-alford",
+            "shortName": "Irie Alford",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/bd5bbe0c76a531c3eaea4104d0dc1321/acb7c/emp-1134.png",
+                        "srcSet": "/static/bd5bbe0c76a531c3eaea4104d0dc1321/1c9ce/emp-1134.png 64w,\n/static/bd5bbe0c76a531c3eaea4104d0dc1321/bf8e1/emp-1134.png 128w,\n/static/bd5bbe0c76a531c3eaea4104d0dc1321/acb7c/emp-1134.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/bd5bbe0c76a531c3eaea4104d0dc1321/8257c/emp-1134.webp 64w,\n/static/bd5bbe0c76a531c3eaea4104d0dc1321/6766a/emp-1134.webp 128w,\n/static/bd5bbe0c76a531c3eaea4104d0dc1321/22bfc/emp-1134.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Official Support",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Irie Alford does not have the stats necessary to meet the baseline requirements expected of her as a frontline tank.\\n\\nIrie Alford does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Taunts and uses AoE suppression skills on the front lines, protecting allies."
+            },
+            "introduction": {
+              "introduction": "　Irie Alford joined Official Support because she was looking for something fun.\n\n　She is a defender who stops the enemy approach by constantly pushing and knocking them down. Irie's typical day begins with a prank and ends with a prank. Only she knows whether her next prank will be placing a banana peel in front of the conference room door, or switching the entire cafeteria menu to ice cream cakes.\n　But there are two reasons why she still receives good performance reviews.　One is because she pulls pranks even on Corrupted Objects, and the other is because she is quiet when she is eating ice cream.　"
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1134_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her shield, attacking a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1134_2",
+                "name": "Small, But Reliable",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She may be small, but she's more reliable than anyone else on the field. Basic attacks force their targets to attack her for 5 seconds. This skill also decreases surrounding Strikers' DMG Taken by 10%."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%\n"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "HP +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1134_3",
+                "name": "Stay Away from Us!",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Hops and swings her shield, knocking enemies backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1134_4",
+                "name": "Minimal Impact",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 44,
+                "baseDescription": {
+                  "baseDescription": "Repeatedly strikes the ground with her shield and generates shock waves, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "DMG Taken -25% for 10 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 8.31,
+                "critical": 1.11,
+                "def": 3.29,
+                "evade": 1.84,
+                "hit": 1.32,
+                "hp": 279
+              },
+              "base": {
+                "hp": 2257,
+                "atk": 83,
+                "def": 249,
+                "hit": 100,
+                "critical": 84,
+                "evade": 139
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "48af816f-c737-505a-ac1f-59046d4d500e"
+    }
+  },
+  "staticQueryHashes": []
+}

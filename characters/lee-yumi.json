@@ -1,0 +1,248 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lee-yumi",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "938c132f-3c4c-53a8-a0de-c68b08358533",
+            "updatedAt": "2025-01-28T07:11:55.299Z",
+            "createdAt": "2021-10-21T13:46:34.184Z",
+            "unitId": "1099",
+            "fullName": "Lee Yumi",
+            "slug": "lee-yumi",
+            "shortName": "Lee Yumi",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/e974cf804386526cfb4fc26254e65973/acb7c/emp-1099.png",
+                        "srcSet": "/static/e974cf804386526cfb4fc26254e65973/1c9ce/emp-1099.png 64w,\n/static/e974cf804386526cfb4fc26254e65973/bf8e1/emp-1099.png 128w,\n/static/e974cf804386526cfb4fc26254e65973/acb7c/emp-1099.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/e974cf804386526cfb4fc26254e65973/8257c/emp-1099.webp 64w,\n/static/e974cf804386526cfb4fc26254e65973/6766a/emp-1099.webp 128w,\n/static/e974cf804386526cfb4fc26254e65973/22bfc/emp-1099.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Police SWAT 4",
+            "seaReleaseDate": "June 3rd, 2021",
+            "krReleaseDate": "February 27th, 2020",
+            "globalReleaseDate": "May 27th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": {
+              "name": "Grinding Paddle",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Out of the the Way",
+              "description": "HP <b>+22%</b>, EVA <b>+40%</b>"
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lee Yumi is one of many middling frontline tanks that struggle to carve a niche for themselves. She is painfully average, with decent defensive stats and a low impact skill set.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lee Yumi’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" improves her effective HP by giving her barriers for every cast of her Special Skill. In spite of the changes, Lee Yumi’s effective HP is still too low to compete with stronger alternatives for the role, though it improves her survivability to the point that the gap in performance is less severe than it previously was. Of note, the barrier provided by Lee Yumi’s reactor is cancelable; Lee Yumi’s actual survivability can swing drastically depending on the presence of barrier/ buff removal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lee Yumi’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Level 2 Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" directly improves her effective HP by tweaking her HP and EVA.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Lee Yumi meets the baseline requirements expected of her as a frontline tank, and contributes nothing more to the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Lee Yumi is considered one of the weaker options among the viable-but-not-meta frontline tanks. She does not have the stats or the kit to distinguish herself from the pool of stronger alternatives (e.g. Rearm Kaci, Rearm Alex), but for when those stronger alternatives are inevitably rotated out via the weekly ban system, she may see consideration as frontline for the week. However, Lee Yumi tends to get passed up for the role even within her cohort of viable-but-not-meta defenders (e.g. Rearm Chulsoo, Freelancer Kim Chowon).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Decent stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Absence of teamwide utility hampers her viability when stronger alternatives not only tank better, but also provide more.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "8",
+              "pve_early": "7",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee tanker who fights on the front lines, using high EVA."
+            },
+            "introduction": {
+              "introduction": "　Lee Yumi is a defender of SWAT 4 who roams the frontline with her excellent evading skills.\n\n　Although she is a police officer, she so hostile towards criminals that she often swings her sword instead of handcuffing them. Her behavior has been repeatedly criticized by the mass media, but as the sole Counter within the police force with the highest arrest rate, she remains untouchable even to her superiors.\n　Her colleague, Kang Soyoung, also knows this and often tries to shift her responsibilities to Yumi. The two always quarrel with each other, but in the face of crime, they become the greatest partners in arms.\n　Because Yumi is always busy running to the crime scenes, all the bakery owners in the area know her face."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1099_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings a sword materialized out of her Watch and inflicts AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1099_2",
+                "name": "Out of the Way!",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Confidently charges without thinking twice. Increases EVA by 50% for 20 seconds when deployed."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "Passive buff also decreases DMG Taken by 15%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1099_3",
+                "name": "Spinning Edge",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Spins and moves toward the target, inflicting AoE damage. Enemies lose 30% of HIT and focus their attacks on her for 5 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Debuff also decreases enemy's ATK by 10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1099_4",
+                "name": "Dual Blade",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": 52,
+                "baseDescription": {
+                  "baseDescription": "Divides her sword into two and swings them with incredible speed, inflicting AoE damage on surrounding targets. Increases EVA by 50% for 15 seconds after this skill's effect."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Buff also decreases DMG Taken by 10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 27.76,
+                "critical": 2.05,
+                "def": 3.27,
+                "evade": 4.77,
+                "hit": 1.12,
+                "hp": 357
+              },
+              "base": {
+                "hp": 2835,
+                "atk": 272,
+                "def": 228,
+                "hit": 78,
+                "critical": 143,
+                "evade": 333
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "938c132f-3c4c-53a8-a0de-c68b08358533"
+    }
+  },
+  "staticQueryHashes": []
+}

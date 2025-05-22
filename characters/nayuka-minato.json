@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/nayuka-minato",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "17699bc0-c225-56e9-aa40-ed30080650f9",
+            "updatedAt": "2024-10-17T21:39:02.624Z",
+            "createdAt": "2021-10-21T23:41:55.809Z",
+            "unitId": "1114",
+            "fullName": "Nayuka Minato",
+            "slug": "nayuka-minato",
+            "shortName": "Nayuka Minato",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/cd2c9caec0cff9bf6461fc9ea49cc108/acb7c/emp-1114.png",
+                        "srcSet": "/static/cd2c9caec0cff9bf6461fc9ea49cc108/1c9ce/emp-1114.png 64w,\n/static/cd2c9caec0cff9bf6461fc9ea49cc108/bf8e1/emp-1114.png 128w,\n/static/cd2c9caec0cff9bf6461fc9ea49cc108/acb7c/emp-1114.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/cd2c9caec0cff9bf6461fc9ea49cc108/8257c/emp-1114.webp 64w,\n/static/cd2c9caec0cff9bf6461fc9ea49cc108/6766a/emp-1114.webp 128w,\n/static/cd2c9caec0cff9bf6461fc9ea49cc108/22bfc/emp-1114.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Nanahara Family Alliance",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "April 16th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Nayuka Minato does not have the stats necessary to meet the baseline requirements expected of him as a damage dealer.\\n\\nNayuka Minato does not possess relevant utility that would justify using him. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Inflicts greater damage on distant targets."
+            },
+            "introduction": {
+              "introduction": "　Nayuka Minato is a Ranged attacker who inflicts deadly AoE damage from a safe distance.\n\n　His family, Nayuka, is at the bottom of the ladder of the Family Alliance, which is led by House Nanahara that's so far removed from his family that it's all but a stranger.\n　Because of this, Minato used to enjoy a peaceful life, away from the eventful circle of the Family Alliance. But then he awakened as a Counter because of an old watch he received from his grandfather, his life hasn't been the same.\n　Minato, instead of feeling responsibility for his newfound power, just wants to be a teenager like everyone else his age, going to school and working part-time.\n　Currently, the Family Alliance is in the process of electing its new leader and focusing on rebuilding itself, so it can maintain the seal. It will want to recruit this boy who has the blood of the Nanaharas in him, but whether or not he joins depends on him."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1114_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires an arrow at the foremost target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1114_2",
+                "name": "Fire Bow: Aosui",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Imbues his arrows with the power of fire. Basic attacks inflict 15% more damage on targets farther than 500 reach away."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "Basic attacks cause Hitstun if Passive conditions are met"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1114_3",
+                "name": "Mitsuru Kai",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Uses a specially crafted bow to concentrate energy onto the arrow, inflicting AoE damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1114_4",
+                "name": "Nine Suns",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 65,
+                "baseDescription": {
+                  "baseDescription": "Shoots down the sun, inflicting AoE damage on a broad area."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.19,
+                "critical": 4.29,
+                "def": 1.34,
+                "evade": 0.91,
+                "hit": 3.35,
+                "hp": 126
+              },
+              "base": {
+                "hp": 980,
+                "atk": 271,
+                "def": 87,
+                "hit": 217,
+                "critical": 278,
+                "evade": 59
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "17699bc0-c225-56e9-aa40-ed30080650f9"
+    }
+  },
+  "staticQueryHashes": []
+}

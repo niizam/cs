@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/i-no",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "e86272fc-c3b6-55ea-a608-2db5e42908f0",
+            "updatedAt": "2024-11-07T21:47:01.045Z",
+            "createdAt": "2021-10-22T07:08:44.341Z",
+            "unitId": "1186",
+            "fullName": "I-NO",
+            "slug": "i-no",
+            "shortName": "I-NO",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#c84838",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2de1437845c3818a7460938f89c4eae4/acb7c/emp-1186.png",
+                        "srcSet": "/static/2de1437845c3818a7460938f89c4eae4/1c9ce/emp-1186.png 64w,\n/static/2de1437845c3818a7460938f89c4eae4/bf8e1/emp-1186.png 128w,\n/static/2de1437845c3818a7460938f89c4eae4/acb7c/emp-1186.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2de1437845c3818a7460938f89c4eae4/8257c/emp-1186.webp 64w,\n/static/2de1437845c3818a7460938f89c4eae4/6766a/emp-1186.webp 128w,\n/static/2de1437845c3818a7460938f89c4eae4/22bfc/emp-1186.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Red Musician",
+            "seaReleaseDate": "June 5th, 2024",
+            "krReleaseDate": "July 6th, 2021",
+            "globalReleaseDate": "June 5th, 2024",
+            "cost": 4,
+            "type": [
+              "Mech",
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "Executor",
+              "True Damage"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I-NO is an auto attack damage dealer that struggles with her damage and provides no utility outside of her lackluster damage, so she actually does nothing. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, I-NO is hopelessly outclassed by mainstay PVE snipers such as Agnes and Kestrel Xiao Lin. Depressingly, even Wardens outperform I-NO, outputting similar damage at half the cost. Even worse, Wardens are farmable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, I-NO’s moldy kit design from 2 years ago has unexpectedly given her a niche as a dedicated Shepherd & Lurcher killer. Unlike many modern characters, I-NO’s special skill is a single damage instance. This has a special interaction with Shepherd & Lurcher, who trigger an immortality self-buff after HP drops below 50%. With Special Skill DMG AMP Volcano gear and external buffs (e.g. Coffin-6 buffs, Vivian operator), she can basically one shot Shepherd & Lurcher from full HP, killing them before they can trigger their immortality self-buff. This gimmick can be extended to many other units, but has a lesser impact on the overall game state.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Special skill properties provide the groundwork for massive burst damage setups\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Literally everything else\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Ranged attacker who pushes away nearby enemies and delivers AoE attacks from a distance."
+            },
+            "introduction": {
+              "introduction": "I-NO is a Sniper delivering AoE attacks from a distance. She can blow away oncoming enemies to protect herself, and she's strong against flying units.\nSeemingly friendly, extroverted, and curious, she's actually a loner who looks down upon everyone else and is openly hostile to those to whom she feels threatened. Even though she's on the simulation list, she's not an ideal choice for team play because of her penchant to manipulate and torment others. Her real identity is a Magical Foci, a pseudo life form created by the people's desire for a brighter tomorrow during the Crusades. This side of her has been reflected in the simulated Counter/Mech."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Special Skill DMG AMP Volcano",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1186_1",
+                "name": "Antidepressant Scale",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Shoots a musical note, inflicting AoE damage on and around a target. This musical note's power varies, depending on its duration, increasing up to 20%."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1186_2",
+                "name": "Dust Attack",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "To targets within 300 reach, she deals 75% more damage, is immune to Hitstun from Special or lower skills, and casts an enhanced attack that inflicts Airborne. Damage bonus, Hitstun immunity, and Airborne are disabled for 12 seconds after the enhanced attack's effects. Additionally, increases ATK and Skill Haste by 3% for every Guilty Gear unit on the battlefield in PVE."
+                },
+                "level2": {
+                  "level2": "\nATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Passive inflicts true damage, Airborne target SPD -66% for 6 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1186_3",
+                "name": "Ultimate Fortissimo",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Leaps forward and releases an energy wave, inflicting AoE damage around her. Immune to damage until landing."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Sets skill damage to true damage."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1186_4",
+                "name": "Megalomania",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Swings numerous hearts, inflicting AoE damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Instantly kills 2 units with 15% or lower HP within range (Bosses excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 52.56,
+                "critical": 2.15,
+                "def": 3.38,
+                "evade": 0,
+                "hit": 7.24,
+                "hp": 191
+              },
+              "base": {
+                "hp": 1514,
+                "atk": 515,
+                "def": 236,
+                "hit": 506,
+                "critical": 150,
+                "evade": 0
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "e86272fc-c3b6-55ea-a608-2db5e42908f0"
+    }
+  },
+  "staticQueryHashes": []
+}

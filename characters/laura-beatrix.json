@@ -1,0 +1,242 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/laura-beatrix",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "92471002-c43c-59ae-a1a2-cbe8fdb0cc5b",
+            "updatedAt": "2024-10-17T21:23:57.679Z",
+            "createdAt": "2021-10-21T13:37:23.980Z",
+            "unitId": "1091",
+            "fullName": "Laura Beatrix",
+            "slug": "laura-beatrix",
+            "shortName": "Laura Beatrix",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8e8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/9b4a02bb4def5f38f48adf448fa1e036/acb7c/emp-1091.png",
+                        "srcSet": "/static/9b4a02bb4def5f38f48adf448fa1e036/1c9ce/emp-1091.png 64w,\n/static/9b4a02bb4def5f38f48adf448fa1e036/bf8e1/emp-1091.png 128w,\n/static/9b4a02bb4def5f38f48adf448fa1e036/acb7c/emp-1091.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/9b4a02bb4def5f38f48adf448fa1e036/8257c/emp-1091.webp 64w,\n/static/9b4a02bb4def5f38f48adf448fa1e036/6766a/emp-1091.webp 128w,\n/static/9b4a02bb4def5f38f48adf448fa1e036/22bfc/emp-1091.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Strega",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "Executor",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Laura Beatrix does not provide relevant utility at sufficient potency to justify using as a support.\\n\\nAs supporters’ personal stats don’t factor into the final buff values (buffs scale with target stats), stat scaling by rarity is largely secondary to the potency of the buffs/ debuffs they bring to the team.\\n \\nFor all scenarios, there exist more effective alternatives for the role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Enemies are weakened around her familiar and by her skills."
+            },
+            "introduction": {
+              "introduction": "　Laura Beatrix is a debilitating supporter who summons her cat familiar, Pluto, to inflict enemies with curses that slow and weaken them.\n\n　She is the owner of Cafe Strega who keeps claiming that she is not a cosplayer but a real witch. The employees of her cafe dress up as witches and often use real magic to make their work easier. But the customers believe that it's all part of the cosplay, accompanied by illusions. Even her familiar has become the mascot of the cafe, known as the cat that predicts misfortune.\n　Although Laura was unhappy with people who didn't believe in the existence of witches, she has recently accepted reality and has been working on the new menu as sales are on the rise. You can't blame a witch for wanting to make more money. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1091_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Throws a slow-traveling mass of impurity at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1091_2",
+                "name": "With Pluto",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Accompanies her pet cat, Pluto. Pluto decreases all enemies' ASPD by 20% for 10 seconds as soon as it appears. Pluto's stats increase, depending on Laura's level."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Pluto also decreases enemies' ATK by 10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1091_3",
+                "name": "Mot's Authority",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "An impure touch inflicts AoE damage on enemies in front. This skill increases Pluto's ASPD by 40% for 6 seconds, and instantly finishes one Defender or Striker with 15% or lower HP within range. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "DMG Taken -40% added to Pluto's buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1091_4",
+                "name": null,
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Opens a path to the Abyss, inflicting AoE damage on enemies in front. This skill fully restores Pluto's HP, or summons Pluto if it's not on the field."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Skill creates an area in front which decreases enemy's ASPD and SPD by 20% for 10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.39,
+                "critical": 1.08,
+                "def": 1.16,
+                "evade": 2.08,
+                "hit": 2.08,
+                "hp": 178
+              },
+              "base": {
+                "hp": 1417,
+                "atk": 190,
+                "def": 81,
+                "hit": 145,
+                "critical": 75,
+                "evade": 145
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "92471002-c43c-59ae-a1a2-cbe8fdb0cc5b"
+    }
+  },
+  "staticQueryHashes": []
+}

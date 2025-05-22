@@ -1,0 +1,218 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/choi-ina",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "2c64fff4-4ba0-57fd-8b8b-8ec61cbd6324",
+            "updatedAt": "2024-10-13T15:06:05.464Z",
+            "createdAt": "2021-10-21T11:47:27.022Z",
+            "unitId": "1041",
+            "fullName": "Choi Ina",
+            "slug": "choi-ina",
+            "shortName": "Choi Ina",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a24b45ab36c937324a8bb4658439f9e7/acb7c/emp-1041.png",
+                        "srcSet": "/static/a24b45ab36c937324a8bb4658439f9e7/1c9ce/emp-1041.png 64w,\n/static/a24b45ab36c937324a8bb4658439f9e7/bf8e1/emp-1041.png 128w,\n/static/a24b45ab36c937324a8bb4658439f9e7/acb7c/emp-1041.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a24b45ab36c937324a8bb4658439f9e7/8257c/emp-1041.webp 64w,\n/static/a24b45ab36c937324a8bb4658439f9e7/6766a/emp-1041.webp 128w,\n/static/a24b45ab36c937324a8bb4658439f9e7/22bfc/emp-1041.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "HRT Berry",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Battery",
+              "Buffer",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Choi Ina is a pure support employee that can't even attack anything. All she does is buff one of your allies and act as a battery - allowing you to deploy other employees faster.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The battery part is what makes her super useful in Raids, but sadly she was powercrept badly by Sigma - who not only does what Choi Ina can do but also she buffs the whole team. Same in PVP where Choi Ina is only used when she's an upped employee.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- battery!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- helps one of your allies with ATK and Skill Haste buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- battery is extremely slow.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A noncombat unit specialized in enhancing allies."
+            },
+            "introduction": {
+              "introduction": "　A guard who doesn't fight herself but turns the spotlight to an ally by significantly enhancing their abilities.\n\n　Choi Ina is a businesswoman who used to work in the entertainment industry, but she has recently quit her job to start her own NetTube business. As the CEO of Tomorrow Entertainment, a MCN of minor influencers, she also acts as a field manager to ensure Project HRT Berry's success. She is very sensitive about how she's addressed, and ruthlessly bans all viewers who refers to her as Madame.\n　In the show business, she used to be the classic workaholic manager. She established her own company after arguing with her superior about bringing in too much work. Nowadays, she is keeping the HRT Berry members busy with their live streams under the title of Daily Lives of Cute Counter Girls."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Attack Speed",
+                "notes": "Stack as much ASPD as possible; Skill haste substats."
+              },
+              "pvp": {
+                "set": "Attack Speed",
+                "notes": "Stack as much ASPD as possible; Skill haste substats."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1041_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Focuses on her office duties instead of fighting enemies on the field. Increases Skill Haste by 30% for 6 seconds every 10 seconds."
+                },
+                "level2": {
+                  "level2": "Skill Haste +5%"
+                },
+                "level3": {
+                  "level3": "Skill Haste +5%"
+                },
+                "level4": {
+                  "level4": "Skill Haste +5%"
+                },
+                "level5": {
+                  "level5": "Skill Haste +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1041_2",
+                "name": "Workaholic",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She is deployed near the ship and stays there. Basic attacks increase her Skill Haste by 6% every time they're performed, up to 30%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Deployment Resources +1 after every 3rd Basic attack"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1041_3",
+                "name": "On Live",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 35,
+                "baseDescription": {
+                  "baseDescription": "Sends a drone to the closest Ground ally in front, granting immunity to Hitstun from Special or lower skills and increasing ATK by 15% for 15 seconds."
+                },
+                "level2": {
+                  "level2": " ATK +5%"
+                },
+                "level3": {
+                  "level3": " ATK +5%"
+                },
+                "level4": {
+                  "level4": " ATK +10%"
+                },
+                "level5": {
+                  "level5": "Immunity to Hitstun from Ultimate or lower skills instead, additional Skill Haste +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 12.62,
+                "critical": 0.89,
+                "def": 1.21,
+                "evade": 0.51,
+                "hit": 1.67,
+                "hp": 177
+              },
+              "base": {
+                "hp": 1436,
+                "atk": 126,
+                "def": 91,
+                "hit": 126,
+                "critical": 67,
+                "evade": 38
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "2c64fff4-4ba0-57fd-8b8b-8ec61cbd6324"
+    }
+  },
+  "staticQueryHashes": []
+}

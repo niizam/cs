@@ -1,0 +1,309 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/cc",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "fd8d7c4d-6aca-5f12-9d11-6d25a27b4737",
+            "updatedAt": "2024-06-15T21:38:07.244Z",
+            "createdAt": "2022-09-21T08:36:20.889Z",
+            "unitId": "2230",
+            "fullName": "C.C.",
+            "slug": "cc",
+            "shortName": "C.C.",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c629c0f1fce9ff23d951138f9ce9c3c8/acb7c/emp-2230.png",
+                        "srcSet": "/static/c629c0f1fce9ff23d951138f9ce9c3c8/1c9ce/emp-2230.png 64w,\n/static/c629c0f1fce9ff23d951138f9ce9c3c8/bf8e1/emp-2230.png 128w,\n/static/c629c0f1fce9ff23d951138f9ce9c3c8/acb7c/emp-2230.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c629c0f1fce9ff23d951138f9ce9c3c8/8257c/emp-2230.webp 64w,\n/static/c629c0f1fce9ff23d951138f9ce9c3c8/6766a/emp-2230.webp 128w,\n/static/c629c0f1fce9ff23d951138f9ce9c3c8/22bfc/emp-2230.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Lancelot Frontier",
+            "seaReleaseDate": null,
+            "krReleaseDate": "September 21st, 2022",
+            "globalReleaseDate": "August 23rd, 2023",
+            "cost": 4,
+            "type": [
+              "Mech"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"C.C. is another character that came with the Code Geass collab and from the whole bunch, she's the most underwhelming one.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For 4 cost, her stats are nothing special and she doesn't seem to have any effect at all in any of her skills.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Has the potential to deal damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Doesn't apply any effect to anyone else.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Low base stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A long-range Ranger who focuses on dealing CRIT damage."
+            },
+            "introduction": {
+              "introduction": "C.C.와 랜슬롯 프론티어는 치명타 피해에 특화되어 지속적인 피해를 가하는 레인저입니다.\n의문의 소녀, C.C.는 를르슈와 계약하여 그에게 기아스라는 능력을 주었습니다.\n그녀가 를르슈와 계약한 목적은 알 수 없습니다.\n하지만 스스로를 공범자라 칭하며 를르슈의 반역에 가담하는 것을 보면, 무언가 중요한 이유가 있는 것이 분명합니다.\n랜슬롯 프론티어는 랜슬롯의 예비부품을 장착한 C.C.의 전용 나이트메어 프레임입니다.\n본 기체는 랜슬롯의 기본 무장을 충실히 계승한 한편, 콕핏의 사출 기능이 추가되어 파일럿의 생존성을 보장합니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "ATK+ATK / ASPD / ATK+Spectral Bullet|Chain",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "ATK+ATK / ASPD / ATK+Spectral Bullet|Chain",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2230_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires Lancelot Frontier weapons at the closest enemy."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2230_2",
+                "name": "We Signed a Contract, Right? We are in this together!",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Gains 25% CRIT DMG for 8 seconds after dealing 16 CRIT hits. Also gain +200 CRIT if her contractor, Lelouch is on the battlefield."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +4%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +4%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +5%"
+                },
+                "level5": {
+                  "level5": "CRIT +10%"
+                },
+                "level6": {
+                  "level6": "CRIT DMG +4%"
+                },
+                "level7": {
+                  "level7": "CRIT DMG +4%"
+                },
+                "level8": {
+                  "level8": "CRIT DMG +4%"
+                },
+                "level9": {
+                  "level9": "CRIT DMG +5%"
+                },
+                "level10": {
+                  "level10": "Activation condition changed to 12 CRIT hits."
+                }
+              },
+              {
+                "skillId": "2230_3",
+                "name": "Missile Shield",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Fires a missile from her shield, dealing AoE Damage and inflicting knockback."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Special skill's Crit DMG +10%"
+                }
+              },
+              {
+                "skillId": "2230_4",
+                "name": "Full-Power Varis",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Fires the Varis Rifle at full power, dealing AoE damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Gains +200 CRIT after using the skill until death."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Gains +15% CRIT DMG after using the skill until death."
+                }
+              },
+              {
+                "skillId": "2230_5",
+                "name": "An Immortal Witch",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Demonstrating her undisturbed mental power, she never loses concentration in battle. Gain +500 CRIT for 6s when deployed. (Cannot be canceled)"
+                },
+                "level2": {
+                  "level2": "CRIT DMG +10%"
+                },
+                "level3": {
+                  "level3": "Buff duration +2 s"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "Buff duration +2 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 47.56,
+                "critical": 3.59,
+                "def": 2.12,
+                "evade": 0.49,
+                "hit": 4.22,
+                "hp": 360
+              },
+              "base": {
+                "hp": 2863,
+                "atk": 466,
+                "def": 148,
+                "hit": 295,
+                "critical": 251,
+                "evade": 34
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "fd8d7c4d-6aca-5f12-9d11-6d25a27b4737"
+    }
+  },
+  "staticQueryHashes": []
+}

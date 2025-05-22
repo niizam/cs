@@ -1,0 +1,249 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kyle-wong",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "9f7eea1a-d651-553a-a3b4-2a417865c4ae",
+            "updatedAt": "2025-02-25T07:30:43.425Z",
+            "createdAt": "2021-10-21T12:10:56.672Z",
+            "unitId": "1061",
+            "fullName": "Kyle Wong",
+            "slug": "kyle-wong",
+            "shortName": "Kyle Wong",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5a9fd321f37f262a2eecefa84c99f813/acb7c/emp-1061.png",
+                        "srcSet": "/static/5a9fd321f37f262a2eecefa84c99f813/1c9ce/emp-1061.png 64w,\n/static/5a9fd321f37f262a2eecefa84c99f813/bf8e1/emp-1061.png 128w,\n/static/5a9fd321f37f262a2eecefa84c99f813/acb7c/emp-1061.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5a9fd321f37f262a2eecefa84c99f813/8257c/emp-1061.webp 64w,\n/static/5a9fd321f37f262a2eecefa84c99f813/6766a/emp-1061.webp 128w,\n/static/5a9fd321f37f262a2eecefa84c99f813/22bfc/emp-1061.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Delta Seven",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "One-off Type - Plasma Pulse Gun",
+              "type": "Special Skill Enh.",
+              "skill_name": "Strategy Bulwark",
+              "description": "Summoned Bulwark's HP +20%, [Assault Strategy Bulwark AGS-9A] provides Kyle Wong with DMG Transfer 50% and DMG RES Penetration 30%."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kyle Wong, the man who is famous for building his walls on the Mexico border... Wait, wrong character. Let us start again. Kyle Wong is one of the most versatile employees in the game. While his own damage is not that great and other Rangers easily beat him, the walls he summons not only stun enemies, but also taunt and are considered as Valid Hit absorbers - this makes enemy AOE skills less deadly.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, while it sounds good on paper, his walls are very niche nowadays, in both PVE and PVP. Instead of bringing him to use walls, many prefer to simply bring a better frontliner, and in PVP 3 cost is not very good for a unit that just distracts (and usually dies shortly after) when a car crash accident or Ingrid only costs 2. However, it should be noted that his walls count as mechs and thus can be sacrificed for Evolved One.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- walls reach far into the backline, interrupting skills,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- you don't have the right, O you don't have the right therefore you don't have the right, O you don't have the right.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- he's squishy and if his wall isn't protecting him he just dies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "7",
+              "pve_early": "7",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Summons a Taunting wall and attacks from behind it."
+            },
+            "introduction": {
+              "introduction": "　Kyle Wong is a versatile attacker who uses his gear to scatter enemy attacks while inflicting powerful damage over time.\n\n　As a member of Delta Seven's internal investigation team, he is considered as the best example of the federal government's Counter Training Program. Based on the latest Counter-adapted training he received, he utilizes various Counter gear to maximize the efficiency in battle.\n　He respects his boss, Lt. General Antonov, and he strives to become a thorough aide worthy of staying by her side. Delta Seven members fear him because he randomly patrols around on a per-second schedule to detect their misbehavior. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": "EE is good because it can roll double skill haste and has ASPD main stat."
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": "EE is good because it can roll double skill haste and has ASPD main stat."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1061_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rifle at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1061_2",
+                "name": "Active Expansion",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses a weapon that becomes more powerful the longer it's used. Basic attacks cast a 4-second buff. When this buff stacks 4 times, it enhances Basic attacks, increasing their damage on targets by 6% of their current HP. (Bosses and ships excluded)"
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "DMG by 8% of current HP instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1061_3",
+                "name": "Strategy Bulwark",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Summons a bulwark 400 reach in front of him that lasts for 8 seconds. Targets that were hit upon the summoning of the bulwark are stunned◇ 2 seconds. Afterward, it forces one nearby target to attack it at regular intervals."
+                },
+                "level2": {
+                  "level2": "Target units +1"
+                },
+                "level3": {
+                  "level3": "Target units +1"
+                },
+                "level4": {
+                  "level4": "Target units +1"
+                },
+                "level5": {
+                  "level5": "Additionally summons a small bulwark 1300 reach in front for 4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1061_4",
+                "name": "Gravity Gun",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Overloads his special rifle, inflicting AoE damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 33.28,
+                "critical": 4.41,
+                "def": 0.88,
+                "evade": 1.13,
+                "hit": 3.3,
+                "hp": 196
+              },
+              "base": {
+                "hp": 1526,
+                "atk": 320,
+                "def": 57,
+                "hit": 214,
+                "critical": 286,
+                "evade": 73
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "9f7eea1a-d651-553a-a3b4-2a417865c4ae"
+    }
+  },
+  "staticQueryHashes": []
+}

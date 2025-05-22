@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/xiao-lin",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "df3acdf1-2615-56e4-928d-63797ccc110a",
+            "updatedAt": "2024-10-18T22:46:40.925Z",
+            "createdAt": "2021-10-21T11:06:08.316Z",
+            "unitId": "1006",
+            "fullName": "Xiao Lin",
+            "slug": "xiao-lin",
+            "shortName": "Xiao Lin",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/aa6db1d7516e17e428242d9fc9aac00d/acb7c/emp-1006.png",
+                        "srcSet": "/static/aa6db1d7516e17e428242d9fc9aac00d/1c9ce/emp-1006.png 64w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/bf8e1/emp-1006.png 128w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/acb7c/emp-1006.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/aa6db1d7516e17e428242d9fc9aac00d/8257c/emp-1006.webp 64w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/6766a/emp-1006.webp 128w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/22bfc/emp-1006.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "ALT Squad",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiao Lin is a backline damage dealer with a kit designed solely for damage output. Xiao Lin’s damage can be attributed to her exclusive equipment (EE).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xiao Lin’s exclusive equipment significantly boosts her damage output as one of the exceedingly rare EEs with ASPD main stat. From a marginal damage increase standpoint, Xiao Lin’s EE is among the strongest in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Xiao Lin occupies the competitive dedicated damage dealer niche. Like many others that served the role, Xiao Lin has inevitably been powercrept out of the meta. PVE content has not necessarily gotten harder, rather clear speeds have gotten faster. It isn’t that Xiao Lin cannot clear, rather she clears slower than her peers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ignoring her performance at the highest levels of competitive content, Xiao Lin is a perfectly serviceable damage dealer for general content. She, after all, is the former strongest damage dealer of her era.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Basic attacks always inflict CRIT damage\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Overshadowed by newer, stronger dedicated damage dealers\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Super squishy\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "5",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Provides powerful support from the rear and boasts high accuracy."
+            },
+            "introduction": {
+              "introduction": "　As the youngest in her squad, Xiao Lin makes up for her small physique by mastering her position as a sniper.　Her ability to control bioelectricity allows her to make precise shots no matter how fast the target is moving.\n\n　During an operation, she excels at the role of scouting enemy activities and collecting information. Her efforts are believed to have greatly contributed to ALT Squad's high mission success rate.\n　She mainly uses an anti-material sniper rifle, to which she attaches a different accessory every time she completes a mission. She claims that it helps her improve her operational capabilities, but considering how her rifle has been unnecessarily upgraded several times, it appears to be a secret hobby of hers. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": "One of the few units who can effectively utilise CRIT DMG sets. Her EE is mandatory for best performance."
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": "One of the few units who can effectively utilise CRIT DMG sets. Her EE is mandatory for best performance."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1006_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a sniper rifle at the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1006_2",
+                "name": "Falcon Insight",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Controls her bioelectric currents for improved accuracy. Increases Basic Attack damage by up to 20%, depending on the distance between her and her target."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "Basic attacks always inflict CRIT damage"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1006_3",
+                "name": "Mozambique Drill",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Fires a sniper rifle 3 times in a row, attacking the foremost targets. This skill can't damage targets that exceed its Valid Hits."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Deals up to 20% more DMG to farther away targets"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1006_4",
+                "name": "Door Knocker",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Fires a bullet imbued with a special power, inflicting AoE damage. This bullet causes a rear blast that knocks enemies backward."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 55.11,
+                "critical": 4.04,
+                "def": 0.18,
+                "evade": 0.26,
+                "hit": 9.89,
+                "hp": 141
+              },
+              "base": {
+                "hp": 1116,
+                "atk": 540,
+                "def": 12,
+                "hit": 691,
+                "critical": 282,
+                "evade": 18
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "df3acdf1-2615-56e4-928d-63797ccc110a"
+    }
+  },
+  "staticQueryHashes": []
+}

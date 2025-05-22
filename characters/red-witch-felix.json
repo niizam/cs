@@ -1,0 +1,230 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/red-witch-felix",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "cb31dc9e-ac4a-55a7-8958-a4d782cacd00",
+            "updatedAt": "2025-02-25T07:31:48.223Z",
+            "createdAt": "2024-10-02T14:21:35.056Z",
+            "unitId": "1278",
+            "fullName": "Red Witch Felix",
+            "slug": "red-witch-felix",
+            "shortName": "Red Witch Felix",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8e8e8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/1b82cc57b900e0f1eebd6af9d6ad295d/22bfc/1278.webp",
+                        "srcSet": "/static/1b82cc57b900e0f1eebd6af9d6ad295d/8257c/1278.webp 64w,\n/static/1b82cc57b900e0f1eebd6af9d6ad295d/6766a/1278.webp 128w,\n/static/1b82cc57b900e0f1eebd6af9d6ad295d/22bfc/1278.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Unknown",
+            "seaReleaseDate": "November 13th, 2024",
+            "krReleaseDate": "October 2nd, 2024",
+            "globalReleaseDate": "November 13th, 2024",
+            "cost": 5,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Felix is a stationary tower unit who bolsters her team by flooding the field with her army of summons. While individually unimpressive, the summons can bog down the enemy with their sheer numbers, becoming additional HP and valid hits that opponents must grind through to reach the rest of her team. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Felix contributes more to the team than just glorified speed bumps; her ultimate fires a mapwide AOE nuke, applies powerful offensive buffs to her summons, and summons Chernobog, a C.O./Mech summon with potent offensive self-buffs that smashes through the enemy team with its ranged autocannon attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Felix has an interesting niche in early PVE as a (relatively) low investment carry. Felix practically fields a whole team by herself, and while they individually can’t hold a candle to more dedicated alternatives within the role, building Felix is several magnitudes cheaper than building up a whole team. If clear speed isn’t a priority, Felix can comfortably solo clear stages and progress general PVE content with shockingly little investment (i.e. toss some spectral gear on her).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Felix doesn’t see much use in endgame content, though it is worth mentioning that she is a strong option in 16-man content (e.g. Tyrant Gigas). Her kit does not have the burst damage potential to compete with more specialized alternatives in Danger Close, and her sustained DPS does not outperform that of existing damage dealer options at the upper limits of PVE damage optimization (e.g. DEF PEN strategies).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Felix is an extremely polarized unit. Against an unprepared team she easily runs away with the game, bogging down the opponent under the endless tide of bodies and finishing the match with a game ending Ultimate skill. Felix synergises with any unit that benefits from allies dying. Replacer King, Replacer Queen and Awakened Chris are all bolstered by Felix's presence on the field.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There are multiple avenues of approach to countering Felix, the majority of which involves abusing (figuratively and literally) Felix’s squishy summons. Felix is weak to:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Units that snowball off deaths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Certain characters (Eve Meitner, Awakened Lyudmila) snowball hard by punishing Felix’s team when enemies die. Certain characters (Replacer Queen, Awakened Chris) gain self-buffs whenever units die. In these matchups, Felix’s summons can be actively detrimental to the point of becoming liabilities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Aggressive comps\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Aggressive comps (e.g. Sasha rush) can quickly overwhelm Felix and kill her before she can ramp up. These matchups can be especially disastrous to Felix comps with an over-reliance on her frontline summon’s tanking ability. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Backline harassment tools\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Certain far-reaching units (e.g. Awakened Chifuyu, Rosaria) can threaten Felix's fixed position in the backline.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Awakened Na Yubin\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": As a tower, Awakened Na Yubin’s %HP burn applies to Felix. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Felix’s kit is designed around her summons. Players must be acutely aware of the week’s meta to avoid having those summons used against her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"The respectable damage output on Felix’s summons, especially in an early PVE environment, makes Felix a novel alternative to traditional damage dealers. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Fairly flexible gearing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Long ramp up time means Felix won't be contributing much before Ultimate skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Felix's summons can become massive liabilities into certain PVP matchups.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "11",
+              "pvp_global": "1",
+              "pve_early": "10",
+              "pve_late": "9"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS, Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS, CDR Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1278_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": 6,
+                "baseDescription": {
+                  "baseDescription": "Calls in an interceptor, dealing damage to Air units. Does not deal damage to ships in gauntlet. Unaffected by Cooldown increase/decrease.\n"
+                },
+                "level2": {
+                  "level2": "Basic Attack Damage +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack Damage +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack Damage +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack Damage +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1278_2",
+                "name": "Navia Protocol",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deployment position is fixed to the allied ship. Skill Haste permanently increases by 30% and gains immunity to Special Skills Hitstun, Stun, Knockback, and Airborne. Felix shares her stat growth and equipment with her summons. "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "While Felix is on the field, allied summons gain immunity to Stun and Special Hitstun (Cannot be removed)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1278_3",
+                "name": "Black Canal",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Melts the dimensional plane of the world, dealing damage to enemies within Valid Hit count and inflicts them with Blind for 6s. Forms a connection to the other world and summons in 3 [Banshee Troopers]. After casting Special Skill, grants all of Felix’s summons +10% ATK, +12% ASPD (Up to 3 stacks). \n\n[Banshee Troopers] (Soldier-Type) Up to 3 of each type can exist on the field (9 total)."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "After casting Special Skill, ally Banshee troopers will instead receive +30% ATK, +12% ASPD (Up to 3 stacks)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1278_4",
+                "name": "Firepower Testing",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 67,
+                "baseDescription": {
+                  "baseDescription": "When casting Ultimate Skill, grants all of Felix’s summons +50% DEF Penetration, +50% DMG RES Penetration for 25s. Then, deals AoE damage and summons [Chernobog]. Chernobog gains +20% ATK, +5.5% DMG RES Penetration for each Banshee trooper present on the field.\n\n[Chernobog] (C.O./Mechanic-Type) Immune to Confusion. Only 1 can exist on the field. Casts an Enhanced Attack after every 4 Basic Attacks, which Stuns targets for 5s (Mechs included, Valid Hit count: 3). Triggers a core overload upon death, dealing AoE damage in front (Valid Hit count: 5)."
+                },
+                "level2": {
+                  "level2": "Damage +5%"
+                },
+                "level3": {
+                  "level3": "Damage +5%"
+                },
+                "level4": {
+                  "level4": "Damage +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hit count +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 36.23,
+                "critical": 2.12,
+                "def": 7.1,
+                "evade": 1.72,
+                "hit": 2.68,
+                "hp": 393
+              },
+              "base": {
+                "hp": 3127,
+                "atk": 355,
+                "def": 850,
+                "hit": 187,
+                "critical": 148,
+                "evade": 120
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "cb31dc9e-ac4a-55a7-8958-a4d782cacd00"
+    }
+  },
+  "staticQueryHashes": []
+}

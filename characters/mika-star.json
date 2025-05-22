@@ -1,0 +1,252 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/mika-star",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b0ea7c61-4e13-512e-9793-a44b05148967",
+            "updatedAt": "2025-05-01T07:55:34.646Z",
+            "createdAt": "2021-10-22T07:01:21.772Z",
+            "unitId": "1181",
+            "fullName": "Mika ★ Star",
+            "slug": "mika-star",
+            "shortName": "Mika ★ Star",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8e8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/86607f8fd08811331dc603fcf09c3abe/acb7c/emp-1181.png",
+                        "srcSet": "/static/86607f8fd08811331dc603fcf09c3abe/1c9ce/emp-1181.png 64w,\n/static/86607f8fd08811331dc603fcf09c3abe/bf8e1/emp-1181.png 128w,\n/static/86607f8fd08811331dc603fcf09c3abe/acb7c/emp-1181.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/86607f8fd08811331dc603fcf09c3abe/8257c/emp-1181.webp 64w,\n/static/86607f8fd08811331dc603fcf09c3abe/6766a/emp-1181.webp 128w,\n/static/86607f8fd08811331dc603fcf09c3abe/22bfc/emp-1181.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Academy Student Council",
+            "seaReleaseDate": "January 12th, 2022",
+            "krReleaseDate": "June 15th, 2021",
+            "globalReleaseDate": "September 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": {
+              "name": "Pencil Magic",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Hypnosis",
+              "description": "Unawakened units additionaly gain 1s of Stun when Passive Skill is activated."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "Buffer",
+              "Healblock",
+              "Dispeller",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mika is a supporter/debuffer hybrid with a unique ability that lowers the max HP of all enemies, which translates to them receiving less healing. Mika's issue is that she tries to do too many things: debuff, buff, deal damage, and while she can do all those things the effects are much weaker compared to a dedicated character. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her niche is that she can counter Sleep abusing employees like Gremory that recently became really popular in the KR region. So from an employee that was a walking meme, Mika turned into an actually viable pick for weeks where Gremory is running rampant.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- uhm... her helltaker dance animation is pretty neat!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- best, and only, Sleep counter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- tries to do too many things and fails at each of them,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low stats which get her easily killed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A supporter specializing in weakening and neutralizing enemies"
+            },
+            "introduction": {
+              "introduction": "  Mika★Star is a Supporter who uses marvelous magic tricks to harass and weaken enemies.\n\n  Aspiring to be the greatest magician of the century, she represents the Academy's Counters who support noncombatism. She insists that everyone's dreams must be respected, and not all Counters need to focus on physical fighting skills. This must be why the Student President, who believes in harmony, has selected her for the Student Council.\n  And just because she believes in noncombatism, it doesn't mean she's weak. Her magic, which she's been painstakingly practiced to present bold, exciting magic shows, becomes lethal off the stage."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1181_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Draws lines with a pencil, inflicting damage on a single target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1181_2",
+                "name": "Hypnosis",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Removes Sleep status on all allies on deploy. Grants Sleep Immunity and EVA +200 to surrounding units and herself. Special and Ultimate skills make the subsequent Basic attack decrease all enemies' Max HP by 10% for 60 seconds. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "EVA +20% based on HP decrease"
+                },
+                "level3": {
+                  "level3": "EVA +20% based on HP decrease"
+                },
+                "level4": {
+                  "level4": "EVA +40% based on HP decrease"
+                },
+                "level5": {
+                  "level5": "Incoming Healing -25% added to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1181_3",
+                "name": "Pencil Magic Trick",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Uses the magic trick that makes her pencils disappear to inflict AoE damage on and around her target. The targets lose 15% of ATK for 8 seconds and also become Seal Skilled (bossex excluded) for 4 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Enemy's ATK -25% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1181_4",
+                "name": "Did you see the Death Omen Star?",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 58,
+                "baseDescription": {
+                  "baseDescription": "Summons an ominous star, inflicting AoE damage on and around her target. The targets are Stunned for 4 seconds. Also, increases all allies' ATK by 25% for 12 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Removes targets' barriers for 12 s (Bosses excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 22.05,
+                "critical": 3.27,
+                "def": 1.12,
+                "evade": 2.92,
+                "hit": 1.99,
+                "hp": 212
+              },
+              "base": {
+                "hp": 1687,
+                "atk": 216,
+                "def": 78,
+                "hit": 139,
+                "critical": 228,
+                "evade": 204
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b0ea7c61-4e13-512e-9793-a44b05148967"
+    }
+  },
+  "staticQueryHashes": []
+}

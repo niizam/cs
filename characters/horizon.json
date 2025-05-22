@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/horizon",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "0fdf9bdb-aafa-5960-b931-a12caa56febb",
+            "updatedAt": "2025-01-28T07:10:01.226Z",
+            "createdAt": "2021-11-07T11:04:12.131Z",
+            "unitId": "1196",
+            "fullName": "Horizon",
+            "slug": "horizon",
+            "shortName": "Horizon",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/19b767ea0099b03fcc748aa7192630ad/acb7c/emp-1196.png",
+                        "srcSet": "/static/19b767ea0099b03fcc748aa7192630ad/1c9ce/emp-1196.png 64w,\n/static/19b767ea0099b03fcc748aa7192630ad/bf8e1/emp-1196.png 128w,\n/static/19b767ea0099b03fcc748aa7192630ad/acb7c/emp-1196.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/19b767ea0099b03fcc748aa7192630ad/8257c/emp-1196.webp 64w,\n/static/19b767ea0099b03fcc748aa7192630ad/6766a/emp-1196.webp 128w,\n/static/19b767ea0099b03fcc748aa7192630ad/22bfc/emp-1196.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Horizon Finance",
+            "seaReleaseDate": "May 10th, 2022",
+            "krReleaseDate": "October 19th, 2021",
+            "globalReleaseDate": "November 17th, 2022",
+            "cost": 4,
+            "type": [
+              "Mech"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Barrier"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Horizon is a mech character that has a berserk state, with an emphasis on constantly dealing knockback to enemies around her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her knockback works a bit differently from other employees too. The distance the enemies are pushed away from her is far bigger than similar skills used by other employees. This, combined with her special skill, allows her to push the whole enemy team to their ship in mere seconds, which can be gamechanging in PVP. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, i\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"t is worth noting that she's not as tanky as other defenders, even with the 5% MDL she gains in her berserk state. Also if the enemy has barrier or buff removers (or worse still, barrier reflux), she will die very easily. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Horizon does not have much use, because she just drains her HP and dies when in her berserk state and her constant knockback gimmick rarely has any use. She occasionally has some use in DC, depending on seasonal debuffs, and has a place in Swift: Trimming Trinity room 2 as part of a non-awakened mech team. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- her ability to control the battlefield is one of the best in the game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- 5% MDL makes her a good choice in both PVP and PVE,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- despite her high cost, she's commonly used in rush teams because of her knockback.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- buff and barrier removers easily counter her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "9",
+              "pve_early": "6",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A defender that gets stronger the lower her HP gets."
+            },
+            "introduction": {
+              "introduction": "호라이즌은 지속적인 배리어 생성과 면역 효과로 자신을 보호하고 흉기로 적들을 날려버리는 저돌적인 디펜더입니다. \n그녀는 피도 눈물도 없기로 유명한 호라이즌 파이낸스의 수금업자입니다. 하지만 높은 금리와 악명에 비해 사무실 재정은 항상 제자리 걸음입니다. 수익의 대부분이 공공기물 파손으로 인한 변제로 나가기 때문이죠. 많은 채무자들이 이 작은 수금업자를 꼬마라 비웃으며 행동으로 보여주기 전까지 주머니를 열지 않으니까요. \n주위에서 보기에도 호라이즌은 금융업에 전혀 재능이 없다는 걸 알지만, 정작 본인은 개선할 필요성을 느끼지 않습니다. 그녀는 오히려 돈을 버는 것보다 수금 과정에서 마주치는 인간들을 관찰하는 것에 더 관심있어 보입니다. \n호라이즌의 행패에 당한 채무자들은 그녀가 자신의 힘을 과시하고 반응을 즐기는 것이라 주장하지만, 다른 목적이 있는 것인지는 좀 더 지켜봐야할 것 같습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank or ASPD Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank, ASPD Tank or Terror Gear",
+                "notes": "EE is good only for Terror builds."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1196_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings a metal pipe to inflict AoE damage to the front. When enhanced, conducts a knock-back attack that damages only three targets."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1196_2",
+                "name": "Foreclosure",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When damaged 4 times, creates a barrier equal to 3% of Max HP for 5 seconds. Activates after 2 hits if HP falls below 50%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Casts a barrier equal to 50% of Max HP if HP falls below 50%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1196_3",
+                "name": "Debtor Spotted",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 34,
+                "baseDescription": {
+                  "baseDescription": "Tracks down the debtor and inflicts AoE damage, targeting the caster for 6 seconds. Ignores cooldown and casts skill for targets beyond 600 reach. When in an enhanced state, damage is increased by 10% and Airborne becomes more powerful."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "+12% ASPD if at least two skills are cast after deployment"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1196_4",
+                "name": "Physical Persuasion",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When HP falls below 50%, gains immunity to all debuffs and hitstuns while gaining buffs on all attacks. Gradually consumes HP while in enhanced state (starts at 2%, increasing every 10 seconds up to 15% per sec). HP consumption rate reduced up to 4 times, once for every 3 basic or special attack made while not in enhanced state (up to 0.4% reduction at the start, and 3% at maximum drain rate)."
+                },
+                "level2": {
+                  "level2": "Increases DEF by up to 20% in inverse proportion to HP."
+                },
+                "level3": {
+                  "level3": "Increases DEF by up to 20% in inverse proportion to HP."
+                },
+                "level4": {
+                  "level4": "Increases DEF by up to 40% in inverse proportion to HP."
+                },
+                "level5": {
+                  "level5": "Changes DMG Taken Limit to 5% in enhanced state and all attacks apply hitstuns even on targets in Special Skill mode"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 24.01,
+                "critical": 1.17,
+                "def": 4.7,
+                "evade": 1.08,
+                "hit": 2.56,
+                "hp": 250
+              },
+              "base": {
+                "hp": 2055,
+                "atk": 243,
+                "def": 388,
+                "hit": 211,
+                "critical": 96,
+                "evade": 89
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "0fdf9bdb-aafa-5960-b931-a12caa56febb"
+    }
+  },
+  "staticQueryHashes": []
+}

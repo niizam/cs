@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/yang-harim",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "90ee6d30-f717-5889-9ec7-5f2b5f341720",
+            "updatedAt": "2024-10-18T22:48:05.339Z",
+            "createdAt": "2021-10-22T00:13:37.077Z",
+            "unitId": "1135",
+            "fullName": "Yang Harim",
+            "slug": "yang-harim",
+            "shortName": "Yang Harim",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5b58d0707b6d18e69c457cc240dd73b5/acb7c/emp-1135.png",
+                        "srcSet": "/static/5b58d0707b6d18e69c457cc240dd73b5/1c9ce/emp-1135.png 64w,\n/static/5b58d0707b6d18e69c457cc240dd73b5/bf8e1/emp-1135.png 128w,\n/static/5b58d0707b6d18e69c457cc240dd73b5/acb7c/emp-1135.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5b58d0707b6d18e69c457cc240dd73b5/8257c/emp-1135.webp 64w,\n/static/5b58d0707b6d18e69c457cc240dd73b5/6766a/emp-1135.webp 128w,\n/static/5b58d0707b6d18e69c457cc240dd73b5/22bfc/emp-1135.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "White Rabbit",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "May 27th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Debuffer",
+              "Healer",
+              "Shielder"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yang Harim is a potent backline supporter who provides an assortment of desirable buffs. With damage buffs/ debuffs, skill haste buffs, heals, and shields, there is little Yang Harim can’t do.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yang Harim is most notable for her 40% skill haste buff, which can significantly improve team tempo and skill uptime.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yang Harim sees frequent play in PVE as a general use buffer to round out the team. Her massive pool of buffs gives her great coverage across a multitude of roles, making her a flexible pick and a top contender for the support role within the team. Even without a clear direction for how a team should function (which tends to occur frequently with cobbled together teams for general PVE content) ,Yang Harim will always find a way to contribute to the team. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At the upper end of competitive PVE content, Yang Harim tends to be sidelined in favor of more specialized supporters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yang Harim’s well-rounded kit is more than enough to keep her relevant even as new supporters release to contest the team slot. She will always have a place in the game as a great “general good stuff” buffer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- 40% Skill Haste buff\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- None.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "10",
+              "pve_early": "10",
+              "pve_late": "10"
+            },
+            "description": {
+              "description": "An all-around support unit capable of both buffs and debuffs."
+            },
+            "introduction": {
+              "introduction": "　Yang Harim is the leader of Club White Rabbit that rescues abandoned pets. She is a supporter who fights alongside three brave animal friends.\n\n　Due to her excessive love for animals, she spends her entire Counter Support Fund from the Administration on buying pet food, and jumps right into the sewers whenever she hears a cry for help. Her dream is to own a ranch large enough for all rescued animals to play in.\n　It must be difficult to keep up with her studies and also rescue the animals, but even today, she runs off to participate in after-school club activities. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1135_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a machine gun for 5 seconds at targets in the distance or in the air, and swings a sword at nearby targets, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1135_2",
+                "name": "Cheerful Friends",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Summons friends whose appearance is enough to demotivate the enemy. Basic attacks decrease their targets' ATK by 10% for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "Passive effect also decreases enemy's ASPD by 10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1135_3",
+                "name": "Bear Up!",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 32,
+                "baseDescription": {
+                  "baseDescription": "Summons a bear that supports her with magic. Creates a barrier equal to 15% of HP around all allies within range and increases their Skill Haste by 20% for 10 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Skill Haste +40% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1135_4",
+                "name": "Time for an All-out Attack!",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 62,
+                "baseDescription": {
+                  "baseDescription": "Summons all her friends for an all-out attack. Increases all allies' ATK by 20% for 15 seconds, and inflicts AoE damage on enemies and decreases their Skill Haste by 20% for 15 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -3 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -3 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -6 s"
+                },
+                "level5": {
+                  "level5": "Restores all allies' HP by 20% when cast (excluding herself)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 27.35,
+                "critical": 1.94,
+                "def": 1.41,
+                "evade": 2.81,
+                "hit": 2.29,
+                "hp": 253
+              },
+              "base": {
+                "hp": 2012,
+                "atk": 268,
+                "def": 98,
+                "hit": 160,
+                "critical": 135,
+                "evade": 196
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "90ee6d30-f717-5889-9ec7-5f2b5f341720"
+    }
+  },
+  "staticQueryHashes": []
+}

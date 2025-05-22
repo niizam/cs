@@ -1,0 +1,187 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/woodpecker",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "5c28f2ad-8165-513b-b155-28e3831aee3c",
+            "updatedAt": "2024-07-28T19:31:18.021Z",
+            "createdAt": "2021-10-21T11:12:44.472Z",
+            "unitId": "1013",
+            "fullName": "Woodpecker",
+            "slug": "woodpecker",
+            "shortName": "Woodpecker",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/f96bbb1f65169e0865d7bfe92395efbf/acb7c/emp-1013.png",
+                        "srcSet": "/static/f96bbb1f65169e0865d7bfe92395efbf/1c9ce/emp-1013.png 64w,\n/static/f96bbb1f65169e0865d7bfe92395efbf/bf8e1/emp-1013.png 128w,\n/static/f96bbb1f65169e0865d7bfe92395efbf/acb7c/emp-1013.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/f96bbb1f65169e0865d7bfe92395efbf/8257c/emp-1013.webp 64w,\n/static/f96bbb1f65169e0865d7bfe92395efbf/6766a/emp-1013.webp 128w,\n/static/f96bbb1f65169e0865d7bfe92395efbf/22bfc/emp-1013.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "N",
+            "rarityNumber": 1,
+            "rarityClassName": "N",
+            "title": "Steel Lane",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Mech"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Woodpecker is one of the better N rarity employees in the game. Being an air employee he is safer and his low stats do not hurt him that much, especially if enemies do not have employees that can attack air units. Also, being a Striker unit that drops bombs on the backline has its perks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He can also be used as a cheap air tank in siege comps to redirect incoming damage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- air employee,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- easy to MLB.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low base stats hinder his potential.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "8",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A flying Melee anti-ground AoE attacker"
+            },
+            "introduction": {
+              "introduction": "　A vanguard that performs ground area attacks from the air.\n\n　They are combat drones that fly low and drop bombs over the enemy.\n　They are basically Sparrows armed with a high-explosive launcher. Steel Lane introduce this model based on the market demand for Sparrows with more firepower.\n　Since the combat algorithm of the Sparrow's AI was hard to modify, a fire suppression AI with a partial upgrade was installed on the new model. After all, the only difference is that they drop high explosives instead of fire extinguishing bombs."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": "Really wants evasion accessories and Melee DMG Res, so until you get melee res latent inhib relics you can run polymer ones."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1013_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Drops bombs from the air, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1013_2",
+                "name": "Motive Bombsight",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Improves the accuracy of its sight. Inflicts 10% more damage on Rangers."
+                },
+                "level2": {
+                  "level2": "DMG to Ranger +10%"
+                },
+                "level3": {
+                  "level3": "DMG to Ranger +10%"
+                },
+                "level4": {
+                  "level4": "DMG to Ranger +20%"
+                },
+                "level5": {
+                  "level5": "Basic attack Valid Hits +2"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.67,
+                "critical": 0.99,
+                "def": 1.74,
+                "evade": 1.08,
+                "hit": 0.69,
+                "hp": 201
+              },
+              "base": {
+                "hp": 1647,
+                "atk": 199,
+                "def": 143,
+                "hit": 57,
+                "critical": 81,
+                "evade": 89
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "5c28f2ad-8165-513b-b155-28e3831aee3c"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,233 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ignis-blade-hayami-sanae",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "9c1b5550-e1c8-5a76-9517-1e3a1b591098",
+            "updatedAt": "2024-10-02T12:42:48.744Z",
+            "createdAt": "2024-08-06T13:59:42.131Z",
+            "unitId": "1272",
+            "fullName": "Ignis Blade Hayami Sanae",
+            "slug": "ignis-blade-hayami-sanae",
+            "shortName": "Ignis Sanae",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b243b42fc299e0ae3095e7fbe4527be7/22bfc/1272.webp",
+                        "srcSet": "/static/b243b42fc299e0ae3095e7fbe4527be7/8257c/1272.webp 64w,\n/static/b243b42fc299e0ae3095e7fbe4527be7/6766a/1272.webp 128w,\n/static/b243b42fc299e0ae3095e7fbe4527be7/22bfc/1272.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "August 7th, 2024",
+            "krReleaseDate": "June 12th, 2024",
+            "globalReleaseDate": "August 7th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ignis Blade Hayami Sanae is a frontline tank with a unique survivability mechanic, \\\"Iron Defense\\\" state, a hitcount-based invincibility. To compensate, she sports exceptionally low defensive stats for cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanae has many issues preventing usage in PVE. The foremost of which is her high cost and inconsistent gimmick. She can see niche usage in volcano stages and has no notable advantages over other units in other content.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PvP, her unique gimmick struggles to compensate for her abysmal base stats. It takes a very specific ban rotation for Sanae to find her place.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Repeatedly applies hitcount invincibility.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Abysmal base stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"No MDL.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"No utility.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": null,
+            "introduction": {
+              "introduction": "Gordias's' Deputy Commander, first-class sword master, and the last descendent of the Hayami family… There are numerous ways of referring to her, but her sword has been known by only one name since ancient times. Ignis Blade. The sword was forged as a replica of one of the Nether God's swords, capable of determining its wielder's worth solely based on one's blazing mental image. Hayami Sanae was once its owner, but she was unable to believe in herself for a long time following her family's demise. She spent years in the cold shadows of atonement, separating herself from the blade. The fact that she is back to using Ignis Edge, though, is reassuring. For it demonstrates that her will is still burning brightly."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1272_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage to enemies in front with a quick unsheathe."
+                },
+                "level2": {
+                  "level2": "Basic attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1272_2",
+                "name": "Ember Conflux",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The lingering flames burn off the enemy's attack. Upon deployment, grants self with Iron Defense state that is removed after 14 hits. Becomes Unhealable while in the Iron Defense state, but recovers 20% HP for 1 second every time the Iron Defense state is removed."
+                },
+                "level2": {
+                  "level2": "EVA +5%"
+                },
+                "level3": {
+                  "level3": "EVA +5%"
+                },
+                "level4": {
+                  "level4": "EVA +10%"
+                },
+                "level5": {
+                  "level5": "Immunity to Hitstun from Special or lower skills when in the Iron Defense state"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1272_3",
+                "name": "Inferno Strike",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 23,
+                "baseDescription": {
+                  "baseDescription": "Charges in the direction where more enemies are within sight, dealing AoE damage and nullifying 2 random buffs of hit targets."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Activates Passive effect after casting Special skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1272_4",
+                "name": "Wildfire",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage around her by swinging the blazed Ignis Blade. Skill Haste +30% for 10 seconds when cast."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Activates Passive effect after casting Ultimate Skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 31.94,
+                "critical": 0.99,
+                "def": 4.45,
+                "evade": 2.53,
+                "hit": 3.65,
+                "hp": 450
+              },
+              "base": {
+                "hp": 3647,
+                "atk": 319,
+                "def": 337,
+                "hit": 276,
+                "critical": 75,
+                "evade": 191
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "9c1b5550-e1c8-5a76-9517-1e3a1b591098"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,226 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/jenica",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b2fcd5b2-a49d-57ea-bd75-d4a11d14ac91",
+            "updatedAt": "2025-03-27T09:24:40.139Z",
+            "createdAt": "2024-01-13T10:33:08.906Z",
+            "unitId": "1264",
+            "fullName": "Yanikka Shirokova",
+            "slug": "jenica",
+            "shortName": "Yanikka Shirokova",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8d8d8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/062d39bbb44869f730552ce06004605c/22bfc/1264.webp",
+                        "srcSet": "/static/062d39bbb44869f730552ce06004605c/8257c/1264.webp 64w,\n/static/062d39bbb44869f730552ce06004605c/6766a/1264.webp 128w,\n/static/062d39bbb44869f730552ce06004605c/22bfc/1264.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "June 12th, 2024",
+            "krReleaseDate": "December 19th, 2023",
+            "globalReleaseDate": "June 12th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Immortality"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jenica is a melee damage dealer Striker who enters the battle in a locked state - she can only Basic Attack until she takes lethal damage. Instead of dying she gains immortality, heals to full HP and enters the Bloody Mary state that unlocks the rest of her kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unfortunately, the rest of her kit is just doing damage. Her stats aren't good enough to compete with better damage-oriented strikers and immortality gimmick is ultimately meaningless.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There is no reason to ever touch this unit in PvE and in PvP there is no reason to use Jenica over better strikers - the UP system might not be enough to save this unit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Interesting kit with different modes,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Immortality,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If she gets rolling, she can't die and will kill everything.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sadly, this rarely happens as there's a lot of ways to counter Jenica in PVP,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High cost for what she brings,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Useless in PVE.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Striker who can enhance herself when her health is reduced"
+            },
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1264_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses a dismantling saw to deal AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%\n"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1264_2",
+                "name": "Bloody Mary ",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The more bloodshed, the stronger is the bond of contract. Immortal for 6s after HP falls below 1%, entering the suspension state with stealth and recovering full HP. When the state ends, maintain Immortality for 5s and lose 4% HP per sec until death. "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "While [Bloody Mary] is in effect, all attacks recover 4.5% HP. (2.5% in Gauntlet)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1264_3",
+                "name": "Macabre Perfumer",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The scent of game paralyzes reason. Immune to hitstun from Ultimate or Lower Skills while [Bloody Mary] is in effect, and delivers Enhanced Attacks. "
+                },
+                "level2": {
+                  "level2": "ASPD +10% while [Bloody Mary] is in effect."
+                },
+                "level3": {
+                  "level3": "ASPD +10% while [Bloody Mary] is in effect."
+                },
+                "level4": {
+                  "level4": "ASPD +20% while [Bloody Mary] is in effect."
+                },
+                "level5": {
+                  "level5": "ATK is permanently increased by 5% every time an enemy dies. (Up to 10 stacks)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1264_4",
+                "name": "Last Note",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 10,
+                "baseDescription": {
+                  "baseDescription": "Deploys the weapon to deal AoE damage in front. Unable to cast nor charge skill until [Bloody Mary] is activated. Gain 7 Fury count upon first deployment. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Outgoing Healing +50% for 10s after casting skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 32.25,
+                "critical": 1.66,
+                "def": 4.48,
+                "evade": 5.24,
+                "hit": 2.28,
+                "hp": 423
+              },
+              "base": {
+                "hp": 3365,
+                "atk": 316,
+                "def": 313,
+                "hit": 159,
+                "critical": 116,
+                "evade": 366
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b2fcd5b2-a49d-57ea-bd75-d4a11d14ac91"
+    }
+  },
+  "staticQueryHashes": []
+}

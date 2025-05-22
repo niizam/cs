@@ -1,0 +1,253 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/awakened-yuna-springfield",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "202e334e-50ab-5516-8a7e-ccc9be9ec1ea",
+            "updatedAt": "2025-05-01T07:53:55.452Z",
+            "createdAt": "2021-10-22T00:46:49.682Z",
+            "unitId": "1161",
+            "fullName": "Awakened Yuna Springfield",
+            "slug": "awakened-yuna-springfield",
+            "shortName": "Awakened Yuna Springfield",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/18760e01ab5c597964c47db2b5e2c290/acb7c/emp-1161.png",
+                        "srcSet": "/static/18760e01ab5c597964c47db2b5e2c290/1c9ce/emp-1161.png 64w,\n/static/18760e01ab5c597964c47db2b5e2c290/bf8e1/emp-1161.png 128w,\n/static/18760e01ab5c597964c47db2b5e2c290/acb7c/emp-1161.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/18760e01ab5c597964c47db2b5e2c290/8257c/emp-1161.webp 64w,\n/static/18760e01ab5c597964c47db2b5e2c290/6766a/emp-1161.webp 128w,\n/static/18760e01ab5c597964c47db2b5e2c290/22bfc/emp-1161.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Solar Codex",
+            "seaReleaseDate": "August 12th, 2021",
+            "krReleaseDate": "November 5th, 2020",
+            "globalReleaseDate": "July 7th, 2022",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": {
+              "name": "Eleanor Staff",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Rayleigh",
+              "description": "On top of the existing passive effect, inflicts the target enemies with a debuff that decreases their HP per sec (cannot be canceled, Bosses excluded). This debuff is 3% when there is one enemy unit within range and is decreased by 1% for every additional enemy unit within range (Min 1%)."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "Dispeller",
+              "DoT",
+              "Offtank",
+              "Selfhealer",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Yuna Springfield (AYuna) is a tanky damage dealer capable of outputting absurd damage with her %max HP burn aura. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On top of her burn aura, highlights of AYuna’s kit include her self-sustain and easy access to the “buff nullification” debuff through her special skill. Accompanying AYuna is her summon Rayleigh, who offsets her passive self-burn with his own healing and periodically slams the backline to deal damage and apply debuffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AYuna’s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" makes her burn aura significantly stronger and turns her into one of the best frontline melters in the game. With her reactor, AYuna outputs 3~5% max health true damage per second. Keep in mind that AYuna’s burn is a permanent debuff from her aura, so it bypasses barriers, cannot be stopped by hitstun, and cannot be mitigated through gear or debuffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AYuna is a PVE powerhouse whose value scales with stage difficulty. Owing to the nature of her %max HP burn, AYuna outputs impressive DPS against some HP-bloat enemies and creates an alternative angle of approach for players without the respective damage gear (e.g. Deep Conquest 3-10, Dive). Her universal buff stripping and blocking on her special skill also provides very good utility against enemies that have very annoying self-buffs (e.g. Yegor in Dive 60 boss node, who buffs himself with a huge 50% HP shield that comes with 100% category 2 DMG RES). Most other buff stripping units only remove \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"one random non-permanent buff\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", while also not having AYuna's buff block, making AYuna even more unique. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The nature of AYuna’s %max HP burn and buff strip + block is also what prevents her from seeing more widespread use, as both her burn and buff strip + block do not apply to bosses. AYuna struggles to find value in many of the endgame PVE game modes, including Dimension Trimming and Danger Close.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AYuna eventually gets phased out of endgame PVE in favor of more specialized units. However, her combination of damage, survivability, and self-healing makes her a potent early-mid game ASSR who easily carries you through the stages. She is one of the better ASSRs for rushing through general content, especially when pushing the limits of less developed accounts.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AYuna is an oppressive PVP character who dominates the meta when she’s free, leveraging her %max HP burn aura and her buff stripping + blocking (which can even block healing outputs from enemy healers) to apply an overwhelming amount of pressure to the enemy frontline.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AYuna’s burn aura is capable of outputting more damage than dedicated damage dealers (e.g. Old Administration Rifleman) at a fraction of the risk. Of note, AYuna’s %max HP burn kills all targets at roughly the same rate. This means AYuna is highly effective against expensive frontline units (e.g. Awakened Jake, Awakened Hilde, Evolved-001) and relatively worse against comps that cycle cheap frontline units.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Since the bulk of AYuna’s damage scales off her target’s %max HP, she can take advantage of tank gear without sacrificing damage. Her self-sustain is enough to heal up any chip damage; it can be incredibly difficult to make damage “stick”. Even when AYuna gets chunked, she can quickly heal back to full if left unchecked.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rayleigh, AYuna’s summon, brings a ton of value through his backline disruption (damage, hitstun, and debuff) and bulk. Notably, Rayleigh will resurrect to full HP once on death. This passive makes Rayleigh deceptively tanky, enabling him to stall a considerable amount of time for a summon.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AYuna is a flexible unit who can be played in a variety of comps. As a short ranged damage dealer, AYuna is exposed to danger. In a PVP environment, AYuna will not be strong enough to properly frontline for the team. For this reason, AYuna pairs well with other frontline tanks who can shield her while she applies her burn aura in relative safety. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AYuna has several weaknesses in her kit that can be exploited:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AYuna positions herself close to the frontline. Without units to tank for her, AYuna can quickly die to dedicated anti-striker damage dealers (e.g. Xiao Lin, Warden).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Healing reduction debuffs are strong against AYuna. Depriving AYuna of her self-sustain makes her far easier to manage. Tangentially, the Gauntlet healing debuff active 90 seconds into the match heavily inhibits AYuna’s self-sustain, significantly impacting her survivability as the match drags on.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rayleigh is the source of AYuna’s self-sustain and without it she becomes incredibly vulnerable. While not the first option in terms of AYuna counterplay, Rayleigh can be directly countered with Harab, though more esoteric solutions exist (i.e. timing Momo reflux with Rayleigh’s revive).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While this sounds fairly straightforward, players will rarely give you the opportunity to hurt AYuna directly. In practice, this all devolves into some variation of “kill AYuna faster than she kills you”. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"AYuna is a frontline tank, damage dealer, healer, backline harasser, debuffer, and dispeller all rolled into one unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"AYuna is extremely efficient at dealing with high health enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Bosses are unaffected by AYuna’s %max HP burn and her buff strip + block, putting a limit on how far she can carry you through PVE. This isn’t as bad as it sounds; there’s usually something for AYuna to do.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "11",
+              "pve_early": "10",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A Melee AoE attacker who summons a Supporter unit for help in battle"
+            },
+            "introduction": {
+              "introduction": "　Yuna Springfield, the carrier of the grimoire of the sun, Solar Codex, is a vanguard commanding fire magic.\n\n　Not yet skilled enough to control the powerful heat she generates, she often burns herself along with her enemies. It's thanks to the controller of the Codex, Rayleigh, she's able to regulate her power of fire.　The proud controller of the Codex always complains about Yuna's inaptitude, but when she's in danger, he fights for her more fiercely than anyone else."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Tank CDR or Full Tank",
+                "notes": "What you use is ultimately up to you to decide, based on a scale of survivability vs. skill haste."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1161_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Summons flames, inflicting AoE damage on enemies in front. After every 5th Basic attack, Rayleigh delivers an AoE attack to the farthest target and decreases its ATK and ASPD by 30% for 5 seconds."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1161_2",
+                "name": "Rayleigh",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Summons Rayleigh when deployed. Yuna decreases HP by 2% every second for herself and surrounding enemies (Bosses and ships excluded), and recovers 3% of HP every second if Rayleigh is on the field. Rayleigh resurrects in 5 seconds with full HP once per summon."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "If Rayleigh is dead, DMG Taken -50% and Special/Ultimate skill HP restoration +50% for 5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1161_3",
+                "name": "Solar Flame",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Summons a massive column of fire, inflicting AoE damage on and around the target. Targets lose their buff effects and can't receive new buffs for 6 seconds. Yuna also recovers 10% of HP if Rayleigh is on the field."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -15% for 8 s when cast, effect doubled if Rayleigh is on the field"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1161_4",
+                "name": "Prominence",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 52,
+                "baseDescription": {
+                  "baseDescription": "Concentrates and discharges the power of the sun, inflicting AoE damage on enemies in front. Recovers 20% of HP if Rayleigh is on the field."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "ATK +15% for 12 s after skill, effect doubled if Rayleigh is on the field"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 42.15,
+                "critical": 3.54,
+                "def": 3.87,
+                "evade": 5.78,
+                "hit": 2.64,
+                "hp": 480
+              },
+              "base": {
+                "hp": 3815,
+                "atk": 413,
+                "def": 270,
+                "hit": 184,
+                "critical": 247,
+                "evade": 404
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "202e334e-50ab-5516-8a7e-ccc9be9ec1ea"
+    }
+  },
+  "staticQueryHashes": []
+}

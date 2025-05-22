@@ -1,0 +1,185 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/zsu-shilka",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c2907c51-8f80-5f8c-a726-3f879b676e93",
+            "updatedAt": "2024-10-17T21:38:12.796Z",
+            "createdAt": "2021-10-21T11:25:19.768Z",
+            "unitId": "1025",
+            "fullName": "ZSU Shilka",
+            "slug": "zsu-shilka",
+            "shortName": "ZSU Shilka",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/8ce4bbb2a1cecce2746dba9942978612/acb7c/emp-1025.png",
+                        "srcSet": "/static/8ce4bbb2a1cecce2746dba9942978612/1c9ce/emp-1025.png 64w,\n/static/8ce4bbb2a1cecce2746dba9942978612/bf8e1/emp-1025.png 128w,\n/static/8ce4bbb2a1cecce2746dba9942978612/acb7c/emp-1025.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/8ce4bbb2a1cecce2746dba9942978612/8257c/emp-1025.webp 64w,\n/static/8ce4bbb2a1cecce2746dba9942978612/6766a/emp-1025.webp 128w,\n/static/8ce4bbb2a1cecce2746dba9942978612/22bfc/emp-1025.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Fennec Fox",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Mech"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, ZSU Shilka does not have the stats necessary to meet the baseline requirements expected of it as a damage dealer.\\n\\nZSU Shilka does not possess relevant utility that would justify using it. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "An anti-air attacker that increases surrounding allies' anti-air capability."
+            },
+            "introduction": {
+              "introduction": "　Although specializing in anti-air attacks, this ranged attacker can be used against anything.\n\n　It is a self-propelled anti-air gun that has been used since the mid 20th century. Armed with four 23mm machine guns, it is capable of destroying ground targets as well as the ones in the air. The radar installed in the upper part greatly helps Fennec Fox with their deficiency in surveillance equipment.\n　Since the vehicle's armor is weak, solo engagement can be devastating. Operate with infantry units if possible."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1025_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Rapidly fires a self-propelled gun at the target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1025_2",
+                "name": "Ertix Radar",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses an improved scanning and tracking radar to aid in combat. Increases all surrounding units' damage on Air units by 10%."
+                },
+                "level2": {
+                  "level2": "DMG to Air unit +10%"
+                },
+                "level3": {
+                  "level3": "DMG to Air unit +10%"
+                },
+                "level4": {
+                  "level4": "DMG to Air unit +20%"
+                },
+                "level5": {
+                  "level5": "Passive buff increases allies' DMG to Air unit by 20% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 27.73,
+                "critical": 1.65,
+                "def": 1.56,
+                "evade": 0.88,
+                "hit": 1.93,
+                "hp": 162
+              },
+              "base": {
+                "hp": 1314,
+                "atk": 277,
+                "def": 118,
+                "hit": 146,
+                "critical": 125,
+                "evade": 66
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c2907c51-8f80-5f8c-a726-3f879b676e93"
+    }
+  },
+  "staticQueryHashes": []
+}

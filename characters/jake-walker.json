@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/jake-walker",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "47bb6497-10a4-58ce-93d7-de3269e4aa18",
+            "updatedAt": "2024-03-19T21:03:52.308Z",
+            "createdAt": "2021-10-21T12:09:24.903Z",
+            "unitId": "1060",
+            "fullName": "Jake Walker",
+            "slug": "jake-walker",
+            "shortName": "Jake Walker",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/19fb9120ef8056cbf91107f7a0a1c22d/acb7c/emp-1060.png",
+                        "srcSet": "/static/19fb9120ef8056cbf91107f7a0a1c22d/1c9ce/emp-1060.png 64w,\n/static/19fb9120ef8056cbf91107f7a0a1c22d/bf8e1/emp-1060.png 128w,\n/static/19fb9120ef8056cbf91107f7a0a1c22d/acb7c/emp-1060.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/19fb9120ef8056cbf91107f7a0a1c22d/8257c/emp-1060.webp 64w,\n/static/19fb9120ef8056cbf91107f7a0a1c22d/6766a/emp-1060.webp 128w,\n/static/19fb9120ef8056cbf91107f7a0a1c22d/22bfc/emp-1060.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Delta Seven",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "ETB",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jake Walker is a 4-cost Striker that has a hard time finding a place for him in the game's PVE and PVP meta. While his stats are pretty good for his SR rarity, allowing him to both stay alive and deal damage, and his skills have a low cooldown and wide range, it's hard to justify using him. Mainly because there are other Strikers that cost less and can do what he does but better.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He was already buffed twice since his release, but it's not enough to make him a viable employee.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- good stats allowing him to offtank,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low cooldown on his skills,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- wide range on his AOE.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- 4 cost is a bit too high,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- other Strikers simply overshadow him.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A lasting Melee attacker whose skills cool down quickly."
+            },
+            "introduction": {
+              "introduction": "　Jake Walker is a sturdy vanguard who pushes back enemies with rapid use of skills.\n\n　Colonel Walker is a trusted field agent even amongst the elite-oriented Delta Seven. He prefers to find and knock down the source of problem instead of taking the time to devise a plan. Colonel Walker's reckless style has always brought in controversy amongst the command.\n　But the frontline soldiers have great trust for their superior who always takes the lead. His family has participated in many wars and distinguished themselves in countless battles. Colonel Walker's mindset of caring for his men is assumed to be a part of his family tradition. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1060_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Throws lightning-charged punches at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1060_2",
+                "name": "Emergency Call",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Inflicts AoE damage around him upon deployment."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Passive attack DMG +50%, DMG to Mech +30%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1060_3",
+                "name": "Thunder Break",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 14,
+                "baseDescription": {
+                  "baseDescription": "Charges his feet with electricity and stomps on the ground, causing an explosion that inflicts AoE damage on enemies in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Skill range +50%, Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1060_4",
+                "name": "Lightning Execution",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Musters up all his strength and throws a punch, causing an electric explosion that inflicts AoE damage. Increases ASPD and Skill Haste by 30% for 10 seconds after the skill's effect."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Buff duration +6 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 26.13,
+                "critical": 1.88,
+                "def": 3.09,
+                "evade": 4.55,
+                "hit": 2.82,
+                "hp": 305
+              },
+              "base": {
+                "hp": 2426,
+                "atk": 256,
+                "def": 216,
+                "hit": 197,
+                "critical": 131,
+                "evade": 318
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "47bb6497-10a4-58ce-93d7-de3269e4aa18"
+    }
+  },
+  "staticQueryHashes": []
+}

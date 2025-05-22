@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/karin-wong",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "1edd33c1-04ce-54d2-a60e-07a6244244bd",
+            "updatedAt": "2025-04-09T08:07:49.764Z",
+            "createdAt": "2021-10-22T00:19:48.261Z",
+            "unitId": "1139",
+            "fullName": "Karin Wong",
+            "slug": "karin-wong",
+            "shortName": "Karin Wong",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5d75690ca017749f0a572491b44a88a8/acb7c/1139.png",
+                        "srcSet": "/static/5d75690ca017749f0a572491b44a88a8/1c9ce/1139.png 64w,\n/static/5d75690ca017749f0a572491b44a88a8/bf8e1/1139.png 128w,\n/static/5d75690ca017749f0a572491b44a88a8/acb7c/1139.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5d75690ca017749f0a572491b44a88a8/8257c/1139.webp 64w,\n/static/5d75690ca017749f0a572491b44a88a8/6766a/1139.webp 128w,\n/static/5d75690ca017749f0a572491b44a88a8/22bfc/1139.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Delta Seven: Pathfinder",
+            "seaReleaseDate": "May 27th, 2021",
+            "krReleaseDate": "March 31st, 2020",
+            "globalReleaseDate": "May 26th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": {
+              "name": "Prototype Special Firearm - Anti-air Plasma",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Anti-air Expansion",
+              "description": "ASPD buff of Passive Skill lv. 5 changes to 20% (up to 60%), Passive Skill's first attack always crits."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Karin Wong is a long-range anti-air specialist sniper with a kit designed against fliers. To this end, she comes with air attack range extension, enhanced basics on air targets, and air target priority. Karin is purpose-built to snipe fliers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Karin’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" provides a boost to her damage. It is not enough to make her competitively viable, but damage can always be appreciated. Notably, it does not address any of her existing problems; Karin’s flaws still limit her from seeing widespread use.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Karin struggles to compete with general damage dealers for the role on the team. Karin may be specialized, but she often finds herself outclassed by general damage dealers who don’t seem to have issues killing everything, fliers included, and then some.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Karin has several glaring weaknesses keeping her from being viable. These are:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Passive transition animation lock\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Karin goes through a long barrel-swap animation when she switches between “melee” and “ranged” range. In a PVP environment with constantly changing ranges, Karin can trap herself in an endless animation loop. This significantly affects her damage uptime to the point she is borderline unplayable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Poor survivability\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Karin is fragile and has next to no defensive utility. On paper, she comes with a proximity-triggered wall summon meant to push enemies away when they get too close. In practice, it does little to nothing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Less consistent than stronger alternatives\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Awakened Lee Sooyeon (ALSY) is the premier anti-air option. It is difficult to justify running Karin for all her faults when ALSY fulfills the same niche with far more consistency. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Air target priority \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Squishy \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Slow animations \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "5",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Uses powerful Basic attacks from a distance that attack both Ground and Air units."
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1139_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rifle at a target in front. Targets Air units within range first."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1139_2",
+                "name": "Anti-air Expansion",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Equips a firearm specially created for long-range interception purposes. Inflicts 50% more AoE damage on targets outside a 400-reach range. Targets Air units within range first."
+                },
+                "level2": {
+                  "level2": "Anti-Air DMG +10%"
+                },
+                "level3": {
+                  "level3": "Anti-Air DMG +10%"
+                },
+                "level4": {
+                  "level4": "Anti-Air DMG +20%"
+                },
+                "level5": {
+                  "level5": "During Passive attack, ASPD +10% (up to 30%)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1139_3",
+                "name": "Mobile Strategy Bulwark",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 30,
+                "baseDescription": {
+                  "baseDescription": "Summons a bulwark that knocks nearby enemies backward with damage. This bulwark moves forward and periodically forces a target to attack it for 3 seconds."
+                },
+                "level2": {
+                  "level2": "Bulwark HP +5%"
+                },
+                "level3": {
+                  "level3": "Bulwark HP +5%"
+                },
+                "level4": {
+                  "level4": "Bulwark HP +10%"
+                },
+                "level5": {
+                  "level5": "Immunity to Hitstun from Special or lower skills when she is around her bulwark."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1139_4",
+                "name": "Freedom Strike",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 64,
+                "baseDescription": {
+                  "baseDescription": "Summons Delta Seven's flagship, the New Ohio, and inflicts AoE damage on enemies in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 48.07,
+                "critical": 3.59,
+                "def": 1.32,
+                "evade": 0.95,
+                "hit": 7.61,
+                "hp": 176
+              },
+              "base": {
+                "hp": 1399,
+                "atk": 471,
+                "def": 92,
+                "hit": 532,
+                "critical": 251,
+                "evade": 66
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "1edd33c1-04ce-54d2-a60e-07a6244244bd"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/levia-thanis",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "007e5478-dc9e-5047-81fe-375c98f3db9b",
+            "updatedAt": "2024-11-07T21:44:29.068Z",
+            "createdAt": "2022-08-09T05:46:08.621Z",
+            "unitId": "1226",
+            "fullName": "Levia Thanis",
+            "slug": "levia-thanis",
+            "shortName": "Levia Thanis",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b53acd657815b53fe50d4a1ecaacbe2c/acb7c/emp-1226.png",
+                        "srcSet": "/static/b53acd657815b53fe50d4a1ecaacbe2c/1c9ce/emp-1226.png 64w,\n/static/b53acd657815b53fe50d4a1ecaacbe2c/bf8e1/emp-1226.png 128w,\n/static/b53acd657815b53fe50d4a1ecaacbe2c/acb7c/emp-1226.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b53acd657815b53fe50d4a1ecaacbe2c/8257c/emp-1226.webp 64w,\n/static/b53acd657815b53fe50d4a1ecaacbe2c/6766a/emp-1226.webp 128w,\n/static/b53acd657815b53fe50d4a1ecaacbe2c/22bfc/emp-1226.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Successor",
+            "seaReleaseDate": "January 12th, 2023",
+            "krReleaseDate": "August 9th, 2022",
+            "globalReleaseDate": "July 26th, 2023",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Perfect Evasion",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Levia Tanis is a PVP-focused Defender that trades most of the utility other members of the class bring for enemy HP based true damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She has one of the strongest passives in the game - Noncancellable Perfect Evasion, while debuffing enemies HIT up to 75%, and most importantly dealing damage to enemies attacking her by 10% of their current HP. This reflection damage is not mitigated by any DMG RES or defense, allowing her to reduce even the tankiest awakened defenders to half HP within a very short period.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In terms of holding the frontline she is also pretty reliable. Forward moving special, passive stance and dash follow-up keep her infront, while high base Evasion lets her keep gained positional advantage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Keep in mind that her skill can be countered; she can be stunned out of passive stance, and debuff immunity (commonly available through Olivie Park operator) prevents her passive from doing any damage. Her special cooldown is quite long, and outside of stance she really isn't doing much.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, she has some use due to her HP% based dmg. In addition, her forward dash on her special allows her to be used in Jungle Trimming room 3 as part of a full auto comp.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Perfect Evasion + HIT Debuff allow her to tank for days,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- True HP% damage reflection can melt down most awakened defenders.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Great grouping with the ultimate along with more HP% dmg.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Can sometimes get stuck in the backline she targets her skill in the wrong way.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Countered by counterattacks, they can cancel her broken passive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Stuns can also cancel her passive stance.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "10",
+              "pve_early": "8",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "An evasive Defender that can deal damage while protecting herself"
+            },
+            "introduction": {
+              "introduction": "레비아 타니스는 공격에 반응하여 적을 제압하는 회피형 디펜더입니다.\n낸시라는 낙후된 소도시의 헤어 드레서가 행방을 감춘 지 오랜 시간이 흘렀습니다. 단골 어르신들은 남자와 눈이 맞아 도망갔다는 농담을 주고받곤 합니다. 낸시가 어느 불운한 날, 창백한 푸른색으로 빛나는 워치를 주웠다는 사실은 까맣게 모른 채로.\n앞치마를 두른 수수한 인상의 여성이 용병들을 헤집고 다닌다는 소문도 잠시, 화려하게 치장한 미용사가 번화가를 활보하기 시작했습니다. 꾸미기에 관심이 많고 뛰어난 스타일링 솜씨를 자랑하며, 한 번 점찍으면 사냥감도 손님도 결코 놓치지 않습니다.\n레비아와 낸시가 동일인물이라는 추측은 사실에 근접합니다. 문제는 그 몸의 주도권이 누구에게 있느냐겠죠. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "HP + HP / Cooldown Reduction",
+                "notes": "Ground DMG Res / Skill Haste substats."
+              },
+              "pvp": {
+                "set": "HP + HP / Cooldown Reduction",
+                "notes": "Ground DMG Res > Melee/Ranged DMG Res > Skill Haste > CDMG Res substats."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1226_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attack the closest target with her scissors."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1226_2",
+                "name": "Friendly Hairdresser",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After casting Special Skill, stops attacking and casts Perfect EVA for 6 seconds (Cannot be canceled, immunity to Hitsun from Ultimate or lower skills, removed after 20 hits). While Perfect EVA is active, every attack reduces the attacker's HIT by 8% for 10 seconds (up to 40%), and affected Rangers and Snipers take 15% of their current HP as damage (Bosses excluded). When Perfect EVA ends, she rushes forward and deals AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG RES +2%"
+                },
+                "level3": {
+                  "level3": "DMG RES +2%"
+                },
+                "level4": {
+                  "level4": "DMG RES +4%"
+                },
+                "level5": {
+                  "level5": "Gain 10% Skill Haste for every 5 attacks evaded (up to 100%). Effect is removed after casting special skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1226_3",
+                "name": "Vertical Slice",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 30,
+                "baseDescription": {
+                  "baseDescription": "Dash toward the closest enemy, dealing AOE damage and Taunting damaged enemies for 6 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Gain 20% Damage Reduction for 12 seconds after casting the skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1226_4",
+                "name": "A Dangerous Service",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 54,
+                "baseDescription": {
+                  "baseDescription": "Dash quickly back and forth, dealing AOE damage in a large radius. Deals additional damage equal to 25% of the target's current HP. (15% in Gauntlet, Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Gain 100% EVA for 15 seconds after casting the skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.68,
+                "critical": 0.94,
+                "def": 3.95,
+                "evade": 4.39,
+                "hit": 1.64,
+                "hp": 431
+              },
+              "base": {
+                "hp": 3544,
+                "atk": 189,
+                "def": 326,
+                "hit": 135,
+                "critical": 77,
+                "evade": 362
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "007e5478-dc9e-5047-81fe-375c98f3db9b"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ifrit",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "32898b3f-3fba-5eea-ba1f-30f0d23665fb",
+            "updatedAt": "2024-10-18T23:19:46.781Z",
+            "createdAt": "2021-10-21T12:21:00.183Z",
+            "unitId": "1068",
+            "fullName": "Ifrit",
+            "slug": "ifrit",
+            "shortName": "Ifrit",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/bab8407972c013172c34b719a6a27143/acb7c/emp-1068.png",
+                        "srcSet": "/static/bab8407972c013172c34b719a6a27143/1c9ce/emp-1068.png 64w,\n/static/bab8407972c013172c34b719a6a27143/bf8e1/emp-1068.png 128w,\n/static/bab8407972c013172c34b719a6a27143/acb7c/emp-1068.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/bab8407972c013172c34b719a6a27143/8257c/emp-1068.webp 64w,\n/static/bab8407972c013172c34b719a6a27143/6766a/emp-1068.webp 128w,\n/static/bab8407972c013172c34b719a6a27143/22bfc/emp-1068.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Old Administration",
+            "seaReleaseDate": "November 3rd, 2021",
+            "krReleaseDate": "May 28th, 2020",
+            "globalReleaseDate": "August 4th, 2022",
+            "cost": 3,
+            "type": [
+              "Mech"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Barrier"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ifrit is a backline damage dealer with a kit designed solely for damage output. Ifrit is notable in that it is a mech and a striker, which distinguishes it in a role composed largely of rangers and snipers. To elaborate:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"As a mech\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", Ifrit can take advantage of Coffin-6. Coffin-6 has the most potent offensive buffs in the game, on the caveat that they’re only accessible to mechs. Ifrit is highly synergistic with Coffin-6 and benefits greatly as a damage dealer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"As a ranged striker\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", Ifrit has some flexibility in how it is geared. Ifrit may not match the damage output of dedicated backline damage dealers, but while it does not benefit from role advantage, it also does not suffer from role damage disadvantage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Ifrit occupied the competitive dedicated damage dealer niche as an anti-ranger specialist. Like many others that served the role, Ifrit has inevitably been powercrept out of the meta.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Ifrit sees somewhat regular play in mech comps as a damage dealer, otherwise it has largely disappeared from the meta in favor of stronger alternatives.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Mech-based damage dealer.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Passive barrier is more of a curse than a boon, as it makes Ifrit extremely vulnerable to barrier reflux.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "8",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "Strong against Defenders, and grows stronger as it attacks longer."
+            },
+            "introduction": {
+              "introduction": "　A vanguard that grows stronger when shooting fire without moving.\n\n　They are armored units of the Old Administration used to break through enemy lines. Their continuous firepower can neutralize even C.O. They must be operated with caution, because the stock of their spare barrels are running low."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1068_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires its four machine guns at the foremost target, periodically inflicting damage. The attack stops if 12 seconds pass, or if the target dies, or if the target moves 700 reach away from the caster."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1068_2",
+                "name": "Reinforced Barrier Coating",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "It's equipped with a reinforced version of the Administration's standard-issue barrier. Casts a barrier equal to 70% of Max HP when deployed, and becomes immune to Hitstun from Special or lower skills for this barrier's duration."
+                },
+                "level2": {
+                  "level2": "DEF +5%"
+                },
+                "level3": {
+                  "level3": "DEF +5%"
+                },
+                "level4": {
+                  "level4": "DEF +10%"
+                },
+                "level5": {
+                  "level5": "Barrier covers 100% of Max HP"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1068_3",
+                "name": "Accuracy Stabilization OS",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The closer the target, the more accurate the firing shots. Inflicts 5% more damage on Defenders."
+                },
+                "level2": {
+                  "level2": "DMG to Defender +5%"
+                },
+                "level3": {
+                  "level3": "DMG to Defender +5%"
+                },
+                "level4": {
+                  "level4": "DMG to Defender +10%"
+                },
+                "level5": {
+                  "level5": "DMG to Striker +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1068_4",
+                "name": "Eternium Acceleration",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Temporarily increases its output. Increases ASPD by 25% for 8 seconds."
+                },
+                "level2": {
+                  "level2": "Buff duration +1 s"
+                },
+                "level3": {
+                  "level3": "Buff duration +1 s"
+                },
+                "level4": {
+                  "level4": "Buff duration +2 s"
+                },
+                "level5": {
+                  "level5": "Buff also adds DEF Penetration +25%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 33.99,
+                "critical": 3.22,
+                "def": 4.9,
+                "evade": 0.51,
+                "hit": 3.34,
+                "hp": 206
+              },
+              "base": {
+                "hp": 1639,
+                "atk": 333,
+                "def": 342,
+                "hit": 233,
+                "critical": 225,
+                "evade": 35
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "32898b3f-3fba-5eea-ba1f-30f0d23665fb"
+    }
+  },
+  "staticQueryHashes": []
+}

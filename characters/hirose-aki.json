@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/hirose-aki",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "1e6d4cfe-e822-5af2-9171-ce21e1fd7af0",
+            "updatedAt": "2024-10-17T21:20:37.551Z",
+            "createdAt": "2021-10-21T12:03:19.676Z",
+            "unitId": "1051",
+            "fullName": "Hirose Aki",
+            "slug": "hirose-aki",
+            "shortName": "Hirose Aki",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/d8bbdf19ed188219e05a6f9fa00e12b8/acb7c/emp-1051.png",
+                        "srcSet": "/static/d8bbdf19ed188219e05a6f9fa00e12b8/1c9ce/emp-1051.png 64w,\n/static/d8bbdf19ed188219e05a6f9fa00e12b8/bf8e1/emp-1051.png 128w,\n/static/d8bbdf19ed188219e05a6f9fa00e12b8/acb7c/emp-1051.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/d8bbdf19ed188219e05a6f9fa00e12b8/8257c/emp-1051.webp 64w,\n/static/d8bbdf19ed188219e05a6f9fa00e12b8/6766a/emp-1051.webp 128w,\n/static/d8bbdf19ed188219e05a6f9fa00e12b8/22bfc/emp-1051.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Freedom Riders",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Selfhealer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Hirose Aki does not have the stats necessary to meet the baseline requirements expected of her as a frontline tank.\\n\\nHirose Aki does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A defensive unit that recovers HP every time she uses a skill."
+            },
+            "introduction": {
+              "introduction": "　A defender who draws attention by performing area attacks.\n\n　It is a widely accepted theory that a Watch appears to those who develop a strong will to live before death, or to those with an equivalent tenacity. That explains how Hirose Aki could become a Counter. Her obsession towards living an idle life is unmatched.\n　Aki's ultimate goal is to find a stable source of income. The fastest way to make money would be to become a mercenary, but she has never even imagined herself working.\n　An experiment proved that Hirose Aki's greatsword changes weight based on the will of its master."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1051_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Brandishes a greatsword and moves forward, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1051_2",
+                "name": "Young and Playful",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She can never get tired of playing. Restores 10% of HP with Special and Ultimate skills."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1051_3",
+                "name": "Look Here!",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Broadly spins and slashes at a front area, inflicting AoE damage. Forces the inflicted enemy to target on her for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1051_4",
+                "name": "Downward Slash",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Jumps high and forcefully swings her sword downward, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 22.05,
+                "critical": 0.51,
+                "def": 4.28,
+                "evade": 0.99,
+                "hit": 1.08,
+                "hp": 273
+              },
+              "base": {
+                "hp": 2167,
+                "atk": 216,
+                "def": 299,
+                "hit": 75,
+                "critical": 35,
+                "evade": 69
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "1e6d4cfe-e822-5af2-9171-ce21e1fd7af0"
+    }
+  },
+  "staticQueryHashes": []
+}

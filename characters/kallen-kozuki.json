@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kallen-kozuki",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "5afbd7c7-171f-5941-9cc1-3c7570779c77",
+            "updatedAt": "2024-10-13T15:04:25.641Z",
+            "createdAt": "2022-09-21T08:22:01.753Z",
+            "unitId": "1228",
+            "fullName": "Kallen Kōzuki",
+            "slug": "kallen-kozuki",
+            "shortName": "Kallen Kōzuki",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c987515e1acc761bcb214816e57ae2ac/acb7c/emp-1228.png",
+                        "srcSet": "/static/c987515e1acc761bcb214816e57ae2ac/1c9ce/emp-1228.png 64w,\n/static/c987515e1acc761bcb214816e57ae2ac/bf8e1/emp-1228.png 128w,\n/static/c987515e1acc761bcb214816e57ae2ac/acb7c/emp-1228.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c987515e1acc761bcb214816e57ae2ac/8257c/emp-1228.webp 64w,\n/static/c987515e1acc761bcb214816e57ae2ac/6766a/emp-1228.webp 128w,\n/static/c987515e1acc761bcb214816e57ae2ac/22bfc/emp-1228.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Red Lotus Festival",
+            "seaReleaseDate": null,
+            "krReleaseDate": "September 21st, 2022",
+            "globalReleaseDate": "August 23rd, 2023",
+            "cost": 5,
+            "type": [
+              "Mech"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Perfect Evasion",
+              "Detect Stealth",
+              "Barrier",
+              "Healblock",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kallen K\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"ō\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"zuki is a useless ASSR who came with the Code Geass collab event. Kallen contributes nothing to the game that other characters can’t do better. Kallen already struggled to establish a niche for herself when she was initially released. Now, she has been thoroughly power crept out of the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kallen was used in one of the earliest auto strategies developed to clear the overhauled Dimension Trimming Swift Stage 2. She has long since been replaced. Being replaced by someone better is going to be a recurring theme in Kallen’s sad Counterside career.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kallen costs 5 DP. Kallen doesn’t frontline well. Kallen doesn’t deal damage. Kallen doesn’t provide any meaningful utility. Kallen serves no purpose in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- None.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- It’s difficult to stress just how mediocre she is.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A tanky Striker that focuses on debuffing enemies."
+            },
+            "introduction": {
+              "introduction": "코우즈키 카렌과 그녀의 홍련 성천팔극식은 복사파동을 사용하여 적의 생존력을 약화시키는 스트라이커입니다.\n카렌은 브리타니아인과 일본인의 혼혈이지만 스스로를 일본인, 코우즈키 카렌이라고 생각합니다.\n일본 독립을 위해 반란군 활동을 하던 카렌은 제로와 만나, 그녀의 뛰어난 능력을 인정 받고 흑의 기사단의 에이스로서 활약하게 됩니다.\n홍련 성천팔극식은 제9세대 나이트메어 프레임으로 노획된 홍련 가상식을 브리타니아의 과학자, 로이드와 세실에 의해 일반인은 다룰 수 없을 정도의 뛰어난 스펙의 기체로 개조되었습니다.\n강화된 철갑포격의 오른팔에서는 다채로운 복사파동 공격이 가능하며, 공방일체의 비행장치인 에너지 윙으로 전장을 지배합니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Cooldown Reduction",
+                "notes": "Full Maze set. Her exclusive equipment is worth using for the barrier enhancement mainstat."
+              },
+              "pvp": {
+                "set": "Cooldown Reduction",
+                "notes": "Full Maze set. Her exclusive equipment is worth using for the barrier enhancement mainstat."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1228_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses MVS Knife to attack enemies."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1228_2",
+                "name": "Ace Pilot",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Maneuvers around the deployment position before appearing. Casts Perfect EVA for 10s when deployed. Can detect Stealth units and gain permanent immunity to hitstun from special skills and lower."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "Creates a barrier equal to 20% max HP on herself when deployed."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1228_3",
+                "name": "Diffused Radiation Wave ",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 23,
+                "baseDescription": {
+                  "baseDescription": "Fires a diffused radiation wave from her arm, attacking enemies in front. Damaged targets have their incoming healing reduced by 100%, lose 1% of current HP per second (Bosses excluded), and recieve +10% DMG Taken AMP for 6 seconds.(The effects applied via the Special and Ultimate skills are independent of each other and the duration does not refresh when applied)."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Creates a barrier equal to 10% of max HP on herself after casting the skill. Also increases own ATK and ASPD by 30% for 12 seconds."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1228_4",
+                "name": "Empowered Radiation Wave",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Charges forward and attacks enemies with radiation waves after colliding with them. Damaged enemies have their Incoming Healing reduced by 100%, lose 1.5% of current HP per second (Bosses excluded), and recieve +15% DMG Taken AMP for 12s. (The effects applied via the Special and Ultimate skills are independent of each other and the duration does not refresh when applied)."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Resets the cooldown of the Special skill after casting."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 32.04,
+                "critical": 2.08,
+                "def": 4.95,
+                "evade": 4.9,
+                "hit": 5.33,
+                "hp": 447
+              },
+              "base": {
+                "hp": 3488,
+                "atk": 308,
+                "def": 321,
+                "hit": 346,
+                "critical": 135,
+                "evade": 318
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "5afbd7c7-171f-5941-9cc1-3c7570779c77"
+    }
+  },
+  "staticQueryHashes": []
+}

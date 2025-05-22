@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/gremory",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "eb36314c-182f-5f47-9a2a-b45514ca3ae2",
+            "updatedAt": "2024-10-17T22:04:58.154Z",
+            "createdAt": "2022-02-15T08:33:07.955Z",
+            "unitId": "1205",
+            "fullName": "Gremory",
+            "slug": "gremory",
+            "shortName": "Gremory",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/10227619861b6c3ab4c64039144c2b12/acb7c/emp-1205.png",
+                        "srcSet": "/static/10227619861b6c3ab4c64039144c2b12/1c9ce/emp-1205.png 64w,\n/static/10227619861b6c3ab4c64039144c2b12/bf8e1/emp-1205.png 128w,\n/static/10227619861b6c3ab4c64039144c2b12/acb7c/emp-1205.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/10227619861b6c3ab4c64039144c2b12/8257c/emp-1205.webp 64w,\n/static/10227619861b6c3ab4c64039144c2b12/6766a/emp-1205.webp 128w,\n/static/10227619861b6c3ab4c64039144c2b12/22bfc/emp-1205.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Gremory Bar",
+            "seaReleaseDate": "August 3rd, 2022",
+            "krReleaseDate": "February 14th, 2022",
+            "globalReleaseDate": "January 26th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "Perfect Evasion",
+              "Battery",
+              "Paratrooper"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gremory is a PVP-oriented forward-deployment character notable for her ability to deploy anywhere on the map, which can be used creatively as a disruption tool. Gremory’s kit gives her plenty of flexibility in how she can be used.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gremory’s ETB gives her temporary perfect evasion and creates a pink vortex that deals damage over time and continuously reapplies sleep to enemies - effectively serving as a long duration stun. As the sleep is applied instantly, she can be used to cancel Special skills and even some Ultimates.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Importantly, Gremory will teleport back to the ship if there is no unit in close proximity behind her when she is deployed. Gremory is played with the expectation that she tanks damage. Ideally, she should never teleport back. Understanding her deployment range and positioning properly is a core part to using her effectively.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Instant redirect/ disruption tool that can reach almost everywhere on the map.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Useless in PVE.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "11",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A support that focuses on interrupting enemies on deployment"
+            },
+            "introduction": {
+              "introduction": "그레모리는 알콩달콩한 기운을 사방에 퍼트려 출격과 동시에 적들을 잠재우는 서포터입니다.\n한때 그녀는 암흑가에서 사람의 운명을 바꿔주는 예언자로 유명했지만, 지금은 과거를 청산하고 작은 바를 열었습니다. 남의 사랑 고민을 듣고 조언을 해주는 사랑 해결사로 활동 중이죠.\n언제나 독한 술을 곁에 두고 순정만화를 즐기는 그녀에게 있어 주점 밖 세상 돌아가는 일은 관심거리가 아닙니다. 처음 온 손님의 애정운을 점치거나, 서로 미워하는 사람들을 사랑에 빠지게 하고 구경하는 것을 취미로 삼습니다. \n다만 그녀가 모든 유형의 사랑을 즐기진 않습니다. 특히 불륜처럼 불순한 사랑을 목격하는 날엔 가게가 한바탕 뒤집어지곤 하니까요. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1205_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks the closest target with your love to them."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1205_2",
+                "name": "Party Time!",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When deployed, a burst of feeling good water attacks enemies and deals damage for 6 seconds. Damaged targets are put into Sleep for 4 seconds (excluding bosses)."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "+1 Valid Hits. Damaged targets lose 40% ATK for 15 seconds (the debuff value is lowered to 20% in Gauntlet)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1205_3",
+                "name": "I'm Not One Of You!",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Enters Perfect EVA for 8 seconds upon deployment. If there's no ally within 700 reach behind her, she teleports toward the ally ship and cancels Perfect EVA upon arrival."
+                },
+                "level2": {
+                  "level2": "Buff Duration +1s"
+                },
+                "level3": {
+                  "level3": "Buff Duration +1s"
+                },
+                "level4": {
+                  "level4": "Buff Duration +2s"
+                },
+                "level5": {
+                  "level5": "Restore 25% of max HP when the PE buff ends. If the PE buff was removed after teleporting, the healing isn't applied."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1205_4",
+                "name": "Party Time Once More!",
+                "type": "Ultimate",
+                "validHits": null,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Pushes nearby enemies in the direction Gremory is facing and uses Party Time passive. When deployed, the ultimate always starts with 0 progress."
+                },
+                "level2": {
+                  "level2": "Cooldown -1s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2s"
+                },
+                "level5": {
+                  "level5": "+1 Deployment Resource the first time the ultimate is cast after deployment."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 20.82,
+                "critical": 1.41,
+                "def": 1.86,
+                "evade": 2.92,
+                "hit": 4.08,
+                "hp": 220
+              },
+              "base": {
+                "hp": 1749,
+                "atk": 204,
+                "def": 130,
+                "hit": 285,
+                "critical": 98,
+                "evade": 204
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "eb36314c-182f-5f47-9a2a-b45514ca3ae2"
+    }
+  },
+  "staticQueryHashes": []
+}

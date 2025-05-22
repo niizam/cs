@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kim-chulsoo",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "2aece3d1-60d5-54f4-a0f0-5bfe2967eab0",
+            "updatedAt": "2024-10-17T21:23:27.940Z",
+            "createdAt": "2021-10-21T12:01:50.115Z",
+            "unitId": "1050",
+            "fullName": "Kim Chulsoo",
+            "slug": "kim-chulsoo",
+            "shortName": "Kim Chulsoo",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/365403c2b0855b61a0e62650983b849e/acb7c/emp-1050.png",
+                        "srcSet": "/static/365403c2b0855b61a0e62650983b849e/1c9ce/emp-1050.png 64w,\n/static/365403c2b0855b61a0e62650983b849e/bf8e1/emp-1050.png 128w,\n/static/365403c2b0855b61a0e62650983b849e/acb7c/emp-1050.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/365403c2b0855b61a0e62650983b849e/8257c/emp-1050.webp 64w,\n/static/365403c2b0855b61a0e62650983b849e/6766a/emp-1050.webp 128w,\n/static/365403c2b0855b61a0e62650983b849e/22bfc/emp-1050.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Yeoksam Residents' Association",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Kim Chulsoo does not have the stats necessary to meet the baseline requirements expected of him as a frontline tank.\\n\\nKim Chulsoo does not possess relevant utility that would justify using him. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A defensive unit that Taunts enemies on the front lines, keeping them away from his allies."
+            },
+            "introduction": {
+              "introduction": "　Kim Chulsoo is a defender who breaks enemy lines with his powerful martial arts.\n\n　An ordinary office worker in the past, he survived a sudden Corruption Disaster by dramatically awakening his power as a Counter. His incredible kicks that knocked down C.O. were filmed and went viral. It is said that he unconsciously copied the techniques from a video game he played in his childhood.\n　He was revered as a hero on the media, but he suffered from the trauma of the catastrophe for a while. Fortunately, he completed the rehabilitation process and decided to return to work. Instead of going back to a normal office, he applied to a TASKFORCE company to fight against C.O."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1050_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Performs a series of attack moves that anyone can follow, inflicting damage on a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1050_2",
+                "name": "Incompetent Section Chief",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Exudes a strong presence, drawing attention. Basic attacks force their targets to attack him for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "The last Basic attacks becomes AoE, DMG +100%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1050_3",
+                "name": "Nostalgic Jump Kick",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Imitates the signature kicks of his favorite video game character from his childhood, inflicting AoE damage on surrounding enemies. Forces the inflicted enemy to target on his for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1050_4",
+                "name": "Burnout Fist",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Taps into his work stress and fatigue and delivers a powerful punch at a target in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Skill always inflicts CRIT damage"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.22,
+                "critical": 0.53,
+                "def": 5.4,
+                "evade": 0.94,
+                "hit": 1.06,
+                "hp": 342
+              },
+              "base": {
+                "hp": 2769,
+                "atk": 182,
+                "def": 409,
+                "hit": 80,
+                "critical": 40,
+                "evade": 71
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "2aece3d1-60d5-54f4-a0f0-5bfe2967eab0"
+    }
+  },
+  "staticQueryHashes": []
+}

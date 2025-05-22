@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kim-sobin",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "3786681d-8982-5d18-abd7-7c19bcdb4416",
+            "updatedAt": "2024-08-31T20:19:24.036Z",
+            "createdAt": "2021-10-21T11:07:44.693Z",
+            "unitId": "1007",
+            "fullName": "Kim Sobin",
+            "slug": "kim-sobin",
+            "shortName": "Kim Sobin",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6bb706b4a9cbe6ca094232c5902cc616/acb7c/emp-1007.png",
+                        "srcSet": "/static/6bb706b4a9cbe6ca094232c5902cc616/1c9ce/emp-1007.png 64w,\n/static/6bb706b4a9cbe6ca094232c5902cc616/bf8e1/emp-1007.png 128w,\n/static/6bb706b4a9cbe6ca094232c5902cc616/acb7c/emp-1007.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6bb706b4a9cbe6ca094232c5902cc616/8257c/emp-1007.webp 64w,\n/static/6bb706b4a9cbe6ca094232c5902cc616/6766a/emp-1007.webp 128w,\n/static/6bb706b4a9cbe6ca094232c5902cc616/22bfc/emp-1007.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "ALT Squad",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Barrier",
+              "CC",
+              "DoT",
+              "ETB"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sobin looks innocent, but do not let that fool you. Her minigun makes her one of the best damage dealers in the game who is still used today in a variety of Raids and Danger Close bosses. Despite her high cost, it is worth using her in PVE because her damage is matched by few other employees.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On the flip side, her skill and ult make her DPS go down. This makes having more skill haste on her a negative.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- massive DPS,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- easy to reach full potential (level 110) because she's a farmable employee.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- not good on content with multiple enemies; shines mostly on bosses.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Ranged attacker who's slow, but provides a high amount of fixed firepower."
+            },
+            "introduction": {
+              "introduction": "　Kim Sobin, who is in charge of fire support, is very slow in motion but can deliver massive firepower once she gets into position.\n\n　This is because she has the ability to create a dimensional pocket in which she carries an arsenal big enough to fit in a heavy military transporter.\n　Although she uses various heavy firearms, she doesn't like to see blood. She always prepares bandages and antiseptics in her subspace, so that she can provide first aid to any wounded people she meets, strangers or not.\n　It is uncertain why someone like her, far from a mercenary, came to the Underground. It is assumed that she was dragged into her position due to her close relations with fellow squad members. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": "Always use her EE and max it, even with broken set."
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": "Always use her EE and max it, even with broken set."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1007_01",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Periodically inflicts damage on a target in front. The attack stops if 10 seconds pass, if  the target dies, or if the target moves 900 reach away from the caster. "
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1007_2",
+                "name": "Nice to Meet You",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Accidentally fires her bazooka while falling. Delivers an AoE damage in front when deployed."
+                },
+                "level2": {
+                  "level2": "DMG to Soldier/Mech +10%"
+                },
+                "level3": {
+                  "level3": "DMG to Soldier/Mech +10%"
+                },
+                "level4": {
+                  "level4": "DMG to Soldier/Mech +20%"
+                },
+                "level5": {
+                  "level5": "Passive attack DMG +50%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1007_3",
+                "name": "Heartfelt Gift",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Fires her bazooka, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Burns targets for 5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1007_4",
+                "name": "Fire and Explosions",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 65,
+                "baseDescription": {
+                  "baseDescription": "Mobilizes all the weapons she can and inflicts AoE damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Casts a barrier equal to 50% of Max HP for 15 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 39.5,
+                "critical": 3.62,
+                "def": 1.58,
+                "evade": 0.61,
+                "hit": 1.98,
+                "hp": 201
+              },
+              "base": {
+                "hp": 1597,
+                "atk": 387,
+                "def": 110,
+                "hit": 138,
+                "critical": 253,
+                "evade": 42
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "3786681d-8982-5d18-abd7-7c19bcdb4416"
+    }
+  },
+  "staticQueryHashes": []
+}

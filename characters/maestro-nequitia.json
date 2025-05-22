@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/maestro-nequitia",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c19dde03-aa07-54b6-ba40-2fa3af7ef67d",
+            "updatedAt": "2024-03-05T20:46:50.733Z",
+            "createdAt": "2022-04-19T08:38:55.703Z",
+            "unitId": "1214",
+            "fullName": "Maestra Nequitia",
+            "slug": "maestro-nequitia",
+            "shortName": "Maestra Nequitia",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c8ef54f5bc86e4be3d1236178fe66f47/acb7c/emp-1214.png",
+                        "srcSet": "/static/c8ef54f5bc86e4be3d1236178fe66f47/1c9ce/emp-1214.png 64w,\n/static/c8ef54f5bc86e4be3d1236178fe66f47/bf8e1/emp-1214.png 128w,\n/static/c8ef54f5bc86e4be3d1236178fe66f47/acb7c/emp-1214.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c8ef54f5bc86e4be3d1236178fe66f47/8257c/emp-1214.webp 64w,\n/static/c8ef54f5bc86e4be3d1236178fe66f47/6766a/emp-1214.webp 128w,\n/static/c8ef54f5bc86e4be3d1236178fe66f47/22bfc/emp-1214.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Elysium Philharmonic",
+            "seaReleaseDate": "October 5th, 2022",
+            "krReleaseDate": "April 19th, 2022",
+            "globalReleaseDate": "March 8th, 2023",
+            "cost": 7,
+            "type": [
+              "Counter",
+              "Corrupted Object"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "Immortality",
+              "Buffer",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Maestra is a PVP-oriented ASSR whose kit lends her comps to a unique playstyle. She demands a dedicated team built around her to fully enable her kit. She also needs extremely niche gear to function. Played correctly, she can be incredibly oppressive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Maestra’s power budget is entirely concentrated in her ultimate skill. She spawns at the ship and gradually moves forward, ignoring all enemies and stopping at the center of the map. Her ultimate, which can only be cast from the center of the map, applies crippling %HP drain debuffs that are all but guaranteed to wipe the enemy team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Maestra’s DMG AMP debuff can reach impressive values but its abysmal uptime coupled with her unwieldy cost makes her too impractical to use in most situations. She can be shoehorned into Britra/ Inhibitor raid comps but she is suboptimal in both. There is no reason to use her over other debuffers in any existing content. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Maestra applies a strong mapwide burn and has what is effectively a debuff that kills all on-field enemies when she casts her ultimate, so the premise is you would escort her to the middle, use her ultimate to kill everything, and finish your opponent off before they can re-establish their position. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Maestra players can leverage the pressure of her ultimate to create a dilemma for their opponents by holding onto the ultimate once she stops at the middle of the map. If they overcommit their resources, there is a risk that the Maestra player will activate her ultimate to wipe the field; if they decide to hold their resources, it gives the Maestra player a big advantage as they can commit their own resources freely and grind out the rest of the match knowing their opponent is powerless to fight back. The pressure created by her ultimate is stronger than the ultimate itself. Players are heavily encouraged to use manual ult to maximize Maestra’s value.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While Maestra’s ultimate strongly amplifies the debuff effects and acts as a board wipe, it also incurs a significant momentum loss, rendering her useless for a considerable amount of time. This means that quite often, it is better to refrain from using her ultimate and maintain pressure if it can't secure a game-winning advantage. This is especially true for experienced players as the timing of her ultimate is very readable. Opponents may hold their resources to redeploy afterwards, or use Olivie operator to cleanse all her debuffs. Given that Maestra comps are heavily stall-oriented, the inherent momentum loss may leave them without sufficient damage to push back against the enemy team if the ultimate isn’t able to close out the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While gear is usually covered in its own section, Maestra’s gearing is unique enough that it warrants some discussion. Maestra needs to be in the middle of the map as the prerequisite to casting her ultimate skill. As mentioned above, she can/ will typically loiter at the middle of the map for some period of time. Depending on the week, the opposite may be true where she is heavily disadvantaged and needs to cast her ultimate as soon as possible to equalize the matchup. As such, it is important to strike a balance between her speed and her tank stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a 7 cost defenseless ASSR, Maestra can easily become a liability to the team without adequate support. To this end, she is frequently paired with stall units, as teams built around her are inherently stall-heavy given the resources needed to keep her alive. Notably, she directly synergizes with other Philharmonic faction characters who benefit from the faction synergy integrated into their kits (i.e. Shena, Carmen, Luna). Maestra is typically paired with other strong ASSR damage dealers, both to serve as the follow-up to her ultimate and to provide pressure to split opponents’ attention between them and Maestra. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Maestra has several weaknesses that can be exploited:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Debuff immunity\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Maestra’s debuffs can be cleansed by debuff immunity. Notably, Olivie operator provides on-demand debuff immunity from her command skill. As Olivie is one of the most prevalent PVP operators in the game, Maestra players should be attentive of their opponents’ operator proc progress, and if it is Olivie, they should be ready to wait out the operator proc.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"New Ohio\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": New Ohio has cooldown-related debuffs, which can be used to delay Maestra’s ultimate. This makes her vulnerable for a period and creates a window during which opponents may push to kill her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Awakened Na Yubin\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": As a tower, Awakened Na Yubin’s %HP burn applies to Maestra. This is one of CounterSide’s most miserable matchups to play.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Building Maestra comps involves juggling a number of objectives simultaneously, emphasizing the need for a well-balanced team composition.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Slowly strangling the life out of your opponents is a feeling of power and control few other ASSRs can replicate.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"She needs a disproportionate amount of investment to get decent performance out of her. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Getting hard-countered feels miserable. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "9",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Tower that focuses on controlling the battlefield with debuffs"
+            },
+            "introduction": {
+              "introduction": "마에스트로 네퀴티아는 적에게 점차 강력해지는 약화 효과를 부여하면서 자신의 단원들을 지원하는 타워입니다.\n마에스트로는 엘리시움 필하모닉의 최고 지휘자로서 구 관리국과 적대해 온 존재입니다. 비록 구 관리국의 전대들이 요격에 성공했지만, 그 이후의 종적은 관리실패로 인해 추적이 중단되었습니다.\n마에스트로의 세계, 통칭 엘리시온은 파동을 이용한 기술체계가 기형적으로 발전한 문명이었습니다. 그녀가 구 관리국에 위협이 되었던 까닭은 멘탈 프린팅의 창안자라는 점과 더불어, 그 불안정한 기술을 단독으로 구사할 수 있다는 면이 큽니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "HP Set Speed Gear",
+                "notes": "There exists a Jungle Relic Speed Set Maestra build. It lacks Inhibitor Hands Res, but maybe if you godroll all speed latents...?"
+              },
+              "pvp": {
+                "set": "HP Set Speed Gear",
+                "notes": "Running 2PC incoming healing jungle relic set is enough to offset Awakened Na Yubin tower burn (especially if you also have Tower Incoming Healing ship latents)."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1214_1",
+                "name": "Requiem for the Dead",
+                "type": "Basic",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After being deployed at the ship, slowly start advancing toward the center of the battlefield while ignoring enemies. Enemies on the battlefield will gain a stack of a [Requiem of the Dead] every 8 seconds, decreasing their HP by 0.1% per second(Boss excluded, 0.4% in gauntlet). The effect can stack 10 times."
+                },
+                "level2": {
+                  "level2": "SPD +15%"
+                },
+                "level3": {
+                  "level3": "SPD +15%"
+                },
+                "level4": {
+                  "level4": "SPD +30%"
+                },
+                "level5": {
+                  "level5": "Enemies gain a stack of the debuff every 6 seconds instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1214_2",
+                "name": "Maestra",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After travelling certain distances, summon an additional Rose Musician (up to 3). Each Musician adds -1.5% ATK, +1.5% DMG Taken, and -5% Healing effectiveness respectively to the [Requiem of the Dead]. The four debuffs stack separately from each other. These effects are also applied to bosses."
+                },
+                "level2": {
+                  "level2": "DMG RES +2%"
+                },
+                "level3": {
+                  "level3": "DMG RES +2%"
+                },
+                "level4": {
+                  "level4": "DMG RES +4%"
+                },
+                "level5": {
+                  "level5": "Become Immortal for 5 seconds when her HP falls below 50%."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1214_3",
+                "name": "Elysium Philharmonic",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Can't be affected by sleep, stun, knockback, confusion, hit-stun, attack speed reduction debuffs, and healing received is reduced by 50%. Ally Elysium Philharmonic employees gain 5% ATK and 10% CRIT, and their skills generate an additional note - this effect doesn't apply to Maestro."
+                },
+                "level2": {
+                  "level2": "Ally Elysium Philharmonic employees gain 5% ATK and 10% CRIT."
+                },
+                "level3": {
+                  "level3": "Ally Elysium Philharmonic employees gain 5% ATK and 10% CRIT."
+                },
+                "level4": {
+                  "level4": "Ally Elysium Philharmonic employees gain 10% ATK and 20% CRIT."
+                },
+                "level5": {
+                  "level5": "Ally Elysium Philharmonic employees gain 25% Skill Haste."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1214_4",
+                "name": "Chapter of Apocalypse",
+                "type": "Ultimate",
+                "validHits": null,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Can only be cast in the center of the battlefield. When casting, rapidly adds 5 stacks of [Requiem of the Dead] on the field and amplifies the effect of the requiem by 1.4 times. After casting, teleports to the ally ship then become immortal but stop casting [Requiem of the Dead] for 25 seconds. When the immortalily state is removed, releases all [Requiem of the Dead] stacks."
+                },
+                "level2": {
+                  "level2": "Requiem for the Dead debuffs are 1.8 times stronger"
+                },
+                "level3": {
+                  "level3": "Requiem for the Dead debuffs are 2.2 times stronger"
+                },
+                "level4": {
+                  "level4": "Requiem for the Dead debuffs are 2.6 times stronger"
+                },
+                "level5": {
+                  "level5": "Requiem for the Dead debuffs are 3 times stronger. Also, seals the skills of all enemies and prevents them from receiveing any buffs for 12 seconds after casting the skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 0,
+                "critical": 0,
+                "def": 5.49,
+                "evade": 0,
+                "hit": 0,
+                "hp": 717
+              },
+              "base": {
+                "hp": 5893,
+                "atk": 0,
+                "def": 453,
+                "hit": 0,
+                "critical": 0,
+                "evade": 0
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c19dde03-aa07-54b6-ba40-2fa3af7ef67d"
+    }
+  },
+  "staticQueryHashes": []
+}

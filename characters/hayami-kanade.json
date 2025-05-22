@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/hayami-kanade",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "8fd25a15-879a-50a3-a0db-1f79404ca05e",
+            "updatedAt": "2024-02-18T08:26:00.295Z",
+            "createdAt": "2021-11-30T09:04:06.781Z",
+            "unitId": "1200",
+            "fullName": "Hayami Kanade",
+            "slug": "hayami-kanade",
+            "shortName": "Hayami Kanade",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8e8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/accb74b52232877a6562e3ad95c9eb25/acb7c/emp-1200.png",
+                        "srcSet": "/static/accb74b52232877a6562e3ad95c9eb25/1c9ce/emp-1200.png 64w,\n/static/accb74b52232877a6562e3ad95c9eb25/bf8e1/emp-1200.png 128w,\n/static/accb74b52232877a6562e3ad95c9eb25/acb7c/emp-1200.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/accb74b52232877a6562e3ad95c9eb25/8257c/emp-1200.webp 64w,\n/static/accb74b52232877a6562e3ad95c9eb25/6766a/emp-1200.webp 128w,\n/static/accb74b52232877a6562e3ad95c9eb25/22bfc/emp-1200.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Nanahara Family Alliance",
+            "seaReleaseDate": "June 15th, 2022",
+            "krReleaseDate": "November 30th, 2021",
+            "globalReleaseDate": "February 22nd, 2023",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "True Damage",
+              "Offtank",
+              "Healblock",
+              "Perfect Evasion"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hayami Kanade honestly is a really underwhelming employee. While her kit on paper looks great, especially the part where she can turn into an Air-type employee, in reality, she rarely survives till that point.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her kit doesnt offer that much even for 3 cost. Can be used as a soldier frontline with matador comps, or as a finisher in terror, but there are far more reliable picks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- ability to change type from ground to air,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great design.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low EVA makes her unusable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee attacker who uses powerful AoE attacks based on her dodge count"
+            },
+            "introduction": {
+              "introduction": "하야미 카나데는 회피를 통해 스탠스를 강화하며 변칙적인 전투를 벌이는 스트라이커입니다.\n호위무사 가문 출신인 그녀는 어린 시절부터 '집안일'에 두각을 드러내며 나나하라 당주의 호위역을 맡게 됐습니다.\n냉철하고 고지식하던 어린 무사는 온화한 성품의 주인을 섬기게 되면서 점차 변해갔습니다. 주인의 곁을 지키는 것 외에도, 가족을 꾸려 행복해지라는 명을 받들어 행복한 삶을 누렸습니다.\n비록 카운터는 아니지만, 관리국에 종사하며 주요한 임무와 함께 무장을 수여받기도 했습니다.\n아무도 그 충성스럽고 강한 무사의 불명예스런 최후를 예상하지 못했습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": "Evasion accessories are almost mandatory. Can run Terror Gear in terror."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1200_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Performs a chain attack to inflict AoE damage to the front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1200_2",
+                "name": "Sunshower Charge",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "If she dodges attacks 10 times while the Passive is inactive, she jumps into the air and inflicts AoE damage on and around the target for 5 seconds. While the Passive is active, the caster becomes immune to Hitstun and is considered an Air unit."
+                },
+                "level2": {
+                  "level2": "EVA +5%"
+                },
+                "level3": {
+                  "level3": "EVA +5%"
+                },
+                "level4": {
+                  "level4": "EVA +10%"
+                },
+                "level5": {
+                  "level5": "While the Passive is active, Anti-Ground DMG RES +20%. Gains 2 sec. of Perfect Evasion after casting passive."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1200_3",
+                "name": "Weapon: Kamaitachi",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Throws a giant shuriken to inflict AoE damage to the front. The shuriken inflicts bigger damage when it comes back. The damaged target receives 50% less healing for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Shuriken inflicts True Damage when it comes back."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1200_4",
+                "name": "Strategy: Discerning Weaknesses",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "If she dodges attacks 16 times, CRIT increases by 500 for 6 seconds."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "Passive effect activated after every 12th attack"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.9,
+                "critical": 3.41,
+                "def": 1.96,
+                "evade": 4.66,
+                "hit": 2.31,
+                "hp": 279
+              },
+              "base": {
+                "hp": 2220,
+                "atk": 283,
+                "def": 137,
+                "hit": 160,
+                "critical": 239,
+                "evade": 326
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "8fd25a15-879a-50a3-a0db-1f79404ca05e"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,218 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ironside",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "86531a52-b575-5fa2-b4e5-edf73404cff1",
+            "updatedAt": "2024-02-18T08:28:27.473Z",
+            "createdAt": "2021-10-21T13:19:28.066Z",
+            "unitId": "1079",
+            "fullName": "Ironside",
+            "slug": "ironside",
+            "shortName": "Ironside",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/fa64b98b61307886396ec9b754130abe/acb7c/emp-1079.png",
+                        "srcSet": "/static/fa64b98b61307886396ec9b754130abe/1c9ce/emp-1079.png 64w,\n/static/fa64b98b61307886396ec9b754130abe/bf8e1/emp-1079.png 128w,\n/static/fa64b98b61307886396ec9b754130abe/acb7c/emp-1079.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/fa64b98b61307886396ec9b754130abe/8257c/emp-1079.webp 64w,\n/static/fa64b98b61307886396ec9b754130abe/6766a/emp-1079.webp 128w,\n/static/fa64b98b61307886396ec9b754130abe/22bfc/emp-1079.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "States of One",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Healer",
+              "ETB"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ironside is a healer and a buffer. This makes him the best choice for pure Mecha teams because not only he can heal them, but also increases their firepower with his ASPD buff. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sadly, because he can only heal Mechs, he's totally useless in any other team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- massive on deploy heal, similar to Claudia,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- the ASPD buff helps Mechs a lot,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- easy to MLB because of his rarity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- only usable in Mech teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Heals and enhances surrounding Mechs."
+            },
+            "introduction": {
+              "introduction": "　A supporter infantry unit that specializes in repairing and enhancing ally mech units.\n\n　They manage armored units on site, enabling the costly equipment to stay longer on the frontline. When off duty, they sometime repair company facilities for free."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": "Jungle Relics with Increased Healing set are BIS."
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": "Jungle Relics with Increased Healing set are BIS."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1079_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a submachine gun at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1079_2",
+                "name": "Field Maintenance Crew",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Continuously maintains Mechs in combat, increasing their efficiency. Decreases surrounding Mechs' DMG Taken by 10%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Restores all Mechs' HP by 25% upon deployment."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1079_3",
+                "name": "Auto Repair Device",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 30,
+                "baseDescription": {
+                  "baseDescription": "Sets up a repair device, restoring surrounding Mechs' HP by 4% every second for 8 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Mech ASPD +20% within range"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 9.39,
+                "critical": 1.2,
+                "def": 1.03,
+                "evade": 0.44,
+                "hit": 1.44,
+                "hp": 124
+              },
+              "base": {
+                "hp": 1014,
+                "atk": 95,
+                "def": 85,
+                "hit": 119,
+                "critical": 99,
+                "evade": 36
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "86531a52-b575-5fa2-b4e5-edf73404cff1"
+    }
+  },
+  "staticQueryHashes": []
+}

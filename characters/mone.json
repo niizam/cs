@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/mone",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "75a48f94-df88-5f2b-bc00-9bea6cc27fe9",
+            "updatedAt": "2024-10-19T00:04:08.730Z",
+            "createdAt": "2021-10-22T06:38:01.261Z",
+            "unitId": "1164",
+            "fullName": "Mone",
+            "slug": "mone",
+            "shortName": "Mone",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/43281a9c3dc7e2593bcef8baa1fc3fca/acb7c/emp-1164.png",
+                        "srcSet": "/static/43281a9c3dc7e2593bcef8baa1fc3fca/1c9ce/emp-1164.png 64w,\n/static/43281a9c3dc7e2593bcef8baa1fc3fca/bf8e1/emp-1164.png 128w,\n/static/43281a9c3dc7e2593bcef8baa1fc3fca/acb7c/emp-1164.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/43281a9c3dc7e2593bcef8baa1fc3fca/8257c/emp-1164.webp 64w,\n/static/43281a9c3dc7e2593bcef8baa1fc3fca/6766a/emp-1164.webp 128w,\n/static/43281a9c3dc7e2593bcef8baa1fc3fca/22bfc/emp-1164.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Flora Maid Service",
+            "seaReleaseDate": "November 16th, 2021",
+            "krReleaseDate": "December 22nd, 2020",
+            "globalReleaseDate": "September 29th, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mone is a PVE-oriented utility tank with a niche skill sealing enemies vulnerable to skill seal debuffs. Properly geared, her passive is capable of providing near-permanent uptime on skill seal. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Mone is primarily used as part of a strategy to trivialize the Guild Coop Demolition Worm boss levels 1 ~ 6. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mone is held back by her lackluster stats. As a low rarity unit, Mone does not have the stats necessary to meet the baseline requirements expected of her as a frontline tank. Permanent uptime skill seal is nice to have, but it can be a challenge keeping Mone alive to apply it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Highest uptime skill seal in the game. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Most content is immune to skill seal. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A push-type tanker who pushes enemies backward"
+            },
+            "introduction": {
+              "introduction": "　Mone is a defender especially good at pushing enemy lines and sealing their skills.\n　Born in a poor fishing village, she grew up being loved by everyone in her village. One day she met Veronica and built the Flora Maid Service with her. She is now training hard as the youngest member of her company.\n　Mone often earns Lily's ire because she keeps rushing in without thinking, but she is loyal to her master just like the other maids."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank, ASPD Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1164_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks a target in front, swinging the tonfas at Ground units and firing the guns embedded in her weapons at Air units."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1164_2",
+                "name": "Oops, Sorry Sirs!",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After 3 attacks excluding Basic Air attacks, trips forward, inflicting AoE damage on surrounding enemies. The damaged targets focus their attacks on her and can't use skills for 4 seconds."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "DMG RES +25% for 4 s after attack"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1164_3",
+                "name": "Non-ultimate Buzz Punch",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Wildly swings her tonfas as she moves forward, inflicting AoE damage on surrounding enemies and knocking them backward in her facing direction. For Ground targets only."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1164_4",
+                "name": "Ultimate Anemone Punch",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Leaps forward and crash-lands, inflicting AoE damage on and around a target. The damaged targets lose 10% of ATK for 10 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Immunity to Hitstun from Special skills for 10 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.88,
+                "critical": 1.19,
+                "def": 4.92,
+                "evade": 0.71,
+                "hit": 1.13,
+                "hp": 302
+              },
+              "base": {
+                "hp": 2397,
+                "atk": 185,
+                "def": 344,
+                "hit": 79,
+                "critical": 83,
+                "evade": 49
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "75a48f94-df88-5f2b-bc00-9bea6cc27fe9"
+    }
+  },
+  "staticQueryHashes": []
+}

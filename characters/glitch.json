@@ -1,0 +1,215 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/glitch",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "1efaef13-bf72-5378-a02c-a91d47a16c6d",
+            "updatedAt": "2024-02-18T08:22:05.558Z",
+            "createdAt": "2021-10-22T07:09:52.908Z",
+            "unitId": "1187",
+            "fullName": "Glitch",
+            "slug": "glitch",
+            "shortName": "Glitch",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/70248babfbc02c2acb2a712c755fe530/acb7c/emp-1187.png",
+                        "srcSet": "/static/70248babfbc02c2acb2a712c755fe530/1c9ce/emp-1187.png 64w,\n/static/70248babfbc02c2acb2a712c755fe530/bf8e1/emp-1187.png 128w,\n/static/70248babfbc02c2acb2a712c755fe530/acb7c/emp-1187.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/70248babfbc02c2acb2a712c755fe530/8257c/emp-1187.webp 64w,\n/static/70248babfbc02c2acb2a712c755fe530/6766a/emp-1187.webp 128w,\n/static/70248babfbc02c2acb2a712c755fe530/22bfc/emp-1187.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Scavengers",
+            "seaReleaseDate": "December 1st, 2021",
+            "krReleaseDate": "July 20th, 2021",
+            "globalReleaseDate": "November 10th, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier",
+              "Mech"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Similar to Overflow, Glitch is a Soldier/Mech hybrid. His kit seems to be oriented around abusing Stealth to reach Mech backline and murder it, but sadly he is more often used as a sacrifice for Evolved-1 passive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Be aware that while he is a hybrid employee, he can only wear Soldier gear.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can be a good first drop to force the enemy to move in PVP,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- good Evolved-1 sacrifice.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- squishy even with the EVA gained from passive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee Attacker that moves in Stealth to avoid enemy attacks, and is especially effective against Soldiers and Mechs"
+            },
+            "introduction": {
+              "introduction": "  Glitch is a Striker that enters battle in Stealth mode.\n\n  As the combatants of the Scavengers' looting unit, Peneo, they loot for a living like the others of their organization. Outside combat, they're engineers who spend their time maintaining machines and immersing themselves in technologies available on the Counterside. They work at a research lab where human augmentation is common and is always filled with inert gases and screams.\n  Thanks to their unethical research environment and valuable Artifacts from the Counterside, they own technology that can compete with any TASKFORCE companies', its instability and twisted nature notwithstanding."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Any Spectral set",
+                "notes": "Anti-Defender and Anti-Ground substats."
+              },
+              "pvp": {
+                "set": "Any Spectral set",
+                "notes": "Anti-Defender and Anti-Ground substats."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1187_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a submachine gun at a single target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1187_2",
+                "name": "Optical Jammer",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Using cutting-edge equipment, enters Stealth for 12 seconds upon deployment and increases EVA by 100% for the Passive duration."
+                },
+                "level2": {
+                  "level2": "DMG to Soldier/Mech +10%"
+                },
+                "level3": {
+                  "level3": "DMG to Soldier/Mech +10%"
+                },
+                "level4": {
+                  "level4": "DMG to Soldier/Mech +20%"
+                },
+                "level5": {
+                  "level5": "Passive also adds incoming Role ADV DMG -100%."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1187_3",
+                "name": "Iron Melter",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings a cutlas that's recharged every 5 seconds, inflicting AoE damage in front 3 times. Also inflicts additional damage on Mechs by 1% of Max HP with each hit. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Additional damage by 3% of Max HP instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 12.05,
+                "critical": 2.16,
+                "def": 1.19,
+                "evade": 3.35,
+                "hit": 1.16,
+                "hp": 177
+              },
+              "base": {
+                "hp": 1403,
+                "atk": 118,
+                "def": 83,
+                "hit": 81,
+                "critical": 151,
+                "evade": 234
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "1efaef13-bf72-5378-a02c-a91d47a16c6d"
+    }
+  },
+  "staticQueryHashes": []
+}

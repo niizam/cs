@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/nina-anderson",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "81ddd3f3-da68-584a-ad63-df8fc5acf48e",
+            "updatedAt": "2024-10-17T21:27:47.800Z",
+            "createdAt": "2021-10-21T23:59:34.189Z",
+            "unitId": "1126",
+            "fullName": "Nina Anderson",
+            "slug": "nina-anderson",
+            "shortName": "Nina Anderson",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/658366d43901c63bd9511591bfffe98d/acb7c/emp-1126.png",
+                        "srcSet": "/static/658366d43901c63bd9511591bfffe98d/1c9ce/emp-1126.png 64w,\n/static/658366d43901c63bd9511591bfffe98d/bf8e1/emp-1126.png 128w,\n/static/658366d43901c63bd9511591bfffe98d/acb7c/emp-1126.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/658366d43901c63bd9511591bfffe98d/8257c/emp-1126.webp 64w,\n/static/658366d43901c63bd9511591bfffe98d/6766a/emp-1126.webp 128w,\n/static/658366d43901c63bd9511591bfffe98d/22bfc/emp-1126.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "N",
+            "rarityNumber": 1,
+            "rarityClassName": "N",
+            "title": "Frontier",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Nina Anderson does not have the stats necessary to meet the baseline requirements expected of her as a frontline tank.\\n\\nNina Anderson does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A bruiser who moves and evades quickly, disrupting enemy lines."
+            },
+            "introduction": {
+              "introduction": "　Nina Anderson is a vanguard who fights by taking advantage of her flexibility.\n\n　She is the leader of the Frontier mercenaries who all come from the 6th Refugee District. She used to earn her living from street dancing. One day, she received an old watch when she helped out a homeless person who was shivering with cold. She only realized it was the Watch when a catastrophe hit her hometown.\n　After becoming a Counter, Nina chose the life of a mercenary to escape poverty.　Although she never talks about her hometown, her friends have often seen her practicing the dance she created before.　"
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1126_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her sword, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1126_2",
+                "name": "Encourage",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses an adrenaline rush to fight actively. Increases ATK by 10% for 10 seconds upon deployment."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Passive effect is activated again if HP drops to 50% or below"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1126_3",
+                "name": "Burst Sword",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 17,
+                "baseDescription": {
+                  "baseDescription": "Concentrates energy onto her sword and strikes it downward, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1126_4",
+                "name": "Discutter Rampage",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Momentarily explodes her power and performs multiple slashes, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 25.63,
+                "critical": 2.17,
+                "def": 1.89,
+                "evade": 3.61,
+                "hit": 1.55,
+                "hp": 239
+              },
+              "base": {
+                "hp": 1937,
+                "atk": 256,
+                "def": 143,
+                "hit": 117,
+                "critical": 164,
+                "evade": 273
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "81ddd3f3-da68-584a-ad63-df8fc5acf48e"
+    }
+  },
+  "staticQueryHashes": []
+}

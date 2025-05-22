@@ -1,0 +1,185 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/suppressor",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "aa31d23e-91c1-58e7-a6ab-e0c0a0d922e4",
+            "updatedAt": "2024-10-17T21:34:01.370Z",
+            "createdAt": "2021-10-21T11:11:06.917Z",
+            "unitId": "1011",
+            "fullName": "Suppressor",
+            "slug": "suppressor",
+            "shortName": "Suppressor",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5dcc7b6b8ef70bcec057d71028056e4a/acb7c/emp-1011.png",
+                        "srcSet": "/static/5dcc7b6b8ef70bcec057d71028056e4a/1c9ce/emp-1011.png 64w,\n/static/5dcc7b6b8ef70bcec057d71028056e4a/bf8e1/emp-1011.png 128w,\n/static/5dcc7b6b8ef70bcec057d71028056e4a/acb7c/emp-1011.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5dcc7b6b8ef70bcec057d71028056e4a/8257c/emp-1011.webp 64w,\n/static/5dcc7b6b8ef70bcec057d71028056e4a/6766a/emp-1011.webp 128w,\n/static/5dcc7b6b8ef70bcec057d71028056e4a/22bfc/emp-1011.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Steel Lane",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Suppressor does not have the stats necessary to meet the baseline requirements expected of them as a frontline tank.\\n\\nSuppressor does not possess relevant utility that would justify using them. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Uses Knockback and anti-ground AoE attacks to handle multiple enemies."
+            },
+            "introduction": {
+              "introduction": "　A vanguard who is able to push back multiple enemies with ground area attacks.\n\n　They are specialized units that utilize SL-OSG shotguns. They require grit, agility, and quick decision-making skills, so only the most experienced personnel are welcomed to this position.\n　SL-OSG was a shotgun made for civilians by Steel Lane's forerunner company, Daero Machinery, and its powers were proven during the Grand Purification War.\n　These guns are like a symbol of Steel Lane, but their carriers are so idle in their daily lives that they are called the old veterans within the company."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1011_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a shotgun, knocking enemies backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1011_2",
+                "name": "ST-ARG Protective Gear",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Modifies his gear for enhanced protective power. Decreases DMG Taken by 2%."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "ASPD +10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 14.62,
+                "critical": 2.06,
+                "def": 1.77,
+                "evade": 1.35,
+                "hit": 0.76,
+                "hp": 159
+              },
+              "base": {
+                "hp": 1287,
+                "atk": 146,
+                "def": 134,
+                "hit": 57,
+                "critical": 156,
+                "evade": 102
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "aa31d23e-91c1-58e7-a6ab-e0c0a0d922e4"
+    }
+  },
+  "staticQueryHashes": []
+}

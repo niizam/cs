@@ -1,0 +1,241 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ogami-masaki",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "6da5ce39-05e8-5bfa-bab5-4a5dbd9248ef",
+            "updatedAt": "2024-10-17T21:39:26.120Z",
+            "createdAt": "2021-10-21T23:44:56.825Z",
+            "unitId": "1116",
+            "fullName": "Ogami Masaki",
+            "slug": "ogami-masaki",
+            "shortName": "Ogami Masaki",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/45b73cfe026b1086931dac57a92b3589/acb7c/emp-1116.png",
+                        "srcSet": "/static/45b73cfe026b1086931dac57a92b3589/1c9ce/emp-1116.png 64w,\n/static/45b73cfe026b1086931dac57a92b3589/bf8e1/emp-1116.png 128w,\n/static/45b73cfe026b1086931dac57a92b3589/acb7c/emp-1116.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/45b73cfe026b1086931dac57a92b3589/8257c/emp-1116.webp 64w,\n/static/45b73cfe026b1086931dac57a92b3589/6766a/emp-1116.webp 128w,\n/static/45b73cfe026b1086931dac57a92b3589/22bfc/emp-1116.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Nanahara Family Alliance",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "April 28th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "True Damage"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Ogami Masaki does not have the stats necessary to meet the baseline requirements expected of him as a frontline tank.\\n\\nOgami Masaki does not possess relevant utility that would justify using him. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee defender that Taunts and delivers reinforced attacks after a set number of incoming attacks."
+            },
+            "introduction": {
+              "introduction": "　Ogami Masaki is a defender who uses the dark flames that run through his veins.\n\n　His dark flames inflict powerful AoE damage while distracting enemies with their unique coloring.\n　He made up his surname, Ogami, as a reminder to himself of his ambition to control the Family Alliance from the shadows one day.\n　He's the leader of the well-known secret organization, Ogami's Shadow Group. He's also its only member since its establishment. His daily routine as a member of the Shadow Group includes practicing sinister laughter, brooding while sitting alone in the dark, and feigning knowledge that he doesn't have.\n　Currently, Masaki is looking for new members for his group. Most people in the Family Alliance treat him like an outcast, but given his ability as a Counter, he could be an important factor that could tip the scales of the Alliance's leader election. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1116_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Delivers a series of attacks to a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1116_2",
+                "name": "Angry Flames",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every 18th incoming damage causes him to release flames and inflict AoE damage on surrounding enemies. Decreases DMG Taken by 25% and forces 2 targets to attack him for 5 seconds."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Passive range +50%, additional DMG by 15% of current HP"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1116_3",
+                "name": "Flame Drive",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Throws a fiery punch that causes an explosion and inflicts true AoE damage on enemies in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Special skill cooldown -2 s every time Passive effect is activated"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1116_4",
+                "name": "Purgatory Destruction",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 46,
+                "baseDescription": {
+                  "baseDescription": "Dashes around and indiscriminately attacks enemies, and then discharges fire from his hands at the highest output, inflicting AoE damage on surrounding enemies. Invincible while dashing."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Skill leaves an aura that decreases surrounding targets' ATK by 15% for 15 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 30.16,
+                "critical": 1.75,
+                "def": 3.35,
+                "evade": 3.16,
+                "hit": 0.9,
+                "hp": 336
+              },
+              "base": {
+                "hp": 2625,
+                "atk": 290,
+                "def": 217,
+                "hit": 58,
+                "critical": 113,
+                "evade": 205
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "6da5ce39-05e8-5bfa-bab5-4a5dbd9248ef"
+    }
+  },
+  "staticQueryHashes": []
+}

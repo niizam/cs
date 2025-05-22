@@ -1,0 +1,248 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lee-yuri",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "01a17375-ee9b-5ff5-8b49-ced221a3308e",
+            "updatedAt": "2025-05-01T07:53:59.272Z",
+            "createdAt": "2021-10-21T23:31:36.966Z",
+            "unitId": "1104",
+            "fullName": "Lee Yuri",
+            "slug": "lee-yuri",
+            "shortName": "Lee Yuri",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/771eab5fb8bbd902808a90eee669d537/acb7c/emp-1104.png",
+                        "srcSet": "/static/771eab5fb8bbd902808a90eee669d537/1c9ce/emp-1104.png 64w,\n/static/771eab5fb8bbd902808a90eee669d537/bf8e1/emp-1104.png 128w,\n/static/771eab5fb8bbd902808a90eee669d537/acb7c/emp-1104.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/771eab5fb8bbd902808a90eee669d537/8257c/emp-1104.webp 64w,\n/static/771eab5fb8bbd902808a90eee669d537/6766a/emp-1104.webp 128w,\n/static/771eab5fb8bbd902808a90eee669d537/22bfc/emp-1104.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "The Militia",
+            "seaReleaseDate": "March 8th, 2022",
+            "krReleaseDate": "January 19th, 2021",
+            "globalReleaseDate": "December 15th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "Supplies for the Militia",
+              "type": "Special Skill Enh.",
+              "skill_name": "Double Incendiary Bomb",
+              "description": "After casting Special Skill, gains immunity to Hitstun from Special or lower skills, Anti-Counter DMG +80%, and Special Skill DMG Modifier +33% for 13 s."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Executor"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lee Yuri is a backline damage dealer. Lee Yuri’s kit is notable in that it comes with a massive innate +80% Anti-Counter DMG bonus. As well, Lee Yuri has an execute on Ultimate skill. While largely situational, it can be just the burst of damage needed to finish off stubborn frontline tanks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lee Yuri's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"addresses her damage deficiency issue by increasing her Special Skill damage multiplier and adding a +80% Anti-Counter DMG% self-buff (for a massive innate +160% Anti-Counter DMG%). Beyond damage, Lee Yuri’s reactor increases her Special skill hitstun immunity self-buff from 5s to 13s, effectively providing permanent effect uptime.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Lee Yuri's damage output is only middle-of-the-pack relative to other dedicated defender shredders (e.g. Laika, Old Administration Rifleman, Rearm Gaeun). Lee Yuri’s kit is unimpressive and her damage multipliers are low when compared to those of her peers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Lee Yuri (with reactor) sees regular play as a potent damage dealer. Her +160% Anti-Counter DMG% greatly improves her damage to the point where she can explore alternative gearing options beyond the standard Autoattack DPS sets.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lee Yuri’s hitstun immunity self-buff notably makes her difficult to disrupt which, beyond increasing her DPS uptime by reducing the likelihood of being flinched, greatly increases her survivability by mitigating the impact of typical backline harassment tools (e.g. Rearm Elizabeth). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Innate +160% Anti-Counter DMG (with reactor)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High uptime hitstun immunity self-buff makes Lee Yuri highly consistent relative to other damage dealers of similar cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It goes without saying that Lee Yuri sucks against non-counters where her +160% Anti-Counter DMG does not apply. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "9",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "An all-around Ranged attacker who's strong against Counters."
+            },
+            "introduction": {
+              "introduction": "Lee Yuri is a Ranger inflicting lethal damage on Counters. She's also a member of the Militia that hunts down Counter criminals. She suffers from amnesia from the shock of witnessing her family's massacre. She joined the seedy, dark side of society to find the owner of the voice that she hears in her nightmares. She's bolder and more adaptive than any other recruit, and has survived many battles, but still is not used to watching people die. Every day, she reminds herself why she chose this path: revenge."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1104_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rifle at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1104_2",
+                "name": "Engraved Hatred",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Her hatred of criminal Counters prompts her to inflict 40% more damage on Counters."
+                },
+                "level2": {
+                  "level2": "Anti-Counter DMG +10%"
+                },
+                "level3": {
+                  "level3": "Anti-Counter DMG +10%"
+                },
+                "level4": {
+                  "level4": "Anti-Counter DMG +20%"
+                },
+                "level5": {
+                  "level5": " Anti-Counter DMG RES +40%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1104_3",
+                "name": "Double Incendiary Bomb",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 15,
+                "baseDescription": {
+                  "baseDescription": "Throws an incendiary, inflicting AoE damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Immunity to Hitstun from Special skills for 5 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1104_4",
+                "name": "Furious Inferno",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 38,
+                "baseDescription": {
+                  "baseDescription": "Discharges a stream of fire, inflicting AoE damage. This skill instantly finishes one Counter with 30% or lower HP within range. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Instantly finishes 2 Counters instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.12,
+                "critical": 3.18,
+                "def": 3.05,
+                "evade": 1.13,
+                "hit": 2.88,
+                "hp": 350
+              },
+              "base": {
+                "hp": 2734,
+                "atk": 280,
+                "def": 198,
+                "hit": 187,
+                "critical": 206,
+                "evade": 73
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "01a17375-ee9b-5ff5-8b49-ced221a3308e"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,342 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/triana-titan",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "5cc0a695-3e30-5fe7-96cf-4ceb375e7c28",
+            "updatedAt": "2024-12-12T21:59:49.170Z",
+            "createdAt": "2022-08-09T05:49:47.445Z",
+            "unitId": "2040",
+            "fullName": "Triana Titan",
+            "slug": "triana-titan",
+            "shortName": "Triana Titan",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/1b6f3b3b6628d93bbc807031415cc623/acb7c/emp-2040.png",
+                        "srcSet": "/static/1b6f3b3b6628d93bbc807031415cc623/1c9ce/emp-2040.png 64w,\n/static/1b6f3b3b6628d93bbc807031415cc623/bf8e1/emp-2040.png 128w,\n/static/1b6f3b3b6628d93bbc807031415cc623/acb7c/emp-2040.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/1b6f3b3b6628d93bbc807031415cc623/8257c/emp-2040.webp 64w,\n/static/1b6f3b3b6628d93bbc807031415cc623/6766a/emp-2040.webp 128w,\n/static/1b6f3b3b6628d93bbc807031415cc623/22bfc/emp-2040.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "The Triana Project",
+            "seaReleaseDate": "December 28th, 2022",
+            "krReleaseDate": "August 9th, 2022",
+            "globalReleaseDate": "April 12th, 2023",
+            "cost": 6,
+            "type": [
+              "Mech"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Healblock",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Triana Titan (RTitan) is a PVP-oriented backline damage dealer notable for its good cost-efficiency and above average performance in the role. RTitan has significantly greater survivability than what is typically found on backline damage dealers; between its 40% HP revive and its pile bunker self-peel, RTitan can manage itself and take a heavy beating before it goes down.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"RTitan’s exclusive equipment significantly boosts his damage output as one of the exceedingly rare EEs with ASPD main stat. From a marginal damage increase standpoint, RTitan’s EE is among the strongest in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, RTitan is valued primarily for its strong synergy with Sysop, a dominant PVP operator. RTitan represents the most intuitive means of starting Sysop’s striker-defender-supporter operator proc; it is a relatively safe, low commitment striker that naturally establishes advantageous positioning with its slow movement speed and steadily pumps out uninterruptible damage for the duration of the match. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At its core, RTitan is a strong all-rounder damage dealer striker. For as long as Sysop remains a dominant PVP operator, RTitan will continue to see plenty of play as the starting point for any number of comps using Sysop.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Consistent backline damage dealer. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Requires lead. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "10",
+              "pve_early": "8",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "An anti-C.O. combat Mech with high area suppression capabilities."
+            },
+            "introduction": {
+              "introduction": "젊은 과학도들은 퓨처 앳 워 프로젝트를 학문의 이상향처럼 여깁니다. 하지만 전시 상황이란 배경과 각국의 이해관계가 얽힌 가운데, 출신도 배경도 다른 사람들이 모여 편하게 연구에만 집중할 수 있었을 리는 없습니다.\n주피터 파일은 퓨처 앳 워의 연구진이 여러 현실적인 제약으로 포기해야 했던 시제안들입니다. 그 중 3종은 모두 주요 무인 병기들의 전력 강화를 위해 입안되었습니다.\n트리아이나 플랜은 타이탄의 성능을 원본에 보다 근접하게 만드는 개량안입니다. 증설된 복합 장갑과 캐니스터식 대공포탄은 다양한 상황에 대처 가능하며, 포화를 뚫고 접근한 적에게는 치명적인 위력의 능동 방호 체계가 기다리고 있습니다. 계획 수립에 관여했던 세르게이 체르노프 교수는 자신의 연구 노트에 다음과 같은 메모를 남긴 바 있습니다.\n─「우리의 아이들은 전쟁을 모르는 시대에 살길 바라며.」"
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": "EE is mandatory."
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": "EE is mandatory."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2040_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Periodically inflicts damage on and around the target in front. The attack stops if 10 seconds pass, if the target dies, or if the target moves 1000 reach away from the caster."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2040_2",
+                "name": "Orichalcum Super Heavy Armor",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Becomes immune to Hitstun from Ultimate or lower skills and permanently increases DMG RDC by 2% every time a unit on the field dies. (Up to 20%) Deployment Resources +1 upon deployment."
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "Additionally stacks DMG RDC in proportion to number of all units upon deployment"
+                },
+                "level6": {
+                  "level6": "HP +3%"
+                },
+                "level7": {
+                  "level7": "HP +3%"
+                },
+                "level8": {
+                  "level8": "HP +3%"
+                },
+                "level9": {
+                  "level9": "HP +9%"
+                },
+                "level10": {
+                  "level10": "DMG TLRNC +2%"
+                }
+              },
+              {
+                "skillId": "2040_3",
+                "name": "Rogue Wave",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 30,
+                "baseDescription": {
+                  "baseDescription": "Fires missiles, inflicting AoE damage on and around the target. Decreases incoming Healing by 25% for 5 seconds to damaged targets."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Cooldown -5 s"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "After every 3rd Skill, including Basic attacks, fires a mortar that inflicts AoE damage 4 times"
+                }
+              },
+              {
+                "skillId": "2040_4",
+                "name": "Hard Kill Active Protection System",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "If enemy is up close, inflicts high damage to an enemy and engages a pile bunker that does additional AoE damage and knockback. Afterward, grants a 35% DEF increase buff for 15 seconds to self. Cannot be used while maintaining the buff."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "Changes to Sure Fire"
+                },
+                "level6": {
+                  "level6": "ASPD +3%"
+                },
+                "level7": {
+                  "level7": "ASPD +3%"
+                },
+                "level8": {
+                  "level8": "ASPD +3%"
+                },
+                "level9": {
+                  "level9": "ASPD +9%"
+                },
+                "level10": {
+                  "level10": "Decreases DEF by 35% for 15 seconds to the single target"
+                }
+              },
+              {
+                "skillId": "2040_5",
+                "name": "Wall of Iron",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deployment Resources +1 upon Titan deployment"
+                },
+                "level2": {
+                  "level2": "DEF +5%"
+                },
+                "level3": {
+                  "level3": "DEF +5%"
+                },
+                "level4": {
+                  "level4": "DEF +5%"
+                },
+                "level5": {
+                  "level5": "Immediately recovers 40% of max HP 1 time if HP falls below 1%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 40.21,
+                "critical": 1.49,
+                "def": 3.55,
+                "evade": 1.58,
+                "hit": 5.47,
+                "hp": 455
+              },
+              "base": {
+                "hp": 3617,
+                "atk": 394,
+                "def": 248,
+                "hit": 382,
+                "critical": 104,
+                "evade": 110
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1040",
+              "slug": "titan",
+              "shortName": "Titan",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/6f7ee8056bbf4ba626e187bf4ae8ba77/acb7c/emp-1040.png",
+                          "srcSet": "/static/6f7ee8056bbf4ba626e187bf4ae8ba77/1c9ce/emp-1040.png 64w,\n/static/6f7ee8056bbf4ba626e187bf4ae8ba77/bf8e1/emp-1040.png 128w,\n/static/6f7ee8056bbf4ba626e187bf4ae8ba77/acb7c/emp-1040.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/6f7ee8056bbf4ba626e187bf4ae8ba77/8257c/emp-1040.webp 64w,\n/static/6f7ee8056bbf4ba626e187bf4ae8ba77/6766a/emp-1040.webp 128w,\n/static/6f7ee8056bbf4ba626e187bf4ae8ba77/22bfc/emp-1040.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "5cc0a695-3e30-5fe7-96cf-4ceb375e7c28"
+    }
+  },
+  "staticQueryHashes": []
+}

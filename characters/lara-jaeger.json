@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lara-jaeger",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "fdda8595-7aa2-5101-86d5-34d88a30af19",
+            "updatedAt": "2024-07-28T19:26:31.517Z",
+            "createdAt": "2021-10-22T07:17:15.458Z",
+            "unitId": "1192",
+            "fullName": "Lara Jaeger",
+            "slug": "lara-jaeger",
+            "shortName": "Lara Jaeger",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/7eeab8f241d489b8b29bd02bd235b98f/acb7c/emp-1192.png",
+                        "srcSet": "/static/7eeab8f241d489b8b29bd02bd235b98f/1c9ce/emp-1192.png 64w,\n/static/7eeab8f241d489b8b29bd02bd235b98f/bf8e1/emp-1192.png 128w,\n/static/7eeab8f241d489b8b29bd02bd235b98f/acb7c/emp-1192.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/7eeab8f241d489b8b29bd02bd235b98f/8257c/emp-1192.webp 64w,\n/static/7eeab8f241d489b8b29bd02bd235b98f/6766a/emp-1192.webp 128w,\n/static/7eeab8f241d489b8b29bd02bd235b98f/22bfc/emp-1192.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Platina Express",
+            "seaReleaseDate": "March 30th, 2022",
+            "krReleaseDate": "August 24th, 2021",
+            "globalReleaseDate": "December 29th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Perfect Evasion"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She's a 4 cost tower that's similar to ATAC-130, but while the mech patrols the sky, she drives around the battlefield with a huge smile on her face, evading all incoming attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her uses in PVE are rather limited because she's doesn't help the team in any way, and in PVP she fills the role of an anti-rush specialist. While for some time, she was a meta unit, with the release of Tower Xiao, her popularity has fallen quite a bit. \\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Perfect Evasion means she can't get crit with basic attacks,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- patrol units can escape from the frontline and recover HP before going back and harassing enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- she's useless in PVE,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- and out of meta in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A patrol tower unit that moves through the battleground, evading all attacks."
+            },
+            "introduction": {
+              "introduction": "Lara Jaeger is a Tower that rotates around a selected spot in Perfect EVA mode, attacking enemies within range.\nPlatina Express only awards the best employee with the Platinum rank, and Lara hasn't lost her Platinum rank since she joined the company.\nJust like every other delivery person, she aims for accurate, safe, on-time delivery. She also loves to see happy smiles on her customers as they receive their packages.\nEven though she's never fought professionally, no one has ever dared try to steal from her while she's en route to deliver her packages."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Terror Gear",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1192_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Inflicts AoE damage on surrounding targets while moving."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1192_2",
+                "name": "Platinum Rank Rider",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Repeatedly moves between two lateral points when deployed. Lara permanently enters Perfect EVA mode when deployed, and becomes immune to Knockback."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "ATK +2% at the end of trip every time (Up to +20%, disabled during Special skill)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1192_3",
+                "name": "Scarlet Tornado",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Spins as she moves, inflicting AoE damage on surrounding targets. Increases DMG RES by 20% for 8 seconds immediately after skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Additional enemy ASPD -33% for 8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1192_4",
+                "name": "Rider Jet Kick",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Double-jumps and performs a powerful kick, inflicting AoE damage on and around the target. Becomes immune to damage immediately after skill until she's back on the ground. Increases SPD by 50% for 10 seconds after the skill's effect."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Ultimate skill DMG +5% per trip (Up to +25%)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.85,
+                "critical": 3.25,
+                "def": 2.73,
+                "evade": 0,
+                "hit": 2.72,
+                "hp": 286
+              },
+              "base": {
+                "hp": 2233,
+                "atk": 287,
+                "def": 177,
+                "hit": 176,
+                "critical": 211,
+                "evade": 0
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": true
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "fdda8595-7aa2-5101-86d5-34d88a30af19"
+    }
+  },
+  "staticQueryHashes": []
+}

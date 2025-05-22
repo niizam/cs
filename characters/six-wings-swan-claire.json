@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/six-wings-swan-claire",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "f98dc26f-9050-5846-b4ef-a07302d6377c",
+            "updatedAt": "2024-10-02T12:43:03.050Z",
+            "createdAt": "2024-08-06T13:58:12.316Z",
+            "unitId": "1274",
+            "fullName": "Six Wings Swan Claire",
+            "slug": "six-wings-swan-claire",
+            "shortName": "Swan Claire",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#b8b8d8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/9b74a679bbcddcf8d6dcb3a3a700cbf7/22bfc/1274.webp",
+                        "srcSet": "/static/9b74a679bbcddcf8d6dcb3a3a700cbf7/8257c/1274.webp 64w,\n/static/9b74a679bbcddcf8d6dcb3a3a700cbf7/6766a/1274.webp 128w,\n/static/9b74a679bbcddcf8d6dcb3a3a700cbf7/22bfc/1274.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Unknown",
+            "seaReleaseDate": "September 11th, 2024",
+            "krReleaseDate": "July 10th, 2024",
+            "globalReleaseDate": "September 11th, 2024",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Swan Claire (Swan) is a PVE-oriented backline supporter focused around boosting team damage by applying crippling debuffs to enemy units. To address the inevitable comparisons to the other 5 cost ASSR supporter Awakened Shin Jia (AJia), Swan trades away all defensive utility in exchange for a far more potent team damage increase effect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Notably, Swan special skill's debuffs are stackable, achieving (among other things) 90% DEF reduction. This smashes the established damage ceiling and enables new burst damage setups at numbers previously impossible.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Swan also comes with teamwide skill seal immunity on ult and an enhanced attack that triggers on upon being skill sealed. While largely irrelevant in a PVE environment, this utility gives her a bit more depth in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Swan's plethora of debuffs makes her a core character in almost any PVE content. Her consistent uptime on DMG Taken Increase/ DEF reduction are appreciated everywhere.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Swan is a strong ASSR but she inherits all the problems inherent to being a supporter. She is a powerful force multiplier but if the damage is lacking, she won’t make a difference. Ultimately, there is a limit to what supporters can accomplish individually.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Swan sees occasional use in PVP as a debuffer as an answer to frontline tanks on weeks they are especially intolerable. Weekly meta permitting, Swan’s debuffs can be used to crack open stall comps before they snowball out of control.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As mentioned above, Swan’s kit has counters to skill seal, increasing her value on New Ohio weeks. Of note, Swan serves as a hard counter to Awakened Lyudmila, a PVP-oriented ASSR supporter used for her oppressive mapwide skill seal debuff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimately, Swan suffers from many of the same issues that prevent AJia from seeing widespread use. However, unlike AJia, Swan's focus on offensive utility makes her a more attractive choice in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Massive DEF shred and DMG Taken debuffs\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Personal damage is on the lower side\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "8",
+              "pve_early": "10",
+              "pve_late": "11"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1273_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage with energy conjured from the mirror.\n"
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1273_2",
+                "name": "Method Acting",
+                "type": "Passive",
+                "validHits": 4,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Her complete memories of Six Wing members allow her to imitate their combat skills. When afflicted with Skill Seal, she launches an Enhanced Attack to the ground target in front. The Enhanced Attack dispels barriers to deal AoE damage, and inflicts hitstun that can also affect units Immune to Special or Lower hitstun. Immune to Crowd Control and Hitstun from Special or Lower Skills while casting Enhanced Attacks. Enhanced Attacks reduce Ultimate CD by 20s. "
+                },
+                "level2": {
+                  "level2": "HP +5% "
+                },
+                "level3": {
+                  "level3": "HP +5% "
+                },
+                "level4": {
+                  "level4": "HP +10% "
+                },
+                "level5": {
+                  "level5": "Enhanced Attacks inflict DMG Taken +15% Debuff. (Up to 6 stacks, uncancellable)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1273_3",
+                "name": "Waltz of Tangled Threads",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 21,
+                "baseDescription": {
+                  "baseDescription": "Attacks with a conjured Yo-yo to deal AoE damage in front. The first attack reduces target’s DEF by 30% (Up to 3 stacks). At maximum stacks, the debuff becomes uncancellable, lasting 12s before wearing off. "
+                },
+                "level2": {
+                  "level2": "Damage +5%"
+                },
+                "level3": {
+                  "level3": "Damage +5%"
+                },
+                "level4": {
+                  "level4": "Damage +15%"
+                },
+                "level5": {
+                  "level5": "Adds DMG Taken +10% to the debuff. (Uncancellable, lasts 12s upon reaching max stacks)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1273_4",
+                "name": "Nostalgia Panorama",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 72,
+                "baseDescription": {
+                  "baseDescription": "When Ultimate cooldown is recharged, Swan Claire and nearby allies become immune to Skill Seal. Upon casting ultimate, Deploy the mirror to embody the watch of forgotten memories. Inflicts all enemies with DMG Taken +25% for 16s, then deals AoE damage with knock down. After using Ultimate, the first Basic Attack on ground targets becomes an Enhanced Attack. "
+                },
+                "level2": {
+                  "level2": "Damage +5%"
+                },
+                "level3": {
+                  "level3": "Damage +5%"
+                },
+                "level4": {
+                  "level4": "Damage +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken debuff value is doubled"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 37.46,
+                "critical": 2.11,
+                "def": 2.65,
+                "evade": 3.37,
+                "hit": 4.82,
+                "hp": 297
+              },
+              "base": {
+                "hp": 2362,
+                "atk": 367,
+                "def": 185,
+                "hit": 337,
+                "critical": 147,
+                "evade": 235
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": null,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "f98dc26f-9050-5846-b4ef-a07302d6377c"
+    }
+  },
+  "staticQueryHashes": []
+}

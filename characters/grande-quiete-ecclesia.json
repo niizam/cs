@@ -1,0 +1,241 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/grande-quiete-ecclesia",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a834f79f-0849-5f3a-86b1-3b47a5caa960",
+            "updatedAt": "2025-05-01T07:53:39.648Z",
+            "createdAt": "2023-09-27T08:49:51.833Z",
+            "unitId": "1256",
+            "fullName": "Great Silence Ecclesia",
+            "slug": "grande-quiete-ecclesia",
+            "shortName": "Great Silence Ecclesia",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/1c8707b20fce4690f4d4a9d30eb03cba/acb7c/1256.png",
+                        "srcSet": "/static/1c8707b20fce4690f4d4a9d30eb03cba/1c9ce/1256.png 64w,\n/static/1c8707b20fce4690f4d4a9d30eb03cba/bf8e1/1256.png 128w,\n/static/1c8707b20fce4690f4d4a9d30eb03cba/acb7c/1256.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/1c8707b20fce4690f4d4a9d30eb03cba/8257c/1256.webp 64w,\n/static/1c8707b20fce4690f4d4a9d30eb03cba/6766a/1256.webp 128w,\n/static/1c8707b20fce4690f4d4a9d30eb03cba/22bfc/1256.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Great Silence",
+            "seaReleaseDate": "February 6th, 2024",
+            "krReleaseDate": "September 27th, 2023",
+            "globalReleaseDate": "April 10th, 2024",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": {
+              "name": "Nameless Brilliance",
+              "type": "Special Skill Enh.",
+              "skill_name": "Holy Light of Fragarach",
+              "description": "Special Skill's DMG is increased by 50% and inflicts True Damage. Immune to damage while casting Special Skill. Enters Perfect EVA for 15s after casting."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Buffer",
+              "True Damage",
+              "Perfect Evasion",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great Silence Ecclesia is a frontline tank with powerful offensive utility that helps push the team’s damage, while also contributing decent damage herself through her skills.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ecclesia’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" gives her (among other things) invulnerability for the duration of her special skill animation and what is effectively a permanent uptime perfect evasion buff, which translates to a ~25% increase in Ecclesia’s survivability. Ecclesia is capable of maintaining 100% uptime on her perfect EVA buff with only ~30% skill haste. Post-reactor, she is among the tankiest units in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ecclesia is an offensive debuffer used primarily in 16-man content such as raids and CCB. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ecclesia is notable for her DMG Accel debuff and much of her value is dependent on how easily she can apply and maintain the debuff. She excels in certain PVE content (sustained uninterrupted DPS against single targets) where her DMG Accel debuff is allowed to achieve its full potential, granting an unmatched 100% uptime 80% category 1* debuff with the only caveat being that it takes time to ramp up. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It is worth mentioning that Ecclesia’s +1000 HIT buff, while relevant to PVP, does not generally factor into her PVE performance. Given the accessibility of EVA shred in a PVE environment and the arbitrary EVA values on PVE enemies, her HIT buff is largely treated as a bonus on top of what she mainly contributes.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"*The underlying mechanics behind DMG Accel go beyond the scope of this review, but this basically means your characters all have an additional 80% DMG% (the substat found on gear).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Without her reactor, Ecclesia is too squishy to perform her role as a frontline tank in PVP. With her reactor, Ecclesia gains a significant boost to her survivability that puts her on par with her ASSR defender peers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While Ecclesia’s tankiness makes up the larger part of her PVP relevance, her kit brings an assortment of much appreciated offensive utility to her team. Notable buffs/ debuffs include:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1000 HIT\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ecclesia passively provides a +1000 HIT buff to all on-field allies for as long as she is alive. This allows many DPS characters to reach surefire thresholds against their frontline targets.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"DMG Accel\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ecclesia’s special skill applies the DMG Accel debuff, which gradually increases incoming damage from the same unit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"-25% Incoming Healing\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ecclesia’s special skill applies a removable -25% incoming healing debuff of indefinite duration (up to 4 stacks).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Debuff Nullification\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ecclesia’s ultimate skill is one of the few sources of teamwide debuff nullification, and is by far the most accessible of the alternatives.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a mechanics refresher, targets lose the ability to evade attacks when attacker HIT% exceeds target EVA%. The point where this occurs is referred to as the “surefire threshold”. Hitting the surefire threshold increases DPS by a whopping 40~50%. Even if the surefire threshold is not reached, Ecclesia’s +1000 HIT passive increases DPS by ~10%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As Ecclesia is a frontline tank played primarily for her survivability, there is naturally little in the way of counterplay to the unit without radically changing how your comp functions. As is generally the case with frontline tanks in PVP, the easiest way to deal with Ecclesia is by playing your own Ecclesia. Buff block (from Awakened Yuna, Awakened Regina, Serina Crews, etc.) can be used to deny Ecclesia’s damage immunity on special skill cast, extending your team’s damage window to kill Ecclesia. That said, sources of buff block are scarce and teams may not necessarily have the damage to burst down Ecclesia.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Although Ecclesia commands a dominating presence in PVP, she doesn’t serve as the primary win condition and is usually complemented by other carries. As such, depending on the week, it may be worth directing your attention towards those other threats posed by the enemy team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Ecclesia (with her reactor) is one of the tankiest characters in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Offensive utility is capable of shaving a considerable amount of time off stage clears.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Ecclesia only sometimes clears stages faster than similar teams, and clear time may not necessarily be relevant. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "10",
+              "pve_early": "9",
+              "pve_late": "11"
+            },
+            "description": {
+              "description": "A tank that supports allies and keeps enemies in check with debuffs."
+            },
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1256_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her sword of light, dealing damage to an enemy in front. "
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1256_2",
+                "name": "Annular Eclipse",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Increase Knockback RES by 50%. While Ecclesia is on the battlefield, she increases all ally units' HIT by 1000 (excluding self, cannot be canceled). After every 2 basic attacks, delivers an enhanced attack that deals AoE damage and downs enemies. While casting, she becomes immune to Hitstun from Ultimate or lower skills. "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Increases her EVA for 8 s when casting her enhanced attack (+50% per ally unit in the battlefield excluding self, up to 10 stacks)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1256_3",
+                "name": "Holy Light of Fragarach",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Rapidly swings her sword in front. All hits deal Sure Fire AoE damage. The enemy to be hit last is inflicted with DMG Accel +2% for 30 seconds. \n\nDMG Accel: Gradually increases incoming damage from the same unit (Up to 80% in total. DMG TLRNC cancels out this effect)"
+                },
+                "level2": {
+                  "level2": "Ranged DMG RES +5%"
+                },
+                "level3": {
+                  "level3": "Ranged DMG RES +5%"
+                },
+                "level4": {
+                  "level4": "Ranged DMG RES +10%"
+                },
+                "level5": {
+                  "level5": "Adds Incoming Healing -25% debuff to the last hit (up to 4 stacks)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1256_4",
+                "name": "Cosmogonia",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Unleashes her power to create an aura of light that nullifies debuffs to all ally units for 3 seconds (excluding self, cannot be canceled). Increases Ecclesia's ATK by 50% per unit within the aura's range (excluding self, up to 10 stacks). Afterwards, she strikes down, dealing AoE damage with Knockback. The ATK buff is removed when Ultimate Skill ends. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Blinds all enemy units for 15 s when casting Ultimate Skill. "
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 39.19,
+                "critical": 0,
+                "def": 7.36,
+                "evade": 5.02,
+                "hit": 4.24,
+                "hp": 506
+              },
+              "base": {
+                "hp": 4022,
+                "atk": 384,
+                "def": 514,
+                "hit": 296,
+                "critical": 0,
+                "evade": 351
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a834f79f-0849-5f3a-86b1-3b47a5caa960"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/serapel",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "06af31f2-e12d-5c51-9a55-90fe72adc86f",
+            "updatedAt": "2024-12-12T22:04:38.785Z",
+            "createdAt": "2021-10-22T06:45:21.283Z",
+            "unitId": "1170",
+            "fullName": "Serapel",
+            "slug": "serapel",
+            "shortName": "Serapel",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/ccb94847e6d6a508d8e392efc60a3d6b/acb7c/emp-1170.png",
+                        "srcSet": "/static/ccb94847e6d6a508d8e392efc60a3d6b/1c9ce/emp-1170.png 64w,\n/static/ccb94847e6d6a508d8e392efc60a3d6b/bf8e1/emp-1170.png 128w,\n/static/ccb94847e6d6a508d8e392efc60a3d6b/acb7c/emp-1170.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/ccb94847e6d6a508d8e392efc60a3d6b/8257c/emp-1170.webp 64w,\n/static/ccb94847e6d6a508d8e392efc60a3d6b/6766a/emp-1170.webp 128w,\n/static/ccb94847e6d6a508d8e392efc60a3d6b/22bfc/emp-1170.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Cronenworth Puppet Troupe",
+            "seaReleaseDate": "August 12th, 2021",
+            "krReleaseDate": "March 4th, 2021",
+            "globalReleaseDate": "July 7th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": {
+              "name": "Forbidden Vow",
+              "type": "Special Skill Enh.",
+              "skill_name": "Painful Monopoly",
+              "description": "Enhanced attack activated after casting Special skill, Special Skill cooldown -1 s when hit every 2 s."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "CC",
+              "DoT",
+              "Selfhealer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Serapel is a frontline utility tank who provides a combination of self-sustain, teamwide damage absorption, and limited damage potential through her (PVP only) mapwide %HP burn. Serapel is notable in that she has 0 base EVA. This puts her in surefire range of most defender shredders, which severely affects her survivability. The issue can be somewhat alleviated with gearing (flat EVA on movement accessories) and ship selection (Gleipnir: Pod Type provides flat +350 EVA), but even then she will struggle to dodge in any meaningful capacity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Serapel’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" greatly improves her survivability by lowering the cooldowns on her Special skill and Enhanced attack self-buff uptime. Of note, as Serapel’s survivability is tied to her healing, her actual survivability can swing drastically depending on the presence of healing reduction/ reflux debuffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, frontline tanks with buffs/ debuffs are valued more highly than those focused solely on tanking for themselves. Serapel’s damage share mechanic struggles to find value in PVE. As a general frontline tank, Serapel struggles to distinguish herself from the pool of stronger, cheaper alternatives (e.g. Rearm Kaci, Rearm Alex).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Serapel is considered one of the weaker options among the viable-but-not-meta frontline tanks. Serapel cannot compete with stronger alternatives, but her unique offensive utility gives her limited viability in situations where her survivability isn’t threatened (e.g. slow weeks).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Can help to protect allies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- HP burn damage is significant in certain matchups.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Having 0 base EVA means that Serapel is susceptible to being surehit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- PVP viability contingent on having her Alternium Reactor.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "9",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee Defender that takes damage for surrounding enemies and heals itself."
+            },
+            "introduction": {
+              "introduction": "  Serapel is a Defender that takes damage for allies around her.\n  The Original Puppet, Serapel is believed to have been modeled after a woman in a fairy tale that goes...\n  \"Once upon a time, there lived a woman who was more beautiful than anyone under the sky. Everyone loved her, and she became so spoiled that nothing could satisfy her.\n  Her desperate admirers committed all kinds of atrocities to please her, and eventually, she was punished for that by an angry mob. Just before her death, she felt thrilled for the first time in her life, through the pain and hatred that she'd never known before.\""
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": "Should run evasion accessories due to having 0 base evasion. Works well on CDR Tank set if she is not your main frontline."
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": "Should run evasion accessories due to having 0 base evasion. Works well on CDR Tank set if she is not your main frontline."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1170_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Discharges energy, inflicting AoE damage on and around a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1170_2",
+                "name": "Masochistic Creator",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Permanently increases her ATK by 1% in response to incoming damage, up to 99%. In Gauntlet, incoming damage decreases all enemies' HP by 4.5% over 3 seconds. (Ships excluded)"
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "After every 4th Basic attack, she delivers an enhanced AoE attack to the front area. Special Skill Hitstun Immunity and DMG RES +50% for 5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1170_3",
+                "name": "Painful Monopoly",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Unleashes her power, inflicting AoE damage on surrounding enemies and forcing them to attack her for 8 seconds. Takes 50% of damage for surrounding allies and achieves 100% higher DEF for 8 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Recovers 30% of Max HP after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1170_4",
+                "name": "Lacrimosa",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Partly reveals her true form, inflicting AoE damage on surrounding enemies. This skill immediately cancels all the debuffs cast on her and makes her Invincible for its duration."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Stuns all enemies for 2 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.92,
+                "critical": 1.77,
+                "def": 4.97,
+                "evade": 0,
+                "hit": 4.22,
+                "hp": 396
+              },
+              "base": {
+                "hp": 3210,
+                "atk": 189,
+                "def": 376,
+                "hit": 319,
+                "critical": 134,
+                "evade": 0
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "06af31f2-e12d-5c51-9a55-90fe72adc86f"
+    }
+  },
+  "staticQueryHashes": []
+}

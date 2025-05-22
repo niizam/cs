@@ -1,0 +1,213 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/rivet",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "55cc2c35-e912-5ee1-bccd-fc7c7651684f",
+            "updatedAt": "2024-10-17T21:40:17.296Z",
+            "createdAt": "2021-10-22T00:29:25.335Z",
+            "unitId": "1148",
+            "fullName": "Rivet",
+            "slug": "rivet",
+            "shortName": "Rivet",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/8999e3744569a6ac1a3003fc81c93988/acb7c/emp-1148.png",
+                        "srcSet": "/static/8999e3744569a6ac1a3003fc81c93988/1c9ce/emp-1148.png 64w,\n/static/8999e3744569a6ac1a3003fc81c93988/bf8e1/emp-1148.png 128w,\n/static/8999e3744569a6ac1a3003fc81c93988/acb7c/emp-1148.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/8999e3744569a6ac1a3003fc81c93988/8257c/emp-1148.webp 64w,\n/static/8999e3744569a6ac1a3003fc81c93988/6766a/emp-1148.webp 128w,\n/static/8999e3744569a6ac1a3003fc81c93988/22bfc/emp-1148.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "ESPR",
+            "seaReleaseDate": "July 8th, 2021",
+            "krReleaseDate": "June 25th, 2020",
+            "globalReleaseDate": "June 23rd, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Rivet does not have the stats necessary to meet the baseline requirements expected of her as a damage dealer.\\n\\nRivet does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Ranged attacker who's strong against Counters and C.O.'s."
+            },
+            "introduction": {
+              "introduction": "　Rivet is a Ranged attacker using a massive support weapon. A veteran soldier who has survived many different battlefields, she's capable of handling Corrupted Objects and even Counters.\n\n　In the Underground, all kinds of people can be found, from able fighters who have a personal reason to hide their identities to freaks that live in their own worlds. Rivet is an outlaw encompassing both sides.\n　As if to prove her claim that she became a mercenary just for the thrill of it, she was mainly seen in the depths of the Counterside or intensely disputed territories. If there was no trouble, she created it on her own, and because of this, she was known as the most dangerous person to associate with among newcomers of the Underground. When she disappeared and didn't show up for a long time, people thought she got herself killed.\n　Lately, however, it's been confirmed that she's just joined the Society. Whatever her reason was to join, it can't have been a sound one, given her track record for reckless and dangerous behavior."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1148_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rifle at a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1148_2",
+                "name": "Daily Madness",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Utilizes her abundant experience with strange creatures. Inflicts 50% more damage on Counters and Corrupted Objects."
+                },
+                "level2": {
+                  "level2": "Debuff RES +25%"
+                },
+                "level3": {
+                  "level3": "Debuff RES +25%"
+                },
+                "level4": {
+                  "level4": "Debuff RES +50%"
+                },
+                "level5": {
+                  "level5": "HP +25%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1148_3",
+                "name": "Shining Spiral Stake",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Fires a cannonball, inflicting damage on and around the foremost target. Enemy Counters and Corrupted Objects lose 15% of ATK for 10 seconds. Inflicts 50% more damage on Melee Ground targets."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 20.83,
+                "critical": 1.88,
+                "def": 1.75,
+                "evade": 2.25,
+                "hit": 2.29,
+                "hp": 164
+              },
+              "base": {
+                "hp": 1327,
+                "atk": 208,
+                "def": 132,
+                "hit": 173,
+                "critical": 142,
+                "evade": 170
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "55cc2c35-e912-5ee1-bccd-fc7c7651684f"
+    }
+  },
+  "staticQueryHashes": []
+}

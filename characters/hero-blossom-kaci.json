@@ -1,0 +1,344 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/hero-blossom-kaci",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "2ccabc08-319f-5c25-b161-5bbff5cec57a",
+            "updatedAt": "2025-04-12T08:22:30.104Z",
+            "createdAt": "2023-03-09T12:00:34.865Z",
+            "unitId": "2101",
+            "fullName": "Hero Blossom Kaci",
+            "slug": "hero-blossom-kaci",
+            "shortName": "Hero Blossom Kaci",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b6472ce260b935f79dc2b77d3f1aad69/acb7c/2101.png",
+                        "srcSet": "/static/b6472ce260b935f79dc2b77d3f1aad69/1c9ce/2101.png 64w,\n/static/b6472ce260b935f79dc2b77d3f1aad69/bf8e1/2101.png 128w,\n/static/b6472ce260b935f79dc2b77d3f1aad69/acb7c/2101.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b6472ce260b935f79dc2b77d3f1aad69/8257c/2101.webp 64w,\n/static/b6472ce260b935f79dc2b77d3f1aad69/6766a/2101.webp 128w,\n/static/b6472ce260b935f79dc2b77d3f1aad69/22bfc/2101.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Special Hero Class",
+            "seaReleaseDate": "July 18th, 2023",
+            "krReleaseDate": "March 8th, 2023",
+            "globalReleaseDate": "March 8th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Barrier",
+              "Detect Stealth",
+              "Dispeller",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When it comes to PVE, Rearmed Kaci is one of the better Defenders you can use in any mode. Her low cost, combined with her ability to stack buffs and heal herself, makes her super hard to kill. In addition, whenever she falls below 30% HP, she gains damage immunity for 2 seconds, which is often enough time for her to recover enough HP to prevent herself from dying. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She also has some additional utility in the form of stealth detection and buff removal which is useful in some PVE content. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, she has competition from another unit, Rearmed Alex, who also has both stealth detection and buff removal, while also having a 5s stun on her ult. The main difference between Rearmed Alex and Rearmed Kaci is that Rearmed Alex generates shields for herself, while Rearmed Kaci regenerates HP for herself. This makes Rearmed Alex better for certain content like Danger Close, especially on high HP% risks that make Rearmed Kaci's self-regeneration almost useless. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As for PVP, you may think that a PVE character won't really shine in PVP, but Kaci is actually a beast there. She stormed the Global PVP Arena and those who didn't have enough materials saved to rearm her suffered greatly as she is so flexible. You can use her as Leader in any meta comp AND she will actually improve it (yes, this is true even for Mechs and Soldiers). Just keep in mind that in the Korean region, she's not as good as in Global - they have more characters available there that make Rearm Kaci not as oppressive as she is in Global, but still a really good character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"she's like a swiss army knife - has everything a Defender needs and more,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"cheat death,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"her Leader skill is so good, she's used in PVP in every meta comp, including Soldiers and Mechs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"honestly, there's none.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "11",
+              "pve_early": "8",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A defender who protects her allies and enhances herself by attacking enemies"
+            },
+            "introduction": {
+              "introduction": "Unexpected powers that appeared out of nowhere forced a once-happy girl to face hardship. She avoided making friends out of fear that her powers would harm them, and she confined herself to gardening to suppress her powers. But after realizing that the powers she despised could help those in need and her friends, she decided to stop hiding them. Even though she is not yet a true hero, she is working hard to become the person that everyone wants her to be."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2101_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her polearm, April, inflicting AoE damage in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +2%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2101_2",
+                "name": "Grow big and strong",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Upon deployment, deals AoE damage to enemies within range and makes enemies attack her for 8 seconds. While on the battlefield, gains 1 [Sprout] every 8 seconds, which stacks up to 3. Delivers an enhanced attack after every 3 basic attacks, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG RDC +2%"
+                },
+                "level3": {
+                  "level3": "DMG RDC +2%"
+                },
+                "level4": {
+                  "level4": "DMG RDC +4%"
+                },
+                "level5": {
+                  "level5": "Adds Stealth Detection, ASPD +5% added to [Sprout]"
+                },
+                "level6": {
+                  "level6": "EVA +3%"
+                },
+                "level7": {
+                  "level7": "EVA +3%"
+                },
+                "level8": {
+                  "level8": "EVA +3%"
+                },
+                "level9": {
+                  "level9": "EVA +6%"
+                },
+                "level10": {
+                  "level10": "Iron Defense for 4s upon deployment"
+                }
+              },
+              {
+                "skillId": "2101_3",
+                "name": "I'll be braver!",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Quickly thrusts April, inflicting AoE damage in front. The last attack randomly removes 1 non-Permanent buff from the affected target."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "DMG RDC +20% for 10 s when cast"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Immunity to Hitstun from Special or lower skills for 10 s when cast"
+                }
+              },
+              {
+                "skillId": "2101_4",
+                "name": "I'll protect you! Ahh...!",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 44,
+                "baseDescription": {
+                  "baseDescription": "\"I have to protect my friends!\" But Kaci loses grip of April and deals AoE damage and knockback to enemies. Cancels all debuffs cast on herself and permanently increases all stats by 10%. (Up to 2 stacks)"
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +6%"
+                },
+                "level5": {
+                  "level5": "Recovers 30% of Max HP when cast"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Resets Special Skill cooldown"
+                }
+              },
+              {
+                "skillId": "2101_5",
+                "name": "Hello, Mr. Sun",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Upon deployment, creates [Flowerbed] that lasts for 5 seconds. \n\n[Flowerbed]: Casts a barrier equal to 15% of Max HP for all allies within range for 8 seconds."
+                },
+                "level2": {
+                  "level2": "HP +2%"
+                },
+                "level3": {
+                  "level3": "HP +2%"
+                },
+                "level4": {
+                  "level4": "HP +2%"
+                },
+                "level5": {
+                  "level5": "HP +6%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.83,
+                "critical": 1.9,
+                "def": 4.58,
+                "evade": 1.39,
+                "hit": 1.7,
+                "hp": 385
+              },
+              "base": {
+                "hp": 3001,
+                "atk": 181,
+                "def": 297,
+                "hit": 110,
+                "critical": 123,
+                "evade": 90
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1101",
+              "slug": "kaci-bins",
+              "shortName": "Kaci Bins",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/c46d4a8f6cc97c16eead6216f2bea16f/acb7c/emp-1101.png",
+                          "srcSet": "/static/c46d4a8f6cc97c16eead6216f2bea16f/1c9ce/emp-1101.png 64w,\n/static/c46d4a8f6cc97c16eead6216f2bea16f/bf8e1/emp-1101.png 128w,\n/static/c46d4a8f6cc97c16eead6216f2bea16f/acb7c/emp-1101.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/c46d4a8f6cc97c16eead6216f2bea16f/8257c/emp-1101.webp 64w,\n/static/c46d4a8f6cc97c16eead6216f2bea16f/6766a/emp-1101.webp 128w,\n/static/c46d4a8f6cc97c16eead6216f2bea16f/22bfc/emp-1101.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "2ccabc08-319f-5c25-b161-5bbff5cec57a"
+    }
+  },
+  "staticQueryHashes": []
+}

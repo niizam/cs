@@ -1,0 +1,252 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/rita-arsenico",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "d7602a14-aee3-5624-9888-f3ed4ffc42d5",
+            "updatedAt": "2025-01-28T06:59:12.516Z",
+            "createdAt": "2021-10-22T06:58:23.970Z",
+            "unitId": "1179",
+            "fullName": "Rita Arsenico",
+            "slug": "rita-arsenico",
+            "shortName": "Rita Arsenico",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/45ef93e963b5df94b3d286cabd146a8d/acb7c/emp-1179.png",
+                        "srcSet": "/static/45ef93e963b5df94b3d286cabd146a8d/1c9ce/emp-1179.png 64w,\n/static/45ef93e963b5df94b3d286cabd146a8d/bf8e1/emp-1179.png 128w,\n/static/45ef93e963b5df94b3d286cabd146a8d/acb7c/emp-1179.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/45ef93e963b5df94b3d286cabd146a8d/8257c/emp-1179.webp 64w,\n/static/45ef93e963b5df94b3d286cabd146a8d/6766a/emp-1179.webp 128w,\n/static/45ef93e963b5df94b3d286cabd146a8d/22bfc/emp-1179.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Horizon Finance",
+            "seaReleaseDate": "January 26th, 2022",
+            "krReleaseDate": "April 20th, 2021",
+            "globalReleaseDate": "October 13th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": {
+              "name": "Omerta",
+              "type": "Special Skill Enh.",
+              "skill_name": "Metal Disintegration",
+              "description": "Inflicts DMG Taken AMP +15% debuff for 8 s to targets hit by Special Skill and +25% to Mechs instead. Delivers 4 enhanced attacks with 150% damage after casting Special Skill."
+            },
+            "hasAlternium": true,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "True Damage",
+              "Healblock",
+              "Executor",
+              "Dispeller"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rita Arsenico is a flying backline utility damage dealer with a variety of debuffs. She applies ASPD, ATK and Incoming Healing debuffs all of which are stronger against mech enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rita’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" adds DMG AMP debuff to her kit and, more importantly, changes the amount of enhanced attacks after special from 1 to 4. This massively increases her damage output in every scenario and allows her to effectively permanently stun all mechs in AoE of her enhanced attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Rita is a debuffer/ damage dealer hybrid thanks to her true damage and DMG AMP%/ -ATK% debuff. While serviceable in most content, she shines against mech enemies thanks to innate Anti-Mech DMG and increased debuff potency on Mechs. This makes her one of the best debuffers in Inhibitor. Rita’s ability to frequently stun mech enemies gives her a strong niche against any stunnable mech enemies (e.g. Challenge 3-15, Swift Trimming Room 1).\\t\\t\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Rita sees universal use as a cheap damage dealer. Her short range and vulnerability to anti-air priority units give her exploitable weaknesses, but damage output and offensive utility she provides make her an attractive option for most teams. Additionally, her anti-mech properties make her an existential threat for any mech-focused team.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Damage dealer in supporter role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Debilitating debuffs against Mechs\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her short range and vulnerability to anti-air priority units give her exploitable weaknesses \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "10",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "An offensive supporter that's especially effective against Mechs."
+            },
+            "introduction": {
+              "introduction": "  Rita Arsenico is a Supporter who commands her alter ego Omertà to repel enemies. Her ability to control metal is especially threatening to Mech units.\n\n  She wouldn't admit to this, but she's a main contributor to Horizon Finance's ruthless reputation among its customers, who can't help but cooperate in the face of her glaring eyes and intimidating tone of voice. According to a bartender at her favorite bar, Rita's customers range from heinous criminals to lawyers, a curious combination that hints at an interesting past."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Anti-Striker Autoattack DPS",
+                "notes": "Works best on Spectral Spirit if you are using Shadow Palace gear."
+              },
+              "pvp": {
+                "set": "Anti-Striker Autoattack DPS",
+                "notes": "Works best on Spectral Spirit if you are using Shadow Palace gear."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1179_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Shapes Omerta into a sword and throws it at the front, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1179_2",
+                "name": "Omerta",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Delivers an enhanced Basic attack after Special and Ultimate skills, inflicting 50% more AoE damage on and around a target. The affected enemies lose 15% of ATK for 5 seconds, and this value is doubled for Mechs."
+                },
+                "level2": {
+                  "level2": "Anti-Mech DMG +10%"
+                },
+                "level3": {
+                  "level3": "Anti-Mech DMG +10%"
+                },
+                "level4": {
+                  "level4": "Anti-Mech DMG +20%"
+                },
+                "level5": {
+                  "level5": "Additional Mech DMG RES +30% (outside the Gauntlet). Enhanced attacks inflict true DMG. Stuns Mechs for 2 seconds.\n"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1179_3",
+                "name": "Metal Disintegration",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Shapes Omerta into an ax and throws it at the front, inflicting AoE damage on and around a target. The affected enemies lose 20% of Incoming Healing for 8 seconds, and this value is doubled for Mechs."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Instantly finishes 1 Mech with 20% or lower HP within range (Bosses excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1179_4",
+                "name": "Dark Matter",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Angry Omerta inflicts AoE damage on and around a target. Cancels all non-Permanent buffs cast on the affected Mechs and negates new buffs on them for 45 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Affected enemies' ASPD -25% for 12 s (2x on Mechs)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.48,
+                "critical": 2.42,
+                "def": 1.49,
+                "evade": 2.92,
+                "hit": 3.51,
+                "hp": 214
+              },
+              "base": {
+                "hp": 1703,
+                "atk": 279,
+                "def": 104,
+                "hit": 245,
+                "critical": 169,
+                "evade": 204
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "d7602a14-aee3-5624-9888-f3ed4ffc42d5"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,339 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sleeping-girl-edith",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "5e733e92-29df-57b1-b0a7-f36b3f65dd3f",
+            "updatedAt": "2024-03-18T16:37:19.159Z",
+            "createdAt": "2023-06-19T12:01:51.988Z",
+            "unitId": "2152",
+            "fullName": "Sleeping Girl Edith",
+            "slug": "sleeping-girl-edith",
+            "shortName": "Sleeping Girl Edith",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/e63ee1ba30f2089c2a2b4e5a63d924eb/acb7c/2152.png",
+                        "srcSet": "/static/e63ee1ba30f2089c2a2b4e5a63d924eb/1c9ce/2152.png 64w,\n/static/e63ee1ba30f2089c2a2b4e5a63d924eb/bf8e1/2152.png 128w,\n/static/e63ee1ba30f2089c2a2b4e5a63d924eb/acb7c/2152.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/e63ee1ba30f2089c2a2b4e5a63d924eb/8257c/2152.webp 64w,\n/static/e63ee1ba30f2089c2a2b4e5a63d924eb/6766a/2152.webp 128w,\n/static/e63ee1ba30f2089c2a2b4e5a63d924eb/22bfc/2152.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Academy Student Council",
+            "seaReleaseDate": "August 22nd, 2023",
+            "krReleaseDate": "May 30th, 2023",
+            "globalReleaseDate": "October 25th, 2023",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Edith's rearmament doesn't offer much upgrade from her base kit where she was already considered extremely weak. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The upgrade mainly unlocks her movement and enables her as a hard counter to Replacer King as she can inflict unremovable buff nullification on him. This does come at a cost of having to set her as a Leader which is undesirable when other really strong Rearmed Defenders exists. The leader effect also only works well against Replacer King comps.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She can be used in PVE to deal DMG along with the 15% DEF Shred.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Hard counter to Replacer King\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- 2nd Moving Tower in the game\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- DEF Shred\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- :camping:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Needs to be set as Leader to counter a specific comp\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Tower who supports allies by debuffing enemies."
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Attack Speed",
+                "notes": "Ground DMG / Crit DMG. Attack speed for consistent Shred uptime"
+              },
+              "pvp": {
+                "set": "Cooldown Reduction / Attack Speed / HP",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2152_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires both machine guns at a single target in front."
+                },
+                "level2": {
+                  "level2": " Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": " Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": " Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": " Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2152_2",
+                "name": "It’s recharging…",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deploys onto the field in the skill sealed and stun immune state. When her HP drops to 80% or below, she inflicts AoE damage as she rises into the air, unlocking her skills and movement, and cancels her stun immunity. Permanently decreases her HP by 1% per second in all modes. "
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "Gain barrier equal to 30% of Max HP upon transformation. When her HP falls below 50%, stop losing HP from the passive."
+                },
+                "level6": {
+                  "level6": "HP +3%"
+                },
+                "level7": {
+                  "level7": "HP +3%"
+                },
+                "level8": {
+                  "level8": "HP +3%"
+                },
+                "level9": {
+                  "level9": "HP +9%"
+                },
+                "level10": {
+                  "level10": "After every 5 basic attacks, casts an enhanced attack the deals AoE damage to the target and reduces DEF for all damaged targets by 15% for 12s."
+                }
+              },
+              {
+                "skillId": "2152_3",
+                "name": "Get the coordinates! Quick!",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Throws a penguin assistant at the attack target. The penguin marks the location of the descent and launches a bombardment attack at the area. "
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "The explosion leaves a field that periodically deals AoE damage to ground units for 5s."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Extends the duration of the field to 8s. The field additionally grants +15% DMG Taken AMP debuff to damaged targets for 2s."
+                }
+              },
+              {
+                "skillId": "2153_4",
+                "name": "Don’t calculate, Full power!",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Signals a satellite and fires a massive laser beam from the sky, inflicting AoE damage on and around a target. First transformations fill this skill’s cooldown by 70%. "
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +6%"
+                },
+                "level5": {
+                  "level5": "Laser beam duration +100%"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "CD -10s"
+                }
+              },
+              {
+                "skillId": "21",
+                "name": "Newly Renovated",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When receiving damage in the air mode, the attacker loses 15% ATK for 5s. Additionally, inflicts Buff Nullification on Replacer units for 5s. Debuff duration does not refresh. (Uncancelable, bosses excluded) "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Cancels Passive HP loss after transformation."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 40.45,
+                "critical": 1.8,
+                "def": 4.22,
+                "evade": 0.81,
+                "hit": 1.17,
+                "hp": 289
+              },
+              "base": {
+                "hp": 2339,
+                "atk": 404,
+                "def": 319,
+                "hit": 88,
+                "critical": 136,
+                "evade": 61
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1152",
+              "slug": "edith-twins",
+              "shortName": "Edith Twins",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/6fbc6c9627232f9b4a1d8ce03870c051/acb7c/emp-1152.png",
+                          "srcSet": "/static/6fbc6c9627232f9b4a1d8ce03870c051/1c9ce/emp-1152.png 64w,\n/static/6fbc6c9627232f9b4a1d8ce03870c051/bf8e1/emp-1152.png 128w,\n/static/6fbc6c9627232f9b4a1d8ce03870c051/acb7c/emp-1152.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/6fbc6c9627232f9b4a1d8ce03870c051/8257c/emp-1152.webp 64w,\n/static/6fbc6c9627232f9b4a1d8ce03870c051/6766a/emp-1152.webp 128w,\n/static/6fbc6c9627232f9b4a1d8ce03870c051/22bfc/emp-1152.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "5e733e92-29df-57b1-b0a7-f36b3f65dd3f"
+    }
+  },
+  "staticQueryHashes": []
+}

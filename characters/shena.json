@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/shena",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "49c9a019-f91d-5bdf-8ddc-1d63d03dbdab",
+            "updatedAt": "2025-05-01T07:55:23.854Z",
+            "createdAt": "2021-11-07T11:05:40.181Z",
+            "unitId": "1198",
+            "fullName": "Shena",
+            "slug": "shena",
+            "shortName": "Shena",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3ed349d8481994b66717355adfcb1ebc/acb7c/emp-1198.png",
+                        "srcSet": "/static/3ed349d8481994b66717355adfcb1ebc/1c9ce/emp-1198.png 64w,\n/static/3ed349d8481994b66717355adfcb1ebc/bf8e1/emp-1198.png 128w,\n/static/3ed349d8481994b66717355adfcb1ebc/acb7c/emp-1198.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3ed349d8481994b66717355adfcb1ebc/8257c/emp-1198.webp 64w,\n/static/3ed349d8481994b66717355adfcb1ebc/6766a/emp-1198.webp 128w,\n/static/3ed349d8481994b66717355adfcb1ebc/22bfc/emp-1198.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Elysium Philharmonic",
+            "seaReleaseDate": "May 17th, 2022",
+            "krReleaseDate": "October 26th, 2021",
+            "globalReleaseDate": "November 17th, 2022",
+            "cost": 2,
+            "type": [
+              "Counter",
+              "Corrupted Object"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Perfect Evasion"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shena is a melee sniper who kills enemies with music. She's a CRIT-reliant character and to unleash her full potential, the gods of rng need to be on your side. When she was initially released, she was pretty weak, but after both she and Maestra received some buffs, she is now decent when playing the Elysion Philharmonic faction team in PVP. Still, outside of it and in the majority of PVE content, she's just terrible.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low cost,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great design.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- RNG-based kit,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- super squishy,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- in PVP she only works when paired with Maestra Nequitia.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A close-ranged sniper who focuses on CRIT damage."
+            },
+            "introduction": {
+              "introduction": "셰나는 치명타 발생에 비례해 생성되는 음표로 범위 피해를 입히는 근접형 스나이퍼입니다.\n제프티 바이오테크의 경호실장이지만, 대외적으로는 모습을 드러낸 적이 없습니다. 오히려 VIP들을 초청한 자리에서 즉석 연주회로 존재감을 드러냈다는 증언이 대다수입니다.\n그녀가 언급한 엘리시움 필하모닉은 관리실패 직전까지 구 관리국을 적대해 온 요주의 조직으로서, 당시 건재했던 전대들의 활약으로 최고 지휘자를 잃고 와해된 바 있습니다.\n과거 엘리시움 필하모닉이 건재하던 시절, 셰나는 잔혹한 공연의 서막을 장식하는 역할이었습니다. 그녀가 등장한 것이 조직의 재부상을 뜻하는지, 혹은 현실에 잔류한 패잔병에 불과한지는 속단할 수 없습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1198_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings the sword to inflict AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1198_2",
+                "name": "Scream-inducing Melody",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "For every 7 critical hits, generates musical notes while dealing minor AoE damage to targets in front. Detonates all notes after 4 basic attacks to inflict AoE damage."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "CRIT DMG +10% for each note created (Up to +50%, stops stacking when the notes explode)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1198_3",
+                "name": "Mortifying Movement",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Stabs in a flurry to inflict AoE damage on enemies in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Enters Perfect EVA state for 5 seconds after using skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1198_4",
+                "name": "Lethal Harmony",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Plays reality-bending music to inflict AoE damage. Decreases affected target's ASPD by 10% for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "The final hit creates 2 musical notes (stacks with passive skill level 5 effects)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 23.78,
+                "critical": 4.18,
+                "def": 2.44,
+                "evade": 2.31,
+                "hit": 3.51,
+                "hp": 280
+              },
+              "base": {
+                "hp": 2223,
+                "atk": 233,
+                "def": 170,
+                "hit": 245,
+                "critical": 292,
+                "evade": 161
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "49c9a019-f91d-5bdf-8ddc-1d63d03dbdab"
+    }
+  },
+  "staticQueryHashes": []
+}

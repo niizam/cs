@@ -1,0 +1,187 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sparrow",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "6bb76c08-1642-59fd-8218-c9fb0c701eed",
+            "updatedAt": "2023-12-03T09:51:45.914Z",
+            "createdAt": "2021-10-21T11:11:58.708Z",
+            "unitId": "1012",
+            "fullName": "Sparrow",
+            "slug": "sparrow",
+            "shortName": "Sparrow",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/229a08b08dd45325653f12430c4fd3c2/acb7c/emp-1012.png",
+                        "srcSet": "/static/229a08b08dd45325653f12430c4fd3c2/1c9ce/emp-1012.png 64w,\n/static/229a08b08dd45325653f12430c4fd3c2/bf8e1/emp-1012.png 128w,\n/static/229a08b08dd45325653f12430c4fd3c2/acb7c/emp-1012.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/229a08b08dd45325653f12430c4fd3c2/8257c/emp-1012.webp 64w,\n/static/229a08b08dd45325653f12430c4fd3c2/6766a/emp-1012.webp 128w,\n/static/229a08b08dd45325653f12430c4fd3c2/22bfc/emp-1012.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "N",
+            "rarityNumber": 1,
+            "rarityClassName": "N",
+            "title": "Steel Lane",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Mech"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sparrow is one of the better N rarity employees in the game. Being an air employee he is safer and his low stats don't hurt him that much. Especially if the enemies do not have employees that can attack Air. Also, most tanks in PVP build Ground res, which does not affect Sparrow, making him do surprisingly decent damage sometimes.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- air employee,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- good damage for N rarity,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- easy to MLB.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low base stats really hurt his potential.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A flying all-around Ranged attacker"
+            },
+            "introduction": {
+              "introduction": "　An all-around ranged attacker that provides fire support from the air.\n\n　They are combat drones that utilize a small machinegun from low altitude.\n　A product of the Future-at-War Project, they are loved by soldiers for their simple structure that allows for easy maintenance. Released under an open-source license, they are still produced all around the world.\n　They are equipped with an AI modeled after a sparrow. Rumor has it that they can be trained like pets over time, but they are usually shot down before that, so the truth is yet to be revealed."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Anti-Defender Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Anti-Defender Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1012_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rifle at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1012_2",
+                "name": "Ad-hoc Routing Algorithm",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Addresses the AI's weaknesses. Increases HIT by 5%."
+                },
+                "level2": {
+                  "level2": "HIT +5%"
+                },
+                "level3": {
+                  "level3": "HIT +5%"
+                },
+                "level4": {
+                  "level4": "HIT +10%"
+                },
+                "level5": {
+                  "level5": "CRIT DMG +25%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 11.37,
+                "critical": 2.3,
+                "def": 0.22,
+                "evade": 0.36,
+                "hit": 1.29,
+                "hp": 92
+              },
+              "base": {
+                "hp": 756,
+                "atk": 115,
+                "def": 18,
+                "hit": 106,
+                "critical": 190,
+                "evade": 29
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "6bb76c08-1642-59fd-8218-c9fb0c701eed"
+    }
+  },
+  "staticQueryHashes": []
+}

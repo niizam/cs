@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sprouting-star-solovey",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c20e6388-38ac-5376-8943-28b14f4269b1",
+            "updatedAt": "2025-05-01T13:38:10.800Z",
+            "createdAt": "2025-02-19T14:21:36.945Z",
+            "unitId": "1286",
+            "fullName": "Sprouting Star Solovey",
+            "slug": "sprouting-star-solovey",
+            "shortName": "Sprouting Star Solovey",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#d8c8c8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/ba9dd215263ff271ba926cbecb6b876a/22bfc/1286.webp",
+                        "srcSet": "/static/ba9dd215263ff271ba926cbecb6b876a/8257c/1286.webp 64w,\n/static/ba9dd215263ff271ba926cbecb6b876a/6766a/1286.webp 128w,\n/static/ba9dd215263ff271ba926cbecb6b876a/22bfc/1286.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Unknown",
+            "seaReleaseDate": "February 19th, 2025",
+            "krReleaseDate": "February 19th, 2025",
+            "globalReleaseDate": "February 19th, 2025",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Solovey is a backline damage dealer that provides consistent Sure Fire buff to allied rangers and snipers. She also applies high uptime barrier nullification and extremely low uptime buff block debuffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Solovey’s Exclusive Equipment set features a unique Basic Skill DMG AMP stat. It is a viable option for generic damage dealer sets (recommended set options are ASPD/ CDR/ Anti-Ground Damage; Ranged DMG Option 1), but does not significantly outperform existing relic gear in any game mode. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Solovey outputs impressive damage, but significantly stronger damage dealers exist. She is best used as a secondary DPS, utilizing sure fire aura to compensate for lower personal damage. Notably, many Danger Close bosses have extremely high evasion, making Solovey a competitive choice for the game mode.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Solovey is a straightforward backline damage dealer. She applies immense pressure to the frontline through a combination of high multipliers and Sure Fire. On top of that her Special and Ultimate skills hit slightly behind the primary target, sometimes allowing her to kill units protected by frontline tanks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While her Sure Fire aura is synergistic with Ranger/ Sniper compositions, its impact remains supplementary to her core role as a damage dealer. In case you want to maximize this utility, pairing her with the Sasha Operator is advised.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Solovey’s lack of defensive mechanics leaves her susceptible to common backline threats (e.g. Rearm Eujin, Awakened Yoo Mina, Gremory). Proper positioning and team support are the only ways to mitigate these vulnerabilities.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High uptime Sure Fire buff to nearby allied rangers and snipers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"True damage Ultimate\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Surefire buff is only applied in a small radius so some longer range snipers will not benefit from it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"No defensive mechanics in the kit, has to rely on the base stats for survivability\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "9",
+              "pve_early": "10",
+              "pve_late": "9"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Auto Attack DPS",
+                "notes": "Exclusive Equipment can be freely mixed with universal gear"
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": "Exclusive Equipment can be freely mixed with universal gear"
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1286_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Shoots seeds forward, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1286_2",
+                "name": "Verdant Protection",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Upon deployment, grants Sure Fire and immunity to Hitstun from Special skill to herself and ally Rangers and Snipers for 12 seconds (Cannot be canceled). If her attacks miss 4 times, performs an enhanced attack that nullifies buffs on the hit enemy for 2 seconds, then reactivates Passive Skill effect."
+                },
+                "level2": {
+                  "level2": "Skill Haste +5%"
+                },
+                "level3": {
+                  "level3": "Skill Haste +5%"
+                },
+                "level4": {
+                  "level4": "Skill Haste +10%"
+                },
+                "level5": {
+                  "level5": "Permanent ATK +10% upon Passive Skill effect activation (Up to 5 stacks)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1286_3",
+                "name": "Deep-rooted Caution",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Seeds awaken underground by Solovey's will, dealing AoE damage to and around the target. Increases Special Skill DMG AMP by 40%."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "CRIT DMG +30%, nullifies barriers for enemies struck by the last hit for 12s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1286_4",
+                "name": "Monster-repelling Forest",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 67,
+                "baseDescription": {
+                  "baseDescription": "Raises a towering tree that deals True damage to and around the target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Reactivates Passive Skill effect after casting Ultimate Skill, ASPD +20% for 15 s (Cannot be canceled)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 50.83,
+                "critical": 6.37,
+                "def": 2.97,
+                "evade": 3.14,
+                "hit": 2.84,
+                "hp": 342
+              },
+              "base": {
+                "hp": 2720,
+                "atk": 498,
+                "def": 207,
+                "hit": 198,
+                "critical": 445,
+                "evade": 219
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c20e6388-38ac-5376-8943-28b14f4269b1"
+    }
+  },
+  "staticQueryHashes": []
+}

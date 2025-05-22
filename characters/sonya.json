@@ -1,0 +1,242 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sonya",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "6f7ce5a3-6eda-5a35-8243-a7d05c16d3c2",
+            "updatedAt": "2024-06-30T13:23:12.206Z",
+            "createdAt": "2023-09-27T08:41:09.233Z",
+            "unitId": "1259",
+            "fullName": "Sonya",
+            "slug": "sonya",
+            "shortName": "Sonya",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/fdac654ddc404131defd660f9c6f39b4/acb7c/1259.png",
+                        "srcSet": "/static/fdac654ddc404131defd660f9c6f39b4/1c9ce/1259.png 64w,\n/static/fdac654ddc404131defd660f9c6f39b4/bf8e1/1259.png 128w,\n/static/fdac654ddc404131defd660f9c6f39b4/acb7c/1259.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/fdac654ddc404131defd660f9c6f39b4/8257c/1259.webp 64w,\n/static/fdac654ddc404131defd660f9c6f39b4/6766a/1259.webp 128w,\n/static/fdac654ddc404131defd660f9c6f39b4/22bfc/1259.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "January 9th, 2024",
+            "krReleaseDate": "September 27th, 2023",
+            "globalReleaseDate": "January 9th, 2024",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Paratrooper",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sonya is a dysfunctional forward-deployment character without any direction to her kit design. Her main (supposed) value comes from her on-demand -100% Incoming Healing debuff... except it decays... and it only lasts 15 seconds. Sonya is far too expensive for how little she influences the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, there is no reason to use Sonya over more specialized disruption-oriented units. For any time you would consider adding her to your team, there would be a better unit for the situation. It’s unclear if this unit is strong enough to see any amount of play on UP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"None \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Sonya’s entire gimmick, her on-demand Healing Received debuff, is accessible through stronger alternatives.\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "1",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A close-range supporter that reduces the recovery amount of enemies at the deployed location."
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoaattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1259_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Strikes at enemies with her dagger to deal AoE damage. "
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1259_2",
+                "name": "Whitewater Surfing",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Generates a water current upon deployment and then steps back. The water current deals AoE damage to enemies, excluding bosses. Damaged enemies are inflicted with Incoming Healing -100% which decays by 20% every 2 seconds until it wears off. "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Debuff decay rate rate every 3 s instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1259_3",
+                "name": "Sharks Bait",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Summons a Shark every 18 seconds to the farthest point of view, inflicting Airborne and dealing AoE damage.Gains EVA +1000 for 8 seconds after casting. "
+                },
+                "level2": {
+                  "level2": "EVA +5%"
+                },
+                "level3": {
+                  "level3": "EVA +5%"
+                },
+                "level4": {
+                  "level4": "EVA +10%"
+                },
+                "level5": {
+                  "level5": "Activates every 12 s instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1259_4",
+                "name": "Drop the Anchor!",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 40,
+                "baseDescription": {
+                  "baseDescription": "Jumps and throws an anchor that inflicts Airborne to enemies and deals AoE damage. After casting, applies her deployment passive to damaged enemies, excluding bosses. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Adds Knockback RES -30% for 10 s to damaged enemies."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 23.68,
+                "critical": 1.52,
+                "def": 1.22,
+                "evade": 3.51,
+                "hit": 2.34,
+                "hp": 273
+              },
+              "base": {
+                "hp": 2167,
+                "atk": 232,
+                "def": 85,
+                "hit": 163,
+                "critical": 103,
+                "evade": 245
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "6f7ce5a3-6eda-5a35-8243-a7d05c16d3c2"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,185 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/mortar-team",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "7cffaeef-a052-50df-82d3-8d5e0aba9e2b",
+            "updatedAt": "2024-10-17T21:27:25.780Z",
+            "createdAt": "2021-10-21T11:23:29.066Z",
+            "unitId": "1023",
+            "fullName": "Mortar Team",
+            "slug": "mortar-team",
+            "shortName": "Mortar Team",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/cfaf66a09c976a44eda287a99be2c1ba/acb7c/emp-1023.png",
+                        "srcSet": "/static/cfaf66a09c976a44eda287a99be2c1ba/1c9ce/emp-1023.png 64w,\n/static/cfaf66a09c976a44eda287a99be2c1ba/bf8e1/emp-1023.png 128w,\n/static/cfaf66a09c976a44eda287a99be2c1ba/acb7c/emp-1023.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/cfaf66a09c976a44eda287a99be2c1ba/8257c/emp-1023.webp 64w,\n/static/cfaf66a09c976a44eda287a99be2c1ba/6766a/emp-1023.webp 128w,\n/static/cfaf66a09c976a44eda287a99be2c1ba/22bfc/emp-1023.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Fennec Fox",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mortar Team was designed in the early days of CounterSide as a low rarity alternative within an inherently gimmicky role. As a low rarity unit, Mortar Team does not have the stats to compensate for their kit design.\\n\\nMortar Team does not possess relevant utility that would justify using them. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nThere are no scenarios in which Mortar Team would contribute in any meaningful capacity. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Provides powerful firepower from a fixed location in the distance."
+            },
+            "introduction": {
+              "introduction": "　A siege unit that provides intensive fire support from afar at a fixed location.\n\n　They are specialized in using older mortars. Their inferior firepower compared to modern weapons is covered by high accuracy. They are very proud that they are using old-fashioned weapons while still being able to compete with other mercenaries.\n　They always move in a team of two or three, and the bond between the team members is very strong. They always take care of all the difficult tasks, because it is the best way to foster teamwork. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1023_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Two mercenaries fire a mortar together, inflicting damage on and around the foremost target. They also fire rifles at a target within a certain range."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1023_2",
+                "name": "Demolition Pair",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Use their accumulated knowledge to secure a clear view for themselves and surrounding allies. Increases surrounding Snipers' ATK by 10%."
+                },
+                "level2": {
+                  "level2": "DMG to Tower unit +20%"
+                },
+                "level3": {
+                  "level3": "DMG to Tower unit +20%"
+                },
+                "level4": {
+                  "level4": "DMG to Tower unit +40%"
+                },
+                "level5": {
+                  "level5": "ASPD +25%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 25.73,
+                "critical": 1.4,
+                "def": 1.72,
+                "evade": 0,
+                "hit": 1.29,
+                "hp": 173
+              },
+              "base": {
+                "hp": 1403,
+                "atk": 257,
+                "def": 130,
+                "hit": 97,
+                "critical": 106,
+                "evade": 0
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "7cffaeef-a052-50df-82d3-8d5e0aba9e2b"
+    }
+  },
+  "staticQueryHashes": []
+}

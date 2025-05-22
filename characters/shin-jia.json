@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/shin-jia",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "92d1f657-add9-5a01-a5ea-9d3a14f00fd2",
+            "updatedAt": "2025-01-28T07:15:23.218Z",
+            "createdAt": "2021-10-21T23:52:14.558Z",
+            "unitId": "1121",
+            "fullName": "Shin Jia",
+            "slug": "shin-jia",
+            "shortName": "Shin Jia",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b6bda80ebe2c96de1c2e324a743d32c6/acb7c/emp-1121.png",
+                        "srcSet": "/static/b6bda80ebe2c96de1c2e324a743d32c6/1c9ce/emp-1121.png 64w,\n/static/b6bda80ebe2c96de1c2e324a743d32c6/bf8e1/emp-1121.png 128w,\n/static/b6bda80ebe2c96de1c2e324a743d32c6/acb7c/emp-1121.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b6bda80ebe2c96de1c2e324a743d32c6/8257c/emp-1121.webp 64w,\n/static/b6bda80ebe2c96de1c2e324a743d32c6/6766a/emp-1121.webp 128w,\n/static/b6bda80ebe2c96de1c2e324a743d32c6/22bfc/emp-1121.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Alphatrix Innovation",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "CC",
+              "ETB",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shin Jia is a Ranger that instead of doing damage herself, focuses on helping her allies to do more and controlling the battlefield with her clones. She's one of the weakest 3-cost Rangers if you just look at her damage, but the buffs she gives to everyone in your team make it worth using her, especially in PVE. She also has multiple sources of knockback, making her very annoying to enemies if their frontline isn't immune to hitstun.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, she shines in Raids and Danger Close where her buffs drastically improve the team's damage output.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- top tier buffer,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- her clones allow her to cheese some mechanics in Danger Close (like the Moderators' proximity check),\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- her knockback is pretty strong.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- she deals no damage herself and is only good as a buffer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "8",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "Summons clones to enhance surrounding allies."
+            },
+            "introduction": {
+              "introduction": "　Shin Jia, the leader of Alphatrix Innovation, is an attacker who fights alongside the realistic illusions she summons.\n\n　As the granddaughter of the Alphatrix Group's CEO, she revealed her genius at a young age.　But as time passed, her ability to easily complete any tasks in any field earned her avoidance instead of praise.　Unfortunately, her talent was not effective when it came to socializing with people.\n　She was forced to enter the TASKFORCE industry during the feud over the company that occurred after her grandfather's death. Jia's siblings must have wanted her to die in the Counterside, but unfortunately for them, she is still demonstrating her brilliance in fighting against the Corrupted Objects. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1121_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses the special rifle that she received from her company to attack a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1121_2",
+                "name": "Alphatrix's Leader",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses her excellent leadership to energize her allies. Increases ASPD by 7% for her and all allies."
+                },
+                "level2": {
+                  "level2": "ASPD +2% for her and all allies"
+                },
+                "level3": {
+                  "level3": "ASPD +2% for her and all allies"
+                },
+                "level4": {
+                  "level4": "ASPD +3% for her and all allies"
+                },
+                "level5": {
+                  "level5": "CRIT stats +200 added to Passive buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1121_3",
+                "name": "Augmented Reality ",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Using an augmented reality device, summons up to 2 clones with 70% of her HP and ATK and inflicts AoE damage in front. Clones deliver enhanced attacks the equivalent of Special skills every 12 seconds, and can't be healed."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Permanent DMG Taken -10% when used (Up to -30%)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1121_4",
+                "name": "Special Bullet: ALP-001",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Fires her company's proprietary Counter bullets with her rifle, knocking the foremost target and surrounding enemies backward with damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 31.33,
+                "critical": 4.19,
+                "def": 1.95,
+                "evade": 1.56,
+                "hit": 2.56,
+                "hp": 216
+              },
+              "base": {
+                "hp": 1717,
+                "atk": 307,
+                "def": 136,
+                "hit": 179,
+                "critical": 293,
+                "evade": 109
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "92d1f657-add9-5a01-a5ea-9d3a14f00fd2"
+    }
+  },
+  "staticQueryHashes": []
+}

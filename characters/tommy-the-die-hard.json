@@ -1,0 +1,214 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/tommy-the-die-hard",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "fa0aaee9-5f4b-567c-81aa-e992b1365eef",
+            "updatedAt": "2024-10-17T21:35:56.151Z",
+            "createdAt": "2021-10-22T00:24:58.254Z",
+            "unitId": "1145",
+            "fullName": "Tommy the Die-hard",
+            "slug": "tommy-the-die-hard",
+            "shortName": "Tommy the Die-hard",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/1c38c00e1f81fa0802b4616d1acf3403/acb7c/emp-1145.png",
+                        "srcSet": "/static/1c38c00e1f81fa0802b4616d1acf3403/1c9ce/emp-1145.png 64w,\n/static/1c38c00e1f81fa0802b4616d1acf3403/bf8e1/emp-1145.png 128w,\n/static/1c38c00e1f81fa0802b4616d1acf3403/acb7c/emp-1145.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/1c38c00e1f81fa0802b4616d1acf3403/8257c/emp-1145.webp 64w,\n/static/1c38c00e1f81fa0802b4616d1acf3403/6766a/emp-1145.webp 128w,\n/static/1c38c00e1f81fa0802b4616d1acf3403/22bfc/emp-1145.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Tommy and the Losers",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "May 27th, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Battery",
+              "Retribution",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Tommy the Die-hard does not have the stats necessary to meet the baseline requirements expected of them as a frontline tank.\\n\\nTommy the Die-hard does not possess relevant utility that would justify using them. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Appears with 2 Ranged units, and Taunts and tanks enemies on the front lines."
+            },
+            "introduction": {
+              "introduction": "　Tommy the Die-hard is a defender who always accompanies suppressor Jerry and rifleman Mickey.\n\n　These three are typical mercenaries who likes to brag about themselves. United we stand and divided we fall? That's definitely NOT their motto. They are just mercenaries with mediocre skills who like to hop around the bars together.\n　They always exaggerate their achievements to increase their worth, but they are a tiny bit better than others in the sense that they have never betrayed their clients. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1145_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Pushes and damages a target with a shield."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1145_2",
+                "name": "We'll Die Separately",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The self-styled leader of his team, he enters battle with his teammates, Jerry and Mickey. Tommy's Level, Limit Break, and gear effects are also applied to Jerry and Mickey."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Deployment resources +1 when the self-styled leader, Tom, dies"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1145_3",
+                "name": "Stop Standing Behind Me",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Flaunts himself and draws enemies' attention. Basic attacks force their targets to attack him for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "After every 2nd Basic attack, he forces 2 nearby enemies to target him for 5 seconds."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 5.31,
+                "critical": 0.33,
+                "def": 4.64,
+                "evade": 0.61,
+                "hit": 0.65,
+                "hp": 212
+              },
+              "base": {
+                "hp": 1717,
+                "atk": 53,
+                "def": 351,
+                "hit": 49,
+                "critical": 25,
+                "evade": 46
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "fa0aaee9-5f4b-567c-81aa-e992b1365eef"
+    }
+  },
+  "staticQueryHashes": []
+}

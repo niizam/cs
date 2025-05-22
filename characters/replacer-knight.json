@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/replacer-knight",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "299bc569-260a-5c05-b819-df3f3a343d2d",
+            "updatedAt": "2024-12-02T18:34:14.736Z",
+            "createdAt": "2021-10-22T06:49:43.878Z",
+            "unitId": "1173",
+            "fullName": "Replacer Knight",
+            "slug": "replacer-knight",
+            "shortName": "Replacer Knight",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/7dc5dca81e51dad9d83d579b5bb5f4d5/acb7c/emp-1173.png",
+                        "srcSet": "/static/7dc5dca81e51dad9d83d579b5bb5f4d5/1c9ce/emp-1173.png 64w,\n/static/7dc5dca81e51dad9d83d579b5bb5f4d5/bf8e1/emp-1173.png 128w,\n/static/7dc5dca81e51dad9d83d579b5bb5f4d5/acb7c/emp-1173.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/7dc5dca81e51dad9d83d579b5bb5f4d5/8257c/emp-1173.webp 64w,\n/static/7dc5dca81e51dad9d83d579b5bb5f4d5/6766a/emp-1173.webp 128w,\n/static/7dc5dca81e51dad9d83d579b5bb5f4d5/22bfc/emp-1173.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Replacer Syndicate",
+            "seaReleaseDate": "December 29th, 2021",
+            "krReleaseDate": "March 16th, 2021",
+            "globalReleaseDate": "September 15th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": {
+              "name": "Crater",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Found You, Rats",
+              "description": "ASPD +20%, gains immunity to Hitstun from Special or lower skills for 6 s when deployed or casting Passive attack, creates a barrier worth 30% of Max HP."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Paratrooper",
+              "Debuffer",
+              "Dispeller",
+              "Barrier"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Replacer Knight is a PVP-oriented forward-deployment frontline tank notable for her ability to deploy anywhere on the map. Replacer Knight does not have the survivability of other dedicated frontline tanks (e.g. Rearm Kaci, Rearm Alex), but her unlimited deployment range gives her a unique niche as a frontline tank that can be positioned anywhere to protect exposed frontline units. This is especially valuable in situations where aggressive positioning (e.g. rush comps) limits the viability of conventional frontline tanks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Replacer Knight’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" enables her to generate more barriers than before, extending her longevity by a sizable amount. Of note, the barrier provided by Replacer Knight’s reactor is cancelable; Replacer Knight’s actual survivability can swing drastically depending on the presence of barrier/ buff removal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Replacer Knight is used primarily in comps built around strikers (or other melee-range damage dealers) to shield them from sniper threats. At 4 cost, Replacer Knight is a premium option that can be difficult to fit into the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Bulky paratrooper.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- With Alternium Reactor, continuously reapplies barriers to herself.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"PVP viability contingent on having her Alternium Reactor.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Weak to barrier/ buff hate (e.g. barrier reflux, buff removal).\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Does not replace the need for a proper frontline tank.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "An offensive Tanker that's deployed forward to disrupt the enemy's formation."
+            },
+            "introduction": {
+              "introduction": "  The Replacer Knight is an offensive Defender rushing anywhere on the field to destroy the enemy's formation.\n\n  An international criminal wanted in multiple countries, she's notorious for her penchant for complete annihilation. Her violence, combined with her extreme elitism, also has made her unpopular among her men. \n  Based on the leaked research data, the Replacer Syndicate researchers purposefully instilled aggressiveness and elitism in their test subjects through forceful training and vicious competition. Please keep this in mind in case you come across her."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank or Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank or Autoattack DPS",
+                "notes": "Anti-Sniper + Anti-Ground DMG substats when using Autoattack DPS build, mainly for killing backlines."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1173_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her greatsword, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1173_2",
+                "name": "Found You, Rats",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She can be deployed anywhere in the field, depending on her target. During deployment, enters Sure Fire mode, inflicts AoE damage, and forces the targets to attack her for 8 seconds. After every 4th Basic attack, she launches a Passive attack with the same effect."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "All enemies' EVA -150 when in the field"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1173_3",
+                "name": "United Type",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Concentrates and discharges Replacer Factors, knocking surrounding enemies backward with AoE damage. Randomly removes 1 buff cast on the affected enemies, and creates a barrier around her by 30% of Max HP for 10 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Basic attacks enhanced during barrier. Barrier recast if enhanced Basic attacks finish enemies"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1173_4",
+                "name": "To the Promised Land",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Delivers a condensed energy attack, cleaving the ground and levitating enemies with AoE damage. She then strikes her greatsword downward, detonating the energy, inflicting additional damage on both Ground and Air enemies. The enemies lose 20% of ASPD for 12 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "CRIT -50% added to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 24.83,
+                "critical": 2.1,
+                "def": 4.45,
+                "evade": 1.39,
+                "hit": 1.88,
+                "hp": 361
+              },
+              "base": {
+                "hp": 2928,
+                "atk": 248,
+                "def": 337,
+                "hit": 142,
+                "critical": 159,
+                "evade": 105
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "299bc569-260a-5c05-b819-df3f3a343d2d"
+    }
+  },
+  "staticQueryHashes": []
+}

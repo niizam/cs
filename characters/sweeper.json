@@ -1,0 +1,210 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sweeper",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "15a289ae-69cb-5f02-9ad3-ab316a3616be",
+            "updatedAt": "2024-10-17T21:34:32.352Z",
+            "createdAt": "2021-10-21T11:37:00.334Z",
+            "unitId": "1030",
+            "fullName": "Sweeper",
+            "slug": "sweeper",
+            "shortName": "Sweeper",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/962d14ee3a7471ba90077897dbc6fad3/acb7c/emp-1030.png",
+                        "srcSet": "/static/962d14ee3a7471ba90077897dbc6fad3/1c9ce/emp-1030.png 64w,\n/static/962d14ee3a7471ba90077897dbc6fad3/bf8e1/emp-1030.png 128w,\n/static/962d14ee3a7471ba90077897dbc6fad3/acb7c/emp-1030.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/962d14ee3a7471ba90077897dbc6fad3/8257c/emp-1030.webp 64w,\n/static/962d14ee3a7471ba90077897dbc6fad3/6766a/emp-1030.webp 128w,\n/static/962d14ee3a7471ba90077897dbc6fad3/22bfc/emp-1030.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Black Tide",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Sweeper does not have the stats necessary to meet the baseline requirements expected of them as a damage dealer.\\n\\nSweeper does not possess relevant utility that would justify using them. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Delivers powerful AoE attacks from a distance."
+            },
+            "introduction": {
+              "introduction": "　A snipers who performs area attacks with grenades.\n\n　Sweepers are attackers who are deployed to subdue hostile targets who are encamped indoors. Composed of former snipers, they are capable of guaranteeing a hit even when using grenade launchers.\n　It is often said that they are the most eccentric people in the Black Tide. They always act leisurely, probably because they have confidence in their marksmanship skills. But their love for donuts and sense of duty to protect citizens are no different from others."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1030_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a grenade launcher, inflicting damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1030_2",
+                "name": "BAT-901 Grenade Launcher",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Improves close-range explosion damage. Inflicts 10% more damage on Strikers."
+                },
+                "level2": {
+                  "level2": "DMG to Striker +10%"
+                },
+                "level3": {
+                  "level3": "DMG to Striker +10%"
+                },
+                "level4": {
+                  "level4": "DMG to Striker +20%"
+                },
+                "level5": {
+                  "level5": "DMG to Defender +50%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1030_3",
+                "name": "BAT-110 Enhanced Grenade",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses enhanced grenades. After every 3rd Basic attack, he fires a grenade that inflicts 50% more damage."
+                },
+                "level2": {
+                  "level2": "HIT +10%"
+                },
+                "level3": {
+                  "level3": "HIT +10%"
+                },
+                "level4": {
+                  "level4": "HIT +20%"
+                },
+                "level5": {
+                  "level5": "Passive attack range +50%, Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 21.74,
+                "critical": 1.35,
+                "def": 1.03,
+                "evade": 0.23,
+                "hit": 2.08,
+                "hp": 85
+              },
+              "base": {
+                "hp": 673,
+                "atk": 213,
+                "def": 72,
+                "hit": 145,
+                "critical": 94,
+                "evade": 16
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "15a289ae-69cb-5f02-9ad3-ab316a3616be"
+    }
+  },
+  "staticQueryHashes": []
+}

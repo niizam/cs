@@ -1,0 +1,210 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/hm-mrls",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "191de37f-2782-57bd-b81d-70030bf13ab5",
+            "updatedAt": "2024-10-17T21:19:03.397Z",
+            "createdAt": "2021-10-21T11:26:41.532Z",
+            "unitId": "1026",
+            "fullName": "HM MRLS",
+            "slug": "hm-mrls",
+            "shortName": "HM MRLS",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/0861bc712c46b01944b7c79f7c01e2d0/acb7c/emp-1026.png",
+                        "srcSet": "/static/0861bc712c46b01944b7c79f7c01e2d0/1c9ce/emp-1026.png 64w,\n/static/0861bc712c46b01944b7c79f7c01e2d0/bf8e1/emp-1026.png 128w,\n/static/0861bc712c46b01944b7c79f7c01e2d0/acb7c/emp-1026.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/0861bc712c46b01944b7c79f7c01e2d0/8257c/emp-1026.webp 64w,\n/static/0861bc712c46b01944b7c79f7c01e2d0/6766a/emp-1026.webp 128w,\n/static/0861bc712c46b01944b7c79f7c01e2d0/22bfc/emp-1026.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Fennec Fox",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Mech"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, HM MRLS does not have the stats necessary to meet the baseline requirements expected of it as a damage dealer.\\n\\nHM MRLS does not possess relevant utility that would justify using it. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Ranged attacker that inflicts AoE DoT from the rear."
+            },
+            "introduction": {
+              "introduction": "　A sniper unit that specializes in subduing infantry units with ground area attacks.\n\n　It is a mid-size tactical vehicle equipped with a multi-rocket launcher. This model can't be sold to civilians, even now when the arms market has expanded. But Fennec Fox was able to acquire their share from abandoned army camps.\n　Fennec Fox especially cherishes these armored vehicles because they achieve extremely high kill ratio when fighting against multiple enemies.\n　Due to challenging maintenance, they are only deployed to the most crucial operations. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Any Spectral set",
+                "notes": "Anti-Defender and Anti-Ground substats."
+              },
+              "pvp": {
+                "set": "Any Spectral set",
+                "notes": "Anti-Defender and Anti-Ground substats."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1026_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires missiles, inflicting AoE damage on and around the target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1026_2",
+                "name": "227 mm Rocket",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses a high-explosive multiple rocket launcher. Inflicts 25% more damage on Soldiers and Mechs."
+                },
+                "level2": {
+                  "level2": "Anti-Soldier/Mech DMG +5%"
+                },
+                "level3": {
+                  "level3": "Anti-Soldier/Mech DMG +5%"
+                },
+                "level4": {
+                  "level4": "Anti-Soldier/Mech DMG +10%"
+                },
+                "level5": {
+                  "level5": "HIT +50%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1026_3",
+                "name": "Large High Explosive",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Effectively intercepts targets from moving forward. Inflicts 20% more damage on Siege units."
+                },
+                "level2": {
+                  "level2": "Anti-Siege DMG +10%"
+                },
+                "level3": {
+                  "level3": "Anti-Siege DMG +10%"
+                },
+                "level4": {
+                  "level4": "Anti-Siege DMG +20%"
+                },
+                "level5": {
+                  "level5": "ASPD +15%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 30.42,
+                "critical": 2.42,
+                "def": 0.49,
+                "evade": 0.26,
+                "hit": 2.18,
+                "hp": 203
+              },
+              "base": {
+                "hp": 1615,
+                "atk": 298,
+                "def": 34,
+                "hit": 152,
+                "critical": 169,
+                "evade": 18
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "191de37f-2782-57bd-b81d-70030bf13ab5"
+    }
+  },
+  "staticQueryHashes": []
+}

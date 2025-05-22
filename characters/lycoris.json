@@ -1,0 +1,241 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lycoris",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "9fad822a-4dae-5895-94f2-1153091dfd89",
+            "updatedAt": "2024-10-19T00:01:36.323Z",
+            "createdAt": "2021-10-22T06:36:32.038Z",
+            "unitId": "1163",
+            "fullName": "Lycoris",
+            "slug": "lycoris",
+            "shortName": "Lycoris",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/32d0c3caf4382a050f75f2cf6aa9643e/acb7c/emp-1163.png",
+                        "srcSet": "/static/32d0c3caf4382a050f75f2cf6aa9643e/1c9ce/emp-1163.png 64w,\n/static/32d0c3caf4382a050f75f2cf6aa9643e/bf8e1/emp-1163.png 128w,\n/static/32d0c3caf4382a050f75f2cf6aa9643e/acb7c/emp-1163.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/32d0c3caf4382a050f75f2cf6aa9643e/8257c/emp-1163.webp 64w,\n/static/32d0c3caf4382a050f75f2cf6aa9643e/6766a/emp-1163.webp 128w,\n/static/32d0c3caf4382a050f75f2cf6aa9643e/22bfc/emp-1163.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Flora Maid Service",
+            "seaReleaseDate": "November 16th, 2021",
+            "krReleaseDate": "December 10th, 2020",
+            "globalReleaseDate": "September 29th, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lycoris is a backline damage dealer notable for her surprisingly decent kit, allowing her to punch well above her weight class. Unfortunately, that weight class is R rarity. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Lycoris does not have the stats necessary to meet the baseline requirements expected of her as a damage dealer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lycoris does not possess relevant utility that would justify her use. There are no trade-offs within the kit that would compensate for the stat deficiency.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a damage dealer, Lycoris struggles to distinguish herself from the pool of stronger alternatives (e.g. Wardens).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Impressive kit for a low rarity unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Severely hindered by low rarity stats.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Destined for failure as a low rarity damage dealer.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "7",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Mid-ranged sniper specialized in AoE attacks"
+            },
+            "introduction": {
+              "introduction": "　Lycoris is a chef and sniper capable of attacking distant enemies with shock waves from her spear.\n　A new member of the Flora Maid Service, Lycoris is just like other girls her age except for her predilection for spicy food and standoffishness to hide her true feelings.\n　Her unique culinary principles caused claims from several former employers, which in turn contributed to the Flora Maid Service's failure to win the Customer Satisfaction award of this year—but Lycoris refuses to acknowledge it."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1163_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Generates a shock wave from the tip of her spear, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1163_2",
+                "name": "Fiery Chef",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She likes intense fights as much as she likes intense food. Inflicts additional 15% damage on Strikers."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Anti-Striker DMG RES +15%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1163_3",
+                "name": "Outside Cleaning",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Instantly cleans a place by blowing everything away. Forcefully stabs at enemies in front, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Penetrates 25% of enemy DEF"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1163_4",
+                "name": "Stay Away!",
+                "type": "Ultimate",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Her embarrassment by her outfit fuels her anger toward enemies. Charges with her spear, and then returns, inflicting AoE damage on her way back and forth."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -6 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 27.66,
+                "critical": 2.69,
+                "def": 1.18,
+                "evade": 0.75,
+                "hit": 3.92,
+                "hp": 117
+              },
+              "base": {
+                "hp": 931,
+                "atk": 271,
+                "def": 82,
+                "hit": 274,
+                "critical": 188,
+                "evade": 52
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "9fad822a-4dae-5895-94f2-1153091dfd89"
+    }
+  },
+  "staticQueryHashes": []
+}

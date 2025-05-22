@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/tallie",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "79886454-0f9d-5060-b3a0-e827c6d7f57d",
+            "updatedAt": "2025-04-09T08:09:28.074Z",
+            "createdAt": "2023-09-26T12:44:42.701Z",
+            "unitId": "1255",
+            "fullName": "Tallie",
+            "slug": "tallie",
+            "shortName": "Tallie",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#c8c8e8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/92c704ea7b899933dd0a5bdf76bf585d/acb7c/1255.png",
+                        "srcSet": "/static/92c704ea7b899933dd0a5bdf76bf585d/1c9ce/1255.png 64w,\n/static/92c704ea7b899933dd0a5bdf76bf585d/bf8e1/1255.png 128w,\n/static/92c704ea7b899933dd0a5bdf76bf585d/acb7c/1255.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/92c704ea7b899933dd0a5bdf76bf585d/8257c/1255.webp 64w,\n/static/92c704ea7b899933dd0a5bdf76bf585d/6766a/1255.webp 128w,\n/static/92c704ea7b899933dd0a5bdf76bf585d/22bfc/1255.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "January 9th, 2024",
+            "krReleaseDate": "July 31st, 2023",
+            "globalReleaseDate": "January 9th, 2024",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Tallie is a damage-oriented sniper that deals no damage. Her one redeeming quality is her high hitcount.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hitcount checks exist in CounterSide (primarily) as a PVE mechanic, but generally speaking they can be, and have been cleared without Tallie. Tallie is rarely a significant enough improvement over the existing strategies to the point where she would be worth taking. Worse still, Tallie’s poor survivability prevents her from being used in those few PVE stages where the hitcount is actually relevant (e.g. Tyrant Gigas).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Tallie sees next to no use in PVP. Of note, there is a novel interaction between Tallie and Shepherd and Lurcher (dino mech); Tallie, with her high hitcount, can shred the dino mech’s hitcount-based immortality almost instantly. Unfortunately, as dino mech comps typically bring many disruption tools, Tallie struggles to perform this consistently.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High hitcount sometimes relevant.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Damage dealer with no damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "1",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A long-distance dealer specialized in multi-hit attacks"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoaattack DPS or CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS or CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1255_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires her Dream Maker to deal AOE damage to enemies in front. "
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1255_2",
+                "name": "Out of Control",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "All of Tallie’s attacks uses specially modified shells that explodes multiple times. After 6 basic attacks, she fixes her overheated gun barrel to perform an enhanced attack that discharges sparks."
+                },
+                "level2": {
+                  "level2": "ASPD +5%"
+                },
+                "level3": {
+                  "level3": "ASPD +5%"
+                },
+                "level4": {
+                  "level4": "ASPD +10%"
+                },
+                "level5": {
+                  "level5": "Anti-Striker DMG +60%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1255_3",
+                "name": "No Deal",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Tally is unstoppable once she starts firing. Rapidly fires her Dream Maker 3 times, inflicting AOE damage to enemies in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "ATK +30% for 10s after casting Special Skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1255_4",
+                "name": "Captain’s Orders!",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Jumps in the air and fires a special shell that deals AoE damage to the target and its surroundings. She also never forgets to spice up the explosion for the notoriety of the Sharks. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 37.87,
+                "critical": 3.07,
+                "def": 1.95,
+                "evade": 1.39,
+                "hit": 7,
+                "hp": 211
+              },
+              "base": {
+                "hp": 1673,
+                "atk": 371,
+                "def": 136,
+                "hit": 489,
+                "critical": 214,
+                "evade": 97
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "79886454-0f9d-5060-b3a0-e827c6d7f57d"
+    }
+  },
+  "staticQueryHashes": []
+}

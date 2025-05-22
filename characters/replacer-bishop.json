@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/replacer-bishop",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "5e696e41-b03b-591f-936a-adbfbad2eb82",
+            "updatedAt": "2024-12-02T18:35:05.393Z",
+            "createdAt": "2021-10-22T06:51:12.411Z",
+            "unitId": "1174",
+            "fullName": "Replacer Bishop",
+            "slug": "replacer-bishop",
+            "shortName": "Replacer Bishop",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4c27a72f2864b6c30795194d052532ad/acb7c/emp-1174.png",
+                        "srcSet": "/static/4c27a72f2864b6c30795194d052532ad/1c9ce/emp-1174.png 64w,\n/static/4c27a72f2864b6c30795194d052532ad/bf8e1/emp-1174.png 128w,\n/static/4c27a72f2864b6c30795194d052532ad/acb7c/emp-1174.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4c27a72f2864b6c30795194d052532ad/8257c/emp-1174.webp 64w,\n/static/4c27a72f2864b6c30795194d052532ad/6766a/emp-1174.webp 128w,\n/static/4c27a72f2864b6c30795194d052532ad/22bfc/emp-1174.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Replacer Syndicate",
+            "seaReleaseDate": "January 12th, 2022",
+            "krReleaseDate": "March 31st, 2021",
+            "globalReleaseDate": "September 15th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Executor",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Replacer Bishop is a PVP-oriented specialist melee-range damage dealer played exclusively as an opener to frustrate the opponent with her near-permanent stealth uptime gimmick. Replacer Bishop gains 4 seconds of stealth after every 4 attacks; with enough ASPD, she can achieve permanent stealth uptime.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Replacer Bishop is only ever played at the start of the game as a positioning tool used to drag out the enemy team. As a damage dealer, Replacer Bishop forces a response from the opponent - if allowed to reach the enemy ship, her stealth makes her difficult to dislodge. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Replacer Bishop serves no other purpose. Her damage output is anemic, she cannot tank, she has no relevant utility, and inevitably, as a melee-range damage dealer, she dies to random AOE. Worse, her single gimmick, stealth, can be invalidated by stealth detection. Her non-existent impact beyond her initial deployment makes her an unattractive option compared to other camping units/ strategies (e.g. towers, deploy bait).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Secures advantageous positioning \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Outclassed by most other camping options.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Demanding gear requirement; Bishop requires ~50% ASPD from gear to maintain her invisibility.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee Attacker capable of stealthily maneuvering the field."
+            },
+            "introduction": {
+              "introduction": "  The Replacer Bishop is a Striker that can move stealthily across the field, without drawing attention from enemies.\n\n  After the Replacer Syndicate researchers discovered the physical regenerative properties of the Replacer Factor, there has been an influx of people into this criminal organization who were diagnosed with permanent disabilities, and wanted a new life through the Replacer Factor. According to internal information, this Replacer Bishop is believed to be one of them.\n  There are unconfirmed reports that she was gravely injured during a Corruption disaster, and is now fitted with gear to support her damaged body, which heavily relies on the Factor.\n  She's an officer of the Syndicate, but because she's not as actively engaged in field operations as the others, most intelligence agencies believe that she's a specialist only dealing with specific missions."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1174_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks a single target in front with her claws."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1174_2",
+                "name": "Shadow Art",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Casts Stealth and achieves 100% higher EVA for 8 seconds when deployed. After every 3rd Basic attack, she delivers an enhanced attack and casts the same effect for 4 seconds. Also, Blinds the farthest enemy within range for 5 seconds with damage."
+                },
+                "level2": {
+                  "level2": "AoE DMG RES +3%"
+                },
+                "level3": {
+                  "level3": "AoE DMG RES +3%"
+                },
+                "level4": {
+                  "level4": "AoE DMG RES +6%"
+                },
+                "level5": {
+                  "level5": "Ranged enhanced attacks always crit"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1174_3",
+                "name": "Grinding Blaze",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Swings her sword, inflicting AoE damage. Instantly finishes 1 unit with 30% or lower HP within range (Bosses and Awakened units excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1174_4",
+                "name": "Dangerously Close",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Quickly moves around in all directions, inflicting AoE damage on a broad area and levitating enemies. Casts Stealth and becomes immune to all damage for this skill's duration. Reactivates her Passive effect after this skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Target SPD -100% for 6 s\n"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 26.93,
+                "critical": 2.95,
+                "def": 2.01,
+                "evade": 3.63,
+                "hit": 3.08,
+                "hp": 301
+              },
+              "base": {
+                "hp": 2439,
+                "atk": 269,
+                "def": 152,
+                "hit": 233,
+                "critical": 223,
+                "evade": 275
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "5e696e41-b03b-591f-936a-adbfbad2eb82"
+    }
+  },
+  "staticQueryHashes": []
+}

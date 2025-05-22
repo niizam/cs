@@ -1,0 +1,346 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/investigator-kang",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "12dda239-937a-561b-b3db-73cb7a7201db",
+            "updatedAt": "2024-11-07T21:41:37.801Z",
+            "createdAt": "2022-04-19T08:43:00.833Z",
+            "unitId": "2098",
+            "fullName": "Investigator Kang",
+            "slug": "investigator-kang",
+            "shortName": "Investigator Kang",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b49cac00fd69458ef705e41530edb211/acb7c/emp-2098.png",
+                        "srcSet": "/static/b49cac00fd69458ef705e41530edb211/1c9ce/emp-2098.png 64w,\n/static/b49cac00fd69458ef705e41530edb211/bf8e1/emp-2098.png 128w,\n/static/b49cac00fd69458ef705e41530edb211/acb7c/emp-2098.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b49cac00fd69458ef705e41530edb211/8257c/emp-2098.webp 64w,\n/static/b49cac00fd69458ef705e41530edb211/6766a/emp-2098.webp 128w,\n/static/b49cac00fd69458ef705e41530edb211/22bfc/emp-2098.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Police SWAT 4",
+            "seaReleaseDate": "August 24th, 2022",
+            "krReleaseDate": "April 19th, 2022",
+            "globalReleaseDate": "February 8th, 2023",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Buffer",
+              "Debuffer",
+              "ETB",
+              "Paratrooper",
+              "Detect Stealth"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Same old Kang, but now better. Snipers tremble in her presence, praying for evasion RNG. Not only is her damage simply higher than before, she now has a skill that finishes every sniper that somehow survived a car accident. If miracle happens and you survived both - congrats you are now blind, skill sealed and atk debuffed for 5 seconds. Also sees a lot of use in terror comps as cheap and effective way to just throw DP at enemy ship for damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her PvE use didn't really change, she is still just a buffer for soldier comps. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can easily kill most Snipers in the game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- if she can't kill them instantly, she will Seal their skills and debuff them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Fury users aren't that good yet and require full ASPD gear to work.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "11",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Forward deployment, and enhances surrounding Soldiers."
+            },
+            "introduction": {
+              "introduction": "제 4 특별기동수사대가 주목할 만한 몇 가지 성과를 올리자, 미온적이던 상부에서도 이들을 지원하자는 목소리가 점차 커지기 시작했습니다.\n함께 출동하게 된 경찰헬기들은 교통 관제와 용의자 추격을 겸해 신속한 체포를 가능케 합니다. 최신 사양으로 교체된 신형 경찰차는 어떤 도로 위에서든 운전자의 실력을 고스란히 발휘하게 해 주죠. 물론 열악한 환경에서도 활약해 온 강소영 경위에게는 튼튼한 개인 장비만으로도 충분하겠지만요."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank, ASPD Tank, or full Anti-Sniper Spectral set",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank, ASPD Tank, or full Anti-Sniper Spectral set",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2098_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a pistol at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2098_2",
+                "name": "So this is the Location?!",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Driving a police car, she can be deployed anywhere on the battlefield. Knocks enemies backward with AoE damage when deployed, and summons a Shieldman at the same level on the spot where her car exploded."
+                },
+                "level2": {
+                  "level2": "ATK +2%"
+                },
+                "level3": {
+                  "level3": "ATK +2%"
+                },
+                "level4": {
+                  "level4": "ATK +3%"
+                },
+                "level5": {
+                  "level5": "Explosion DMG +50%, summons Stronghold instead of Shieldman"
+                },
+                "level6": {
+                  "level6": "ATK +2%"
+                },
+                "level7": {
+                  "level7": "ATK +2%"
+                },
+                "level8": {
+                  "level8": "ATK +2%"
+                },
+                "level9": {
+                  "level9": "ATK +3%"
+                },
+                "level10": {
+                  "level10": "Both her and the summon detect Stealth units."
+                }
+              },
+              {
+                "skillId": "2098_3",
+                "name": "Requesting Interruption Support",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 15,
+                "baseDescription": {
+                  "baseDescription": "Calls in air support by radio, inflicting AoE damage on and around the target. Blinds the affected target and seals its skills for 5 seconds. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Cooldown -2s"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Also decreases ATK by 15% for 4 s after debuff (Counters only). Not applicable if debuff is canceled."
+                }
+              },
+              {
+                "skillId": "2098_4",
+                "name": "Special Service Tactical Commander",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses her experience of fighting C.O. as a non-Counter commander, increasing surrounding Soldiers' DMG RES by 20% and ATK by 20%."
+                },
+                "level2": {
+                  "level2": "Anti-Counter DMG +3%"
+                },
+                "level3": {
+                  "level3": "Anti-Counter DMG +3%"
+                },
+                "level4": {
+                  "level4": "Anti-Counter DMG +6%"
+                },
+                "level5": {
+                  "level5": "HP +20%"
+                },
+                "level6": {
+                  "level6": "Anti-Counter DMG +3%"
+                },
+                "level7": {
+                  "level7": "Anti-Counter DMG +3%"
+                },
+                "level8": {
+                  "level8": "Anti-Counter DMG +6%"
+                },
+                "level9": {
+                  "level9": "Anti-Counter DMG +6%"
+                },
+                "level10": {
+                  "level10": "Anti-Sniper DMG +30%"
+                }
+              },
+              {
+                "skillId": "2098_5",
+                "name": "SWAT 4 Team Director",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "All ally Soldiers' CRIT +400 for 8 s when deployed."
+                },
+                "level2": {
+                  "level2": "DMG RES +4%"
+                },
+                "level3": {
+                  "level3": "Buff duration +2 s"
+                },
+                "level4": {
+                  "level4": "DMG RES +4%"
+                },
+                "level5": {
+                  "level5": "Buff duration +2 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 20.23,
+                "critical": 3.23,
+                "def": 1.64,
+                "evade": 1.69,
+                "hit": 3.29,
+                "hp": 191
+              },
+              "base": {
+                "hp": 1548,
+                "atk": 202,
+                "def": 124,
+                "hit": 249,
+                "critical": 244,
+                "evade": 128
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1098",
+              "slug": "kang-soyoung",
+              "shortName": "Kang Soyoung",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/2d81bc82b30513383cc6d741abb769de/acb7c/emp-1098.png",
+                          "srcSet": "/static/2d81bc82b30513383cc6d741abb769de/1c9ce/emp-1098.png 64w,\n/static/2d81bc82b30513383cc6d741abb769de/bf8e1/emp-1098.png 128w,\n/static/2d81bc82b30513383cc6d741abb769de/acb7c/emp-1098.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/2d81bc82b30513383cc6d741abb769de/8257c/emp-1098.webp 64w,\n/static/2d81bc82b30513383cc6d741abb769de/6766a/emp-1098.webp 128w,\n/static/2d81bc82b30513383cc6d741abb769de/22bfc/emp-1098.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "12dda239-937a-561b-b3db-73cb7a7201db"
+    }
+  },
+  "staticQueryHashes": []
+}

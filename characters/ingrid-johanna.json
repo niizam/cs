@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ingrid-johanna",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c2794115-c5b3-5c9c-94df-1c21020b9c2e",
+            "updatedAt": "2024-02-01T17:10:11.581Z",
+            "createdAt": "2021-10-21T13:38:58.597Z",
+            "unitId": "1092",
+            "fullName": "Ingrid Johanna",
+            "slug": "ingrid-johanna",
+            "shortName": "Ingrid Johanna",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/59e32eb876d5625437164b8e7973f783/acb7c/emp-1092.png",
+                        "srcSet": "/static/59e32eb876d5625437164b8e7973f783/1c9ce/emp-1092.png 64w,\n/static/59e32eb876d5625437164b8e7973f783/bf8e1/emp-1092.png 128w,\n/static/59e32eb876d5625437164b8e7973f783/acb7c/emp-1092.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/59e32eb876d5625437164b8e7973f783/8257c/emp-1092.webp 64w,\n/static/59e32eb876d5625437164b8e7973f783/6766a/emp-1092.webp 128w,\n/static/59e32eb876d5625437164b8e7973f783/22bfc/emp-1092.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Strega",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Paratrooper",
+              "Selfhealer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ingrid is a paratrooper that shines in PVP where her scythe can disrupt the enemy backline and even kill a bunch of them. While Kang is the anti-sniper paratrooper, Ingrid prefers to go after Rangers. Even if she can't murder all the rangers in the backline, she still disrupts pretty good.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This tactic also has some uses in PVE, especially in Shadow Palace and Danger Close, but besides that, she is not used.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, she is quite gear reliant for PVP. If you cannot give her good tank gear, she will just die without killing anyone, while on BiS gear there are clips of her nearly soloing a full HP Awakened Seo Yoon.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She is also the proud owner of one of the best-looking skins in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- top tier disruptor,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- cheap to deploy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- mostly only good for disrupting and killing the backline.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "6",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Can be deployed anywhere, and continuously increases ASPD."
+            },
+            "introduction": {
+              "introduction": "　Witch Ingrid is a vanguard with high evasion and attack speed who can appear at any location on the battlefield by borrowing the power of time.\n\n　Witches usually begin to learn the occult arts out of curiosity, or become mesmerized by the dark powers of black magic. But Ingrid chose to become a witch because she just wanted to become stronger than anyone. \n　She always fails to control her competitive spirit and searches for strong opponents to fight. But that is also why she ended up working at a cafe. She was defeated after blindly challenging the most powerful witch to a duel. And as a consequence, she had to sign a contract to work at the cafe to pay off the damages she caused during the duel.\n　She often serves food while doing a handstand because she believes a comfortable work environment weakens her. And doing so usually results in her getting knocked down by the owner. But there are VVIP Customers who visit the cafe on purpose to see her eccentric actions. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank or ASPD Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank or ASPD Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1092_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings a giant scythe and moves forward, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1092_2",
+                "name": "De Marigny's Scythe",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Manipulating time, she can be deployed anywhere on the field and can read enemies' movements in advance. After every 2nd Basic attack, her EVA is increased by 30% for 5 seconds upon the next Basic attack."
+                },
+                "level2": {
+                  "level2": "ASPD +5%"
+                },
+                "level3": {
+                  "level3": "ASPD +5%"
+                },
+                "level4": {
+                  "level4": "ASPD +10%"
+                },
+                "level5": {
+                  "level5": "Passive buff increases EVA by 50% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1092_3",
+                "name": "Come Over Here!",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Stretches her scythe and pulls the enemy to her while inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Pulled target's DMG Taken +10% for 5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1092_4",
+                "name": "Gusting Chrono Shift",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Manipulates the axis of time, inflicting damage on surrounding enemies. Also fully recovers her HP, removes debuffs cast on herself, and increases ASPD and EVA by 70% for 10 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Duration +5 s, additional ATK +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.42,
+                "critical": 3.16,
+                "def": 1.54,
+                "evade": 4.19,
+                "hit": 1.48,
+                "hp": 169
+              },
+              "base": {
+                "hp": 1370,
+                "atk": 194,
+                "def": 116,
+                "hit": 112,
+                "critical": 239,
+                "evade": 317
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c2794115-c5b3-5c9c-94df-1c21020b9c2e"
+    }
+  },
+  "staticQueryHashes": []
+}

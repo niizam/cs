@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/new-age-naielle-bluesteel",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "03ac93ef-4a1c-54f0-8949-9b36511a8edc",
+            "updatedAt": "2025-03-15T16:55:58.708Z",
+            "createdAt": "2024-12-18T06:40:40.968Z",
+            "unitId": "1281",
+            "fullName": "New Age Naielle Bluesteel",
+            "slug": "new-age-naielle-bluesteel",
+            "shortName": "Awakened Naielle Bluesteel ",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8e8b8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2cc08ce594282b7bf229168c94d6b6a5/22bfc/naielle.webp",
+                        "srcSet": "/static/2cc08ce594282b7bf229168c94d6b6a5/8257c/naielle.webp 64w,\n/static/2cc08ce594282b7bf229168c94d6b6a5/6766a/naielle.webp 128w,\n/static/2cc08ce594282b7bf229168c94d6b6a5/22bfc/naielle.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Unknown",
+            "seaReleaseDate": "December 18th, 2024",
+            "krReleaseDate": "December 18th, 2024",
+            "globalReleaseDate": "December 18th, 2024",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"New Age Naielle Bluesteel (ANaielle) is a utility frontline tank that applies a variety of debuffs scattered throughout her kit. Of note are 30% ATK debuff on special skill, 4s bind on enhanced basic attack after special skill and 45% DMG AMP attached to her ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As ANaielle’s base stats are unimpressive for her cost (notably higher MDL value compared to other Awakened frontline units), her survivability primarily relies on a 4-second Iron Wall self-buff, activated after receiving 18 hits. This mechanic makes her exceptionally resilient against enemies with high attack frequency but low per-hit damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ANaielle finds value in PVE through her ATK% debuff, which can be used in tandem with other ATK% debuffers (e.g. Ministra) to mitigate enemy damage output. This gives her a niche in situations where survivability is enough of a concern to warrant dedicated team building to combat. For example, ANaielle fits well into existing (sophisticated) Tyrant Gigas strategies that revolve around the heavy stacking of ATK% debuffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, ANaielle functions as a durable frontline unit. While her debuffs remain relevant, her primary strength lies in the frequent activation of Iron Wall and permanent Special Tier Hitstun Immunity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because ANaielle’s survivability relies on Iron Wall self-buff, she is critically weak to buff removal. Buff block (e.g. Anila, Awakened Regina, Awakened Yuna) is especially debilitating, reducing her to a costly underperforming unit for the duration of the debuff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In a weekly metagame without buff block ANaielle becomes one of the best frontline options in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK% debuffer\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Iron Wall can make her unkillable\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Always one buff block away from death\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "1",
+              "pve_early": "9",
+              "pve_late": "9"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR Tank, Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1281_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses Bluesteel's three sword style to deal AoE damage in front. In truth, this is just a made up sword style."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1281_2",
+                "name": "Best Elite",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Permanently gains Immunity to Hitstun from Special or lower skills, and increases DMGRDC by 30% for 14 seconds upon deployment. Enters Iron Defense state for 4 seconds upon being hit 18 times (Up to 10 times per deployment). While in the Iron Defense state, hits are not counted. After activating Special Skill, performs an enhanced attack that deals AoE damage in front and inflicts up to 3 damaged enemies with Binding for 3 seconds."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Upon 40 seconds after deployment, or upon redeployment, permanently increases DMG RDC by 10% (Up to 3 stacks)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1281_3",
+                "name": "Sacred Blade Deathlight",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 21,
+                "baseDescription": {
+                  "baseDescription": "Uses the Blade of the new age to deal AoE damage in front and remove barriers. Every 2 uses of Special Skill permanently increases the attack range (Up to 3 stages). Damaged targets have their HP reduced by 30% for 12 seconds (Bosses excluded)."
+                },
+                "level2": {
+                  "level2": "Ranged DMG RES +5%"
+                },
+                "level3": {
+                  "level3": "Ranged DMG RES +5%"
+                },
+                "level4": {
+                  "level4": "Ranged DMG RES +10%"
+                },
+                "level5": {
+                  "level5": "Additional ATK -30% for 12 seconds to hit targets."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1281_4",
+                "name": "True Catastrophe Blade",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Summons a hidden colossal weapon and faces the direction with the most enemies within sight, dealing AoE damage. Creates a zone in front with DMG Taken AMP +20% for 15 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken AMP +40% within the zone instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 33.89,
+                "critical": 0.82,
+                "def": 7.67,
+                "evade": 4.48,
+                "hit": 2.41,
+                "hp": 419
+              },
+              "base": {
+                "hp": 3329,
+                "atk": 322,
+                "def": 536,
+                "hit": 168,
+                "critical": 57,
+                "evade": 313
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "03ac93ef-4a1c-54f0-8949-9b36511a8edc"
+    }
+  },
+  "staticQueryHashes": []
+}

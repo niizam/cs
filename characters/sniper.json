@@ -1,0 +1,185 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sniper",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c3ea0822-9ffa-5411-ad39-719b07515f4e",
+            "updatedAt": "2024-10-17T21:41:32.901Z",
+            "createdAt": "2021-10-21T11:10:09.228Z",
+            "unitId": "1010",
+            "fullName": "Sniper",
+            "slug": "sniper",
+            "shortName": "Sniper",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/0db784f1ef23a77d1dd70d16d137da4d/acb7c/emp-1010.png",
+                        "srcSet": "/static/0db784f1ef23a77d1dd70d16d137da4d/1c9ce/emp-1010.png 64w,\n/static/0db784f1ef23a77d1dd70d16d137da4d/bf8e1/emp-1010.png 128w,\n/static/0db784f1ef23a77d1dd70d16d137da4d/acb7c/emp-1010.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/0db784f1ef23a77d1dd70d16d137da4d/8257c/emp-1010.webp 64w,\n/static/0db784f1ef23a77d1dd70d16d137da4d/6766a/emp-1010.webp 128w,\n/static/0db784f1ef23a77d1dd70d16d137da4d/22bfc/emp-1010.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "N",
+            "rarityNumber": 1,
+            "rarityClassName": "N",
+            "title": "Steel Lane",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Sniper does not have the stats necessary to meet the baseline requirements expected of him as a damage dealer.\\n\\nSniper does not possess relevant utility that would justify using him. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Has the highest survival rate, and provides high firepower from the hindmost side."
+            },
+            "introduction": {
+              "introduction": "　A sniper that launches powerful long-ranged attacks from the rear.\n\n　They are specialized units that wield SL-S14 sniper rifles. Only those who received sniper training in the army are selected to take this position. They boast incredible accuracy thanks to the highly reliable SL-S14 rifles, along with HUD and gyroscope.\n　They use supplements to maintain extreme concentration out on the battlefield, and they will not hesitate to pull the trigger even if the enemy is right under their noses. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1010_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a sniper rifle at the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1010_2",
+                "name": "ST-S14 Sniper Rifle",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Modifies his sniper rifle for enhanced penetration power. Increases CRIT by 5%."
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "Basic attacks cause Knockback."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 26.03,
+                "critical": 2.61,
+                "def": 0.74,
+                "evade": 0.37,
+                "hit": 4.8,
+                "hp": 82
+              },
+              "base": {
+                "hp": 663,
+                "atk": 260,
+                "def": 56,
+                "hit": 363,
+                "critical": 197,
+                "evade": 28
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c3ea0822-9ffa-5411-ad39-719b07515f4e"
+    }
+  },
+  "staticQueryHashes": []
+}

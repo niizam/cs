@@ -1,0 +1,232 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kostroma-mavka",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "92b64068-52a6-585d-ad9d-5aa793bea02f",
+            "updatedAt": "2025-04-12T08:20:44.777Z",
+            "createdAt": "2024-03-18T12:17:48.612Z",
+            "unitId": "1267",
+            "fullName": "Kostroma Mavka",
+            "slug": "kostroma-mavka",
+            "shortName": "Kostroma Mavka",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#e8e8e8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/451e2a906991068657486de64cf5d99f/22bfc/1267.webp",
+                        "srcSet": "/static/451e2a906991068657486de64cf5d99f/8257c/1267.webp 64w,\n/static/451e2a906991068657486de64cf5d99f/6766a/1267.webp 128w,\n/static/451e2a906991068657486de64cf5d99f/22bfc/1267.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Unknown",
+            "seaReleaseDate": null,
+            "krReleaseDate": "March 12th, 2024",
+            "globalReleaseDate": "August 14th, 2024",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Air",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kostroma Mavka (Mavka) is a flying backline damage dealer specialised against defender class enemies on account of innate 160% Anti-Defender DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most of Mavka’s damage comes from basic attacks. Her passive is split into three stages, and ramps up over a short time. The final stage grants her immunity to hitstun from special skills and has fantastic dps, but until she reaches it her damage is nothing special.  \\t\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mavka excels in any content where the main target is a defender such as Danger Close bosses Moderator A and Tyrant Armor. However, thanks to the ramping up nature of her kit, she retains high damage output against other classes, which leads to her seeing usage in most 16-man content.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Mavka is a fairly one-dimensional unit that sees use as the nuclear option against awakened defenders. While anti-defender damage dealers are universally appreciated across all team comps, Mavka’s many weaknesses limit her usage and paradoxically make her more niche than cheaper, less damaging alternatives. The most prominent of her weaknesses are:\\nLow range: Mavka often gets clipped by AoE attacks. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ramp up time: Mavka’s passive makes her uniquely vulnerable to common disruption tools as she has to reach Stage 3 again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Inability to hit air: Mavka often exposes herself after killing enemy defenders.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These weaknesses usually mean that without extreme positioning advantage Mavka struggles to justify high upfront DP cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While Mavka can deal with any defender frontline, her damage is lacking against dedicated striker tanks. Her ultimate skill becomes a win-condition in those situations, wiping backline units and giving her damage boosts necessary to kill non defenders.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kills Defenders\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Vulnerable to disruption\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can’t hit air\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "8",
+              "pve_early": "9",
+              "pve_late": "10"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR Tank, Autoattack DPS, CDR DPS",
+                "notes": "Recommended Anti-Counter RES gear with CDMG RES case to survive ALSY ETB"
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1267_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires the weaponized arm, dealing damage to the target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1267_2",
+                "name": "Kashitan Special Armament",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Anti-Defender DMG increases by 80%. Basic Attack enhancement stage gradually increases over the duration. Basic Attack enhances up to 3 stages, entering each enhancement stage reduces Ultimate CD by 2s.\n\n[Stage 1]: Deals Single-target DMG to target in front.\n\n[Stage 2]: Deals Single-target DMG to target in front. (DMG and Hit count increases)\n\n[Stage 3]: Additionally fires missiles, dealing AoE damage (Valid hit: 2). Immune to hitstun from Special Skills."
+                },
+                "level2": {
+                  "level2": "DMG Amplification +5%"
+                },
+                "level3": {
+                  "level3": "DMG Amplification +5%"
+                },
+                "level4": {
+                  "level4": "DMG Amplification +10%"
+                },
+                "level5": {
+                  "level5": "Anti-Defender DMG+80%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1267_3",
+                "name": "MA-Iskander",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Fires missiles, dealing damage to the target and nearby targets. Can only be cast while Basic Attack enhancement is above [Stage 2], casting skill does not interrupt Basic Attack. Unable to cast while under Crowd Control effects. "
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "Special Skill DMG AMP+30%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1267_4",
+                "name": "Sputnik Sasha",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Summons a greatsword, dealing AoE damage in front and knocking enemies Airborne. Enters Sure Fire for 22s when casting Ultimate. While in Sure Fire, Basic Attack bypasses previous enhancement levels and instantly casts [Stage 3] Basic Attack. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "ASPD+25% for 15s after casting Ultimate"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 48.85,
+                "critical": 5.07,
+                "def": 2.37,
+                "evade": 1.22,
+                "hit": 2.41,
+                "hp": 301
+              },
+              "base": {
+                "hp": 2437,
+                "atk": 488,
+                "def": 179,
+                "hit": 182,
+                "critical": 384,
+                "evade": 92
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "92b64068-52a6-585d-ad9d-5aa793bea02f"
+    }
+  },
+  "staticQueryHashes": []
+}

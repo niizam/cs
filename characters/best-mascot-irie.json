@@ -1,0 +1,344 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/best-mascot-irie",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "f222e063-f407-51eb-a604-211dd3fba02e",
+            "updatedAt": "2024-10-13T15:05:37.680Z",
+            "createdAt": "2021-11-16T10:36:28.331Z",
+            "unitId": "2134",
+            "fullName": "Best Mascot Irie",
+            "slug": "best-mascot-irie",
+            "shortName": "Best Mascot Irie",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2889a01d554ae97a217f5b57db873326/acb7c/emp-2134.png",
+                        "srcSet": "/static/2889a01d554ae97a217f5b57db873326/1c9ce/emp-2134.png 64w,\n/static/2889a01d554ae97a217f5b57db873326/bf8e1/emp-2134.png 128w,\n/static/2889a01d554ae97a217f5b57db873326/acb7c/emp-2134.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2889a01d554ae97a217f5b57db873326/8257c/emp-2134.webp 64w,\n/static/2889a01d554ae97a217f5b57db873326/6766a/emp-2134.webp 128w,\n/static/2889a01d554ae97a217f5b57db873326/22bfc/emp-2134.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Best Mascot",
+            "seaReleaseDate": "March 2nd, 2022",
+            "krReleaseDate": "November 2nd, 2021",
+            "globalReleaseDate": "December 8th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Barrier",
+              "CC",
+              "Buffer",
+              "ETB"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best Mascot Irie with her Rearm received a big upgrade to her base stats, putting her on par with other 3-cost defenders. And if you add the barrier that she gets when she's used as Leader, her HP pool becomes simply massive. Still, just like her base version, Mascot doesn't have MDL and this makes her crap compared to any defender with MDL both in PVE and PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Also, the barrier makes A. Na Yubin users smile from ear to ear because they know he will chunk her HP. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, her base version is still more useful because she's only 2-cost and Mascot Irie needs a buff to make her competitive with other defenders (honestly just give her MDL and she will be fine).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"MDL = Max Damage Limit or DMG Taken Limit is a stat that only appears on SSR rarity Defenders. How does it work? For example, if an employee has 10% MDL it means that any hit that does more damage than 10% of his max HP, will have the part exceeding the MDL value lowered by 80%. This prevents Defenders with MDL from being one-shot by skills/ultimates. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A way to counter MDL is to use employees with great ASPD like Administration Rifleman, Ifrit, or Millia Rage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- massive HP pool,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great stats for a 3-cost employee.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- no MDL makes her useless as a tank. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Taunts and uses AoE suppression skills on the front lines, protecting allies."
+            },
+            "introduction": {
+              "introduction": "Irie was looking for new prank materials when she came up with a brilliant idea. She balled up her CRF, which made her body as light and flexible as a rubber ball, and it turned into an awesome shield. This highly elastic shield can bounce off oncoming enemies and be stretched wide to protect allies. Irie can't wait to play pranks with this remarkable invention of hers."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2134_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her shield, attacking a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2134_2",
+                "name": "Reliable as Ever",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She's a reliable presence as she always has been. Increases surrounding Strikers' DMG RES by 10%."
+                },
+                "level2": {
+                  "level2": "DMG RES +1%"
+                },
+                "level3": {
+                  "level3": "DMG RES +1%"
+                },
+                "level4": {
+                  "level4": "DMG RES +2%"
+                },
+                "level5": {
+                  "level5": "HP +20%"
+                },
+                "level6": {
+                  "level6": "DMG RES +1%"
+                },
+                "level7": {
+                  "level7": "DMG RES +1%"
+                },
+                "level8": {
+                  "level8": "DMG RES +1%"
+                },
+                "level9": {
+                  "level9": "DMG RES +2%"
+                },
+                "level10": {
+                  "level10": "Buff range +50%"
+                }
+              },
+              {
+                "skillId": "2134_3",
+                "name": "I Said, Stay Away!",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Swings her shield, shooting a balled bulwark that inflicts AoE damage in front. Enemies hit by this attack target the caster for 6 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Barrier by 10% of Max HP for 5 s when cast"
+                }
+              },
+              {
+                "skillId": "2134_4",
+                "name": "Maximum Impact",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Repeatedly strikes the ground with her shield and generates shock waves, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -25% for 10 s after skill"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Cooldown -8 s"
+                }
+              },
+              {
+                "skillId": "2134_5",
+                "name": "Team Mascot",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "As the leader, she forces surrounding enemies to attack her for 6 seconds. Generates a barrier by 30% of Max HP."
+                },
+                "level2": {
+                  "level2": "CRIT DMG RES +10%"
+                },
+                "level3": {
+                  "level3": "Barrier by 35% of Max HP"
+                },
+                "level4": {
+                  "level4": "CRIT DMG RES +10%"
+                },
+                "level5": {
+                  "level5": "Barrier by 40% of Max HP"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 14.52,
+                "critical": 0.76,
+                "def": 4.4,
+                "evade": 1.84,
+                "hit": 2.3,
+                "hp": 352
+              },
+              "base": {
+                "hp": 2856,
+                "atk": 145,
+                "def": 333,
+                "hit": 174,
+                "critical": 57,
+                "evade": 139
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1134",
+              "slug": "irie-alford",
+              "shortName": "Irie Alford",
+              "rarityClassName": "R",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/bd5bbe0c76a531c3eaea4104d0dc1321/acb7c/emp-1134.png",
+                          "srcSet": "/static/bd5bbe0c76a531c3eaea4104d0dc1321/1c9ce/emp-1134.png 64w,\n/static/bd5bbe0c76a531c3eaea4104d0dc1321/bf8e1/emp-1134.png 128w,\n/static/bd5bbe0c76a531c3eaea4104d0dc1321/acb7c/emp-1134.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/bd5bbe0c76a531c3eaea4104d0dc1321/8257c/emp-1134.webp 64w,\n/static/bd5bbe0c76a531c3eaea4104d0dc1321/6766a/emp-1134.webp 128w,\n/static/bd5bbe0c76a531c3eaea4104d0dc1321/22bfc/emp-1134.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "f222e063-f407-51eb-a604-211dd3fba02e"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ozymandias",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "4e0b7b9a-1f79-54a7-83c4-be98cd1258b3",
+            "updatedAt": "2024-12-12T22:00:26.827Z",
+            "createdAt": "2023-07-28T09:04:40.324Z",
+            "unitId": "1252",
+            "fullName": "Ozymandias",
+            "slug": "ozymandias",
+            "shortName": "Ozymandias",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/ffa635de13c29a71cdd44ce9e712be7f/acb7c/1252.png",
+                        "srcSet": "/static/ffa635de13c29a71cdd44ce9e712be7f/1c9ce/1252.png 64w,\n/static/ffa635de13c29a71cdd44ce9e712be7f/bf8e1/1252.png 128w,\n/static/ffa635de13c29a71cdd44ce9e712be7f/acb7c/1252.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/ffa635de13c29a71cdd44ce9e712be7f/8257c/1252.webp 64w,\n/static/ffa635de13c29a71cdd44ce9e712be7f/6766a/1252.webp 128w,\n/static/ffa635de13c29a71cdd44ce9e712be7f/22bfc/1252.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "November 1st, 2023",
+            "krReleaseDate": "June 27th, 2023",
+            "globalReleaseDate": "February 7th, 2024",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ozymandias is a PVP-oriented frontline tank. Ozymandias is notable for her above average survivability, which when paired with her low cost makes her one of the more cost-efficient frontline tanks in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, frontline tanks with buffs/ debuffs are valued more highly than those focused solely on tanking for themselves. Ozymandias meets the baseline requirements expected of her as a frontline tank, but her cost-efficiency is worth considerably less than what is provided by stronger alternatives (e.g. Ciel, Chifuyu).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Ozymandias is played primarily as a cheap frontline tank to stall and quickly cycle the “deck”. Ozymandias is also notable for her ability to pull snipers with her Special skill. As the skill has less range than that of the typical sniper, some setup is needed to coax the enemy sniper forward to the point where Ozymandias can pull her. Executed correctly, the Ozymandias can be used to expose and kill otherwise inaccessible backline snipers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Incredibly cost-effective frontline tank. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Can pull snipers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Does not replace the need for a proper general frontline tank; ultimately just a high-value stall tool.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "1",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Striker who specializes in quickly dealing with her enemies"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1252_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE Damage in front using a Sword."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1252_2",
+                "name": "Nemean Claws",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Ipon Deployment, Enlarge the sword and strikes the ground, causing AoE Damage and knocking enemies up, and additionally inflicting stun on Defender and Striker units for 3s. Delivers an enhanced AoE attack after every 3 basic attacks. "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Generates a barrier equal to 10% of HP upon Deployment."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1252_3",
+                "name": "A Hundred Blades",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 21,
+                "baseDescription": {
+                  "baseDescription": "Enlarge the sword to thrust forward then pulls it back, dealing AoE Damage. Snipers hit by the pull back attack is dragged towards Ozymandias. "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Snipers hit by the pull back attack loses 50% DEF, EVA for 8s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1252_4",
+                "name": "Scarlet Nova Burst",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Strikes the Sword deep into the ground, creating a fissure that launches flames from the ground, dealing AoE Damage. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Generates a barrier equal to 20% of HP after casting skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 27.25,
+                "critical": 2.52,
+                "def": 3.27,
+                "evade": 5.15,
+                "hit": 4.1,
+                "hp": 273
+              },
+              "base": {
+                "hp": 2128,
+                "atk": 262,
+                "def": 212,
+                "hit": 266,
+                "critical": 163,
+                "evade": 334
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "4e0b7b9a-1f79-54a7-83c4-be98cd1258b3"
+    }
+  },
+  "staticQueryHashes": []
+}

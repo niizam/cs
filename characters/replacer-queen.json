@@ -1,0 +1,249 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/replacer-queen",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "07d74fc5-e78d-56d2-8d91-0711ea4adbef",
+            "updatedAt": "2024-12-12T22:00:01.441Z",
+            "createdAt": "2021-10-22T06:48:17.141Z",
+            "unitId": "1172",
+            "fullName": "Replacer Queen",
+            "slug": "replacer-queen",
+            "shortName": "Replacer Queen",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/414be720f6fabe3ba9e2bc2253995a3f/acb7c/emp-1172.png",
+                        "srcSet": "/static/414be720f6fabe3ba9e2bc2253995a3f/1c9ce/emp-1172.png 64w,\n/static/414be720f6fabe3ba9e2bc2253995a3f/bf8e1/emp-1172.png 128w,\n/static/414be720f6fabe3ba9e2bc2253995a3f/acb7c/emp-1172.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/414be720f6fabe3ba9e2bc2253995a3f/8257c/emp-1172.webp 64w,\n/static/414be720f6fabe3ba9e2bc2253995a3f/6766a/emp-1172.webp 128w,\n/static/414be720f6fabe3ba9e2bc2253995a3f/22bfc/emp-1172.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Replacer Syndicate",
+            "seaReleaseDate": "January 5th, 2022",
+            "krReleaseDate": "March 16th, 2021",
+            "globalReleaseDate": "September 29th, 2022",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": {
+              "name": "CRF Pointer",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Shackles",
+              "description": "Every time any unit in the field is killed, increasing Skill Haste changes to <b>2%</b> (Up to <b>30%</b>). Also, Ultimate Skill DMG AMP <b>+2%</b> (Up to <b>30%</b>) and Lv. 5 Passive Skill's Ultimate Skill cooldown reduction changes to <b>1.4s</b>"
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Replacer Queen is a Sniper employee who focuses on blasting groups of enemies. She boasts great AoE damage alongside a much wanted DMG Amp debuff and a periodic stun. She also gains Skill Haste per enemy death and increased ATK per enemy her Ultimate hits.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because her cost is lower than most awakened units, it's easier to fit her in your teams while progressing through the game. Still, she's not a solo carry type of character - you need to build a proper team to keep her alive and let her do her thing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Endgame PVE is where she shines. Most players already have fully geared teams and slotting a 72% CDR or Spectral Blaze/Spirit Replacer Queen into one will turn her into a killing machine. She's one of the best Snipers to bring into Dive 50 and also she's great in the Titan stage in Relic Dungeon. Unfortunately for Danger Close she got knocked off the meta due to the Awakened unit debuff being free points.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As for PVP, while she can do great damage, she dies quite easily, making her hard to use well.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- gets tons of free buffs from her passive,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low cost for an awakened employee,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- ridiculous combination of absurd damage and CC abilites.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- current meta makes her hard to use in PVP,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- needs a team to be built around her and good gear to make her shine.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "9",
+              "pve_early": "6",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A Ranged Attacker that neutralizes enemies and continuously enhances herself."
+            },
+            "introduction": {
+              "introduction": "  The Replacer Queen is a Sniper that controls enemies with Debuffs and continuously enhances herself through AoE attacks.\n\n  Currently leading her organization in the King's place, she's considered as dangerous as a Category 4 C.O. Since she's been so diligent about eliminating spies in her organization, not much information has been released to the outside.\n  But according to what's available to us, she's a fervent supporter of the King, but doesn't seem to be interested in his ideals."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": "One evasion accessory (swift relic) significantly increases her survivability. Can also use Britra Ranged DMG relics."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1172_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires an energy projectile at enemies in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1172_2",
+                "name": "Shackles",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Permanently increases her Skill Haste by 1%, up to 15%, every time any unit in the field is killed. After every 4th Basic attack, she knocks surrounding enemies backward and Stuns a target and seals its skills for 3 seconds. (Bosses and ships excluded)"
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Ultimate skill cooldown -1 every time any unit is killed."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1172_3",
+                "name": "Queen's Gambit",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Vertically discharges energy, inflicting AoE damage on enemies in a broad area. Stuns the affected enemies for 2 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Target DMG Taken +15% for 10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1172_4",
+                "name": "Checkmate",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 56,
+                "baseDescription": {
+                  "baseDescription": "Summons a globe that follows an enemy and repeatedly inflicts AoE damage on a broad area."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "ATK +1% per affected targets (Up to +20%)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 51.26,
+                "critical": 4.11,
+                "def": 2.64,
+                "evade": 2.22,
+                "hit": 9.88,
+                "hp": 259
+              },
+              "base": {
+                "hp": 2102,
+                "atk": 512,
+                "def": 200,
+                "hit": 748,
+                "critical": 311,
+                "evade": 168
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "07d74fc5-e78d-56d2-8d91-0711ea4adbef"
+    }
+  },
+  "staticQueryHashes": []
+}

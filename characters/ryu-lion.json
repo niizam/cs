@@ -1,0 +1,298 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ryu-lion",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "166464c7-951d-5e7b-b878-20f9d37f789e",
+            "updatedAt": "2025-05-01T13:38:40.268Z",
+            "createdAt": "2025-01-23T09:17:59.416Z",
+            "unitId": "1283",
+            "fullName": "Ryu Lion",
+            "slug": "ryu-lion",
+            "shortName": "Ryu Lion",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#589868",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/108a64e5d9ad21f4413de6d9557e8b02/22bfc/1283.webp",
+                        "srcSet": "/static/108a64e5d9ad21f4413de6d9557e8b02/8257c/1283.webp 64w,\n/static/108a64e5d9ad21f4413de6d9557e8b02/6766a/1283.webp 128w,\n/static/108a64e5d9ad21f4413de6d9557e8b02/22bfc/1283.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "January 22nd, 2025",
+            "krReleaseDate": "January 22nd, 2025",
+            "globalReleaseDate": "January 22nd, 2025",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ryu is a backline sustain support. Her special targets frontmost ally and applies uncancelable healing over time and skill haste buffs (and 25% ASPD if target is a striker). Ryu Lion requires some aspd to gain enough concentration stacks to share haste for her second special onwards which leads to some scenarios requiring specialized gear to see best performance.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unfortunately her healing output is not higher than what other sustain support options offer. Outside of very specific setups she is not worth considering.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Healer and ASPD/ Skill Haste buffer  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Only supports a single frontline unit \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "7",
+              "pve_late": "7"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR/ASPD tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR/ASPD tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": null,
+            "skillsUpdated": [
+              {
+                "skillId": "1283_1",
+                "name": "Basic attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses her Alvs Lumina and deals damage to a single enemy in front."
+                },
+                "level2": {
+                  "level2": "Basic attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "1283_2",
+                "name": "Mental Concentration",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Focuses the mind and increases her attacking ability. A basic attack grants 1 additional [Concentration] stack to self (Up to 15 stacks).\n[Concentration] : Permanent Skill Haste +1%"
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +9%"
+                },
+                "level5": {
+                  "level5": "ASPD +5%"
+                },
+                "level6": {
+                  "level6": "HP +3%"
+                },
+                "level7": {
+                  "level7": "HP +3%"
+                },
+                "level8": {
+                  "level8": "HP +3%"
+                },
+                "level9": {
+                  "level9": "HP +3%"
+                },
+                "level10": {
+                  "level10": "Max stack of [Concentration] changes to 30"
+                }
+              },
+              {
+                "skillId": "1283_3",
+                "name": "Noah Heal",
+                "type": "Special",
+                "validHits": 1,
+                "cooldown": 33,
+                "baseDescription": {
+                  "baseDescription": "Casts a short chant to grant an effect on the foremost ally in a 1000-reach range that restores 2% of HP per second for 8 seconds (Cannot be canceled).\nAdditionally increases ASPD by 25% if the target is a Striker (Cannot be canceled). "
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Buff duration +7 seconds"
+                },
+                "level6": {
+                  "level6": "Cooldown -1 s"
+                },
+                "level7": {
+                  "level7": "Cooldown -1 s"
+                },
+                "level8": {
+                  "level8": "Cooldown -1 s"
+                },
+                "level9": {
+                  "level9": "Cooldown -1 s"
+                },
+                "level10": {
+                  "level10": "Additionally increases Skill Haste +10% to Special Skill Effect per 5 [Concentration]"
+                }
+              },
+              {
+                "skillId": "1283_4",
+                "name": "Luminous Wind",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Creates multiple light orbs and deals AoE damage to enemies."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%\n"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +3%"
+                },
+                "level10": {
+                  "level10": "Stuns affected enemies for 3 s"
+                }
+              },
+              {
+                "skillId": "1283_5",
+                "name": "Gale Wind",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Upon deployment, increases ASPD by 15% for self and all surrounding allies for 8 seconds (Cannot be canceled)."
+                },
+                "level2": {
+                  "level2": "ATK +5%"
+                },
+                "level3": {
+                  "level3": "ATK +5%"
+                },
+                "level4": {
+                  "level4": "ATK +10%"
+                },
+                "level5": {
+                  "level5": "Buff duration +7s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 27.35,
+                "critical": 1.94,
+                "def": 1.41,
+                "evade": 2.81,
+                "hit": 2.29,
+                "hp": 253
+              },
+              "base": {
+                "hp": 2012,
+                "atk": 268,
+                "def": 98,
+                "hit": 160,
+                "critical": 135,
+                "evade": 196
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "166464c7-951d-5e7b-b878-20f9d37f789e"
+    }
+  },
+  "staticQueryHashes": []
+}

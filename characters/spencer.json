@@ -1,0 +1,224 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/spencer",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "7a7fbd8d-eaa2-5ae4-b476-5c25e97ce87f",
+            "updatedAt": "2024-08-06T12:26:56.388Z",
+            "createdAt": "2024-06-03T11:50:51.502Z",
+            "unitId": "1269",
+            "fullName": "Spencer",
+            "slug": "spencer",
+            "shortName": "Spencer",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#683848",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/eb0c2cc2ceeff4989dc9fe7f6d84ea92/22bfc/1269.webp",
+                        "srcSet": "/static/eb0c2cc2ceeff4989dc9fe7f6d84ea92/8257c/1269.webp 64w,\n/static/eb0c2cc2ceeff4989dc9fe7f6d84ea92/6766a/1269.webp 128w,\n/static/eb0c2cc2ceeff4989dc9fe7f6d84ea92/22bfc/1269.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "July 17th, 2024",
+            "krReleaseDate": "April 2nd, 2024",
+            "globalReleaseDate": "July 17th, 2024",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Spencer is the premier PVE buffer against Corrupted Object (CO) enemies, providing massive teamwide damage buffs against applicable targets. Spencer is the best option against COs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As her buffs are specific to COs, in all other situations she is completely useless.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best-in-slot PVE anti-CO buffer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"None.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "8",
+              "pve_late": "10"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1269_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires the revolver in front, dealing damage to the target"
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1269_2",
+                "name": "Ablister D14",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Equips a self-modified magnum revolver in combat. DMG Dealt to C.O.-type units is increased by 100% "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "+40% Anti-C.O. DMG"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1269_3",
+                "name": "Artifact Expedition",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Deploys an expedition drone that collects volatile artifacts that can dissolve corruption and strengthen all allies except for self. Each artifact has an equal chance to be obtained, and grants a buff to all allies excluding self for 12s depending on that wave color. (Each wave effects can co-exist with each other).\n\n[Green Wave]: Anti-C.O. DMG +30%\n\n[Blue Wave]: Anti-C.O. DMG +40%\n\n[Red Wave]: Anti-C.O. DMG +50%"
+                },
+                "level2": {
+                  "level2": "CD -1s"
+                },
+                "level3": {
+                  "level3": "CD -1s"
+                },
+                "level4": {
+                  "level4": "CD -2s"
+                },
+                "level5": {
+                  "level5": "The base buff effect increases by 50% for allied Soldiers excluding self."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1269_4",
+                "name": "Resonant Cradle System",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every 3rd special skill will recall a successful expedition drone that grants all allies excluding self [Red Wave] for 12s. Additionally emits a distortion wave the reduces the ATK of C.O.-type units within range by 50% and their DEF by 25% for 25s. "
+                },
+                "level2": {
+                  "level2": "HIT +5%"
+                },
+                "level3": {
+                  "level3": "HIT +5%"
+                },
+                "level4": {
+                  "level4": "HIT +10%"
+                },
+                "level5": {
+                  "level5": "Anti-C.O. DMG RES +40%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.53,
+                "critical": 1.81,
+                "def": 1.83,
+                "evade": 2.05,
+                "hit": 2.16,
+                "hp": 300
+              },
+              "base": {
+                "hp": 2434,
+                "atk": 295,
+                "def": 138,
+                "hit": 163,
+                "critical": 137,
+                "evade": 155
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "7a7fbd8d-eaa2-5ae4-b476-5c25e97ce87f"
+    }
+  },
+  "staticQueryHashes": []
+}

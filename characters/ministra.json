@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ministra",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "22574ebf-c8b3-5094-b9fe-0c44504b26a9",
+            "updatedAt": "2025-04-12T08:20:45.742Z",
+            "createdAt": "2021-10-22T06:54:12.437Z",
+            "unitId": "1176",
+            "fullName": "Ministra",
+            "slug": "ministra",
+            "shortName": "Ministra",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4fc14e7b881b3d2c0e62818feac0ab62/acb7c/emp-1176.png",
+                        "srcSet": "/static/4fc14e7b881b3d2c0e62818feac0ab62/1c9ce/emp-1176.png 64w,\n/static/4fc14e7b881b3d2c0e62818feac0ab62/bf8e1/emp-1176.png 128w,\n/static/4fc14e7b881b3d2c0e62818feac0ab62/acb7c/emp-1176.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4fc14e7b881b3d2c0e62818feac0ab62/8257c/emp-1176.webp 64w,\n/static/4fc14e7b881b3d2c0e62818feac0ab62/6766a/emp-1176.webp 128w,\n/static/4fc14e7b881b3d2c0e62818feac0ab62/22bfc/emp-1176.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Demon-type C.O.",
+            "seaReleaseDate": "February 2nd, 2022",
+            "krReleaseDate": "April 27th, 2021",
+            "globalReleaseDate": "October 20th, 2022",
+            "cost": 5,
+            "type": [
+              "Counter",
+              "Corrupted Object"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "Quilt",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Decomposition and Reconstruction",
+              "description": "ATK +20% for 7 s upon summoning a sword on the battlefield. Also, permanent Ultimate Skill DMG AMP +3% per stack when summoning a sword (Up to 10 stacks)."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "Summoner",
+              "Healblock"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ministra is a utility ranger who uses powerful skills and potent debuffs to control the battlefield. \\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Much of Ministra’s value comes from her sword summons. Each sword generates a crippling 33% ATK, ASPD, and skill haste debuff aura. Additionally, Ministra’s kit gives her survivability in the form of a one-time backstep that summons Mutated Spira, a stat-adjusted Spira summon who inherits gear from Ministra.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ministra’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" gives her some much needed offensive power to bridge the damage gap between her and newer releases. Ministra’s level 2 reactor gives her easy access to her core mechanic as a debuffer (by letting her directly summon her swords via her special skill) significantly improving her performance, consistency, and competitive viability. \\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ministra finds value in PVE through her debuffs (by crippling enemy damage outputs), but her personal damage contribution can be lacking.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While there was a time when Ministra’s debuffs were needed to keep frontline tanks healthy, in the current state of the game they are not needed in most stages. The situations where Ministra is still needed are uncommon, as top-of-the-line frontline tanks (e.g. Rearm Kaci) can usually fare fine regardless.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She is now most commonly used for her 100% Incoming Healing block on her special skill (which works even on bosses), which is invaluable in stages like Dimension Trimming Jungle Stage 1. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This isn’t to say Ministra is bad. She is a pretty decent general use ASSR ranger, but she is a notch below top-meta PVE units.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ministra without her reactor is borderline unplayable in PVP. With her reactor, Ministra brings a potent combination of crippling debuffs, survivability, and damage output. At 5 cost, Ministra isn’t difficult to slot into a team. Contrasting some ASSRs that demand teams built around them, Ministra can manage herself fine.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ministra is notable for her:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Debuff aura\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": As mentioned multiple times, Ministra’s swords apply a potent debuff aura to surrounding enemies. ATK and ASPD debuffs more than halves enemy damage, while the Skill Haste debuff heavily delays important cooldowns.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Healing debuff\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ministra’s special skill applies an 8 second -100% incoming healing debuff to all targets hit. This severely affects frontline survivability by cutting them from their healing support.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Special skill damage modifier:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Ministra’s special does damage that rivals many ultimates. This damage on a special skill cooldown gives her fast access to high burst damage capable of instantly killing squishier units, and heavily damages targets with no MDL. This is particularly noticeable against forward deployment units (e.g. Gremory, Kang, Replacer Knight) due to their lack of MDL.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There is no overarching gameplan to playing Ministra. That is to say, she is largely a deploy-and-forget unit that passively contributes value through her various debuffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Counterplay to Ministra is limited; given the nature of her kit, there isn’t much that can be done to prevent her from summoning her swords. Depending on the situation, one may consider redirecting Ministra’s special to temporarily keep her debuffs away from the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Ministra’s sword aura is classified as a permanent debuff, which bypasses debuff immunity, ensuring they stick.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Ministra’s Mutated Spira summon adds a fair bit of bulk to the frontline.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Ministra has one of the highest special skill damage modifiers in the game. It is higher than most of the game’s roster’s ultimate skills.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"None.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "9",
+              "pve_early": "9",
+              "pve_late": "10"
+            },
+            "description": {
+              "description": "A sub-attacker that commands debuffer summonlings."
+            },
+            "introduction": {
+              "introduction": "  Ministra, a Demon-Type C.O., is a Ranger who specializes in weakening the enemy through AoE debuffs. The objects she makes by reassembling her dead enemies spread fear and hopelessness.\n\n  The other Shadows—or Sisters—she has created while wandering the Counterside all have a similar appearance to Spira, which implies the strong bond that once existed between them. She has sadistic tendencies and enjoys watching her prey wither away in isolation, leaving her victims with no prospect but a horrible death. Due to this, she has been categorized as \"extremely dangerous\" by the Administration."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": "Swift relic gear can be used to replace Maze pieces due to them potentially having more Skill Haste than Maze pieces."
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": "Swift relic gear can be used to replace Maze pieces due to them potentially having more Skill Haste than Maze pieces."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1176_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Throws a sword forward, inflicting AoE damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1176_2",
+                "name": "Decomposition and Reconstruction",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "If a target hit by a Basic attack dies within 10 seconds, up to three swords are summoned at the location. The swords last for 8 seconds and decreases nearby enemies' ATK, ASPD, and Skill Haste by 33% (effect does not stack)."
+                },
+                "level2": {
+                  "level2": "CRIT stats +5%"
+                },
+                "level3": {
+                  "level3": "CRIT stats +5%"
+                },
+                "level4": {
+                  "level4": "CRIT stats +10%"
+                },
+                "level5": {
+                  "level5": "When HP drops to 60% or below, she moves backward and summons an unhealable Mutated Spira at her original location."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1176_3",
+                "name": "Sword's Song",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Slams her sword down, inflicting AoE damage on and around a target. The affected enemies lose 100% of Incoming Healing for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4, Skill resets duration of all swords on the field"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1176_4",
+                "name": "Despair to the Arrogant",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Combines her swords into one and releases it, inflicting AoE damage on and around a target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Summon 2 additional swords"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 47.23,
+                "critical": 4.55,
+                "def": 3.87,
+                "evade": 1.59,
+                "hit": 2.78,
+                "hp": 326
+              },
+              "base": {
+                "hp": 2642,
+                "atk": 472,
+                "def": 293,
+                "hit": 210,
+                "critical": 344,
+                "evade": 120
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "22574ebf-c8b3-5094-b9fe-0c44504b26a9"
+    }
+  },
+  "staticQueryHashes": []
+}

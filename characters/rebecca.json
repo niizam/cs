@@ -1,0 +1,242 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/rebecca",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c9f16842-945c-5f4f-a430-61d2da36ad6c",
+            "updatedAt": "2025-03-27T09:23:07.805Z",
+            "createdAt": "2023-05-03T11:24:16.493Z",
+            "unitId": "1247",
+            "fullName": "Rebecca",
+            "slug": "rebecca",
+            "shortName": "Rebecca",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/29cabf86c31f5d3856894df16bce92de/acb7c/1247.png",
+                        "srcSet": "/static/29cabf86c31f5d3856894df16bce92de/1c9ce/1247.png 64w,\n/static/29cabf86c31f5d3856894df16bce92de/bf8e1/1247.png 128w,\n/static/29cabf86c31f5d3856894df16bce92de/acb7c/1247.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/29cabf86c31f5d3856894df16bce92de/8257c/1247.webp 64w,\n/static/29cabf86c31f5d3856894df16bce92de/6766a/1247.webp 128w,\n/static/29cabf86c31f5d3856894df16bce92de/22bfc/1247.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "August 22nd, 2023",
+            "krReleaseDate": "April 19th, 2023",
+            "globalReleaseDate": "January 9th, 2024",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rebecca is a backline damage dealer focused on debuffing and dealing increased damage to mechs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Rebecca provides a 30% DEF shred against mechs and extremely reliable burst damage and DPS against those same targets. This allows her to see use in most content where the main focus is killing Mechs such as the Inhibitor Raid, and select Danger Close bosses.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Rebecca is played infrequently as a hard counterpick to “mech” comps. Paradoxically, for a character designed specifically as anti-mech, Rebecca is only somewhat effective against mech comps. Rebecca’s poor PVP performance can be attributed to:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"“Mech” comps\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": the vast majority of dominant “mech” comps are only “mech” to the extent that their main damage dealers (e.g. Awakened Sigma, Awakened Horizon) are mech. The rest of the team is typically composed of whatever is strong in the week. Rebecca is largely ineffective outside of her niche.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Special skill stance\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Rebecca is dependent on her Special skill stance to deal damage. Rebecca can be disrupted out of her stance, greatly decreasing her damage potential. This introduces consistency issues\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Queue frequency\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": “Mech” comps tend not to represent a significant portion of the queue on any given week. It is not a good feeling to sacrifice a slot for Rebecca, only sometimes get the opportunity to play her, and only sometimes watch her contribute in some meaningful way.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"High damage and useful debuffs for low cost against mechs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Useless against anything that’s not a mech. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "9"
+            },
+            "description": {
+              "description": "A Striker with a grudge against Mechs"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS or Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS or Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1247_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Hitting a lump of scrap metal with a bat that penetrates enemy units once and explodes. Deals damage +100% to Mechs. "
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1247_2",
+                "name": "Stride Form",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Activates her bat, maximising its magnetic capabilities. After casting Special Skill, increases range by 50%, becomes immobile and an enhanced state with immunity to knockback  for 15 seconds. (Cannot be canceled) In this enhanced state, she casts an enhanced attack that deals AoE damage with knockback every 5 seconds. Decreases affected target's DEF by 15% for 5 seconds (x2 effect on Mechs)."
+                },
+                "level2": {
+                  "level2": "Anti-Mech DMG, DMG RES +10%"
+                },
+                "level3": {
+                  "level3": "Anti-Mech DMG, DMG RES +10%"
+                },
+                "level4": {
+                  "level4": "Anti-Mech DMG, DMG RES +20%"
+                },
+                "level5": {
+                  "level5": "Adds -90% SPD for Mech units to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1247_3",
+                "name": "Cycling Hit",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 34,
+                "baseDescription": {
+                  "baseDescription": "Stomps her foot on the ground, unleashing a magnetic force that deals AoE damage. Increases damage by 100% to Mech units and Stuns them for 1 second. Afterwards, grants Anti-Mech DMG +40% and ASPD +20% to self for 15 seconds. "
+                },
+                "level2": {
+                  "level2": "Cooldown -1s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2s"
+                },
+                "level5": {
+                  "level5": "Immunity to hitstun from Special or lower skills for 15 s when cast"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1247_4",
+                "name": "Mechanic Full Burst",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 56,
+                "baseDescription": {
+                  "baseDescription": "Gathers all the magnetic forces on the battlefield, dealing AoE damage with knockback. Stuns damaged units for 2 seconds. (Stun lasts 4 seconds for Mech units)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Resets special skill cooldown after casting skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 33.78,
+                "critical": 2.05,
+                "def": 2.68,
+                "evade": 3.67,
+                "hit": 4.11,
+                "hp": 282
+              },
+              "base": {
+                "hp": 2241,
+                "atk": 331,
+                "def": 187,
+                "hit": 254,
+                "critical": 143,
+                "evade": 256
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c9f16842-945c-5f4f-a430-61d2da36ad6c"
+    }
+  },
+  "staticQueryHashes": []
+}

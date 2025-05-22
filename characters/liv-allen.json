@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/liv-allen",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "03162da8-12a9-5367-842a-61b267442b8f",
+            "updatedAt": "2024-10-13T15:07:10.096Z",
+            "createdAt": "2021-10-21T13:34:19.568Z",
+            "unitId": "1089",
+            "fullName": "Liv Allen",
+            "slug": "liv-allen",
+            "shortName": "Liv Allen",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/054f205384178af0e5b115b5ddfe2e54/acb7c/emp-1089.png",
+                        "srcSet": "/static/054f205384178af0e5b115b5ddfe2e54/1c9ce/emp-1089.png 64w,\n/static/054f205384178af0e5b115b5ddfe2e54/bf8e1/emp-1089.png 128w,\n/static/054f205384178af0e5b115b5ddfe2e54/acb7c/emp-1089.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/054f205384178af0e5b115b5ddfe2e54/8257c/emp-1089.webp 64w,\n/static/054f205384178af0e5b115b5ddfe2e54/6766a/emp-1089.webp 128w,\n/static/054f205384178af0e5b115b5ddfe2e54/22bfc/emp-1089.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Zodiac Knights: Blue Shift",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Buffer",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Liv Allen is a Striker that sacrifices her ability to do damage to provide support to her allies and to control enemies instead. Her passive gives Role ADV DMG Res, which sounds great, but in reality, the 30% translates only to like 10% less damage taken, because it is multiplicative, not additive with all the other sources of DMG Res. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This makes her pretty useless in both PVE and PVP (although when she is an upped employee, some players still use her).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- supports her allies with buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low damage,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Role DMG Res is not as good as it sounds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Delivers AoE attacks at close range, pushing enemy lines."
+            },
+            "introduction": {
+              "introduction": "　The Knight of Libra. Liv Allen is a vanguard who drives the enemy back with her endless stamina.\n\n　She looks like a tomboy who always wants to play, and she actually acts like one, but she is also a righteous knight who never turns away from the weak.\n　The people of the Allen family claim that their disciplined guidance and education helped her become a true knight. Ironically, none of the other Zodiac Knights have seen her attend chivalry classes even when she was a squire.\n　But seeing her easily wielding the Staff of Lira, a weapon that gains weight based on the malevolence of its wielder, one cannot but think that she was born with a knight's heart. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1089_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings big pendulums, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1089_2",
+                "name": "Shaking Scales",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Libra's blessing restores balance to her motility. Basic attacks increase EVA and ASPD by 4% every time they're performed, up to 20%."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Role ADV DMG RES +30% for all allies and herself"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1089_3",
+                "name": "Balance Typhoon",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Slowly moves forward with her giant pendulums swinging around her, knocking enemies backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -25% during skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1089_4",
+                "name": "Libra Meteor",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Detaches her giant pendulums from the pole and shoots them forward, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 30.01,
+                "critical": 2.88,
+                "def": 2.28,
+                "evade": 4.65,
+                "hit": 1.68,
+                "hp": 301
+              },
+              "base": {
+                "hp": 2391,
+                "atk": 294,
+                "def": 159,
+                "hit": 117,
+                "critical": 201,
+                "evade": 325
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "03162da8-12a9-5367-842a-61b267442b8f"
+    }
+  },
+  "staticQueryHashes": []
+}

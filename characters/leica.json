@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/leica",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "3f49f65e-aaec-58ff-a286-6b151976ed65",
+            "updatedAt": "2024-12-27T17:11:56.484Z",
+            "createdAt": "2023-04-06T07:29:47.970Z",
+            "unitId": "1245",
+            "fullName": "Laika",
+            "slug": "leica",
+            "shortName": "Laika",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#383848",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5462cf8c7e46cf5c7497d7910d7ba518/acb7c/1245.png",
+                        "srcSet": "/static/5462cf8c7e46cf5c7497d7910d7ba518/1c9ce/1245.png 64w,\n/static/5462cf8c7e46cf5c7497d7910d7ba518/bf8e1/1245.png 128w,\n/static/5462cf8c7e46cf5c7497d7910d7ba518/acb7c/1245.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5462cf8c7e46cf5c7497d7910d7ba518/8257c/1245.webp 64w,\n/static/5462cf8c7e46cf5c7497d7910d7ba518/6766a/1245.webp 128w,\n/static/5462cf8c7e46cf5c7497d7910d7ba518/22bfc/1245.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Canary squad",
+            "seaReleaseDate": "August 15th, 2023",
+            "krReleaseDate": "April 5th, 2023",
+            "globalReleaseDate": "November 22nd, 2023",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "Tactical Vagabond",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Surprise Attack",
+              "description": "Attack +30%, Enhanced attack's DMG +80%."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Laika is a potent damage dealer with some novel synergy when paired with Felicette. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Laika’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" provides a significant boost to her damage, making her a competitive ranger DPS option across all game modes. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It is worth noting that Laika does not need to be fielded with Felicette. Laika is strong enough as a standalone unit (and more importantly, Felicette is not good enough as a frontline tank) that the synergy gimmick is largely irrelevant.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- One of the most cost-efficient PVP defender shredders. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Needs alternium reactor performance upgrade to compete with her peers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "9",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Ranger who uses enhanced attacks and synergizes with Felicette"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1245_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires an assault rifle, dealing damage to the target in front."
+                },
+                "level2": {
+                  "level2": " Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": " Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": " Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": " Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1245_2",
+                "name": "Ambush Takedown ",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses tactics to create gaps in the enemy's defense. After every 5 basic attacks, Casts an enhanced attack by throwing 2 tactical knives to the ground enemy."
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "Throws 3 tactical knives if Felicette is present on the battlefield."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1245_3",
+                "name": "Tactical Reload",
+                "type": "Special",
+                "validHits": 1,
+                "cooldown": 11,
+                "baseDescription": {
+                  "baseDescription": "Fires the last rounds to the ground enemy before firing the reserve pistol shot. Then, reloads and grant herself 15% ASPD buff. Also, grants herself a permanent 10% Crit DMG buff. (Max 5 stacks)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Changes ASPD buff value to 30% after reloading if Felicette is present on the battlefield."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1245_4",
+                "name": "Charade's Pugilism",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Instinctively knows how to effectively subdue her enemies. Grants herself a 15% DMG RES Penetration buff. (Cannot be canceled)"
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "Changes DMG RES Penetration value to 20% while Felicette is present on the battlefield"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.83,
+                "critical": 3.29,
+                "def": 1.71,
+                "evade": 1.35,
+                "hit": 3.11,
+                "hp": 243
+              },
+              "base": {
+                "hp": 1968,
+                "atk": 298,
+                "def": 129,
+                "hit": 235,
+                "critical": 249,
+                "evade": 102
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "3f49f65e-aaec-58ff-a286-6b151976ed65"
+    }
+  },
+  "staticQueryHashes": []
+}

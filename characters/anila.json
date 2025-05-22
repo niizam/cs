@@ -1,0 +1,238 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/anila",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "0538eb3b-280e-54e0-a41c-e9231339f570",
+            "updatedAt": "2024-11-20T08:13:39.943Z",
+            "createdAt": "2024-10-02T13:46:23.359Z",
+            "unitId": "1277",
+            "fullName": "Anila",
+            "slug": "anila",
+            "shortName": "Anila",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/07ae1eef3cbd88cd4467104ce54a8b3d/22bfc/1277-1.webp",
+                        "srcSet": "/static/07ae1eef3cbd88cd4467104ce54a8b3d/8257c/1277-1.webp 64w,\n/static/07ae1eef3cbd88cd4467104ce54a8b3d/6766a/1277-1.webp 128w,\n/static/07ae1eef3cbd88cd4467104ce54a8b3d/22bfc/1277-1.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "October 9th, 2024",
+            "krReleaseDate": "August 21st, 2024",
+            "globalReleaseDate": "October 9th, 2024",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Dispeller",
+              "ETB",
+              "Perfect Evasion"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Anila is a short range utility supporter. She brings to the table two distinct utilities:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ETB ATK/ ASPD buff for allied counters that reapplies every Special/ Ultimate skill cast.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AOE buff block that ignores debuff immunity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Anila's buff rivals what was traditionally offered by base Seo Yoon, while having effectively permanent uptime. She sees play in all PVE content.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Anila is the ultimate answer to all frontline units that rely on removable buffs for survivability. Almost all frontline options have some form of removable defensive utility; Anila’s buff block can almost always find value. This includes but is not limited to:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Immortality (e.g. Veronica, Awakened Sigma)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Invincibility (e.g. Rearm kaci, Ecclesia)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shields and DMG RDC buffs\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Adding in her damage buff, Anila’s kit all comes together to make her a potent PVP support.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Massive ETB buff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- The best frontline buff removal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- So powerful she even sees use on ban.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Only buffs counters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "11",
+              "pvp_global": "1",
+              "pve_early": "10",
+              "pve_late": "11"
+            },
+            "description": null,
+            "introduction": {
+              "introduction": "Anila is a person who is a mystery to everyone. This is because nothing remains, including name, affiliation, and place of birth. It's not easy to trust her, but one thing's for sure: she's fighting to protect her world.\nIt has been confirmed that Anila, who reappeared after being missing for a long time, currently works as a guide for a tour company called Varuna Tours. “Anila View,” in which she uses her wind to lift tourists into the air, is what attracts crowds of children and a few adult men, and is the secret behind her winning the award for best guide this month.\nOccasionally, she may hum to herself or name objects and talk, but this is due to her spending a lot of time alone, so if you see her doing this, please pretend not to notice."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1276_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Discharges wind in front, dealing AoE damage.\n"
+                },
+                "level2": {
+                  "level2": "Basic Attack Damage +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack Damage +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack Damage +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack Damage +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1276_2",
+                "name": "Prana",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Upon deployment, grant a buff to all allied Counters excluding self, increasing their ATK by 20% for 10s. When casting Special Skill or Ultimate, reactivates the buff. "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Adds +15% ASPD to buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1276_3",
+                "name": "Topana ",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 21,
+                "baseDescription": {
+                  "baseDescription": "Calls forth a gust of wind around the caster, nullifying buffs for enemies within range (Cannot be removed, Bosses excluded). The skill lasts for up to 8s, and the skill ends if there are no enemies within range. While casting Special Skill, any increase or decrease in ASPD will not take effect. While Special Skill cooldown is fully recharged, gain immunity to Special or Lower Skills Hitstun. "
+                },
+                "level2": {
+                  "level2": "Cooldown -1s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2s"
+                },
+                "level5": {
+                  "level5": "While casting Special Skill, enters Perfect EVA."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1276_4",
+                "name": "Dimensional Anchor",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Locks on to the target’s position and gathers enemies to the center of the target’s position through the flow of wind, dealing AoE damage. Enemies hit by the attack are inflicted with a Debuff that decreases their SPD by 50% for 10s. "
+                },
+                "level2": {
+                  "level2": "Damage +5%"
+                },
+                "level3": {
+                  "level3": "Damage +5%"
+                },
+                "level4": {
+                  "level4": "Damage +15%"
+                },
+                "level5": {
+                  "level5": "Ultimate hits are Sure Fire"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 12.86,
+                "critical": 0,
+                "def": 3.92,
+                "evade": 3.58,
+                "hit": 1.18,
+                "hp": 249
+              },
+              "base": {
+                "hp": 1979,
+                "atk": 126,
+                "def": 274,
+                "hit": 269,
+                "critical": 0,
+                "evade": 82
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "0538eb3b-280e-54e0-a41c-e9231339f570"
+    }
+  },
+  "staticQueryHashes": []
+}

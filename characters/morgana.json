@@ -1,0 +1,234 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/morgana",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "4e244960-e5ef-508c-998d-8713590de902",
+            "updatedAt": "2025-05-01T07:58:15.475Z",
+            "createdAt": "2024-06-03T11:45:28.503Z",
+            "unitId": "1271",
+            "fullName": "Morgana",
+            "slug": "morgana",
+            "shortName": "Morgana",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#e8e8e8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/ff774be4e34a012b34c1e608c36d63df/22bfc/1271.webp",
+                        "srcSet": "/static/ff774be4e34a012b34c1e608c36d63df/8257c/1271.webp 64w,\n/static/ff774be4e34a012b34c1e608c36d63df/6766a/1271.webp 128w,\n/static/ff774be4e34a012b34c1e608c36d63df/22bfc/1271.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "Global",
+              "SEA",
+              "KR"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "August 28th, 2024",
+            "krReleaseDate": "May 7th, 2024",
+            "globalReleaseDate": "August 28th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Morgana is a backline damage dealer that outputs Warden-level damage at double the cost. She has no relevant utility in her kit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The one remotely interesting aspect to her kit, the EVA reduction on her enhanced attack, only triggers in melee range. As Morgana is a backline damage dealer with no survivability tools, this trigger condition is impractical.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Morgana is grossly overcosted for how little she contributes to the team. In short, she is dead on arrival.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- None.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Momo deserved better.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1271_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a large crossbow, dealing damage to the target"
+                },
+                "level2": {
+                  "level2": " Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": " Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": " Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": " Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1271_2",
+                "name": "Super Drop Kick",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Casts Enhanced Attack against targets in melee range. Enhanced Attacks deals no DMG to targets exceeding its valid hit count, inflicts hitstun and knockback. Ignores immunity to hitstun from Special Skills or Lower against targets with 4 Deployment Cost or Lower. Become immune to hitstun from Special Skills or Lower while casting Enhanced Attacks. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": " Enhanced attacks reduces targets’ EVA by 25% for 10s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1271_3",
+                "name": "Little Sticky Bomb No.2",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Throws a sticky fruit imbued with a gust of wind. The sticky fruit deals AoE damage and inflicts hitstun with knockback. Targets hit by the sticky fruit have their SPD reduced by 30% for 8s."
+                },
+                "level2": {
+                  "level2": "HIT +5%"
+                },
+                "level3": {
+                  "level3": "HIT +5%"
+                },
+                "level4": {
+                  "level4": "HIT +10%"
+                },
+                "level5": {
+                  "level5": "SPD reduction value changes to 50%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1271_4",
+                "name": "Darting Skewer",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 53,
+                "baseDescription": {
+                  "baseDescription": "Fires a giant arrow that penetrates the enemy, dealing AoE damage. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Inflicts Special Skill SPD reduction debuff to all enemies hit by Ultimate."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 51.86,
+                "critical": 4.36,
+                "def": 1.47,
+                "evade": 0.59,
+                "hit": 8.19,
+                "hp": 192
+              },
+              "base": {
+                "hp": 1554,
+                "atk": 518,
+                "def": 111,
+                "hit": 620,
+                "critical": 330,
+                "evade": 44
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": null,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "4e244960-e5ef-508c-998d-8713590de902"
+    }
+  },
+  "staticQueryHashes": []
+}

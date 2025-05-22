@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/luna",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "5e48afff-9bde-52d9-aef5-c7939f2eeca8",
+            "updatedAt": "2024-10-17T22:29:00.355Z",
+            "createdAt": "2022-11-15T09:56:20.469Z",
+            "unitId": "1237",
+            "fullName": "Luna",
+            "slug": "luna",
+            "shortName": "Luna",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8e898",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/911027e8fb316201371bd1d529b9e06a/acb7c/emp-1237.png",
+                        "srcSet": "/static/911027e8fb316201371bd1d529b9e06a/1c9ce/emp-1237.png 64w,\n/static/911027e8fb316201371bd1d529b9e06a/bf8e1/emp-1237.png 128w,\n/static/911027e8fb316201371bd1d529b9e06a/acb7c/emp-1237.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/911027e8fb316201371bd1d529b9e06a/8257c/emp-1237.webp 64w,\n/static/911027e8fb316201371bd1d529b9e06a/6766a/emp-1237.webp 128w,\n/static/911027e8fb316201371bd1d529b9e06a/22bfc/emp-1237.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Elysium Philharmonic",
+            "seaReleaseDate": "March 21st, 2023",
+            "krReleaseDate": "November 15th, 2022",
+            "globalReleaseDate": "September 6th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter",
+              "Corrupted Object"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "Barrier",
+              "Buffer",
+              "Battery"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Luna is a PVP-oriented low range flying utility unit that absorbs part of the damage taken by her entire team. Additionally, she has Elysian Philharmonic synergy, recovering 1 DP every time other faction members die. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Luna has limited frontlining ability through her inherent role as a flying defender with MDL. Otherwise, for a defender, Luna does not have the kit to serve as a general frontline tank. In that sense, she has more in common with backline supporters than other defenders of her rarity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Luna sees niche play to protect exposed frontline strikers (e.g. Awakened Joo Shiyoon). Additionally she can be geared on Anti-Air RES gear and used to tank enemy fliers with air priority (e.g. Awakened Rosaria). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Provides an extra mitigation layer to the entire team. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"None. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "9",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A flying Defender that supports her allies with Barriers"
+            },
+            "introduction": {
+              "introduction": "루나는 전장에 있는 아군들의 피해를 대신 흡수하고 배리어를 생성해 주는 공중 디펜더입니다. \n그녀는 엘리시움 필하모닉의 금관악기를 담당하는 대표 단원입니다. 처음엔 빈자리를 급히 채우기 위한 임시 단원이었으나, 뜻밖의 연주 실력을 뽐낸 덕에 지휘자의 인정을 받았습니다.\n유달리 자주 죽는 탓에 힘을 비축할 여력이 없는 최약체 그림자임에도 최고 단원 자리를 지킬 수 있었던 이유는 그 자릴 지켜서 살아남겠다는 일념 덕분입니다.\n그녀는 살기 위해 인간들 앞에 무릎 꿇는 행위도 서슴지 않습니다. 음식에 남다른 애착을 가지는 것 또한 그녀가 그림자로서 무엇에 집착하는지 쉽게 알아챌 수 있는 대목입니다.\n인간을 쉽게 증오하지 못하고 갈팡질팡하는 이유도 거기에 있을 겁니다. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank, CDR Tank, Anti-Air RES Tank",
+                "notes": "Anti-Air RES Tank is specialized gear against Awakened Rosaria"
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1237_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Unleashes shockwaves with the trumpet, dealing damage to a single enemy."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1237_2",
+                "name": "First Call",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Luna announces her appearance and starts performing in the air, but she doesn't appear to have any intentions of fighting in the frontline. While Luna is on the battlefield, she absorbs 30% of the damage taken by all allied units. When Luna dies, she deals damage to nearby enemies and knocks them into the air."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Recovers 1 Deployment Resource when an allied Elysium Philharmonic member dies."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1237_3",
+                "name": "It Does Not Hurt If You Are Hit!",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "In order to encourage allies, she fires a note of protection into the ground. When the note lands, nearby allies receive a Barrier equal to 10% of HP for 6 sec. (Up to 2 stacks). Enemies hit by the note take damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "The Barrier lasts for 12 sec instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1237_4",
+                "name": "March Of The Forgotten ",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 42,
+                "baseDescription": {
+                  "baseDescription": "Luna becomes immersed in her music and starts performing in a trance. While performing, she grants all allies 20% DMG RDC. Enemies within range take damage 4 times before being launched in the air and knocked back."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Grants 40% DMG RDC instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 23.27,
+                "critical": 0.93,
+                "def": 3.64,
+                "evade": 0.69,
+                "hit": 1.96,
+                "hp": 303
+              },
+              "base": {
+                "hp": 2410,
+                "atk": 228,
+                "def": 254,
+                "hit": 137,
+                "critical": 65,
+                "evade": 48
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "5e48afff-9bde-52d9-aef5-c7939f2eeca8"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,248 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/jane-doe",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "35149f68-e0dc-534d-b5f8-e9182f03e529",
+            "updatedAt": "2024-02-18T08:28:59.844Z",
+            "createdAt": "2021-10-21T13:43:33.559Z",
+            "unitId": "1097",
+            "fullName": "Jane Doe",
+            "slug": "jane-doe",
+            "shortName": "Jane Doe",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/0df05a449fb51e59434157ff3613bb8e/acb7c/emp-1097.png",
+                        "srcSet": "/static/0df05a449fb51e59434157ff3613bb8e/1c9ce/emp-1097.png 64w,\n/static/0df05a449fb51e59434157ff3613bb8e/bf8e1/emp-1097.png 128w,\n/static/0df05a449fb51e59434157ff3613bb8e/acb7c/emp-1097.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/0df05a449fb51e59434157ff3613bb8e/8257c/emp-1097.webp 64w,\n/static/0df05a449fb51e59434157ff3613bb8e/6766a/emp-1097.webp 128w,\n/static/0df05a449fb51e59434157ff3613bb8e/22bfc/emp-1097.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Mason Mercenary Office",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Striker",
+            "alterniumInfo": {
+              "name": "Perfect Crime",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Swift Attack",
+              "description": "Becomes Immune to damage during the enhanced attack and casts an extra enhanced attack upon 10 evasions."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jane Doe's damage is the highest among all Soldier Strikers. She is one of the most buffed employees in the game and after the most recent balance changes, she became a great employee when paired with Matador ship. If your enemy does not counter her, she can shred many tanks with ease. However, once her on-deploy buff ends, she usually just dies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- scary damage,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- her skills and passive enhanced attack have a large range, allowing her to strike targets that hide behind defenders.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- pretty high cost,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- shines in PVP, but only in certain teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "High EVA and CRIT, and uses anti-ground AoE attacks."
+            },
+            "introduction": {
+              "introduction": "　Jane Doe is a vanguard with high evasion who stays in battle while performing area attacks.\n\n　Jane Doe usually refers to an anonymous woman, but it is also a false name used by this woman. Nothing is known about this mercenary, including her name, age, and background. Even on the verge of death, she hides her thoughts behind a smile. The only thing the documents say about her is that she is an excellent killer.\n　She claims to be a member of the Mason Mercenary Office, but it seems like she is borrowing the name without permission because John always clenches his teeth whenever he hears her name."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1097_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Moves forward and attacks a target with a knife and martial arts."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1097_2",
+                "name": "Don't Try to Find Her",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Quickly moves without drawing attention from enemies. Increases EVA by 100% for 14 seconds when deployed."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "ASPD +30%, additional ASPD +30% for Passive buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1097_3",
+                "name": "Gone with the Wind",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Slashes at enemies in front fast enough to create afterimages, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1097_4",
+                "name": "Swift Attack",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Delivers a surprise attack to multiple enemies. After every 2nd Basic attack, she delivers an enhanced attack that inflicts AoE damage in front."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Passive always inflicts CRIT damage"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.09,
+                "critical": 3.35,
+                "def": 1.33,
+                "evade": 6.34,
+                "hit": 2.39,
+                "hp": 304
+              },
+              "base": {
+                "hp": 2413,
+                "atk": 285,
+                "def": 93,
+                "hit": 167,
+                "critical": 234,
+                "evade": 443
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "35149f68-e0dc-534d-b5f8-e9182f03e529"
+    }
+  },
+  "staticQueryHashes": []
+}

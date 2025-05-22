@@ -1,0 +1,212 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kang-minwoo",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "495277e8-cee5-5bfe-bd5c-be24b9b48de9",
+            "updatedAt": "2024-12-12T22:06:25.853Z",
+            "createdAt": "2021-10-21T13:52:26.031Z",
+            "unitId": "1103",
+            "fullName": "Kang Minwoo",
+            "slug": "kang-minwoo",
+            "shortName": "Kang Minwoo",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/dd15be7e99ff6023fc29fe62423bbde7/acb7c/emp-1103.png",
+                        "srcSet": "/static/dd15be7e99ff6023fc29fe62423bbde7/1c9ce/emp-1103.png 64w,\n/static/dd15be7e99ff6023fc29fe62423bbde7/bf8e1/emp-1103.png 128w,\n/static/dd15be7e99ff6023fc29fe62423bbde7/acb7c/emp-1103.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/dd15be7e99ff6023fc29fe62423bbde7/8257c/emp-1103.webp 64w,\n/static/dd15be7e99ff6023fc29fe62423bbde7/6766a/emp-1103.webp 128w,\n/static/dd15be7e99ff6023fc29fe62423bbde7/22bfc/emp-1103.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "The Militia",
+            "seaReleaseDate": "March 8th, 2022",
+            "krReleaseDate": "January 19th, 2021",
+            "globalReleaseDate": "December 15th, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Rivet does not have the stats necessary to meet the baseline requirements expected of her as a damage dealer.\\n\\nRivet does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Uses Knockback and anti-ground AoE attacks, and sets up high-power traps."
+            },
+            "introduction": {
+              "introduction": "Kang Minwoo is a Defender who decreases Counter damage on ally Soldiers. He's also the leader of the Militia that hunts down Counter criminals. He became a criminal himself out of spite for society, in which Counters are given endless advantages. He's notorious for his ruthlessness in eliminating his targets, but some civilians show unwavering faith in him, calling him their representative against Counter crimes. It's true that the Militia has never attacked unarmed civilians, but that doesn't change its radical nature or the dangerousness of its leader."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1103_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a shotgun, knocking enemies backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1103_2",
+                "name": "Who's the Monster Now?",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Decreases damage from Counters by 30% for himself and by half the percentage for surrounding Soldiers. Lee Yuri can also benefit from this effect alongside Soldiers."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Anti-Counter DMG RES +40% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1103_3",
+                "name": "White Phosphorus Shell",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Sets up a makeshift bomb that's as powerful as a military-grade explosive. This bomb lasts for 20 seconds and explodes if an enemy approaches, inflicting AoE damage. Also decreases HP by 15% for 5 seconds for targets other than Mechs. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -50% immediately after first Special skill use in battle"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 16.62,
+                "critical": 1.14,
+                "def": 3.99,
+                "evade": 1.44,
+                "hit": 1.34,
+                "hp": 277
+              },
+              "base": {
+                "hp": 2247,
+                "atk": 166,
+                "def": 302,
+                "hit": 101,
+                "critical": 86,
+                "evade": 109
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "495277e8-cee5-5bfe-bd5c-be24b9b48de9"
+    }
+  },
+  "staticQueryHashes": []
+}

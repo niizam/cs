@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/mad-sister-cindy-looper",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "326566e0-9b41-5509-af8b-f85c7526366d",
+            "updatedAt": "2025-01-24T11:17:20.490Z",
+            "createdAt": "2024-12-16T16:45:39.409Z",
+            "unitId": "1280",
+            "fullName": "Mad Sister Cindy Looper",
+            "slug": "mad-sister-cindy-looper",
+            "shortName": "Mad Cindy Looper",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/26d299f3b4ce4fc88992c3ea0811c783/22bfc/1280.webp",
+                        "srcSet": "/static/26d299f3b4ce4fc88992c3ea0811c783/8257c/1280.webp 64w,\n/static/26d299f3b4ce4fc88992c3ea0811c783/6766a/1280.webp 128w,\n/static/26d299f3b4ce4fc88992c3ea0811c783/22bfc/1280.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "Global",
+              "SEA",
+              "KR"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": null,
+            "krReleaseDate": "December 4th, 2024",
+            "globalReleaseDate": "December 24th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mad Sister Cindy Looper is a PVP-oriented long range backline damage dealer notable for her mapwide Ultimate skill that boomerangs through the enemy team. Importantly, the Ultimate skill projectile is capable of “bypassing” valid hit absorption on the return, as it flies from back-to-front to hit the backline first.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Cindy is played for her backline-reaching Ultimate skill, which, in the best-case-scenario, can seriously chunk backline squishies (assuming the attack hits). Repeated casts of Cindy’s ult can quickly shutdown enemy backlines with the pressure it creates. Cindy does not have sufficient damage to justify her cost as a single-target ranger damage dealer, and does not have a use beyond her backline access damage potential.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Latest in novelty backline access units. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Cindy is exceptionally squishy for a high cost ranger.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Cindy does not have iframes for the full ultimate cast animation, meaning she can be disrupted out her ult.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Still ultimately a novelty backline access unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "1",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1280_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Using a circular saw blade, deals damage to the target and nearby enemies."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1280_2",
+                "name": "Like Father Like Son… What Was It?",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Basic Attacks have a 50% chance to become Enhanced. When using Enhanced Attacks, unleashes her cross sword to deal damage to the target and nearby enemies. Enhanced Attacks reduces Ultimate CD by 1s, with a 40% chance to reduce it by 6s instead."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +10%"
+                },
+                "level5": {
+                  "level5": "Enhanced Attack DMG +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1280_3",
+                "name": "Instant Karma",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Instantly causes the saw blade to overheat, dealing damage to enemies within 400 reach. Then, performs a big swing to deal damage to enemies within 1100 reach. Dispels barriers from damage targets. The first Basic Attack after using Special Skill becomes Enhanced. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Increases her own ASPD by 25% for 8s after casting Special Skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1280_4",
+                "name": "Madness Chainsaw Break",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 57,
+                "baseDescription": {
+                  "baseDescription": "Launches a giant circular saw blade forward, manifested through a twist of fate, dealing damage to enemies along its path. The blade then returns, dealing damage again to enemies along its path, knocking them back in the direction of the blade. In Gauntlet, the blade does not deal damage to ships during its return. The first Basic Attack after using Ultimate Skill becomes Enhanced. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hit +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 41.95,
+                "critical": 6.03,
+                "def": 1.22,
+                "evade": 2.36,
+                "hit": 3.58,
+                "hp": 266
+              },
+              "base": {
+                "hp": 2113,
+                "atk": 411,
+                "def": 85,
+                "hit": 250,
+                "critical": 421,
+                "evade": 165
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "326566e0-9b41-5509-af8b-f85c7526366d"
+    }
+  },
+  "staticQueryHashes": []
+}

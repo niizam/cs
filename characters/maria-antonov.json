@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/maria-antonov",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "eafbf2bc-5857-51ed-afc0-cd792b1aeca1",
+            "updatedAt": "2024-03-19T04:30:25.136Z",
+            "createdAt": "2021-10-21T12:07:53.786Z",
+            "unitId": "1059",
+            "fullName": "Maria Antonov",
+            "slug": "maria-antonov",
+            "shortName": "Maria Antonov",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/eca6440cc9554f073ab4a200ce0fa940/acb7c/emp-1059.png",
+                        "srcSet": "/static/eca6440cc9554f073ab4a200ce0fa940/1c9ce/emp-1059.png 64w,\n/static/eca6440cc9554f073ab4a200ce0fa940/bf8e1/emp-1059.png 128w,\n/static/eca6440cc9554f073ab4a200ce0fa940/acb7c/emp-1059.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/eca6440cc9554f073ab4a200ce0fa940/8257c/emp-1059.webp 64w,\n/static/eca6440cc9554f073ab4a200ce0fa940/6766a/emp-1059.webp 128w,\n/static/eca6440cc9554f073ab4a200ce0fa940/22bfc/emp-1059.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Delta Seven",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "CC",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Maria is a support/damage dealer type Tower that doesn't move from the spot she was summoned and summons Mech allies to help the team instead. Which makes her good on both auto and manual play, because she will always do something. Her passive buff is one of the strongest damage amplifiers in the game, which makes her a great choice for Raid teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP she forces the enemy's hand to rush her or risk losing the game by allowing her to constantly nuke the whole battlefield with her special and summoning an army of mechs on her ultimate. Still, because A. Na Yubin exists like all Towers, if you want to use Maria, you have to be wary of him since he's a perfect counter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great passive buff to everyone,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- her special skill hurts and can hit whole battlefield.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- gear hungry; she really wants a 72% CDR set,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- A. Na Yubin exists.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "Increases allies' ATK and supports them through AoE attacks and summoning."
+            },
+            "introduction": {
+              "introduction": "　Maria Antonov is an offensive guard who immediately deploys her units to battle while amplifying ally's offensive capabilities.\n\n　Lt. General Antonov is a well-known hero who led the Grand Purification War to victory. Her Counter-Corruption doctrine is still used as a standard protocol amongst the TASKFORCE industry.\n　As a 3rd generation Russian refugee, she is a woman of principle who has reached her current rank with pure abilities despite her superiors' efforts to hold her back. Some say that she continues to personally command unofficial operations throughout the world even after becoming a general."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": "Good User of Challenger hands."
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": "Good user of Challenger hands."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1059_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a pistol at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1059_2",
+                "name": "Ruler of the Battlefield",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Dominates the battlefield with her strong presence. Stays where she is deployed, and permanently increases ATK by 10% for her and all allies."
+                },
+                "level2": {
+                  "level2": "HP +5% and allies' ATK +2%"
+                },
+                "level3": {
+                  "level3": "HP +5% and allies' ATK +2%"
+                },
+                "level4": {
+                  "level4": "HP +10% and allies' ATK +4%"
+                },
+                "level5": {
+                  "level5": "CRIT DMG +20% added to buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1059_3",
+                "name": "Air Raid Order",
+                "type": "Special",
+                "validHits": 4,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Summons the latest model fighter, inflicting AoE damage on the entire field."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1059_4",
+                "name": "Modern Warfare",
+                "type": "Ultimate",
+                "validHits": null,
+                "cooldown": 85,
+                "baseDescription": {
+                  "baseDescription": "Summons Mech troops that have stats equal to 70% of their original units. Their stats increase, depending on Maria's level."
+                },
+                "level2": {
+                  "level2": "Cooldown -5 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -5 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -10 s"
+                },
+                "level5": {
+                  "level5": "Summons ATL-1 Lincoln and ATF-35 Thunderbolt instead of Hound and Buzzard"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 24.9,
+                "critical": 2.85,
+                "def": 2.32,
+                "evade": 0.69,
+                "hit": 2.79,
+                "hp": 277
+              },
+              "base": {
+                "hp": 2271,
+                "atk": 252,
+                "def": 191,
+                "hit": 230,
+                "critical": 235,
+                "evade": 57
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "eafbf2bc-5857-51ed-afc0-cd792b1aeca1"
+    }
+  },
+  "staticQueryHashes": []
+}

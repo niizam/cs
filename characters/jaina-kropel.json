@@ -1,0 +1,249 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/jaina-kropel",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "6e126a7d-80b4-5319-9c61-bca5c225ac52",
+            "updatedAt": "2024-10-17T22:04:08.323Z",
+            "createdAt": "2022-01-25T08:01:06.963Z",
+            "unitId": "1204",
+            "fullName": "Jaina Kropel",
+            "slug": "jaina-kropel",
+            "shortName": "Jaina Kropel",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/f3bc6cdca2c65cbb89ec9a049f922e27/acb7c/emp-1204.png",
+                        "srcSet": "/static/f3bc6cdca2c65cbb89ec9a049f922e27/1c9ce/emp-1204.png 64w,\n/static/f3bc6cdca2c65cbb89ec9a049f922e27/bf8e1/emp-1204.png 128w,\n/static/f3bc6cdca2c65cbb89ec9a049f922e27/acb7c/emp-1204.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/f3bc6cdca2c65cbb89ec9a049f922e27/8257c/emp-1204.webp 64w,\n/static/f3bc6cdca2c65cbb89ec9a049f922e27/6766a/emp-1204.webp 128w,\n/static/f3bc6cdca2c65cbb89ec9a049f922e27/22bfc/emp-1204.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Delta Seven",
+            "seaReleaseDate": "July 13th, 2022",
+            "krReleaseDate": "January 25th, 2022",
+            "globalReleaseDate": "February 8th, 2023",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": {
+              "name": "Compound Crossbow",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Unstable Regenerator",
+              "description": "While Passive Skill is active, <b>+100%</b> ASPD and x2 Fury count."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Selfhealer",
+              "Immortality"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jaina Kropel is a PVP-oriented damage dealer notable for her two HP gates, which provide (among other things) non-cancelable invincibility self-buffs, allowing her to become a DPS monster for the duration of her invincibility. Jaina’s guaranteed damage can be used to great effect in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jaina’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" expands on her HP gate gimmick, massively boosting damage output and significantly hastening fury buildup for the duration of her invincibility.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Jaina is played in a way to trigger those HP gates as fast as possible, making her into an essentially uninteractible damage dealer. In her favored matchups, Jaina can be used to great effect to simultaneously stall and out damage aggressive strategies that forgo staying power (e.g. conventional frontline tanks/ sustain) for overwhelming damage output.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jaina excels at what she does, but she often finds herself outclassed in the long run by more dedicated damage dealers (e.g. Agnes, Wardens).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- I\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"nvincibility attached to HP gates.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Massive damage potential for the duration of invincibility \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"No utility.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Mediocre performance outside of invincibility.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "9",
+              "pve_early": "6",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A sniper who can heal herself "
+            },
+            "introduction": {
+              "introduction": "제이나 크로펠은 자체 회복을 통해 안정성을 확보한 스나이퍼로, 기본 공격 시전을 통해서만 스킬 게이지를 충전할 수 있습니다.\n슈퍼맥스급 교도소에 수감 중이던 제이나는 그 존재가 대내외에 철저하게 기밀 정보로 취급되어 왔습니다.\n기억을 잃어 버린 그녀에게 리플레이서 퀸은 어디까지나 타인에 불과합니다. 외부의 자극으로 떠오르는 리플레이서 퀸의 기억에 대해서도 항상 불안과 거부감을 표현합니다. 하지만 국제 여론이 그녀의 상태를 이해해 줄지는 미지수입니다.\n한 가지 확실한 사실은, 제이나의 머릿속에 잠들어 있는 기억들이 몇몇 야심가에게는 아주 위험하면서도 매력적인 무기로 보일 수 있다는 것입니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Anti-Striker Autoattack DPS, Volcano Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1204_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses her compound crossbow to inflict damage on the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1204_2",
+                "name": "Unstable Regenerator",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When her HP drops to 40% or lower, she restores 6% of HP per second for 5 seconds. While healing, she becomes immune to damage. (Triggers once in total)"
+                },
+                "level2": {
+                  "level2": "Crit Damage +5%"
+                },
+                "level3": {
+                  "level3": "Crit Damage +5%"
+                },
+                "level4": {
+                  "level4": "Crit Damage +10%"
+                },
+                "level5": {
+                  "level5": "Passive effect is activated at 60% and 30% of HP (Triggers twice in total)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1204_3",
+                "name": "DS-089 Grenade Arrow",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 11,
+                "baseDescription": {
+                  "baseDescription": "Shoots an arrow equipped with a high-explosive grenade made by Delta Seven, inflicting AoE damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Special Skill always crits."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1204_4",
+                "name": "A Momentary Queen",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 23,
+                "baseDescription": {
+                  "baseDescription": "Changes her weapon into a bow and shoots an arrow to inflict great damage on enemies in front. Increases the Ultimate Skill damage based on the reduced HP (up to 50%), and restores HP by 2.5% per second for 5 seconds after the skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Recovery duration +5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 47.46,
+                "critical": 4.22,
+                "def": 0.93,
+                "evade": 0.39,
+                "hit": 8.51,
+                "hp": 138
+              },
+              "base": {
+                "hp": 1093,
+                "atk": 465,
+                "def": 65,
+                "hit": 595,
+                "critical": 295,
+                "evade": 27
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "6e126a7d-80b4-5319-9c61-bca5c225ac52"
+    }
+  },
+  "staticQueryHashes": []
+}

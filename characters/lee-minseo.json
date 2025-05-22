@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lee-minseo",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "2261c8b2-76b2-5b1a-9498-bf51042ebd8a",
+            "updatedAt": "2024-10-17T21:25:15.104Z",
+            "createdAt": "2021-10-21T12:04:51.281Z",
+            "unitId": "1052",
+            "fullName": "Lee Minseo",
+            "slug": "lee-minseo",
+            "shortName": "Lee Minseo",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/24bb871c6e6f3f2b79fc4382d7bb9c33/acb7c/emp-1052.png",
+                        "srcSet": "/static/24bb871c6e6f3f2b79fc4382d7bb9c33/1c9ce/emp-1052.png 64w,\n/static/24bb871c6e6f3f2b79fc4382d7bb9c33/bf8e1/emp-1052.png 128w,\n/static/24bb871c6e6f3f2b79fc4382d7bb9c33/acb7c/emp-1052.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/24bb871c6e6f3f2b79fc4382d7bb9c33/8257c/emp-1052.webp 64w,\n/static/24bb871c6e6f3f2b79fc4382d7bb9c33/6766a/emp-1052.webp 128w,\n/static/24bb871c6e6f3f2b79fc4382d7bb9c33/22bfc/emp-1052.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Freedom Riders",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lee Minseo does not provide relevant utility at sufficient potency to justify using as a support.\\n\\nAs supporters’ personal stats don’t factor into the final buff values (buffs scale with target stats), stat scaling by rarity is largely secondary to the potency of the buffs/ debuffs they bring to the team.\\n \\nFor all scenarios, there exist more effective alternatives for the role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A support unit that decreases enemies' ASPD."
+            },
+            "introduction": {
+              "introduction": "　Lee Minseo is a supporter who hinders enemy movements with ranged area attacks.\n\n　She was caught up in a Corruption while ignoring the warnings trying to set a new record in a game, but she miraculously survived by becoming a Counter. The problem is that she only uses her powers for cosplay.\n　As an avid fan of Necronomiko series, a retro game, Minseo always wears the outfit of the main character from that game. But unlike Necronomiko, who fights bravely against monsters, she is afraid of even fighting a Category 1 C.O., which prevents her from becoming a mercenary."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1052_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires energy from her wand-shaped Watch at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1052_2",
+                "name": "Not a Magical Girl, But",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Distracts enemies by mimicking an animation character. Basic attacks decrease their targets' ASPD by 5% for 4 seconds."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Passive debuff duration +4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1052_3",
+                "name": "Petite Lightning",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Drops lightning from the sky, inflicting AoE damage on and around the target in front. Decreases enemy ASPD by 10% for 6 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%\n"
+                },
+                "level5": {
+                  "level5": "Cooldown -6 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1052_4",
+                "name": "Overlay Buster",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Concentrates and discharges the power of light, inflicting AoE damage. Decreases enemy ASPD and SPD by 10% for 10 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.09,
+                "critical": 2.85,
+                "def": 0.71,
+                "evade": 0.59,
+                "hit": 1.95,
+                "hp": 155
+              },
+              "base": {
+                "hp": 1231,
+                "atk": 187,
+                "def": 49,
+                "hit": 136,
+                "critical": 199,
+                "evade": 41
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "2261c8b2-76b2-5b1a-9498-bf51042ebd8a"
+    }
+  },
+  "staticQueryHashes": []
+}

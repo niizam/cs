@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/janus",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c33bba37-2395-55ec-9577-b122269e07c0",
+            "updatedAt": "2024-10-18T23:58:23.357Z",
+            "createdAt": "2021-10-22T00:38:52.147Z",
+            "unitId": "1155",
+            "fullName": "Janus",
+            "slug": "janus",
+            "shortName": "Janus",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c5b683478f70f47e34186889de412346/acb7c/emp-1155.png",
+                        "srcSet": "/static/c5b683478f70f47e34186889de412346/1c9ce/emp-1155.png 64w,\n/static/c5b683478f70f47e34186889de412346/bf8e1/emp-1155.png 128w,\n/static/c5b683478f70f47e34186889de412346/acb7c/emp-1155.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c5b683478f70f47e34186889de412346/8257c/emp-1155.webp 64w,\n/static/c5b683478f70f47e34186889de412346/6766a/emp-1155.webp 128w,\n/static/c5b683478f70f47e34186889de412346/22bfc/emp-1155.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Future-at-War",
+            "seaReleaseDate": "September 29th, 2021",
+            "krReleaseDate": "August 12th, 2020",
+            "globalReleaseDate": "November 17th, 2022",
+            "cost": 4,
+            "type": [
+              "Mech"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "Barrier"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Janus is a flying backline damage dealer with an HP gate transformation gimmick that transforms it from a flying ranger into a ground defender. Unfortunately, Janus does not have the stats, utility, or the multipliers to support itself as a functioning unit in either transformation, resulting in a mediocre character unremarkable in either role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Janus’ glaring weakness is that its transformations share the same set of gear. Janus can only be geared to support one of its transformation states, and neither are particularly good.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a flying ranger, Janus’ damage is too low to be competitive as a damage dealer. Janus can be played for the burst damage on its special skill, but likewise the damage multiplier falls short of what is provided by other more competitive damage dealers. For comparison, Janus is completely outclassed by Rosaria, a character who occupies the same niche. Janus falls short on damage, lacks consistency, and the remainder of its kit does little to bridge the gap in performance.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a ground tank, Janus does not possess relevant utility that would justify its use. Janus fails to deliver on its premise as a transforming multi-role unit. There are no trade-offs within the kit that would compensate for the stat deficiency.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For all scenarios, there exist more effective alternatives for the role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Transformation looks hella wicked. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Janus’ transformations share the same set of gear.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "An all-around attacker that moves on the ground or in the air, depending on its HP."
+            },
+            "introduction": {
+              "introduction": "　Janus is a variable fighter that attacks enemies from the air until it receives a certain amount of damage.\n\n　It then transforms into Janitor mode and lands on the ground to continue to fight at the front lines in a defensive position.\n　The prototype of a transformative robot recently developed by Future-at-War, a company renowned for its experimental technology, it's rumored to have accumulated actual battle data in secret before it was revealed to the public.\n　Clients who have seen its performance demonstrations seem to believe it's stable enough to be popularized. The researchers who actually developed it don't."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1155_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires an energy cannon, inflicting AoE damage on and around its target. After transformation, swings its energy arms instead to inflict AoE damage in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1155_2",
+                "name": "Combat Conversion System",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Activates its transformation system in case of emergency. When deployed, its DEF is decreased by 90%. When its HP drops to 50% or lower, however, transforms into a Ground Defender with full DEF, but 50% lower ATK and CRIT."
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "After transformation, ATK, CRIT -30% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1155_3",
+                "name": "Calider's Arms",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Fires a high-powered energy beam, inflicting AoE damage on and around its target. After transformation, shoots an energy sword, inflicting AoE damage in front and forcing the enemies to attack it for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1155_4",
+                "name": "Janitor Mode Booster OS",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Upon transformation, casts a barrier equal to 50% of Max HP and becomes immune to Hitstun from Special or lower skills for this barrier's duration."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "For barrier duration, DMG Taken -30% from Rangers and immunity to Stun"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 40.55,
+                "critical": 3.3,
+                "def": 9.36,
+                "evade": 0.94,
+                "hit": 3.34,
+                "hp": 272
+              },
+              "base": {
+                "hp": 2202,
+                "atk": 405,
+                "def": 709,
+                "hit": 253,
+                "critical": 250,
+                "evade": 71
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c33bba37-2395-55ec-9577-b122269e07c0"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/skia-crow",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "f08e1b01-8d48-5c6e-ae2d-d3b74d73e5aa",
+            "updatedAt": "2025-01-28T07:13:47.854Z",
+            "createdAt": "2022-09-06T06:27:05.401Z",
+            "unitId": "1225",
+            "fullName": "Skia Crow",
+            "slug": "skia-crow",
+            "shortName": "Skia Crow",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/32b2d877040d6ed8f105a60c364a0c34/acb7c/emp-1225.png",
+                        "srcSet": "/static/32b2d877040d6ed8f105a60c364a0c34/1c9ce/emp-1225.png 64w,\n/static/32b2d877040d6ed8f105a60c364a0c34/bf8e1/emp-1225.png 128w,\n/static/32b2d877040d6ed8f105a60c364a0c34/acb7c/emp-1225.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/32b2d877040d6ed8f105a60c364a0c34/8257c/emp-1225.webp 64w,\n/static/32b2d877040d6ed8f105a60c364a0c34/6766a/emp-1225.webp 128w,\n/static/32b2d877040d6ed8f105a60c364a0c34/22bfc/emp-1225.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "OZ",
+            "seaReleaseDate": "February 8th, 2023",
+            "krReleaseDate": "September 6th, 2022",
+            "globalReleaseDate": "June 28th, 2023",
+            "cost": 2,
+            "type": [
+              "Mech",
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skia crow is a cheap ranger that does not really deal that much damage compared to other 2 cost rangers,  while also having a ramp up time. Instead she can be used as a nuker with her passive resetting the CD. Depending on the direction she is facing before the passive activation, she can be used to bounce to the enemy ship finishing it off, or gain access to the backlines. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Survival passive\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Backline\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"/Ship access.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Average damage, with ramp up time required.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "An attacker who decreases melee units’ damage while strengthening herself with continuous attacks"
+            },
+            "introduction": {
+              "introduction": "허수아는 적 디버프를 통해 아군을 도우며 지속적인 공격으로 자신을 강화하는 레인저입니다.\n소녀는 과거 불의의 사고에 휘말려 식물 인간이 되었습니다. 다행히 AI 「Nic. Chopper 001」를 기반으로 한 뇌 보조 장치를 제공받아 이전처럼 친구를 포옥 안아 줄 수 있게 되었죠.\n뇌의 기억에 의지해 움직이기 때문에 감정 표현에 있어 어색한 모습을 보여주기도 합니다. 그래도 괜찮습니다. 친구들은 디스플레이에 뜬 이모지를 보고 무슨 생각을 하는지 알아챌 수 있으니까요.\n그게 누구의 감정인지는 조금 더 지켜볼 필요가 있겠지만요.\nhosua"
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1225_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals damage to an enemy in front with her gun. Does a melee attack that knocks back targets close by."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1225_2",
+                "name": "Attack Mode Conversion Complete",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Moves backward when HP is at 60% and switches to Attack Mode. When activating Passive skill, basic attack’s damage slightly decreases, but gains a Hitstun effect and resets the cooldown of her Special skill. In truth, she just changed her visor’s emoji."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Basic attack Valid Hits +1 upon Passive skill activation."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1225_3",
+                "name": "Gazer Beeeeeeam",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 11,
+                "baseDescription": {
+                  "baseDescription": "Fires a beam out of her eyes and deals damage to enemies within range. Enemies hit by this skill have their Melee DMG reduced by 20% for 12 s. The beam is actually fired from her visor."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "ASPD +15% for 8 s after casting skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1225_4",
+                "name": "Access AI Network",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Permanently gains Immunity to Hitstun from Special or lower skills, and increases Ranged DMG by 1% for each basic attack. (Max 20 stacks, can't be canceled)"
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Increase Ranged DMG by 1.5% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.29,
+                "critical": 2.28,
+                "def": 1.78,
+                "evade": 1.03,
+                "hit": 2.54,
+                "hp": 212
+              },
+              "base": {
+                "hp": 1685,
+                "atk": 287,
+                "def": 124,
+                "hit": 177,
+                "critical": 159,
+                "evade": 72
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "f08e1b01-8d48-5c6e-ae2d-d3b74d73e5aa"
+    }
+  },
+  "staticQueryHashes": []
+}

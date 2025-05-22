@@ -1,0 +1,183 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/shieldman",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "076f5a6a-93a6-52ac-b7ff-2f80566995f1",
+            "updatedAt": "2024-10-17T21:31:20.637Z",
+            "createdAt": "2021-10-21T11:09:21.133Z",
+            "unitId": "1009",
+            "fullName": "Shieldman",
+            "slug": "shieldman",
+            "shortName": "Shieldman",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/407665f223f3806f333ff97d66074119/acb7c/emp-1009.png",
+                        "srcSet": "/static/407665f223f3806f333ff97d66074119/1c9ce/emp-1009.png 64w,\n/static/407665f223f3806f333ff97d66074119/bf8e1/emp-1009.png 128w,\n/static/407665f223f3806f333ff97d66074119/acb7c/emp-1009.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/407665f223f3806f333ff97d66074119/8257c/emp-1009.webp 64w,\n/static/407665f223f3806f333ff97d66074119/6766a/emp-1009.webp 128w,\n/static/407665f223f3806f333ff97d66074119/22bfc/emp-1009.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "N",
+            "rarityNumber": 1,
+            "rarityClassName": "N",
+            "title": "Steel Lane",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Shieldman does not have the stats necessary to meet the baseline requirements expected of them as a frontline tank.\\n\\nShieldman does not possess relevant utility that would justify using them. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Fights on the front lines, taunting enemies to keep them away from allies."
+            },
+            "introduction": {
+              "introduction": "　A defender who protects allies by provoking the enemy.\n\n　They are common infantry units that utilize riot shields. Recruits with excellent physical abilities are selected to become Shieldmans. \n　They are trained to hold the frontline against enemy advancement. Although they lack firepower, their titanium-coated riot shields are strong enough to stop the Biter's claws.\n　They are well-trusted in the field for their core principle of never backing down. Their strong fellowship has aroused rumors that they often assemble to eat up all the food in the company's snack bar. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1009_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Pushes and damages a target with a shield."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1009_2",
+                "name": "ST-C9 Riot Shield",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Draws enemies' attention with his shield technique. Basic attacks force their targets to attack him for 3 seconds."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "HP +10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 5.04,
+                "critical": 0.31,
+                "def": 4.12,
+                "evade": 0.55,
+                "hit": 0.59,
+                "hp": 203
+              },
+              "base": {
+                "hp": 1665,
+                "atk": 51,
+                "def": 340,
+                "hit": 48,
+                "critical": 25,
+                "evade": 45
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "076f5a6a-93a6-52ac-b7ff-2f80566995f1"
+    }
+  },
+  "staticQueryHashes": []
+}

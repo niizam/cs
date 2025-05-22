@@ -1,0 +1,241 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/bomi",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "49c617a9-3b7b-514d-994f-5df2cd737d44",
+            "updatedAt": "2024-10-17T21:43:47.360Z",
+            "createdAt": "2021-10-21T11:53:53.127Z",
+            "unitId": "1045",
+            "fullName": "Bomi",
+            "slug": "bomi",
+            "shortName": "Bomi",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2d52f8e6d993ec6b979467e54c585ce9/acb7c/emp-1045.png",
+                        "srcSet": "/static/2d52f8e6d993ec6b979467e54c585ce9/1c9ce/emp-1045.png 64w,\n/static/2d52f8e6d993ec6b979467e54c585ce9/bf8e1/emp-1045.png 128w,\n/static/2d52f8e6d993ec6b979467e54c585ce9/acb7c/emp-1045.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2d52f8e6d993ec6b979467e54c585ce9/8257c/emp-1045.webp 64w,\n/static/2d52f8e6d993ec6b979467e54c585ce9/6766a/emp-1045.webp 128w,\n/static/2d52f8e6d993ec6b979467e54c585ce9/22bfc/emp-1045.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "HRT Berry",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Bomi does not have the stats necessary to meet the baseline requirements expected of her as a frontline tank.\\n\\nBomi does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "High EVA, summons clones to lure enemies"
+            },
+            "introduction": {
+              "introduction": "　As the vanguard of HRT Berry, Bomi humiliates her enemies with her taunting illusions.\n\n　Until a few years ago, Bomi used to be a member of a girl group produced by a large entertainment company. But she was asked to leave when doubts were raised on the group's exploitation, because Bomi kept falling asleep whenever she was not dancing.\n　She wants to show off her new dance moves she made in her dreams, but ever since Miya streamed Bomi talking in her sleep, her sleep streams are more popular than her dance streams. According to the NetTube statistics, 83% of the donations received by HRT Berry comes from Bomi's sleep streams. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1045_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a submachine gun at the foremost target, and then quickly moves behind it."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1045_2",
+                "name": "Body Control",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses her excellent physique and increases EVA by 70% for 7 seconds upon deployment."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +15%"
+                },
+                "level5": {
+                  "level5": "Buff duration +8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1045_3",
+                "name": "Distractive Optical Decoy",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Summons a decoy that has the same amount of HP as she. This decoy taunts enemies as it moves all the way across the field, and then explodes to inflict AoE damage."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "\nCooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Explosion Stun duration +2"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1045_4",
+                "name": "Shake Out",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Rapidly fires a submachine gun, inflicting AoE damage. Targets lose 30% of HIT for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Targets lost 45% of HIT instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.42,
+                "critical": 2.45,
+                "def": 1.8,
+                "evade": 3.08,
+                "hit": 1.48,
+                "hp": 195
+              },
+              "base": {
+                "hp": 1576,
+                "atk": 194,
+                "def": 136,
+                "hit": 112,
+                "critical": 185,
+                "evade": 233
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "49c617a9-3b7b-514d-994f-5df2cd737d44"
+    }
+  },
+  "staticQueryHashes": []
+}

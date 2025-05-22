@@ -1,0 +1,224 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/nao",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "ccb6f2c2-9137-5efb-a0f7-c6b1f60dd8e9",
+            "updatedAt": "2024-06-30T13:18:50.196Z",
+            "createdAt": "2024-03-18T12:26:21.526Z",
+            "unitId": "1263 ",
+            "fullName": "Nao",
+            "slug": "nao",
+            "shortName": "Nao",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#a82828",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/d2c642229af68c2316641932b8d7e942/22bfc/1263.webp",
+                        "srcSet": "/static/d2c642229af68c2316641932b8d7e942/8257c/1263.webp 64w,\n/static/d2c642229af68c2316641932b8d7e942/6766a/1263.webp 128w,\n/static/d2c642229af68c2316641932b8d7e942/22bfc/1263.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "April 24th, 2024",
+            "krReleaseDate": "January 23rd, 2024",
+            "globalReleaseDate": "April 24th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Nao is an attempt at a new buffer support. Nao’s kit functions around building up (among other things) an ATK% buff applied and stacked via her special skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Nao’s ATK buff has significant overlap with other buffers (e.g. Sky Layfield, Seo Yoon, Awakened Shin Jia). In a 16-man environment (CCB, Raid), Nao is able to provide a slightly better attack buff than Sky, with the trade-off being Nao is a melee-range unit. Nao periodically sees limited play in CCB, if the weekly arena buffs shore up her weaknesses:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As Nao’s buffs are tied to ASPD, she benefits heavily from ASPD artifacts\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In order for Nao to be playable, she needs additional survivability from artifacts\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Decent assortment of buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can act as an offtank with serviceable stats for a frontline supporter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Struggles to compete against stronger supporters who provide the same buffs and then some, with better consistency.\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "1",
+              "pve_early": "7",
+              "pve_late": "7"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1263_1",
+                "name": "Basic Attack ",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage to an enemy in front using a hammer. Casts Enhanced Attacks while in the [Perfect Preparation] state. Enhanced attacks resets Special Skill Buff duration."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1263_2",
+                "name": "Demigod Blacksmith",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Basic attacks grants 1 stack of [Quenching], which increases CRIT by 30 (Up to 600). Scoring CRIT Hits while in the [Quenching] state converts the state to [Perfect Preparation]. [Perfect Preparation]: Does not fall under the [Quenching] state. Reduces Special Skill CD by 4s when attacking. Removed after casting Special Skill. "
+                },
+                "level2": {
+                  "level2": " Increases DEF by up to 20% in inverse proportion to HP."
+                },
+                "level3": {
+                  "level3": " Increases DEF by up to 20% in inverse proportion to HP."
+                },
+                "level4": {
+                  "level4": " Increases DEF by up to 40% in inverse proportion to HP."
+                },
+                "level5": {
+                  "level5": "Gains 10 stacks of [Quenching] upon deployment."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1263_3",
+                "name": "Reenactment Liquor",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 38,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage by splitting flames in front. Continuosly grants allied Counters including self +7.5% ATK, +7.5% DEF. (Max 60%, Summons excluded). This effect decays by 7.5% every 4s until it wears off. "
+                },
+                "level2": {
+                  "level2": "CD -1s"
+                },
+                "level3": {
+                  "level3": "CD -1s"
+                },
+                "level4": {
+                  "level4": "CD -2s"
+                },
+                "level5": {
+                  "level5": "Gain 60% Melee DMG RES, 60% Ranged DMG RES when casting skill (Reduced by 10% every 3s)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1263_4",
+                "name": "Giant’s Hammer",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 52,
+                "baseDescription": {
+                  "baseDescription": "Gathers energy of the flame into the hammer and grants allied Counters excluding self +60% Melee DMG RES, +60% Ranged DMG RES (Summons excluded). This effect decays by 10% every 3s until it wears off. Then drops down the hammer, dealing AoE damage. Damaged targets are stunned for 4s. "
+                },
+                "level2": {
+                  "level2": "CD -2s"
+                },
+                "level3": {
+                  "level3": "CD -2s"
+                },
+                "level4": {
+                  "level4": "CD -4s"
+                },
+                "level5": {
+                  "level5": "Gains the [Perfect Preparation] state after casting."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.5,
+                "critical": 0,
+                "def": 5.58,
+                "evade": 1.02,
+                "hit": 2.16,
+                "hp": 313
+              },
+              "base": {
+                "hp": 2490,
+                "atk": 289,
+                "def": 390,
+                "hit": 151,
+                "critical": 0,
+                "evade": 71
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "ccb6f2c2-9137-5efb-a0f7-c6b1f60dd8e9"
+    }
+  },
+  "staticQueryHashes": []
+}

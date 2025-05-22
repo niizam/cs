@@ -1,0 +1,158 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/tactical-transporter-deuce-and-a-half",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "75a831f4-3d41-5f59-b5f6-0cd6881e50cf",
+            "updatedAt": "2024-10-17T21:35:03.072Z",
+            "createdAt": "2021-10-21T11:17:12.076Z",
+            "unitId": "1017",
+            "fullName": "Tactical Transporter Deuce-and-a-Half",
+            "slug": "tactical-transporter-deuce-and-a-half",
+            "shortName": "Tactical Transporter",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/597f1839d1530849ce4a071cd5db2fbc/acb7c/emp-1017.png",
+                        "srcSet": "/static/597f1839d1530849ce4a071cd5db2fbc/1c9ce/emp-1017.png 64w,\n/static/597f1839d1530849ce4a071cd5db2fbc/bf8e1/emp-1017.png 128w,\n/static/597f1839d1530849ce4a071cd5db2fbc/acb7c/emp-1017.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/597f1839d1530849ce4a071cd5db2fbc/8257c/emp-1017.webp 64w,\n/static/597f1839d1530849ce4a071cd5db2fbc/6766a/emp-1017.webp 128w,\n/static/597f1839d1530849ce4a071cd5db2fbc/22bfc/emp-1017.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Steel Lane",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Mech"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Tactical Transporter Deuce-and-a-Half was designed in the early days of CounterSide as a low rarity alternative within an inherently gimmicky role. As a low rarity unit, Tactical Transporter Deuce-and-a-Half does not have the stats to compensate for its kit design.\\n\\nTactical Transporter Deuce-and-a-Half does not possess relevant utility that would justify using it. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nThere are no scenarios in which Tactical Transporter Deuce-and-a-Half would contribute in any meaningful capacity. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Summons Riflemen at the cost of its HP."
+            },
+            "introduction": {
+              "introduction": "　A siege unit that periodically deploys a Rifleman by sacrificing its HP.\n\n　It is an armored transport vehicle produced by Steel Lane. A fully-equipped squad can be loaded in the back.\n　Although the vehicle's body is bullet-proof, it doesn't have combat abilities. It is mainly used to quickly transport infantry units from another area. It has recently received criticism regarding its lack of Corruption ray defense, but no particular countermeasures have been implemented until now.\n　A report says that some Steel Lane infantry units are sneaking out of work, hiding in the back of this vehicle. Security guards should be aware of this. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1017_1",
+                "name": "Steel Frame Carrier",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Sends out passenger mercenaries. Deploys a Rifleman at the same level every 5 seconds, up to 5 in total. Successful deployment costs 15% of HP."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "Unit deployment costs 12% of HP instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 0,
+                "critical": 0,
+                "def": 2.57,
+                "evade": 0.32,
+                "hit": 0,
+                "hp": 347
+              },
+              "base": {
+                "hp": 2848,
+                "atk": 0,
+                "def": 212,
+                "hit": 0,
+                "critical": 0,
+                "evade": 26
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "75a831f4-3d41-5f59-b5f6-0cd6881e50cf"
+    }
+  },
+  "staticQueryHashes": []
+}

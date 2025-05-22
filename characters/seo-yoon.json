@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/seo-yoon",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "ccfff59e-1269-5725-b7af-ea00a74000ab",
+            "updatedAt": "2025-01-28T07:15:17.915Z",
+            "createdAt": "2021-10-21T11:02:47.962Z",
+            "unitId": "1004",
+            "fullName": "Seo Yoon",
+            "slug": "seo-yoon",
+            "shortName": "Seo Yoon",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/bbe40ff482644fecb2bcc2ce17d49fd9/acb7c/emp-1004.png",
+                        "srcSet": "/static/bbe40ff482644fecb2bcc2ce17d49fd9/1c9ce/emp-1004.png 64w,\n/static/bbe40ff482644fecb2bcc2ce17d49fd9/bf8e1/emp-1004.png 128w,\n/static/bbe40ff482644fecb2bcc2ce17d49fd9/acb7c/emp-1004.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/bbe40ff482644fecb2bcc2ce17d49fd9/8257c/emp-1004.webp 64w,\n/static/bbe40ff482644fecb2bcc2ce17d49fd9/6766a/emp-1004.webp 128w,\n/static/bbe40ff482644fecb2bcc2ce17d49fd9/22bfc/emp-1004.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "ALT Squad",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "CC",
+              "Debuffer",
+              "ETB"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Seo Yoon is one of the best on-demand buffers/debuffers in the game who is the staple of any Danger Close team and a great amplifier for Raids. The ATK buff she provides to the whole team is massive, allowing her to shine in every PVE gamemode where high damage is a necessity. On top of that, she can debuff both DEF and ASPD on whoever she hits with her special, making her fill two crucial roles in every team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sadly, in PVP she is useless and never used unless she is upped.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- massive ATK buff on demand,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- DEF decrease on Special attack\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- she is useless in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "9",
+              "pve_late": "10"
+            },
+            "description": {
+              "description": "A Ranged attacker that temporarily enhances allies when deployed."
+            },
+            "introduction": {
+              "introduction": "　Seo Yoon is an attacker who can enhance allies offensive capabilities through outstanding command skills.\n\n　She is the commander of ALT Squad who has been performing well in the Underground. The Underground collectively refers to private military organizations that illegally carry out TASKFORCE missions. Among them, betrayals and deceit are a daily occurrence. In such a ruthless environment, she had led her team to complete more than 10 missions within a matter of months without losing a single member.\n　She refused to open up about her past, but her tactical knowledge shows that she received a professional training similar to that of a military academy. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1004_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a gun at a target. Last attacks inflict AoE damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1004_2",
+                "name": "Tactical Leader",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Shows what she can do as the spunky leader of the new squad. Increases ATK by 20% for 10 seconds for all allies on the field when deployed."
+                },
+                "level2": {
+                  "level2": "Passive effect duration +2 s"
+                },
+                "level3": {
+                  "level3": "Passive effect duration +2 s"
+                },
+                "level4": {
+                  "level4": "Passive effect duration +2 s"
+                },
+                "level5": {
+                  "level5": "Increases allies' ATK by 30% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1004_3",
+                "name": "Multi Grenades",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Fires multiple grenades, knocking enemies backward with AoE damage. Decreases enemy ASPD by 20% for 10 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Additional enemy DEF -20% for 10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1004_4",
+                "name": "Suppressive Fire",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Fires all the weapons that her team uses, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 34.74,
+                "critical": 4.09,
+                "def": 1.48,
+                "evade": 1.13,
+                "hit": 4.13,
+                "hp": 184
+              },
+              "base": {
+                "hp": 1437,
+                "atk": 334,
+                "def": 96,
+                "hit": 268,
+                "critical": 265,
+                "evade": 73
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "ccfff59e-1269-5725-b7af-ea00a74000ab"
+    }
+  },
+  "staticQueryHashes": []
+}

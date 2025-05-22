@@ -1,0 +1,240 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lee-jin",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "ffb2a5f9-9afe-5297-95c2-344c56ae6ad5",
+            "updatedAt": "2024-10-17T21:24:51.674Z",
+            "createdAt": "2021-10-21T23:56:36.515Z",
+            "unitId": "1124",
+            "fullName": "Lee Jin",
+            "slug": "lee-jin",
+            "shortName": "Lee Jin",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/f5824ae3e812876f492361bdcf472d3d/acb7c/emp-1124.png",
+                        "srcSet": "/static/f5824ae3e812876f492361bdcf472d3d/1c9ce/emp-1124.png 64w,\n/static/f5824ae3e812876f492361bdcf472d3d/bf8e1/emp-1124.png 128w,\n/static/f5824ae3e812876f492361bdcf472d3d/acb7c/emp-1124.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/f5824ae3e812876f492361bdcf472d3d/8257c/emp-1124.webp 64w,\n/static/f5824ae3e812876f492361bdcf472d3d/6766a/emp-1124.webp 128w,\n/static/f5824ae3e812876f492361bdcf472d3d/22bfc/emp-1124.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Alphatrix Innovation",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "Retribution"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lee Jin does not provide relevant utility at sufficient potency to justify using as a support.\\n\\nAs supporters’ personal stats don’t factor into the final buff values (buffs scale with target stats), stat scaling by rarity is largely secondary to the potency of the buffs/ debuffs they bring to the team.\\n \\nFor all scenarios, there exist more effective alternatives for the role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Attacks distant targets, decreasing their firepower."
+            },
+            "introduction": {
+              "introduction": "　Lee Jin is a supporter who burns the enemies in the rear who consider themselves to be safe.\n\n　Her flames violently engulf the enemies, but boost the morale of the allies. Lee Jin was the secretary of Alphatrix Group's CEO, and was expected to take a key post in the future.　But unfortunately, she was blamed for being a Counter during the feud over the company's ownership, and was demoted to the newly formed promotion team.\n　Amongst a group of troublemakers and oddballs, Lee Jin has renewed her mind and is trying her best to become a perfect aide for her leader. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1124_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Discharges a flame from her hands, attacking the farthest target in her range."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1124_2",
+                "name": "Magnificent Exit",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Goes out with a bang at the very last moment. Upon death, she moves to her last target and inflicts AoE damage. Targets except for Bosses and ships receive additional damage by 25% of current HP."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "35% additional HP-based DMG instead, also seals targets' skills for 10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1124_3",
+                "name": "Ignem Converso",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 21,
+                "baseDescription": {
+                  "baseDescription": "Sends forth a wave of fire, inflicting AoE damage on and around the target in a distance. Decreases the damaged enemies' ASPD by 25% for 4 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "ASPD -40% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1124_4",
+                "name": "Purgatorium",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 54,
+                "baseDescription": {
+                  "baseDescription": "Approaches the farthest target in her range, discharges flames from her body to inflict AoE damage, and then moves back. Becomes invincible during skill."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Target DEF -20% for 15 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.32,
+                "critical": 2.09,
+                "def": 1.15,
+                "evade": 0.96,
+                "hit": 2.49,
+                "hp": 204
+              },
+              "base": {
+                "hp": 1651,
+                "atk": 183,
+                "def": 87,
+                "hit": 188,
+                "critical": 158,
+                "evade": 72
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "ffb2a5f9-9afe-5297-95c2-344c56ae6ad5"
+    }
+  },
+  "staticQueryHashes": []
+}

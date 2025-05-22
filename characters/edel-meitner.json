@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/edel-meitner",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "2c264244-c4d6-5010-be4e-d10d5fb846c9",
+            "updatedAt": "2024-12-02T18:22:17.687Z",
+            "createdAt": "2021-10-22T00:28:11.243Z",
+            "unitId": "1147",
+            "fullName": "Edel Meitner",
+            "slug": "edel-meitner",
+            "shortName": "Edel Meitner",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/19a09c62cfd2feea4f6f2155f88f120b/acb7c/emp-1147.png",
+                        "srcSet": "/static/19a09c62cfd2feea4f6f2155f88f120b/1c9ce/emp-1147.png 64w,\n/static/19a09c62cfd2feea4f6f2155f88f120b/bf8e1/emp-1147.png 128w,\n/static/19a09c62cfd2feea4f6f2155f88f120b/acb7c/emp-1147.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/19a09c62cfd2feea4f6f2155f88f120b/8257c/emp-1147.webp 64w,\n/static/19a09c62cfd2feea4f6f2155f88f120b/6766a/emp-1147.webp 128w,\n/static/19a09c62cfd2feea4f6f2155f88f120b/22bfc/emp-1147.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "ESPR",
+            "seaReleaseDate": "July 8th, 2021",
+            "krReleaseDate": "June 25th, 2020",
+            "globalReleaseDate": "June 22nd, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": {
+              "name": "Flower that Blooms in the Unknown",
+              "type": "Passive Skill Enh.",
+              "skill_name": "The Call of the Unknown",
+              "description": "Anti-Soldier/C.O. DMG <b>+3%<b>, ASPD <b>+2%<b> (Up to 15 stacks, -1 stack every 5 seconds) upon death of a creature summoned by Edel. Summons 5 additional creatures in front of Edel when casting Special Skill, Ultimate Skill."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Summoner",
+              "Debuffer",
+              "Dispeller"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Edel Meitner is a PVE-oriented backline damage dealer notable for her massive innate +80% DMG bonus against corrupted objects and soldiers. She also comes with a gimmicky summon mechanic that creates little monsters from dead enemies tagged with her passive debuff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In spite of what Edel’s passive damage boost may suggest, her actual damage is middling at best. Edel’s damage multipliers are abysmal; even in the most ideal scenarios, Edel struggles to match damage with general damage dealers. For all scenarios, there exist more effective alternatives for the role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Edel can be used as a damage dealer. Corrupted objects and soldiers make up a significant percentage of the enemies typically encountered in a PVE environment. Her summons help soak up damage and ease pressure off the frontline tank, especially early on when their stats are still decent relative to those of enemy units. She is otherwise unremarkable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Passive summons have limited function as mini-tanks and valid hit absorbers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Low p\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"ersonal damage output.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "8",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A sniper specializing in eliminating Soldiers and C.O.'s in groups."
+            },
+            "introduction": {
+              "introduction": "　Edel Meitner is a sniper who commands strange beings residing in her shadow to inflict AoE damage. Her strange familiars are especially powerful against Soldiers and Corrupted Objects.\n\n　The newly appointed president of Eckhart's Society for Preternatural\nResearch and an insatiable glutton, she even treats Corrupted Objects as food ingredients. Unlike other people, she sees Anti-Corruption battles as opportunities to feast, which was the very reason she presented herself to the TASKFORCE industry, to satisfy her hunger while avoiding her successor at the Society who's trying to restrict her diet. Her appetite may not be comprehensible to most people, but she claims that she eats to accumulate knowledge,rather than to sustain life.\n　She's only categorized as Counter for the sake of administrative convenience. So far, no one knows what exactly those creatures that follow her are."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1147_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Summons a mysterious creature. This creature slowly moves forward, and then inflicts AoE damage on contact with the first enemy in its path."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1147_2",
+                "name": "The Call of the Unknown",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Summons mysterious beings and inflicts 40% more damage on Corrupted Objects and Soldiers. All her attacks debuff targets for 12 seconds, and debuffed targets summon up to 5 creatures in their place upon death."
+                },
+                "level2": {
+                  "level2": "DMG to Soldier and C.O. +10%"
+                },
+                "level3": {
+                  "level3": "DMG to Soldier and C.O. +10%"
+                },
+                "level4": {
+                  "level4": "DMG to Soldier and C.O. +20%"
+                },
+                "level5": {
+                  "level5": "Her and summonlings' DMG Taken -40% from Soldiers and C.O."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1147_3",
+                "name": "Black Lotus",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 34,
+                "baseDescription": {
+                  "baseDescription": "Summons a massive gaping mouth, inflicting AoE damage on and around the farthest target within range. Also cancels barriers around enemies to inflict damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1147_4",
+                "name": "Unspeakable One",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 65,
+                "baseDescription": {
+                  "baseDescription": "Releases inner beings, inflicting AoE damage on enemies in front. The enemies lose 30% of HIT for 12 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Debuff also decreases enemies' EVA by 30%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 30.54,
+                "critical": 3.56,
+                "def": 1.55,
+                "evade": 0.59,
+                "hit": 2.34,
+                "hp": 185
+              },
+              "base": {
+                "hp": 1496,
+                "atk": 305,
+                "def": 117,
+                "hit": 177,
+                "critical": 269,
+                "evade": 44
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "2c264244-c4d6-5010-be4e-d10d5fb846c9"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sylvia-lena-cooper",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "8eceec16-df00-52c9-91ee-e41f61579742",
+            "updatedAt": "2024-02-18T08:58:10.989Z",
+            "createdAt": "2021-10-21T12:12:29.749Z",
+            "unitId": "1062",
+            "fullName": "Sylvia Lena Cooper",
+            "slug": "sylvia-lena-cooper",
+            "shortName": "Sylvia Lena Cooper",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/d06f89ec272feeb1259a0b3cd8f64d7e/acb7c/emp-1062.png",
+                        "srcSet": "/static/d06f89ec272feeb1259a0b3cd8f64d7e/1c9ce/emp-1062.png 64w,\n/static/d06f89ec272feeb1259a0b3cd8f64d7e/bf8e1/emp-1062.png 128w,\n/static/d06f89ec272feeb1259a0b3cd8f64d7e/acb7c/emp-1062.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/d06f89ec272feeb1259a0b3cd8f64d7e/8257c/emp-1062.webp 64w,\n/static/d06f89ec272feeb1259a0b3cd8f64d7e/6766a/emp-1062.webp 128w,\n/static/d06f89ec272feeb1259a0b3cd8f64d7e/22bfc/emp-1062.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Delta Seven",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sylvia is a unique Sniper that focuses on buffing allies and controlling enemies instead of doing damage - it does not mean she is harmless and you will know it once you see her calling a massive missile that can wipe weaker enemies in one hit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her special skill has a nasty stun that makes her one of the best low-cost disrupters in Ranked Arena. She is also used in PVE when a stun is needed, but that is quite rare.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Still, all that great stuff she can do comes at a cost. A huge one. She is extremely squishy and dies so easily. That is why in PVP she often gets deployed just for her stun, then dies right after from road-rage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- broken stun on her special,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great buffs that help friendly Mechs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- super squishy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Neutralizes Mechs and uses broad AoE attacks."
+            },
+            "introduction": {
+              "introduction": "　Sylvia Lena Cooper is a sniper who can enhance allied armored units while performing area attacks.\n\n　In elementary school, she was already infamous for hacking into the database of her home country's intelligence agency. Of course, she was eventually caught. Instead of spending a life time in a prison, she accepted the offer from Lt. General Antonov.\n　She is now working at Delta Seven as a civilian electronic warfare consultant. She has no choice but to work with stiff military personnel, but thrilling secret operations seem to fit her well. So far, she has been well-behaved throughout her assigned field work. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1062_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a laser gun at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1062_2",
+                "name": "Leaf Node Hacking",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Hacks into machines on the field, improving their performance. Increases HIT and EVA by 20% for all Mechs on the field."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Mech ATK +10% added to Passive buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1062_3",
+                "name": "Lockdown Shock Buster",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Fires energy at the farthest target within range, inflicting AoE damage. Stuns targets for 4 seconds, except for Soldiers and Counters."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s, also stuns Soldiers and Counters."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1062_4",
+                "name": "Beautiful World",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 65,
+                "baseDescription": {
+                  "baseDescription": "Hacks into a strategic missile, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -15 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 38.78,
+                "critical": 3.84,
+                "def": 0,
+                "evade": 0,
+                "hit": 6.84,
+                "hp": 89
+              },
+              "base": {
+                "hp": 706,
+                "atk": 380,
+                "def": 0,
+                "hit": 478,
+                "critical": 268,
+                "evade": 0
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "8eceec16-df00-52c9-91ee-e41f61579742"
+    }
+  },
+  "staticQueryHashes": []
+}

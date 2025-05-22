@@ -1,0 +1,249 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lucid",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "ddaa3535-89c1-57d0-9b32-fea19b8b0835",
+            "updatedAt": "2025-01-28T07:15:13.226Z",
+            "createdAt": "2021-10-22T07:18:47.235Z",
+            "unitId": "1193",
+            "fullName": "Lucid",
+            "slug": "lucid",
+            "shortName": "Lucid",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/035aaa6b41e8fdf5e9cadff422c06433/acb7c/emp-1193.png",
+                        "srcSet": "/static/035aaa6b41e8fdf5e9cadff422c06433/1c9ce/emp-1193.png 64w,\n/static/035aaa6b41e8fdf5e9cadff422c06433/bf8e1/emp-1193.png 128w,\n/static/035aaa6b41e8fdf5e9cadff422c06433/acb7c/emp-1193.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/035aaa6b41e8fdf5e9cadff422c06433/8257c/emp-1193.webp 64w,\n/static/035aaa6b41e8fdf5e9cadff422c06433/6766a/emp-1193.webp 128w,\n/static/035aaa6b41e8fdf5e9cadff422c06433/22bfc/emp-1193.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Jehuty Biotech",
+            "seaReleaseDate": "July 6th, 2022",
+            "krReleaseDate": "September 7th, 2021",
+            "globalReleaseDate": "October 13th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": {
+              "name": "Empathy Link",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Telepathy",
+              "description": "Gretel's HP +100%, DMG TLRNC +2%. Hansel's ATK +50%"
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Selfhealer",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lucid summons two CO and focuses on buffing them. Hansel is a flying Ranger that hovers behind her and Gretel is a Striker that rushes to the front. The CO classes are important because the majority of Lucid's damage comes from them - so picking her for stages where you need Sniper damage is pretty pointless and you should think about her as more of a hybrid employee.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, while her damage is pretty good, you have to remember that most of the damage comes from her summons. And while one of them flies safely near Lucid, the other rushes to the front, where it can get killed - which will drastically decrease her damage output. Also, the summons do not inherit Lucid's gear which would help the melee summon survive longer, but on the other hand, if your Xiao lacks gear, Lucid can do better than her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"So while after the buffs, Lucid is finally worth using, keep in mind that even in an optimal situation where here summons survive the whole battle, she still deals less damage than Xiao or Kestrel Xiao.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sadly, she's just too squishy to be used in PVP. You can easily Kang her and you've just basically wasted 4 deployment resources.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- three-units-in-one,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- strong damage dealer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- but not strong enough. While her damage is high, her cost is the same as many other strong damage dealers such as Xiao Lin and Kim Sobin,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- our favorite roadrager can easily kill her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A sub-attacker that summons and enhances C.O."
+            },
+            "introduction": {
+              "introduction": "  Lucid is a Sniper who can summon 2 C.O., enabling them to achieve strength past their limits.\n\n  A survivor of a cruel experiment conducted by Jehuty Biotech, she can telepathically read what other people think. Her telepathy is incomplete, compared to the Nanahara Family Alliance's \"ability to hear the voice of the wind\". Still, some people are worried that her ability to command C.O. might be used for military purposes.\n  According to her doctors, her body is rapidly deteriorating. They don't expect her to live long. They can't tell either if this is a side effect of the experiment she was subjected to."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1193_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Telepathically attacks a single target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1193_2",
+                "name": "Telepathy",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Summons 2 C.O. named \"Hansel\" and \"Gretel\" after deployed. If the summons are already present on the field, restore their HP to max when deployed. The summons die when Lucid dies."
+                },
+                "level2": {
+                  "level2": "Caster and minion HP +5%"
+                },
+                "level3": {
+                  "level3": "Caster and minion HP +5%"
+                },
+                "level4": {
+                  "level4": "Caster and minion HP +10%"
+                },
+                "level5": {
+                  "level5": "Minions' HP Recovery +1% per sec"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1193_3",
+                "name": "Mind Blast",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Causes a telepathic explosion, inflicting AoE damage on and around her target. Also enhances her minions. For 10 seconds, all Hansel's attacks crit and Gretel enters Perfect EVA mode. This effect can't be canceled."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Enhanced minions inflict 50% more DMG."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1193_4",
+                "name": "Psychic Wave",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 56,
+                "baseDescription": {
+                  "baseDescription": "Intensifies telepathic energy, inflicting AoE damage on surrounding enemies. Summons minions again if they are dead and restores their HP to max if they're alive. Also adds immunity to Hitstun from Special or lower skills and ASPD/SPD +30% to the minions for 20 seconds. This effect can't be canceled."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Resets Special skill cooldown after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 13.73,
+                "critical": 2.61,
+                "def": 1.81,
+                "evade": 2.11,
+                "hit": 5.72,
+                "hp": 172
+              },
+              "base": {
+                "hp": 1342,
+                "atk": 132,
+                "def": 117,
+                "hit": 371,
+                "critical": 169,
+                "evade": 137
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "ddaa3535-89c1-57d0-9b32-fea19b8b0835"
+    }
+  },
+  "staticQueryHashes": []
+}

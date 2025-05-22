@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/agnes",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "5be23171-53c8-5deb-a33b-50e017377d35",
+            "updatedAt": "2025-04-12T08:17:20.858Z",
+            "createdAt": "2022-10-25T06:40:11.274Z",
+            "unitId": "1233",
+            "fullName": "Agnes",
+            "slug": "agnes",
+            "shortName": "Agnes",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a33e13a2aec520440876a7fb95925c9b/acb7c/emp-1233.png",
+                        "srcSet": "/static/a33e13a2aec520440876a7fb95925c9b/1c9ce/emp-1233.png 64w,\n/static/a33e13a2aec520440876a7fb95925c9b/bf8e1/emp-1233.png 128w,\n/static/a33e13a2aec520440876a7fb95925c9b/acb7c/emp-1233.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a33e13a2aec520440876a7fb95925c9b/8257c/emp-1233.webp 64w,\n/static/a33e13a2aec520440876a7fb95925c9b/6766a/emp-1233.webp 128w,\n/static/a33e13a2aec520440876a7fb95925c9b/22bfc/emp-1233.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Monastery of Valentinus",
+            "seaReleaseDate": "May 9th, 2023",
+            "krReleaseDate": "October 25th, 2022",
+            "globalReleaseDate": "September 6th, 2023",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Agnes is a damage dealer that snowballs her own DPS while applying a permanent DEF debuff on enemies, or HP in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Agnes’ single target DPS surpasses most non-awakened units, most notably outperforming her fellow 4-cost Sniper Kestrel Xiao Lin. Coupled with her powerful permanent DEF debuff, Agnes is easy to slot in most PVE stages, even in late game content, like raids, Danger Close, and Dives, as long as she can be kept alive. On that note, Agnes is invulnerable for an extended period of time while she casts her Ultimate Skill, which can be leveraged to dodge heavy damage (i.e. Inhibitor’s map-wide attack).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Agnes is in an awkward spot. While she undoubtedly has massive damage potential with her ASPD scaling, her long ramp-up time combined with lack of defensive mechanics makes her vulnerable to common backline access tools. It is possible to make Agnes work, but in most cases there are better backline hypercarry options.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Good damage with tons of self buffs\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Decreases DEF of enemies permanently with her Basic Attack in PVE.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely fragile\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "9",
+              "pve_early": "10",
+              "pve_late": "9"
+            },
+            "description": {
+              "description": "A Sniper who can lower enemies defense and burn their HP"
+            },
+            "introduction": {
+              "introduction": "아그네스 아비게일은 기본 공격으로 적의 능력치를 영구히 감소시키는 표식을 부여하는 스나이퍼입니다.\n발렌티누스 수도원의 명맥을 잇는 아그네스는 불경한 목적으로 수도원에 침입한 자들을 처단해 온 파수꾼이었습니다. 한편으로는 비밀스러운 의식에 바칠 희생양을 선별하는 사냥꾼이기도 했습니다.\n그리고 침입자에게서 지켜야 할 수도자들도, 산제물을 필요로 하는 의식도 시간의 안개 저편으로 사라진 지금. 아그네스는 수도원에 남아 항상 누군가를 기다리고 있습니다. 그 누군가란 수도원에 잠든 금지된 지식을 노리는 자일 수도 있고, 에그타르트를 대접해 주고 싶은 손님일지도 모릅니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "ASPD Tank or Anti-Striker Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1233_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires her Sniper Rifle at the closest target. Does not deal damage to targets exceeding valid hit."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1233_2",
+                "name": "Ritual",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Marks a target with [Immolate] after hitting the target 3 times with the Basic Attack. Targets affected by [Immolate] have their DEF reduced permanently by 10% (In Gauntlet, their max HP is reduced by 15% instead. Ships excluded)."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "Targets with [Immolate] have their DEF reduced by 20% instead(In Gauntlet, their max HP is reduced by 25%)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1233_3",
+                "name": "Insistent Gaze",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After being deployed, using Basic Attack 7 times permanently increases her ASPD by 50%(Can't be stacked). Basic Attacks against targets with [Immolate] deal 20% more damage and always crit."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "CRIT DMG +100%. Basic Attacks against targets with [Immolate] reduces their current HP by 3% (Ships and bosses excluded)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1233_4",
+                "name": "Mistborn",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 16,
+                "baseDescription": {
+                  "baseDescription": "Turns into a mist and deals massive damage to enemies in front."
+                },
+                "level2": {
+                  "level2": " DMG +5%"
+                },
+                "level3": {
+                  "level3": " DMG +5%"
+                },
+                "level4": {
+                  "level4": " DMG +15%"
+                },
+                "level5": {
+                  "level5": "Permanently increase her ASPD by 20% after casting the skill(Up to 40%)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 41.4,
+                "critical": 0,
+                "def": 2.65,
+                "evade": 0.94,
+                "hit": 10.65,
+                "hp": 167
+              },
+              "base": {
+                "hp": 1300,
+                "atk": 398,
+                "def": 172,
+                "hit": 691,
+                "critical": 0,
+                "evade": 61
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "5be23171-53c8-5deb-a33b-50e017377d35"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,217 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/tarrasque",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "73bc221c-0e4b-5b15-bde8-343bbf403fb0",
+            "updatedAt": "2025-04-12T08:22:46.891Z",
+            "createdAt": "2021-10-21T12:22:08.275Z",
+            "unitId": "1069",
+            "fullName": "Tarrasque",
+            "slug": "tarrasque",
+            "shortName": "Tarrasque",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4147380d48f7cde9704f0799405b6967/acb7c/emp-1069.png",
+                        "srcSet": "/static/4147380d48f7cde9704f0799405b6967/1c9ce/emp-1069.png 64w,\n/static/4147380d48f7cde9704f0799405b6967/bf8e1/emp-1069.png 128w,\n/static/4147380d48f7cde9704f0799405b6967/acb7c/emp-1069.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4147380d48f7cde9704f0799405b6967/8257c/emp-1069.webp 64w,\n/static/4147380d48f7cde9704f0799405b6967/6766a/emp-1069.webp 128w,\n/static/4147380d48f7cde9704f0799405b6967/22bfc/emp-1069.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Old Administration",
+            "seaReleaseDate": "November 3rd, 2021",
+            "krReleaseDate": "May 28th, 2020",
+            "globalReleaseDate": "August 4th, 2022",
+            "cost": 3,
+            "type": [
+              "Mech"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "Barrier"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Tarrasque is a PVE-oriented debuffer notable for its 100% uptime DEF shred debuff. Tarrasque occupies the valued niche as a DEF shredder.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF shred will provide a greater damage increase than an equivalent amount of ATK% (up to 100%, as you can’t shred more than 100% of a target’s DEF). PVE comps typically aim to mitigate 100% of the enemy’s DEF, most easily achieved through some combination of DEF shredders (e.g. Ciel, Chifuyu, Tarrasque). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Accessible DEF debuffer (SR rarity, farmable in Substream).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Significantly better options exist.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "7",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A Ranged AoE attacker who temporarily increases his ATK and attacks from the rear."
+            },
+            "introduction": {
+              "introduction": "　An attacker capable of performing area attacks, temporarily enhanced upon deployment.\n\n　They are armored units of the Old Administration used to hold the line. Their high-powered beam cannons can annihilate large C.O. The equipped laser module is constantly being researched by multiple nations under the supervision of the Administration."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1069_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires high-powered laser cannons, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1069_2",
+                "name": "Standard Barrier Coating",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "It's equipped with the Administration's standard-issue barrier. Casts a barrier equal to 70% of Max HP when deployed."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Barrier covers 100% of Max HP"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1069_3",
+                "name": "Eternium Reactor",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Equips an independent power plant to increase its output. Increases ATK by 3%."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Targets' DEF -20% for 4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 35.24,
+                "critical": 2.66,
+                "def": 2.05,
+                "evade": 0.26,
+                "hit": 1.83,
+                "hp": 120
+              },
+              "base": {
+                "hp": 969,
+                "atk": 352,
+                "def": 155,
+                "hit": 138,
+                "critical": 201,
+                "evade": 19
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "73bc221c-0e4b-5b15-bde8-343bbf403fb0"
+    }
+  },
+  "staticQueryHashes": []
+}

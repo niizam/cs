@@ -1,0 +1,250 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lee-sooyeon",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "909ad67e-6f27-5e11-bcaf-0acef4c7e239",
+            "updatedAt": "2024-10-18T22:52:12.813Z",
+            "createdAt": "2021-10-21T12:14:02.041Z",
+            "unitId": "1063",
+            "fullName": "Lee Sooyeon",
+            "slug": "lee-sooyeon",
+            "shortName": "Lee Sooyeon",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a2ce3aaae2647ad0a01dfe06ccfd0e4a/acb7c/emp-1063.png",
+                        "srcSet": "/static/a2ce3aaae2647ad0a01dfe06ccfd0e4a/1c9ce/emp-1063.png 64w,\n/static/a2ce3aaae2647ad0a01dfe06ccfd0e4a/bf8e1/emp-1063.png 128w,\n/static/a2ce3aaae2647ad0a01dfe06ccfd0e4a/acb7c/emp-1063.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a2ce3aaae2647ad0a01dfe06ccfd0e4a/8257c/emp-1063.webp 64w,\n/static/a2ce3aaae2647ad0a01dfe06ccfd0e4a/6766a/emp-1063.webp 128w,\n/static/a2ce3aaae2647ad0a01dfe06ccfd0e4a/22bfc/emp-1063.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Fenrir Division",
+            "seaReleaseDate": "July 29th, 2021",
+            "krReleaseDate": "March 19th, 2020",
+            "globalReleaseDate": "May 27th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": {
+              "name": "Reactive Sword Type A",
+              "type": "Passive Skill Enh.",
+              "skill_name": "My Old Fearless Days",
+              "description": "Deployment Resources +1 upon deployment."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Barrier",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lee Sooyeon (LSY) is a frontline tank who leans heavily into the tanking with her kit of selfish survivability buffs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"LSY’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" does not directly buff any aspect to her kit, but it does make her significantly more cost-efficient. While not enough to push her into viability, it at the very least addresses her glaring cost issues.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, frontline tanks with buffs/ debuffs are valued more highly than those focused solely on tanking for themselves. LSY meets (and even exceeds) the baseline requirements expected of her as a frontline tank, but she contributes nothing more to the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, LSY approaches viability as a striker frontline option. Depending on the weekly bans, certain weeks necessitate strong anti-defender damage dealers to punch through the frontline. LSY can be used to punish comps that lean too heavily into killing defenders. As a striker, LSY can become obscenely difficult for rangers to kill, especially with her damage tolerance fully stacked.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"LSY is an otherwise middling frontline tank with above-average survivability and little else to her kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Has a lot DMG RDC buffs in her kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Absence of teamwide utility hampers her viability when stronger alternatives also provide more.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "High DEF and anti-ground AoE suppression skills"
+            },
+            "introduction": {
+              "introduction": "　(This text was restored by Class 1 Administrator.)\n　Lee Sooyeon is a vanguard who breaks enemy lines with her high HP and area suppression skills.\n\n　As a division member, she blindly follows after her master, Hilde. She even pushed herself over the limit to learn difficult skills to satisfy Hilde. The skill was originally named Atomic Hilde Punishment. But it was changed to the current name because Hilde hysterically refused it.\n　Although her skills are unmatched, she considers charging into the middle of enemies the same as being deployed. Thus, she requires constant guidance and supervision. The commander commented that it is best to let her be. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1063_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her greatsword, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1063_2",
+                "name": "My Old Fearless Days",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She was fearless back then. Permanently increases ATK and DMG RES by 15% when HP drops to 50% or below."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Passive effect is activated at 60% or lower HP instead, and grants immunity to Hitstun from Ultimate or lower skills"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1063_3",
+                "name": "Skill Learned from Master",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Moves forward, levitating enemies with AoE damage. Decreases DMG Taken by 25% during this skill's effect."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1063_4",
+                "name": "Fatal blow! Lee Sooyeon Strike!",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Makes the best of her greatsword, inflicting AoE damage in proportion to her ATK. Decreases DMG Taken by 35% during this skill's effect."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Casts a barrier equal to 20% of Max HP for 15 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 31.2,
+                "critical": 2.19,
+                "def": 3.89,
+                "evade": 4.09,
+                "hit": 1.84,
+                "hp": 375
+              },
+              "base": {
+                "hp": 2924,
+                "atk": 300,
+                "def": 252,
+                "hit": 119,
+                "critical": 142,
+                "evade": 265
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "909ad67e-6f27-5e11-bcaf-0acef4c7e239"
+    }
+  },
+  "staticQueryHashes": []
+}

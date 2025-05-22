@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/atl-1-lincoln",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a1da7905-e437-5e50-b284-cbb9485b9072",
+            "updatedAt": "2024-07-24T09:05:48.039Z",
+            "createdAt": "2021-10-21T13:22:16.920Z",
+            "unitId": "1081",
+            "fullName": "ATL-1 Lincoln",
+            "slug": "atl-1-lincoln",
+            "shortName": "ATL-1 Lincoln",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/1d4081768ea31c66037705acb1ae6959/acb7c/emp-1081.png",
+                        "srcSet": "/static/1d4081768ea31c66037705acb1ae6959/1c9ce/emp-1081.png 64w,\n/static/1d4081768ea31c66037705acb1ae6959/bf8e1/emp-1081.png 128w,\n/static/1d4081768ea31c66037705acb1ae6959/acb7c/emp-1081.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/1d4081768ea31c66037705acb1ae6959/8257c/emp-1081.webp 64w,\n/static/1d4081768ea31c66037705acb1ae6959/6766a/emp-1081.webp 128w,\n/static/1d4081768ea31c66037705acb1ae6959/22bfc/emp-1081.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "States of One",
+            "seaReleaseDate": "July 8th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Mech"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATL-1 Lincoln (Lincoln) is a gimmicky anti-air burst damage dealer that has never been particularly good. Lincoln has limited application in PVP, otherwise it never sees the light of day.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lincoln’s air target priority on Special Skill allows it to target air units for (potentially) massive damage. With specialized gear suited to the target, bad positioning from the opponent, and good luck with EVA/ HIT RNG, Lincoln is capable of busting down fliers. However, for the reasons listed, it is too inconsistent at its own gimmick to be viable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dedicated anti-air unit\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"There are way better and more consistent options\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A high-firepower Melee attacker capable of all-around attacks."
+            },
+            "introduction": {
+              "introduction": "　An attacker that performs ground area attacks, which also has excellent anti-air capabilities.\n\n　As the main battle tank remodeled for counter-Corruption purposes, it satisfies all aspects required of a tank. But it shows better performance when accompanied other units."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Spectral Spirit",
+                "notes": "Anti-Defender and Anti-Ground substats."
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1081_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires cannonballs, inflicting AoE damage on and around the target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1081_2",
+                "name": "Anti-aircraft Gun AB-249",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Carries a light machine gun on the top to keep airborne enemies at bay. Attacks Air units with the machine gun."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Anti-air DMG +50%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1081_3",
+                "name": "SEPv5 Testing Improvement",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Optimizes its design for anti-Corruption warfare. Grants immunity to Hitstun from Special or lower skills."
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1081_4",
+                "name": "Muspelheim Missile",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Receives its target's coordinates and fires a high-powered missile. First targets Air units within range and inflicts AoE damage on and around its target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -6 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 25.07,
+                "critical": 2.79,
+                "def": 5.15,
+                "evade": 0.88,
+                "hit": 2.87,
+                "hp": 371
+              },
+              "base": {
+                "hp": 2896,
+                "atk": 241,
+                "def": 334,
+                "hit": 186,
+                "critical": 181,
+                "evade": 57
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a1da7905-e437-5e50-b284-cbb9485b9072"
+    }
+  },
+  "staticQueryHashes": []
+}

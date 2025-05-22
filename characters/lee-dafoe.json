@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lee-dafoe",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "1345a157-7016-50d4-ade5-5a37e859c286",
+            "updatedAt": "2024-10-17T21:24:21.730Z",
+            "createdAt": "2021-10-22T00:02:42.106Z",
+            "unitId": "1128",
+            "fullName": "Lee Dafoe",
+            "slug": "lee-dafoe",
+            "shortName": "Lee Dafoe",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6fb5d6a0f85c3e7bc61afc7593bc47b1/acb7c/emp-1128.png",
+                        "srcSet": "/static/6fb5d6a0f85c3e7bc61afc7593bc47b1/1c9ce/emp-1128.png 64w,\n/static/6fb5d6a0f85c3e7bc61afc7593bc47b1/bf8e1/emp-1128.png 128w,\n/static/6fb5d6a0f85c3e7bc61afc7593bc47b1/acb7c/emp-1128.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6fb5d6a0f85c3e7bc61afc7593bc47b1/8257c/emp-1128.webp 64w,\n/static/6fb5d6a0f85c3e7bc61afc7593bc47b1/6766a/emp-1128.webp 128w,\n/static/6fb5d6a0f85c3e7bc61afc7593bc47b1/22bfc/emp-1128.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "N",
+            "rarityNumber": 1,
+            "rarityClassName": "N",
+            "title": "Frontier",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Lee Dafoe does not have the stats necessary to meet the baseline requirements expected of him as a frontline tank.\\n\\nLee Dafoe does not possess relevant utility that would justify using him. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Periodically decreases incoming damage and pushes enemy lines."
+            },
+            "introduction": {
+              "introduction": "　Lee Dafoe is a defender with excellent skills against multiple enemies. His right arm, covered by steel armor, was created from his Watch. He uses it as shield and weapon.\n\n　Lee was once an aspiring boxer, but he lost his right arm when he was jumped by gangsters. He awakened his powers as a Counter after the incident.\n　Although he lost his dream of becoming a boxer, he is now working at the Frontier with a new goal.　Lee is planning to build a hospital back home so that there will be no more victims like him. It doesn't matter that the Frontier is still a small-sized mercenary group. He dreamed of becoming a boxer even in a dark, moldy gym. Now that he has a new arm, he can do anything. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1128_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Punches and kicks at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1128_2",
+                "name": "Physical Reinforcement",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Activates CRF that improves his physical capability. Special and Ultimate skills decrease DMG Taken by 10% for 8 seconds every time they are cast."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "HP +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1128_3",
+                "name": "Sonic Punch",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Throws a powerful punch, inflicting AoE damage. Forces inflicted enemy to target on him for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1128_4",
+                "name": "Machine Gun Straight Punch",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Momentarily explodes his power and throws multiple lightning-fast straight punches, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 17.52,
+                "critical": 1.19,
+                "def": 3.94,
+                "evade": 1.17,
+                "hit": 1.14,
+                "hp": 256
+              },
+              "base": {
+                "hp": 2071,
+                "atk": 175,
+                "def": 298,
+                "hit": 86,
+                "critical": 90,
+                "evade": 88
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "1345a157-7016-50d4-ade5-5a37e859c286"
+    }
+  },
+  "staticQueryHashes": []
+}

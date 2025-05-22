@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/liona",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "15760793-96a1-5730-ba26-a8216f65a1c5",
+            "updatedAt": "2025-03-27T09:24:48.534Z",
+            "createdAt": "2022-04-12T05:34:47.342Z",
+            "unitId": "1212",
+            "fullName": "Liona",
+            "slug": "liona",
+            "shortName": "Liona",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/23dd94d966e05b8f82bf20a3c4a1cce3/acb7c/emp-1212.png",
+                        "srcSet": "/static/23dd94d966e05b8f82bf20a3c4a1cce3/1c9ce/emp-1212.png 64w,\n/static/23dd94d966e05b8f82bf20a3c4a1cce3/bf8e1/emp-1212.png 128w,\n/static/23dd94d966e05b8f82bf20a3c4a1cce3/acb7c/emp-1212.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/23dd94d966e05b8f82bf20a3c4a1cce3/8257c/emp-1212.webp 64w,\n/static/23dd94d966e05b8f82bf20a3c4a1cce3/6766a/emp-1212.webp 128w,\n/static/23dd94d966e05b8f82bf20a3c4a1cce3/22bfc/emp-1212.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "OZ",
+            "seaReleaseDate": "September 21st, 2022",
+            "krReleaseDate": "April 12th, 2022",
+            "globalReleaseDate": "March 22nd, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Liona has a great design and terrible performance. While the damage she brings to the battle is great for a 3-cost employee, she's made out of paper and moves super slowly, which causes her to often die before doing anything - both in PVP and PVE.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She can be used as a counter to Replacer King in PVP, but you have to keep her alive to reach him and actually do her job, which might be quite hard to do.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- good damage for a 3 cost employee,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- a great design.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- she's a slowpoke,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- made out of paper.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee attacker who gets stronger against units with low current HP."
+            },
+            "introduction": {
+              "introduction": "리온은 체력이 약한 유닛에게 유독 강한 근접 범위 딜링형 스트라이커입니다. 소유자 본인의 의지가 아니라 기생체의 의지로 능동적으로 움직이며 적에게 공격을 가합니다.\n평소 카운터를 동경하던 겁쟁이 소녀는 불의의 사고로 「악마의 파편」이라 불리는 기생체와 이어지면서 카운터가 되었습니다. 하지만 어쩐지 꿈꿔왔던 삶과는 사뭇 달랐습니다. 기생체 때문일까요?\n그럼에도 소녀는 기생체에게 「토토」라는 이름을 붙여 주고, 맛있는 음식을 주며 그를 이해하기 위해 힘썼습니다. 이제는 토토의 힘으로 친구들을 지켜줄 수 있게 되어 다행이라고 생각합니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1212_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Toto lashes out to the front and deals AoE DMG."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1212_2",
+                "name": "Parasite Toto",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Liona gains a stack whenever an enemy is killed (max 3 stacks). When performing a basic attack, consumes a stack to perform an Enhanced Attack. The Enhanced Attack deals additional DMG equal to 2% of the target’s max HP to enemies within the Valid Hit count with more than 50% HP (Bosses Excluded)."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "When deployed, instantly get one stack. The Enhanced Attack always is a Crit."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1212_3",
+                "name": "Toto's Roar",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Toto releases pulses from his mouth, dealing AoE DMG to enemies in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "When an enemy unit is killed, Special Skill Cooldown -2s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1212_4",
+                "name": "Endless Hunger",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 52,
+                "baseDescription": {
+                  "baseDescription": "Toto takes on the form of an enormous mouth and deals AoE DMG to enemies in front. Enemies who receive DMG have ATK -15% for 1s."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +5%"
+                },
+                "level5": {
+                  "level5": "If the target has more than 50% HP, the attack deals additional damage equal to 20% max HP of the target (bosses excluded). This doesn't work against targets exceeding the Valid Hits count."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 31.54,
+                "critical": 3.58,
+                "def": 3.35,
+                "evade": 5.27,
+                "hit": 2.09,
+                "hp": 345
+              },
+              "base": {
+                "hp": 2744,
+                "atk": 309,
+                "def": 234,
+                "hit": 146,
+                "critical": 250,
+                "evade": 368
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "15760793-96a1-5730-ba26-a8216f65a1c5"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,311 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lelouch-lamperouge",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "ec7c8d74-3fa5-5cf1-b9bc-4f345b1ea862",
+            "updatedAt": "2024-10-17T22:27:51.169Z",
+            "createdAt": "2022-09-21T08:27:25.180Z",
+            "unitId": "2229",
+            "fullName": "Lelouch Lamperouge",
+            "slug": "lelouch-lamperouge",
+            "shortName": "Lelouch",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3bd7ee8b0f98e95de703435c71a538be/acb7c/emp-2229.png",
+                        "srcSet": "/static/3bd7ee8b0f98e95de703435c71a538be/1c9ce/emp-2229.png 64w,\n/static/3bd7ee8b0f98e95de703435c71a538be/bf8e1/emp-2229.png 128w,\n/static/3bd7ee8b0f98e95de703435c71a538be/acb7c/emp-2229.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3bd7ee8b0f98e95de703435c71a538be/8257c/emp-2229.webp 64w,\n/static/3bd7ee8b0f98e95de703435c71a538be/6766a/emp-2229.webp 128w,\n/static/3bd7ee8b0f98e95de703435c71a538be/22bfc/emp-2229.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Zero",
+            "seaReleaseDate": null,
+            "krReleaseDate": "September 21st, 2022",
+            "globalReleaseDate": "August 23rd, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Healer",
+              "CC",
+              "Executor",
+              "ETB"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lelouch Lamperouge is a backline skill haste buffer that suffers from being a worse Yang Harim. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There is no reason to run Lelouch in any content.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Worse Yang Harim. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"You should already have Yang Harim. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "7",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Supporter that can remove variables from the battle and seal enemies."
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2229_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires his pistol at the closest enemy."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2229_2",
+                "name": "Opening Checkmate!",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "In order to reduce the combat variable, activates the geass and seals the skills of all enemies for 4s. (Mechs excluded)"
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "Skill Seal duration +2s"
+                },
+                "level6": {
+                  "level6": "HP +3%"
+                },
+                "level7": {
+                  "level7": "HP +3%"
+                },
+                "level8": {
+                  "level8": "HP +3%"
+                },
+                "level9": {
+                  "level9": "HP +9%"
+                },
+                "level10": {
+                  "level10": "The on deployment effect repeats when Lelouch dies."
+                }
+              },
+              {
+                "skillId": "2229_3",
+                "name": " Operation Commence",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 35,
+                "baseDescription": {
+                  "baseDescription": "Uses the optimal strategy according the to the battle situation and increases Skill Haste of nearby allies by 25% for 5 seconds excluding Lelouch."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Buff duration +2s"
+                },
+                "level6": {
+                  "level6": "Cooldown -1 s"
+                },
+                "level7": {
+                  "level7": "Cooldown -1 s"
+                },
+                "level8": {
+                  "level8": "Cooldown -2 s"
+                },
+                "level9": {
+                  "level9": "Cooldown -2 s"
+                },
+                "level10": {
+                  "level10": "Create a barrier equal to 10% of max HP for the duration."
+                }
+              },
+              {
+                "skillId": "2229_4",
+                "name": "Lelouch vi Britannia commands you!",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 65,
+                "baseDescription": {
+                  "baseDescription": "Uses multiple reflections to widely spread the Geass, dealing AoE damage and executes 1 enemy below 30% HP. (Bosses and Mechs excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Executes 2 units instead."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Enemies become Skill sealed for 5s. (Mechs excluded)"
+                }
+              },
+              {
+                "skillId": "2229_5",
+                "name": "Commander Zero",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Issues a special operation order to prepare delivering a fatal strike the enemies. While Lelouch is on the field, all allies gain +10% Special Skill Damage AMP."
+                },
+                "level2": {
+                  "level2": "ATK +5%"
+                },
+                "level3": {
+                  "level3": "ATK +5%"
+                },
+                "level4": {
+                  "level4": "ATK +10%"
+                },
+                "level5": {
+                  "level5": "Ultimate Skill Damage AMP +20% added to the buff."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 15.52,
+                "critical": 1.86,
+                "def": 1.22,
+                "evade": 2.11,
+                "hit": 2.56,
+                "hp": 187
+              },
+              "base": {
+                "hp": 1486,
+                "atk": 152,
+                "def": 85,
+                "hit": 179,
+                "critical": 130,
+                "evade": 147
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "ec7c8d74-3fa5-5cf1-b9bc-4f345b1ea862"
+    }
+  },
+  "staticQueryHashes": []
+}

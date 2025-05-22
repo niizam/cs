@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/nicole",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "2b6849fe-02ae-5ef9-90a2-d9155d847f3a",
+            "updatedAt": "2024-08-31T20:14:50.643Z",
+            "createdAt": "2022-03-08T00:04:09.302Z",
+            "unitId": "1207",
+            "fullName": "Nicole Primer",
+            "slug": "nicole",
+            "shortName": "Nicole",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/992fe14f75b77739949087801b0f4149/acb7c/emp-1207.png",
+                        "srcSet": "/static/992fe14f75b77739949087801b0f4149/1c9ce/emp-1207.png 64w,\n/static/992fe14f75b77739949087801b0f4149/bf8e1/emp-1207.png 128w,\n/static/992fe14f75b77739949087801b0f4149/acb7c/emp-1207.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/992fe14f75b77739949087801b0f4149/8257c/emp-1207.webp 64w,\n/static/992fe14f75b77739949087801b0f4149/6766a/emp-1207.webp 128w,\n/static/992fe14f75b77739949087801b0f4149/22bfc/emp-1207.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Gremory Bar",
+            "seaReleaseDate": "August 10th, 2022",
+            "krReleaseDate": "March 2nd, 2022",
+            "globalReleaseDate": "February 8th, 2023",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "True Damage"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Nicole has pretty great self buffs but is a niche unit that's like a love child of Han Sorim and Rivet. She counters non-awakened defenders by permanently slowing, sealing, and knocking them back and also dealing increased damage against them. Against a lot of frontlines, she will always use her enhanced attack and knock them through immunities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her special deals HP% damage to non-bosses regardless of type (despite what her special description says), which can be useful against PVE enemies with large HP. This is most easily seen in Dive 48 and Dive 50, where she basically kills Rojo, a Defender with tons of HP, with two specials singlehandedly. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As for PVP, she doesn't quite deal enough damage to be viable - there are better damage dealers and her debuffs are not impactful enough to truly matter even against non-awakened defenders. Additionally Nicole being a single unit soldier makes her bad option for Revenant soldier comps\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- deals Fixed Damage that scales off enemy max HP,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great ASPD and ATK selfbuffs,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- pretty tanky for a 3 cost Ranger,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can permanently seal and slow non-awakened tanks\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- not that good in the current PVP meta\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "7",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A Ranged attacker specialized in knocking back a single unit in the front row"
+            },
+            "introduction": {
+              "introduction": "성황청으로부터 재능을 인정받은 그녀는 비교적 젊은 나이에 정식 퇴마사가 되었습니다. \n구마회의 샛별이 되어 아티팩트까지 받은 그녀에겐 밝은 미래만이 있는 것 같았습니다. \n그녀는 종단의 기대에 부응하기 위해 수천 권에 달하는 책을 읽고, 속세의 사람들과 어울리기 위한 공부를 하며 자신의 사명에 대비했습니다. \n그리고 이내 그녀는 사람들 속에 숨어있는 악마를 찾는다는 성무를 맡게 됐죠. \n그날 신부가 그녀의 손에 쥐어준 것은 그레모리의 바라고 적힌 명함 한 장이 전부였습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Anti-Defender Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": "Special Damage Amp Volcano is BIS."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1207_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires her gun, created by the Holy Curia, inflicting damage on a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1207_2",
+                "name": "Holy Rifle Agathe",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks a target within 900 reach, knocking them backward even if they're immune to Hitstun from Special or lower skills. Increases ASPD by 20% for 8 seconds upon activation. Decreases the target's SPD by 90% for 8 seconds if the target is a Defender (Awakened and Bosses excluded). This skill has an 8-second cooldown but is instantly activated if there are 3 enemy units within 900 reach."
+                },
+                "level2": {
+                  "level2": "Anti-Defender DMG +10%"
+                },
+                "level3": {
+                  "level3": "Anti-Defender DMG +10%"
+                },
+                "level4": {
+                  "level4": "Anti-Defender DMG +20%"
+                },
+                "level5": {
+                  "level5": "ASPD +40% by buff instead, Skill Seal added to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1207_3",
+                "name": "Holy Drinking Water of Antioch",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Throws water that ignites holy flames, inflicting AoE damage on and around the foremost target. C.O.s and Replacer units within her Valid Hits receive True damage by 15% of Max HP. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1207_4",
+                "name": "Bartender of That Bar",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Drinks a mysterious beverage from her bar. Increases ATK by 20% for 8 seconds upon deployment."
+                },
+                "level2": {
+                  "level2": "Buff Duration +1s"
+                },
+                "level3": {
+                  "level3": "Buff Duration +1s"
+                },
+                "level4": {
+                  "level4": "Buff Duration +2s"
+                },
+                "level5": {
+                  "level5": "ATK +30% by buff instead. This Passive buff is reapplied when Gremory is deployed."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 32.05,
+                "critical": 2.51,
+                "def": 1.72,
+                "evade": 1.51,
+                "hit": 3.91,
+                "hp": 259
+              },
+              "base": {
+                "hp": 2059,
+                "atk": 314,
+                "def": 120,
+                "hit": 273,
+                "critical": 175,
+                "evade": 105
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "2b6849fe-02ae-5ef9-90a2-d9155d847f3a"
+    }
+  },
+  "staticQueryHashes": []
+}

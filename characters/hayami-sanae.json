@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/hayami-sanae",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "924bfbea-4b21-57dc-9b3d-23edd97eb085",
+            "updatedAt": "2024-12-12T22:05:40.649Z",
+            "createdAt": "2021-10-21T23:43:28.951Z",
+            "unitId": "1115",
+            "fullName": "Hayami Sanae",
+            "slug": "hayami-sanae",
+            "shortName": "Hayami Sanae",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b80df1bf16f530e082683ef9b029543a/acb7c/emp-1115.png",
+                        "srcSet": "/static/b80df1bf16f530e082683ef9b029543a/1c9ce/emp-1115.png 64w,\n/static/b80df1bf16f530e082683ef9b029543a/bf8e1/emp-1115.png 128w,\n/static/b80df1bf16f530e082683ef9b029543a/acb7c/emp-1115.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b80df1bf16f530e082683ef9b029543a/8257c/emp-1115.webp 64w,\n/static/b80df1bf16f530e082683ef9b029543a/6766a/emp-1115.webp 128w,\n/static/b80df1bf16f530e082683ef9b029543a/22bfc/emp-1115.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Nanahara Family Alliance",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "May 7th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Buffer",
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hayami Sanae is a buffer/ backline damage dealer hybrid notable for her unique Anti-Siege DMG% buff aura. Sanae’s damage output is abysmal but her rare buff effect redeems her otherwise unremarkable kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sanae sees novel use as a buffer against Siege role bosses. In particular, she is used in strategies for Challenge Stages 3-10 to 3-15, and Sollicitatio in Danger Close.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Teamwide Anti-Siege DMG% buff\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Worse damage than dedicated damage dealers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Worse buffs than dedicated supports. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "7",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Uses high-firepower AoE attacks from a distance."
+            },
+            "introduction": {
+              "introduction": "　Hayami Sanae is a sniper providing her forces with powerful area-effective fire support from the rear line.\n\n　Her family, Hayami, was a member of the Family Alliance, but it fell off the grid a decade ago after causing devastating damage to the Alliance. Sanae disappeared after the incident, but she returned a couple of years later, carrying a massive firearm which she called the Sadiron.\n　The Family Alliance took her back as a maid at the Main House, with the connivance of the Alliance Leader at the time.\n　She takes care of everything around the mansion, from cleaning and cooking to house maintenance. Many Family members have been heard saying that she's now an indispensable part of the Main House, but most of them still seem to be wary of the possibility of Sanae bringing harm to their Alliance once again.\n"
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS, Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS, Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1115_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a special heavy firearm, inflicting AoE damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1115_2",
+                "name": "Interceptive Tactics",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Commands her forces to respond to enemies in front. She and surrounding units inflict 20% more damage on Siege units."
+                },
+                "level2": {
+                  "level2": "Passive buff effect +5%"
+                },
+                "level3": {
+                  "level3": "Passive buff effect +5%"
+                },
+                "level4": {
+                  "level4": "Passive buff effect +10%"
+                },
+                "level5": {
+                  "level5": "Also Melee DMG Taken -30%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1115_3",
+                "name": "Inazuma Ray",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Fires a lightning-like laser beam, inflicting AoE damage. This laser beam knocks backward enemies in front, with more force for those closer to the blast."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1115_4",
+                "name": "Raikou Blaster",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Causes a powerful explosion that resembles the descent of the Thunder God, inflicting AoE damage. Decreases enemy ASPD by 30% for 6 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 46.65,
+                "critical": 3.48,
+                "def": 0.84,
+                "evade": 0.89,
+                "hit": 6.34,
+                "hp": 151
+              },
+              "base": {
+                "hp": 1218,
+                "atk": 466,
+                "def": 63,
+                "hit": 480,
+                "critical": 263,
+                "evade": 67
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "924bfbea-4b21-57dc-9b3d-23edd97eb085"
+    }
+  },
+  "staticQueryHashes": []
+}

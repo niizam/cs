@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/warden",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "4d4444f7-f43a-5039-a0e1-7c4b9aada23d",
+            "updatedAt": "2024-10-17T22:19:50.169Z",
+            "createdAt": "2022-07-12T04:00:38.587Z",
+            "unitId": "1224",
+            "fullName": "Warden",
+            "slug": "warden",
+            "shortName": "Warden",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/1a234bb79d2f53a191a5fdf850ff83bf/acb7c/emp-1224.png",
+                        "srcSet": "/static/1a234bb79d2f53a191a5fdf850ff83bf/1c9ce/emp-1224.png 64w,\n/static/1a234bb79d2f53a191a5fdf850ff83bf/bf8e1/emp-1224.png 128w,\n/static/1a234bb79d2f53a191a5fdf850ff83bf/acb7c/emp-1224.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/1a234bb79d2f53a191a5fdf850ff83bf/8257c/emp-1224.webp 64w,\n/static/1a234bb79d2f53a191a5fdf850ff83bf/6766a/emp-1224.webp 128w,\n/static/1a234bb79d2f53a191a5fdf850ff83bf/22bfc/emp-1224.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Border Guard",
+            "seaReleaseDate": "December 28th, 2022",
+            "krReleaseDate": "July 12th, 2022",
+            "globalReleaseDate": "May 17th, 2023",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Barrier"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Wardens are a multi-unit soldier backline damage dealer. With a potent damage-oriented kit and low cost, they are one of the most cost-efficient damage dealers in the game. Wardens’ strong damage output and affordability give it the flexibility to easily fit in any team as a good, generally usable option.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Wardens are most often used as a part of Vivian-Curian teams in Danger Close, which involves heavily buffing Curian’s Special skill to burst down bosses. On Curian’s Special skill cast, all allied Wardens reset and instantly cast their enhanced basic attacks; this allows Wardens to capitalize on all the active buff effects to contribute a significant chunk of damage to the burst.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Wardens are the best (and only viable) cheap sniper option. Wardens represent an affordable source of anti-striker damage without the commitment issues associated with fielding more expensive alternatives. However, while Wardens are cost-effective, their diminishing ability to keep up with the increasing power levels of awakened strikers is making them less popular in favor of those more expensive alternatives (e.g. Mordred).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Cheap sniper option. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Cost-effective, but in some situations players would rather spend more for a sniper with a higher damage ceiling. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "10",
+              "pve_early": "7",
+              "pve_late": "9"
+            },
+            "description": {
+              "description": "Ranged attacker that knockback enemies with Enhanced attacks"
+            },
+            "introduction": {
+              "introduction": "워든은 적에게 높은 피해를 주는 동시에 방패 전술로 생존력을 높인 스나이퍼입니다.\n노르드나빅 왕실의 명령을 따르는 이 사격부대는 대형 침식체로부터 방어선을 지키기 위해 만들어졌습니다. \n경량형 파비스와 함께 사용하는 신비한 총 청동 가지는 특정 아티팩트를 모방한 래플리카에 불과하지만, 고등급 침식체에게도 유효한 피해를 줍니다. \n다수가 하나의 약점을 집중적으로 공략하는 일제사격 전술을 주로 사용합니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Anti-Striker Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1224_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals damage to an enemy in front with their rifles."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1224_2",
+                "name": "Marching Wall",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses the lightweight pavise to disperse impact and maintain formation. Becomes permanently immune to knockbacks."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "DEF +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1224_3",
+                "name": "Volley Fire",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every 12 seconds, switches to precision firing mode and fires an enhanced attack that knockback damaged enemies."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Enhanced attacks will always trigger CRIT"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1224_4",
+                "name": "Pavise Tactic",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Confronts enemies with their well-honed lightweight pavise tactic. Creates Barrier worth 10% of Max HP for 6 seconds every 15 seconds."
+                },
+                "level2": {
+                  "level2": "Barrier Enhancement +25%"
+                },
+                "level3": {
+                  "level3": "Barrier Enhancement +25%"
+                },
+                "level4": {
+                  "level4": "Barrier Enhancement +50%"
+                },
+                "level5": {
+                  "level5": "Activates every 12 seconds instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 25.62,
+                "critical": 2.01,
+                "def": 1.71,
+                "evade": 0,
+                "hit": 4.72,
+                "hp": 105
+              },
+              "base": {
+                "hp": 829,
+                "atk": 251,
+                "def": 119,
+                "hit": 330,
+                "critical": 140,
+                "evade": 0
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "4d4444f7-f43a-5039-a0e1-7c4b9aada23d"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/regina-maccready",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "01bbd571-e2f7-5ff8-91ca-a7608264ea7a",
+            "updatedAt": "2024-10-18T23:25:21.595Z",
+            "createdAt": "2021-10-22T00:31:02.463Z",
+            "unitId": "1149",
+            "fullName": "Regina MacCready",
+            "slug": "regina-maccready",
+            "shortName": "Regina MacCready",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a721205552bf53f5be24a2b0c44cb290/acb7c/emp-1149.png",
+                        "srcSet": "/static/a721205552bf53f5be24a2b0c44cb290/1c9ce/emp-1149.png 64w,\n/static/a721205552bf53f5be24a2b0c44cb290/bf8e1/emp-1149.png 128w,\n/static/a721205552bf53f5be24a2b0c44cb290/acb7c/emp-1149.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a721205552bf53f5be24a2b0c44cb290/8257c/emp-1149.webp 64w,\n/static/a721205552bf53f5be24a2b0c44cb290/6766a/emp-1149.webp 128w,\n/static/a721205552bf53f5be24a2b0c44cb290/22bfc/emp-1149.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "ESPR",
+            "seaReleaseDate": "July 8th, 2021",
+            "krReleaseDate": "June 25th, 2020",
+            "globalReleaseDate": "June 23rd, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Barrier",
+              "CC",
+              "Summoner",
+              "Shielder",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Regina MacCready is a utility tank with some limited functionality as an anti-mech debuffer. As she takes damage, she applies bursts of debuffs at specific HP thresholds (25%). Regina can be mixed in with the frontline tanks to stall overwhelming mech pressure with her constant debuffs and stuns. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Regina’s anti-mech utility struggles to find value. PVE content is heavily biased towards damage. Regina’s ability to stall mech enemies isn’t needed when the alternative, fielding a stronger frontline tank with more support, achieves the same outcome for no additional cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Applies shields to allies. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Personal stats are low. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A supporter that summons walls to protect allies and decreases enemies' attack capabilities."
+            },
+            "introduction": {
+              "introduction": "　Regina MacCready is a supporter specializing in summoning ice walls and weakening her enemies' abilities to attack. Her ice energy is especially effective against Mechs.\n\n　The Watch that has been passed down in her family is optimized for the power of ice. Depending on the user, not only it can create ice, but it can also cause nationwide weather phenomena.\n　The problem is that its current owner, Regina, is yet to fully control its power. She has to stay conscious of her power, or she starts to freeze the moment she lets her guard down. For her, there are no better presents than a plush blanket and coffee.\n　Her family has produced presidents of Eckhart's Society for Preternatural Research since its establishment, but Regina has never been a fan of this tradition. Maybe she's desperate to control her Watch because she wants to abolish her family's old tradition. Or she's just tired of feeling cold all the time."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1149_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Generates an ice blade out of her hand, inflicting AoE damage on enemies in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1149_2",
+                "name": "Prisoner of the Ice",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every time she loses 25% of HP, inflicts AoE damage on surrounding enemies. This skill decreases the enemies' healing amounts and ASPD by 20% for 5 seconds, and these values are doubled for Mechs."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -30% for 5 s after Passive is activated, twice less damage from enemy Mechs"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1149_3",
+                "name": "Nhyg'han Ghriee",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Summons an ice wall, inflicting AoE damage on enemies in front and Stunning Mechs for 4 seconds. This summoned ice can't be healed, and periodically forces 2 surrounding enemies to attack it for 5 seconds."
+                },
+                "level2": {
+                  "level2": "Ice HP +5%"
+                },
+                "level3": {
+                  "level3": "Ice HP +5%"
+                },
+                "level4": {
+                  "level4": "Ice HP +10%"
+                },
+                "level5": {
+                  "level5": "The ice instantly creates a barrier equal to 10% of Max HP around surrounding allies"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1149_4",
+                "name": "Scream of B'gnu-Thun",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 54,
+                "baseDescription": {
+                  "baseDescription": "Summons ice thorns from the Abyss, inflicting AoE damage on surrounding enemies. The enemies lose 15% of ATK and ASPD for 14 seconds, and these values are doubled for Mechs."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.72,
+                "critical": 1.68,
+                "def": 3.01,
+                "evade": 1.62,
+                "hit": 2.16,
+                "hp": 277
+              },
+              "base": {
+                "hp": 2244,
+                "atk": 187,
+                "def": 228,
+                "hit": 163,
+                "critical": 127,
+                "evade": 122
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "01bbd571-e2f7-5ff8-91ca-a7608264ea7a"
+    }
+  },
+  "staticQueryHashes": []
+}

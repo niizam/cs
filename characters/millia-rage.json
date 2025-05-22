@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/millia-rage",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "8e28d2d5-d0a6-52d4-93ff-a8ac24135273",
+            "updatedAt": "2024-09-09T18:41:12.691Z",
+            "createdAt": "2021-10-22T07:05:46.303Z",
+            "unitId": "1184",
+            "fullName": "Millia Rage",
+            "slug": "millia-rage",
+            "shortName": "Millia Rage",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/394ffb8a4fbdbad07dc3f3699788a961/acb7c/emp-1184.png",
+                        "srcSet": "/static/394ffb8a4fbdbad07dc3f3699788a961/1c9ce/emp-1184.png 64w,\n/static/394ffb8a4fbdbad07dc3f3699788a961/bf8e1/emp-1184.png 128w,\n/static/394ffb8a4fbdbad07dc3f3699788a961/acb7c/emp-1184.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/394ffb8a4fbdbad07dc3f3699788a961/8257c/emp-1184.webp 64w,\n/static/394ffb8a4fbdbad07dc3f3699788a961/6766a/emp-1184.webp 128w,\n/static/394ffb8a4fbdbad07dc3f3699788a961/22bfc/emp-1184.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Post-War Administration Bureau",
+            "seaReleaseDate": "June 5th, 2024",
+            "krReleaseDate": "June 22nd, 2021",
+            "globalReleaseDate": "June 5th, 2024",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Millia Rage is an affordable backline damage dealer specialized in shredding defender targets. Millia boasts a surprisingly modern kit for a unit designed years ago, bringing high damage output, HP gates, backsteps, and even invulnerability windows all to bolster her survivability and enable her damage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Millia does not provide the raw damage output to compete with her peers. As survivability is generally not factored when allocating team slots to damage dealers, a large portion of her kit goes unused.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Millia joins the pool of low cost rangers as one of many dedicated anti-defender options. Millia’s performance can be considered on par with Rearm Gaeun, trading away some AOE damage for survivability. Millia truly shines when paired with the Matador ship; her survivability tools allow her to utilize the ship’s %missing HP passive more consistently than an average soldier backline unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Though Millia has lost some of her lustre, she is still one of the most effective anti-defender rangers in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong synergy with Matador passive\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Survivability tools make Millia a safe pick relative to her peers\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Powerful, accessible Exclusive Equipment allows for easier gearing\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Millia’s backsteps are relative to her targeting, meaning she can be repositioned by your opponent.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "8",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Ranged attacker that achieves high DPS with fast ASPD"
+            },
+            "introduction": {
+              "introduction": "  Millia Rage is a Ranger whose ability to attack continuously is especially effective against Defenders with damage restriction. She also generates shock waves, pushing away nearby enemies.\n\n  A former member of the Assassin's Guild, she now leads the world's biggest intelligence agency. Her hair, imbued with the forbidden spell, 「Angra」, can assume different shapes and solidity.\n  She's quiet and cold, but doesn't always make her decisions based on cost and benefit. The random acts of kindness that she sometimes displays are why she's featured as a training instruction in the simulation version."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "ATK Set EE + Autoattack DPS gear",
+                "notes": "Ranged Damage latents and Anti-Defender substats are good for her."
+              },
+              "pvp": {
+                "set": "ATK Set EE + Autoattack DPS gear",
+                "notes": "Ranged Damage latents and Anti-Defender substats are good for her."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1184_1",
+                "name": "Lust Shaker",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "A multi-attack skill that delivers a barrage of blows to a single target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1184_2",
+                "name": "Psych Burst",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "At 70% or lower HP, she sends surrounding targets flying in the opposite direction from her. Hitstuns targets including those in Special Skill mode, and increases Skill Haste by 30% for 6 seconds per target (up to 90%). Immune to Damage for 2 seconds after this Passive. Additionally, increases ATK and Skill Haste by 3% for every Guilty Gear Unit on the battlefield in PVE (up to 18%)."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "Casts Passive again at 40% or lower HP, Anti-Defender DMG +30%."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1184_3",
+                "name": "Septem Voices",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Shoots a hair wheel, inflicting AoE damage on and around a target. Cancels the targets' barriers. This skill's damage is decreased by 50% in the Gauntlet."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Blinds targets for 5s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1184_4",
+                "name": "Winger",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 54,
+                "baseDescription": {
+                  "baseDescription": "Forcefully charges upward, inflicting AoE damage on and around her target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Skill always crits, Valid Hits +1."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 33.78,
+                "critical": 1.81,
+                "def": 1.25,
+                "evade": 3.41,
+                "hit": 4.9,
+                "hp": 213
+              },
+              "base": {
+                "hp": 1695,
+                "atk": 331,
+                "def": 87,
+                "hit": 342,
+                "critical": 126,
+                "evade": 238
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "8e28d2d5-d0a6-52d4-93ff-a8ac24135273"
+    }
+  },
+  "staticQueryHashes": []
+}

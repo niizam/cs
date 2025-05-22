@@ -1,0 +1,343 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/volume-up-gaeun",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "2ef03de4-b9b3-5e8c-8490-b185e084cde9",
+            "updatedAt": "2025-04-12T08:17:37.349Z",
+            "createdAt": "2023-02-23T09:03:37.332Z",
+            "unitId": "2042",
+            "fullName": "Volume Up Gaeun",
+            "slug": "volume-up-gaeun",
+            "shortName": "Volume Up Gaeun",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5469d6ef03408b22012631c27f996d4b/acb7c/2042.png",
+                        "srcSet": "/static/5469d6ef03408b22012631c27f996d4b/1c9ce/2042.png 64w,\n/static/5469d6ef03408b22012631c27f996d4b/bf8e1/2042.png 128w,\n/static/5469d6ef03408b22012631c27f996d4b/acb7c/2042.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5469d6ef03408b22012631c27f996d4b/8257c/2042.webp 64w,\n/static/5469d6ef03408b22012631c27f996d4b/6766a/2042.webp 128w,\n/static/5469d6ef03408b22012631c27f996d4b/22bfc/2042.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "HRT Berry",
+            "seaReleaseDate": "June 13th, 2023",
+            "krReleaseDate": "February 15th, 2023",
+            "globalReleaseDate": "May 31st, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "CC",
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Volume Up Gaeun (RGaeun) is a flexible backline utility damage dealer who can take on multiple roles thanks to her well-rounded kit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"RGaeun’s kit has a solid mix of damage and crowd control, allowing her to perform either as a single target or AOE damage dealer. RGaeun is a relatively small improvement over her base version; notably, she got a bit more damage, a bit more debuffs and a new ultimate that applies DMG Taken AMP debuff. Her lead skill buffs the entire team’s ASPD, giving her additional means of pushing teamwide damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, RGaeun occupies the competitive dedicated damage dealer niche. Like many others that served the role, RGaeun has inevitably been powercrept out of the meta. Ignoring her performance at the highest levels of competitive content, RGaeun is still a serviceable damage dealer for players who want to incorporate her into their teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, RGaeun may be played as a dedicated damage dealer to shred defenders. Historically, Gaeun was highly regarded as the premier option among the pool of anti-defender damage dealers. RGaeun had an exceptional modern kit at the time she was released, but the times have since caught up to her. In the current state of the game, RGaeun’s damage struggles to keep up with newer, stronger alternatives (e.g. Laika). Meanwhile, her utility has become increasingly irrelevant.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Excellent generalist damage dealer. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Good autoattack damage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Provides a variety of buffs and debuffs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"As a generalist, RGaeun excels at nothing. This becomes a glaring issue at higher levels of competitive content. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "10",
+              "pve_early": "7",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A Ranger who debuffs enemies and buffs allies."
+            },
+            "introduction": {
+              "introduction": "Intro."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS, Autoattack DPS",
+                "notes": "CDR DPS does less damage than Autoattack DPS, but allows you to disrupt enemies and buff your own team with skills and ults."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2042_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a pistol at the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +2%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2042_2",
+                "name": "Accent",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Focuses energy into the barrel, creating an instantaneous polarity that enhances all attacks. After every 3rd Basic attack, she delivers an enhanced attack, inflicting AoE damage on and around her target. Also decreases the targets' ASPD by 10% for 4 seconds."
+                },
+                "level2": {
+                  "level2": "CRIT +3%"
+                },
+                "level3": {
+                  "level3": "CRIT +3%"
+                },
+                "level4": {
+                  "level4": "CRIT +9%"
+                },
+                "level5": {
+                  "level5": "ASPD -20% instead."
+                },
+                "level6": {
+                  "level6": "CRIT +3%"
+                },
+                "level7": {
+                  "level7": "CRIT +3%"
+                },
+                "level8": {
+                  "level8": "CRIT +3%"
+                },
+                "level9": {
+                  "level9": "CRIT +6%"
+                },
+                "level10": {
+                  "level10": "Skill Haste -20% added to the debuff (10% in Gauntlet)."
+                }
+              },
+              {
+                "skillId": "2042_3",
+                "name": "Flat Tacet",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 23,
+                "baseDescription": {
+                  "baseDescription": "Dodges backward and fires an energy bomb twice with strong feelings for the teacher, inflicting AoE damage on and around the foremost target. Stuns targets for 1 second."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Skill cooldown -2 s."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Skill seal 1s added"
+                }
+              },
+              {
+                "skillId": "2042_4",
+                "name": "Broadcasting Sign-on",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 44,
+                "baseDescription": {
+                  "baseDescription": "Broadcast start~! Casts continuous attacks on the front row and back row, melting the hearts of viewers. Then, fires projectiles that quickly hits multiple enemies several times, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "The passive decreases the Ultimate skill cooldown by 2 s."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Damaged targets receive +20% DMG Taken AMP for 8s. (Does not refresh debuff duration, 10% in Gauntlet)."
+                }
+              },
+              {
+                "skillId": "2042_5",
+                "name": "HRT-Berry Climax",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Performs duties as the leader of HRT Berry. Increases all allies' ASPD by 10% for 4s every time Gaeun uses Special or Ultimate Skill."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "Increases ASPD by 20% in PvE."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 34.09,
+                "critical": 3.69,
+                "def": 2.44,
+                "evade": 2.51,
+                "hit": 3.84,
+                "hp": 272
+              },
+              "base": {
+                "hp": 2162,
+                "atk": 334,
+                "def": 170,
+                "hit": 268,
+                "critical": 258,
+                "evade": 175
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1042",
+              "slug": "gaeun",
+              "shortName": "Gaeun",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/110b2d5daf32f7891caf77c442647b04/acb7c/emp-1042.png",
+                          "srcSet": "/static/110b2d5daf32f7891caf77c442647b04/1c9ce/emp-1042.png 64w,\n/static/110b2d5daf32f7891caf77c442647b04/bf8e1/emp-1042.png 128w,\n/static/110b2d5daf32f7891caf77c442647b04/acb7c/emp-1042.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/110b2d5daf32f7891caf77c442647b04/8257c/emp-1042.webp 64w,\n/static/110b2d5daf32f7891caf77c442647b04/6766a/emp-1042.webp 128w,\n/static/110b2d5daf32f7891caf77c442647b04/22bfc/emp-1042.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "2ef03de4-b9b3-5e8c-8490-b185e084cde9"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/awakened-na-yubin",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "e981b37d-f777-5d5e-941d-f1f3ec96e526",
+            "updatedAt": "2024-06-22T22:00:41.950Z",
+            "createdAt": "2021-10-21T13:13:21.357Z",
+            "unitId": "1071",
+            "fullName": "Awakened Na Yubin",
+            "slug": "awakened-na-yubin",
+            "shortName": "Awakened Na Yubin",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a9305fe469d76b96b0e03c7a54dede66/acb7c/emp-1071.png",
+                        "srcSet": "/static/a9305fe469d76b96b0e03c7a54dede66/1c9ce/emp-1071.png 64w,\n/static/a9305fe469d76b96b0e03c7a54dede66/bf8e1/emp-1071.png 128w,\n/static/a9305fe469d76b96b0e03c7a54dede66/acb7c/emp-1071.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a9305fe469d76b96b0e03c7a54dede66/8257c/emp-1071.webp 64w,\n/static/a9305fe469d76b96b0e03c7a54dede66/6766a/emp-1071.webp 128w,\n/static/a9305fe469d76b96b0e03c7a54dede66/22bfc/emp-1071.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Six Wings",
+            "seaReleaseDate": "September 1st, 2021",
+            "krReleaseDate": "November 26th, 2020",
+            "globalReleaseDate": "August 18th, 2022",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": {
+              "name": "Antagonist Wings",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Deteriorating World",
+              "description": "HP +35%, performs enhanced attack after every 6th incoming damage instead"
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Dispeller",
+              "Debuffer",
+              "ETB",
+              "DoT"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Na Yubin (NYB) is a PVP-oriented frontline tank packed with various PVP-relevant gimmicks and utility. NYB is most known for his backline disruption, diving headfirst into the enemy backline to wreak havoc.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"NYB’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"addresses his long standing survivability issues by giving him +35% HP and halving the passive trigger condition from 12 hits to 6 hits. This greatly improves his PVP performance and propels him back into the meta as a potent frontline tank. Post-reactor, he is among the tankiest units in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Although NYB is predominantly a PVP unit, he can still find some success in PVE as a walking health bar. This is not saying a lot, as “not dying” is the bare minimum expected of frontline tanks in PVE.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The majority of NYB’s kit translates poorly to a PVE environment. As a general frontline tank, NYB struggles to distinguish himself from the pool of stronger, cheaper alternatives.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Without his reactor, NYB is too squishy to perform his role as a frontline tank in PVP. With his reactor, NYB gains a significant boost to his survivability to the point where it puts him ahead of most other ASSR defenders.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"NYB possesses a relatively simple kit being one of the earlier ASSR releases. Much of NYB’s PVP relevance is attributed to his post-reactor tankiness. NYB’s skills are practically useless but this is largely compensated for by his laundry list of passive effects. These are:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Dash attack\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": After receiving a number of hits, NYB performs a lunge that pushes him forward. NYB will constantly spam this attack. Paired with his bizarre target selection, NYB will frequently push himself deep into the enemy backline, disrupting the backline, dealing damage to squishy targets, and creating a massive headache for opponents trying to set up.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Barrier reflux\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": On deploy, NYB applies a mapwide 100% barrier reflux to all on-field enemies. With every dash attack, NYB applies 100% barrier reflux to nearby enemies. As one of two main sources of sustain across all comps, this passive frequently finds value.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Skill haste debuff\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": For as long as NYB lives, he applies a mapwide -30% skill haste debuff to all on-field enemies. Paired with other skill haste debuffs (e.g. New Ohio), this can create a massive skill haste gap.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Tower HP burn\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": As a character released at a time when towers were extremely oppressive, NYB was released with a passive mapwide %max HP burn against tower units. While NYB is not typically played in response to towers, he naturally skews those matchups in his favor.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As NYB is a frontline tank played primarily for his survivability, it is naturally difficult to counter a unit who’s entire purpose is not dying. That being said, NYB’s penchant for diving into the enemy backline is a double-edged sword, as it exposes him to a considerable amount of risk. When NYB dashes too far, he risks isolating himself from the rest of his team. If the team is not able to follow up on the space he makes, he can find himself alone, unsupported, and die shortly after.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Stats-wise, NYB is one of the strongest general use tanks in PVP \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"As a frontline tank heavily reliant on base EVA stats, NYB is especially susceptible to enemy surefire (and other similar) effects. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- NYB is used exclusively in PVP \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "8",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A defender who inflicts as much damage as his barrier while weaving his way through the battlefield."
+            },
+            "introduction": {
+              "introduction": "　Na Yubin is a vanguard who excels in prolonged battles. He creates a barrier as he attacks, and deteriorates his enemies' defense through AoE attacks.\n\n　The leader of the mysterious armed organization, Six Wings, he works with a few like-minded members to achieve a goal that only they know.\n　He owns unique gear of unknown origin, and has been a suspect in various unsolved cases. He's dangerous, enough that you should be cautious when recruiting him into your forces.\n　He's currently working as a customer service representative at a city hall, not hiding his real identity."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": "Best user of melee res Gordias pieces in the entire game."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1071_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Inflicts AoE damage on enemies in front with impure energy."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1071_2",
+                "name": "Deteriorating World",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When deployed, induces Reflux of all enemy barriers, canceling them and inflicting as much damage as their durability. Afterwards, decreases HP by 2% every second for enemy Towers on the field (4% in Gauntlet). Also, launches an AoE attack for every 12th incoming damage which induces Barrier Reflux. These effects are not applied to Bosses or ships."
+                },
+                "level2": {
+                  "level2": "EVA +5%"
+                },
+                "level3": {
+                  "level3": "EVA +5%"
+                },
+                "level4": {
+                  "level4": "EVA +10%"
+                },
+                "level5": {
+                  "level5": "All enemy units' Skill Haste -30% added to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1071_3",
+                "name": "Void Ray",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Vibrates the void, inflicting AoE damage on enemies in front. The damaged targets lose 15% of ASPD for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Special skill cooldown -3 s for every enhanced attack launched"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1071_4",
+                "name": "Wings of Destruction",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Discharges the power of wings through his pulse blaster, inflicting AoE damage on enemies in front. The damaged targets lose 15% of ATK for 15 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "The debuff becomes permanent"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 40.32,
+                "critical": 1.84,
+                "def": 6.02,
+                "evade": 6.61,
+                "hit": 1.99,
+                "hp": 584
+              },
+              "base": {
+                "hp": 4797,
+                "atk": 408,
+                "def": 497,
+                "hit": 164,
+                "critical": 152,
+                "evade": 546
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "e981b37d-f777-5d5e-941d-f1f3ec96e526"
+    }
+  },
+  "staticQueryHashes": []
+}

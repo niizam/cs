@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/shim-somi",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "5fad1c87-d30d-5f37-95eb-6e36e9dc857f",
+            "updatedAt": "2024-10-17T21:31:43.600Z",
+            "createdAt": "2021-10-22T00:07:23.460Z",
+            "unitId": "1131",
+            "fullName": "Shim Somi",
+            "slug": "shim-somi",
+            "shortName": "Shim Somi",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/73b2556833734961e810aa50cd3a1aeb/acb7c/emp-1131.png",
+                        "srcSet": "/static/73b2556833734961e810aa50cd3a1aeb/1c9ce/emp-1131.png 64w,\n/static/73b2556833734961e810aa50cd3a1aeb/bf8e1/emp-1131.png 128w,\n/static/73b2556833734961e810aa50cd3a1aeb/acb7c/emp-1131.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/73b2556833734961e810aa50cd3a1aeb/8257c/emp-1131.webp 64w,\n/static/73b2556833734961e810aa50cd3a1aeb/6766a/emp-1131.webp 128w,\n/static/73b2556833734961e810aa50cd3a1aeb/22bfc/emp-1131.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "N",
+            "rarityNumber": 1,
+            "rarityClassName": "N",
+            "title": "Daymine Mining Team 4",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Shim Somi does not provide relevant utility at sufficient potency to justify using as a support.\\n\\nAs supporters’ personal stats don’t factor into the final buff values (buffs scale with target stats), stat scaling by rarity is largely secondary to the potency of the buffs/ debuffs they bring to the team.\\n \\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A support unit that decreases enemies' attack capabilities."
+            },
+            "introduction": {
+              "introduction": "　Shim Somi, a passionate new member of Daymine, is a debilitating supporter who disrupts enemy's offensive capabilities.\n\n　When she was working at a call center, she always won the Smile of the Month award. Even after entering the TASKFORCE industry, she never loses her bright smile.\n　Although she makes a lot of mistakes and often gets scolded by her boss, her experience of dealing with terrible customers helps her quickly shake things off and return to work. She has a strong passion for work, but her goal in life is simply to become a proud daughter to her family. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1131_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a small energy ball at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1131_2",
+                "name": "Diligent Employee",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Maintains a healthy lifestyle to achieve her best performance. Increases HP by 5%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "ATK +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1131_3",
+                "name": "Critical Down",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Shoots energy that slows down physical responses, inflicting AoE damage on and around the target. Targets lose 10% of CRIT stats and CRIT DMG for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s CRIT stats and CRIT DMG -20% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1131_4",
+                "name": "Physical Down",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 46,
+                "baseDescription": {
+                  "baseDescription": "Shoots energy that decreases physical ability, inflicting AoE damage. The targets lose 15% of ATK for 12 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 17.02,
+                "critical": 1.89,
+                "def": 1.01,
+                "evade": 1.58,
+                "hit": 1.89,
+                "hp": 154
+              },
+              "base": {
+                "hp": 1244,
+                "atk": 170,
+                "def": 76,
+                "hit": 143,
+                "critical": 143,
+                "evade": 119
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "5fad1c87-d30d-5f37-95eb-6e36e9dc857f"
+    }
+  },
+  "staticQueryHashes": []
+}

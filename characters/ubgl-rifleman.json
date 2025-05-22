@@ -1,0 +1,183 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ubgl-rifleman",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "d0bed67a-4e17-5ca9-baa1-909e34822445",
+            "updatedAt": "2024-10-17T21:36:18.435Z",
+            "createdAt": "2021-10-21T11:19:35.709Z",
+            "unitId": "1019",
+            "fullName": "UBGL Rifleman",
+            "slug": "ubgl-rifleman",
+            "shortName": "UBGL Rifleman",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a0ada18aa5ae68cb5694703815e6faa4/acb7c/emp-1019.png",
+                        "srcSet": "/static/a0ada18aa5ae68cb5694703815e6faa4/1c9ce/emp-1019.png 64w,\n/static/a0ada18aa5ae68cb5694703815e6faa4/bf8e1/emp-1019.png 128w,\n/static/a0ada18aa5ae68cb5694703815e6faa4/acb7c/emp-1019.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a0ada18aa5ae68cb5694703815e6faa4/8257c/emp-1019.webp 64w,\n/static/a0ada18aa5ae68cb5694703815e6faa4/6766a/emp-1019.webp 128w,\n/static/a0ada18aa5ae68cb5694703815e6faa4/22bfc/emp-1019.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Fennec Fox",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, UBGL Rifleman does not have the stats necessary to meet the baseline requirements expected of them as a damage dealer.\\n\\nUBGL Rifleman does not possess relevant utility that would justify using them. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Ranged attacker that additionally delivers AoE attacks."
+            },
+            "introduction": {
+              "introduction": "　A ranged attacker that periodically performs area attacks by firing off grenades.\n\n　They are mercenaries experienced in desert combat who can also perform well in any situation. They use detachable grenade launchers to reinforce their firepower.\n　Many of them were once in the army, but they joined Fennec Fox due to financial reasons. Their previous experiences allow them to play an essential role in battle by flexibly connecting specialized units to coordinate together. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1019_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rifle at a target, and then additionally fires a grenade, inflicting AoE damage on and around the target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1019_2",
+                "name": "SGLM Special Warfare Rifle",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Modifies a module-type grenade launcher for enhanced firepower. Increases ATK by 3%."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +9%"
+                },
+                "level5": {
+                  "level5": "Basic attack Grenade Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 16.02,
+                "critical": 3.12,
+                "def": 0.33,
+                "evade": 0.53,
+                "hit": 1.03,
+                "hp": 86
+              },
+              "base": {
+                "hp": 694,
+                "atk": 160,
+                "def": 25,
+                "hit": 78,
+                "critical": 236,
+                "evade": 40
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "d0bed67a-4e17-5ca9-baa1-909e34822445"
+    }
+  },
+  "staticQueryHashes": []
+}

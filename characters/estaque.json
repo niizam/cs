@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/estaque",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "cbfcb856-1e9b-5c69-b96f-36c36ca01528",
+            "updatedAt": "2024-10-18T23:16:15.156Z",
+            "createdAt": "2021-10-21T12:23:38.276Z",
+            "unitId": "1070",
+            "fullName": "Estaque",
+            "slug": "estaque",
+            "shortName": "Estaque",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/9f1904c2d2c2be88c61e984d5bf47f77/acb7c/emp-1070.png",
+                        "srcSet": "/static/9f1904c2d2c2be88c61e984d5bf47f77/1c9ce/emp-1070.png 64w,\n/static/9f1904c2d2c2be88c61e984d5bf47f77/bf8e1/emp-1070.png 128w,\n/static/9f1904c2d2c2be88c61e984d5bf47f77/acb7c/emp-1070.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/9f1904c2d2c2be88c61e984d5bf47f77/8257c/emp-1070.webp 64w,\n/static/9f1904c2d2c2be88c61e984d5bf47f77/6766a/emp-1070.webp 128w,\n/static/9f1904c2d2c2be88c61e984d5bf47f77/22bfc/emp-1070.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Old Administration",
+            "seaReleaseDate": "November 3rd, 2021",
+            "krReleaseDate": "May 28th, 2020",
+            "globalReleaseDate": "August 4th, 2022",
+            "cost": 4,
+            "type": [
+              "Mech"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Barrier",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Estaque is a backline damage dealer designed to apply constant pressure on the enemy backline with its disruptive shelling. Estaque is one of the only characters with furthest-enemy target priority on its basic attack. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Estaque sees extremely fringe use as an ASPD debuffer in few specific endgame PVE setups. As one of the few units with 100% uptime ASPD debuff in the game (applied via basic attacks) it can be used in tandem with other debuffers to slow enemies to a crawl. Holistically it’s still garbage, but just you know.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Estaque has several glaring weaknesses keeping it from being playable. These are:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Passive transition animation lock\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Estaque goes through a long siege-mode animation when it switches between “moving” and “stationary” stances. Estaque does not have hitstun immunity. In a PVP environment with constant hitstun, Estaque can be stunlocked in an endless animation loop. This significantly affects its damage uptime to the point it is almost entirely unplayable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Poor range\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": For a unit designed as a long-range artillery piece, Estaque’s unimpressive range means it often cannot even reach the enemy backline.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Poor survivability\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Estaque is fragile and has next to no defensive utility. It has no means of defending itself and it dies to the slightest pressure.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On paper, Estaque occupies the backline access niche as one of many characters designed around shutting down backline targets. For all scenarios, there exist more effective alternatives for the role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"One of the few sources of high uptime ASPD debuffs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Everything else.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Increases ATK as it attacks enemies, and uses AoE attacks from the hindmost side."
+            },
+            "introduction": {
+              "introduction": "　Specializing in ultra-long-range bombardments, these sniper units can provide stronger firepower as they stay longer in battle.\n\n　They are the ultimate defense units of the Old Administration. The massive firepower of this unit can destroy targets from miles away. Theoretically, its 155mm particle gun is even effective against Category 4 C.O. as well."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1070_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Stays on its deployment spot and fires a high-powered particle cannon, periodically inflicting damage on and around the farthest target within range."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1070_2",
+                "name": "Standard Barrier Coating",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "It's equipped with the Administration's standard-issue barrier. Casts a barrier equal to 70% of Max HP when deployed."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Barrier covers 100% of Max HP"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1070_3",
+                "name": "High-powered Control Unit",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Improves the body to stabilize its output power, regardless of battle duration. Basic attacks increase ATK by 2% every time they are performed, up to 10%."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "ASPD +15%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1070_4",
+                "name": "Nerve-slowing Particles",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Explosions generate nerve conduction-slowing particles. Decreases targets' ASPD by 15% for 3 seconds."
+                },
+                "level2": {
+                  "level2": "HIT +10%"
+                },
+                "level3": {
+                  "level3": "HIT +10%"
+                },
+                "level4": {
+                  "level4": "HIT +20%"
+                },
+                "level5": {
+                  "level5": "ASPD -25% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 34.84,
+                "critical": 2.12,
+                "def": 2.34,
+                "evade": 0,
+                "hit": 6.02,
+                "hp": 90
+              },
+              "base": {
+                "hp": 724,
+                "atk": 348,
+                "def": 177,
+                "hit": 456,
+                "critical": 160,
+                "evade": 0
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "cbfcb856-1e9b-5c69-b96f-36c36ca01528"
+    }
+  },
+  "staticQueryHashes": []
+}

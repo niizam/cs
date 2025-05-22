@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/katharina",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "ced7335c-ffd9-56a6-8e8b-b28740a28a72",
+            "updatedAt": "2025-05-03T09:47:09.273Z",
+            "createdAt": "2025-05-01T07:26:55.218Z",
+            "unitId": "1290",
+            "fullName": "Katharina",
+            "slug": "katharina",
+            "shortName": "Katharina",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c8ccc2ed1cdef1dfc5442e491cc5f6d5/22bfc/1290.webp",
+                        "srcSet": "/static/c8ccc2ed1cdef1dfc5442e491cc5f6d5/8257c/1290.webp 64w,\n/static/c8ccc2ed1cdef1dfc5442e491cc5f6d5/6766a/1290.webp 128w,\n/static/c8ccc2ed1cdef1dfc5442e491cc5f6d5/22bfc/1290.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "April 24th, 2025",
+            "krReleaseDate": "April 24th, 2025",
+            "globalReleaseDate": "April 24th, 2025",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Katharina is a backline buffer that provides high uptime ATK% and Skill Haste (ASPD% for fury units instead) buffs to her team. On top of that, her special applies a rare debuff immunity buff to allied units.\\n\\nIn PVE, Katharina is a universally good offensive buffer that works on all factions (unlike her counterpart Anila who only buffs Counters). This makes her usable with a variety of teams that include Soldiers/Mechs (e.g. Awakened Curian and Awakened Sigma). While she is overcosted for the offensive power her buffs provide, it only matters for competitive content (e.g. Danger Close). However, unless debuff removal becomes critical in future content, it is unlikely Katharina becomes integral to any strategy. \\n\\nIn PVP, Katharina is a general use offensive buffer, notable for her synergy with fury units (mostly Awakened Karin Wong). While debuff immunity buff her Special Skill offers can prevent important debuffs (e.g. Awakened Seo Yoon's healing reflux), this utility by itself isn't worth the team slot and DP commitment. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Another good offensive buffer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Debuff Immunity\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outperformed by better offensive buffers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "1",
+              "pve_early": "8",
+              "pve_late": "8"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1290_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals damage to a single target in front."
+                },
+                "level2": {
+                  "level2": "Basic attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1290_2",
+                "name": "Thirst",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Upon deployment, grants Skill Haste +20% to all allies without Fury tag, and ASPD +20% to allies with Fury tag, for 8 seconds. The effect is reactivated after casting Special or Ultimate Skill."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "ATK +30% added to Passive Skill buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1290_3",
+                "name": "Prayer of Petition",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Nullifies debuffs to allies within range (Bosses and ships excluded, cannot be canceled). The cast lasts up to 5 seconds and ends if no enemies are within range. While casting Special Skill, ASPD does not increase or decrease. While casting Special Skill, enters Perfect  EVA."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Resets Special Skill cooldown upon deployment."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1290_4",
+                "name": "Ars Goetia",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Inflicts AOE damage to and around the target"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Stuns affected enemies for 4 s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 21.84,
+                "critical": 1.39,
+                "def": 1.82,
+                "evade": 3.74,
+                "hit": 2.81,
+                "hp": 263
+              },
+              "base": {
+                "hp": 2090,
+                "atk": 214,
+                "def": 127,
+                "hit": 196,
+                "critical": 97,
+                "evade": 261
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": true,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "ced7335c-ffd9-56a6-8e8b-b28740a28a72"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/mors",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "d2ee26d3-d208-560a-8ee6-c44e6e6503e4",
+            "updatedAt": "2024-10-17T22:10:04.267Z",
+            "createdAt": "2022-04-19T08:36:06.429Z",
+            "unitId": "1213",
+            "fullName": "Mors",
+            "slug": "mors",
+            "shortName": "Mors",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/80e379f437edb1ebce28740fc607d57b/acb7c/emp-1213.png",
+                        "srcSet": "/static/80e379f437edb1ebce28740fc607d57b/1c9ce/emp-1213.png 64w,\n/static/80e379f437edb1ebce28740fc607d57b/bf8e1/emp-1213.png 128w,\n/static/80e379f437edb1ebce28740fc607d57b/acb7c/emp-1213.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/80e379f437edb1ebce28740fc607d57b/8257c/emp-1213.webp 64w,\n/static/80e379f437edb1ebce28740fc607d57b/6766a/emp-1213.webp 128w,\n/static/80e379f437edb1ebce28740fc607d57b/22bfc/emp-1213.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Demon-type C.O.",
+            "seaReleaseDate": "October 5th, 2022",
+            "krReleaseDate": "April 19th, 2022",
+            "globalReleaseDate": "March 8th, 2023",
+            "cost": 4,
+            "type": [
+              "Mech",
+              "Corrupted Object"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Selfhealer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mors is a PVP-oriented frontline tank that gets stronger whenever friendly units (excluding summons) die. Notably, Mors self-heals every 23 hits received, which can make her difficult to kill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Mors needs setup to enable her power fantasy as an undying frontline tank. Mors does not do enough to justify dedicating limited team resources to her. Without her stacks, Mors struggles to meet baseline requirements expected of her as a frontline tank.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"With enough stacks can become functionally immortal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"10 friendly units dying is not a good thing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Defender that grows in power as her allies die"
+            },
+            "introduction": {
+              "introduction": "모르스는 아군이 사망할 때마다 체력과 방어력이 영구적으로 증가하는 디펜더입니다.\n구 관리국 시절, 모르스는 일반 대원들에게 그림자의 위험성을 대표하는 존재였습니다. 기록 영상에 남아 있는 그것의 모습이 매우 흉포하고 불길하게 여겨졌기 때문입니다. 마에스트로에 필적할 만큼 오래된 침식체이며, 대화가 가능하다고 해도 많은 그림자가 그렇듯 실질적인 소통이 이루어지는지는 확신할 길이 없습니다.\n드물게도 침식체에게 공격성을 드러내는 개체이지만, 소통의 문제에서 나타나듯 행동 양식은 파악되지 않은 부분이 많아 주의가 필요합니다. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": "Scales extraordinarily well with Incoming Healing jungle gear."
+              },
+              "pvp": {
+                "set": "Full Tank, Jungle Healing Enhancement Tank",
+                "notes": "Scales extraordinarily well with Incoming Healing jungle gear."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1213_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Mors swings her halberd to deal AoE damage to surrounding enemies."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1213_2",
+                "name": "Grief",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Mors rages when one of her allies dies. When Mors is on the field, an ally’s death will permanently increase Mors’ max HP by 10%. (Max 100%, summoned units excluded, can't be canceled)"
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Each stack also gives 5% DEF (Max 50%, summoned units excluded, can't be canceled)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1213_3",
+                "name": "Break Armor",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 23,
+                "baseDescription": {
+                  "baseDescription": "Mors sweeps around her to deal AoE damage and knock enemies backwards, downing them."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Increase DMG Taken by 15% to enemy hit by her last attack for 10 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1213_4",
+                "name": "Rage of the Dead ",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every time Mors is damaged 23 times, she deals damage to nearby enemies and knocks them backwards. Recovers 10% of HP and increases DMG RES by 10% for 10 seconds. Afterwards, immediately uses Special Skill."
+                },
+                "level2": {
+                  "level2": "DMG RES +5%"
+                },
+                "level3": {
+                  "level3": "DMG RES +5%"
+                },
+                "level4": {
+                  "level4": "DMG RES +10%"
+                },
+                "level5": {
+                  "level5": "Recovery is set to 20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 22.76,
+                "critical": 0.53,
+                "def": 5.8,
+                "evade": 0,
+                "hit": 2.91,
+                "hp": 406
+              },
+              "base": {
+                "hp": 3230,
+                "atk": 223,
+                "def": 405,
+                "hit": 203,
+                "critical": 37,
+                "evade": 0
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "d2ee26d3-d208-560a-8ee6-c44e6e6503e4"
+    }
+  },
+  "staticQueryHashes": []
+}

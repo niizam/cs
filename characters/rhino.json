@@ -1,0 +1,214 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/rhino",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "0870a9b1-469a-583e-b3a5-9f5f82d92256",
+            "updatedAt": "2024-03-19T04:32:34.445Z",
+            "createdAt": "2021-10-21T11:15:14.604Z",
+            "unitId": "1015",
+            "fullName": "Rhino",
+            "slug": "rhino",
+            "shortName": "Rhino",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/e45e63fb9bd38180693a4cae8d7d9724/acb7c/emp-1015.png",
+                        "srcSet": "/static/e45e63fb9bd38180693a4cae8d7d9724/1c9ce/emp-1015.png 64w,\n/static/e45e63fb9bd38180693a4cae8d7d9724/bf8e1/emp-1015.png 128w,\n/static/e45e63fb9bd38180693a4cae8d7d9724/acb7c/emp-1015.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/e45e63fb9bd38180693a4cae8d7d9724/8257c/emp-1015.webp 64w,\n/static/e45e63fb9bd38180693a4cae8d7d9724/6766a/emp-1015.webp 128w,\n/static/e45e63fb9bd38180693a4cae8d7d9724/22bfc/emp-1015.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Steel Lane",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 5,
+            "type": [
+              "Mech"
+            ],
+            "role": "Siege",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rhino is one of the few Siege employees in the game. In PVE he is quite useless, but in PVP there are teams built around Rhino that are quite a nightmare to deal with. Still, it's a niche team and not really meta, but if you like the type of gameplay it can be fun to use.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- massive Health pool,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- if it reaches the enemy ship it's hard to deal with it in time.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- only good in a niche PVP team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A charger effective against enemy Bosses or Ships."
+            },
+            "introduction": {
+              "introduction": "　A powerful siege unit that inflicts massive damage on the key target.\n\n　This siege tank was developed by Steel Lane to suppress large Corrupted Objects that can't be taken down with regular firepower.\n　It thrusts a giant drill with compressed air and gunpowder to annihilate the target. Despite their incredible power, Rhinos have long reloading time and lack close combat abilities, always requiring protection.\n　They were originally developed to demolish structures and flatten terrain during the post-war rebuilding, but they were repurposed for military use due to their overwhelming power. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": "HIT accessories"
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": "HIT accessories"
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1015_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Ignores all incoming attacks and approaches the enemy ship or Boss, inflicting damage with its big pile bunker."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1015_2",
+                "name": "Active Hydro-pneumatic ISU",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Improves the stability of its suspension system. Permanently grants immunity to Hitstun from Special or lower skills."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "Permanent immunity to Hitstun from Ultimate or lower skills"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1015_3",
+                "name": "Corruption-resistant Armor",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Equips special armor that minimizes mechanical malfunctions. Increases Debuff RES by 3%."
+                },
+                "level2": {
+                  "level2": "Debuff RES +3%"
+                },
+                "level3": {
+                  "level3": "Debuff RES +3%"
+                },
+                "level4": {
+                  "level4": "Debuff RES +6%"
+                },
+                "level5": {
+                  "level5": "Debuff RES +15%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 33.15,
+                "critical": 0,
+                "def": 3.22,
+                "evade": 0,
+                "hit": 0,
+                "hp": 490
+              },
+              "base": {
+                "hp": 4082,
+                "atk": 340,
+                "def": 292,
+                "hit": 0,
+                "critical": 0,
+                "evade": 0
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": true
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "0870a9b1-469a-583e-b3a5-9f5f82d92256"
+    }
+  },
+  "staticQueryHashes": []
+}

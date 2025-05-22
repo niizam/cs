@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lumi",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c90e3130-4085-5723-915f-81c4ca974604",
+            "updatedAt": "2024-07-28T19:26:46.292Z",
+            "createdAt": "2021-10-21T11:50:38.685Z",
+            "unitId": "1043",
+            "fullName": "Lumi",
+            "slug": "lumi",
+            "shortName": "Lumi",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/1a9cde4a349122f61fa3ded925b3950c/acb7c/emp-1043.png",
+                        "srcSet": "/static/1a9cde4a349122f61fa3ded925b3950c/1c9ce/emp-1043.png 64w,\n/static/1a9cde4a349122f61fa3ded925b3950c/bf8e1/emp-1043.png 128w,\n/static/1a9cde4a349122f61fa3ded925b3950c/acb7c/emp-1043.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/1a9cde4a349122f61fa3ded925b3950c/8257c/emp-1043.webp 64w,\n/static/1a9cde4a349122f61fa3ded925b3950c/6766a/emp-1043.webp 128w,\n/static/1a9cde4a349122f61fa3ded925b3950c/22bfc/emp-1043.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "HRT Berry",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Siege",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "ETB",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lumi is a pure PVP employee who is commonly used in siege comps. If your enemy is notready to counter her, she can pummel the ship to death in mere seconds. Sadly with rush comps being super popular and meta now, people are ready for her and she rarely gets to shine.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can kill ships alone really fast.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- only good in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Quickly approaches and bombards enemy Bosses or Ships."
+            },
+            "introduction": {
+              "introduction": "　Lumi, who calls herself the next leader of HRT Berry, is a siege unit who quickly breaks through enemy lines to attack the key target. \n\n　Born from a middle-class family, she dreamed of becoming a celebrity ever since she was a kid. But there was always someone better than her regardless of the field.\n　Tired of being treated second best, she joined HRT Berry as soon as she became a Counter. Of course, her dream of becoming the best was thwarted when Gaeun joined the team.\n　She will gladly jump into hordes of C.O. if she can draw the attention of the viewers, especially when the enemy leader is spotted. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Terror Gear",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1043_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Ignores all incoming attacks and approaches the enemy ship or Boss, inflicting AoE damage on and around the target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1043_2",
+                "name": "Magnificent Entrance",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Bombards and inflicts AoE damage on an area within a 300-reach radius upon deployment."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -6%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +2"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1043_3",
+                "name": "Rocket Jump",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 30,
+                "baseDescription": {
+                  "baseDescription": "Uses her launcher's recoil as the momentum to leap over to the enemy Boss or ship, and delivers an additional Knockback attack upon landing."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -6 s"
+                },
+                "level5": {
+                  "level5": "DMG Taken -25% for 10 s after attack"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1043_4",
+                "name": "Go! Luminator",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 65,
+                "baseDescription": {
+                  "baseDescription": "Summons her monster truck that knocks backward surrounding enemies and charges at the enemy ship or Boss until the truck is destroyed. The truck loses 35% of HP with each attack."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -6 s"
+                },
+                "level5": {
+                  "level5": "The truck loses 25% of HP with each attack instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 25.07,
+                "critical": 3.1,
+                "def": 4.89,
+                "evade": 2.48,
+                "hit": 1.25,
+                "hp": 313
+              },
+              "base": {
+                "hp": 2445,
+                "atk": 241,
+                "def": 317,
+                "hit": 81,
+                "critical": 201,
+                "evade": 161
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": true
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c90e3130-4085-5723-915f-81c4ca974604"
+    }
+  },
+  "staticQueryHashes": []
+}

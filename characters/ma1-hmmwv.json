@@ -1,0 +1,189 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ma1-hmmwv",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "e99a2603-cbc6-54a5-9ccf-a7a576f65cbc",
+            "updatedAt": "2024-10-17T21:25:41.402Z",
+            "createdAt": "2021-10-21T11:32:59.192Z",
+            "unitId": "1027",
+            "fullName": "MA1 HMMWV",
+            "slug": "ma1-hmmwv",
+            "shortName": "MA1 HMMWV",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/d2c3b3b3925e4f55f8a74546ee175ef5/acb7c/emp-1027.png",
+                        "srcSet": "/static/d2c3b3b3925e4f55f8a74546ee175ef5/1c9ce/emp-1027.png 64w,\n/static/d2c3b3b3925e4f55f8a74546ee175ef5/bf8e1/emp-1027.png 128w,\n/static/d2c3b3b3925e4f55f8a74546ee175ef5/acb7c/emp-1027.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/d2c3b3b3925e4f55f8a74546ee175ef5/8257c/emp-1027.webp 64w,\n/static/d2c3b3b3925e4f55f8a74546ee175ef5/6766a/emp-1027.webp 128w,\n/static/d2c3b3b3925e4f55f8a74546ee175ef5/22bfc/emp-1027.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Fennec Fox",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Mech"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "ETB",
+              "Buffer",
+              "Retribution",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, MA1 HMMWV does not have the stats necessary to meet the baseline requirements expected of it as a frontline tank.\\n\\nMA1 HMMWV does not possess relevant utility that would justify using it. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Knocks back enemies upon appearance, and supports attackers from the front."
+            },
+            "introduction": {
+              "introduction": "　A vanguard that pushes back enemies when deployed.\n\n　They are highly mobile multi-purpose vehicle that were supplied during the Grand Purification War. They only have simple armaments, but they can rush into the combat zone to briefly stop enemy advancements.\n　The machine gun mounted on top enables them to engage a relatively safe battle against Category 1 C.O. For this reason, they were once used by the United Forces to maintain security around their camps.\n　The exhilarating ride experience remains unchanged even with an AI installed."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1027_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a machine gun at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1027_2",
+                "name": "There Are Paths Everywhere",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Knocks enemies backward with AoE damage upon its deployment. Increases surrounding Strikers' DEF by 15%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Deploys 2 UBGL Riflemans upon death."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 20.33,
+                "critical": 1.19,
+                "def": 2.46,
+                "evade": 1.46,
+                "hit": 1.72,
+                "hp": 275
+              },
+              "base": {
+                "hp": 2230,
+                "atk": 203,
+                "def": 186,
+                "hit": 130,
+                "critical": 90,
+                "evade": 110
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "e99a2603-cbc6-54a5-9ccf-a7a576f65cbc"
+    }
+  },
+  "staticQueryHashes": []
+}

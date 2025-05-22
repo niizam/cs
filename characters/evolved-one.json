@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/evolved-one",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "fdabbb68-3ab5-51cb-874c-11dab5f34a61",
+            "updatedAt": "2024-11-07T21:42:36.652Z",
+            "createdAt": "2021-10-22T07:14:19.930Z",
+            "unitId": "1190",
+            "fullName": "Evolved One",
+            "slug": "evolved-one",
+            "shortName": "Evolved One",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/d83541a2de4c9e034753f28e41558301/acb7c/emp-1190.png",
+                        "srcSet": "/static/d83541a2de4c9e034753f28e41558301/1c9ce/emp-1190.png 64w,\n/static/d83541a2de4c9e034753f28e41558301/bf8e1/emp-1190.png 128w,\n/static/d83541a2de4c9e034753f28e41558301/acb7c/emp-1190.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/d83541a2de4c9e034753f28e41558301/8257c/emp-1190.webp 64w,\n/static/d83541a2de4c9e034753f28e41558301/6766a/emp-1190.webp 128w,\n/static/d83541a2de4c9e034753f28e41558301/22bfc/emp-1190.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Apex Predator",
+            "seaReleaseDate": "December 1st, 2021",
+            "krReleaseDate": "July 27th, 2021",
+            "globalReleaseDate": "November 10th, 2022",
+            "cost": 6,
+            "type": [
+              "Mech"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "ETB",
+              "Healblock",
+              "Debuffer",
+              "Dispeller"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Evolved-One is the first awakened employee that isn't a Counter. She's also the first unit that consumes other units to make herself permanently stronger. With over 130k HP, 2k DEF, and 5% MDL she's really hard to kill. She seems to fit great into the mecha team, but the fact that she can't be healed is a problem in some modes. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She's the first awakened employee that is farmable. But you need to clear Dive 50 (which is one of the hardest contents in the game) to unlock the ability to get her for free.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of the passive that prevents her from being healed, it's really hard to use her in PVE. Pure Mech teams without Evolved One do better in PVE than with her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP she brought second life to all Mecha teams lovers and she's a super popular pick. What's best about her is that she's really flexible - all you need is some sacrifices to boost her passive and you can pair her with anything and she will work well. As long as she survives to her ult, she will wipe the whole battlefield with her nuke.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the KR region, while she is really strong, she rarely gets banned and it's a running joke in the community that the developers protect her from bans. Still, the issue with her lack of bans is that because she's easy to use, a lot of players play her and this tanks her win rate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"MDL = Max Damage Limit or DMG Taken Limit is a stat that only appears on SSR rarity Defenders. How does it work? For example, if an employee has 10% MDL it means that any hit that does more damage than 10% of his max HP, will have the part exceeding the MDL value lowered by 80%. This prevents Defenders with MDL from being one-shot by skills/ultimates. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A way to counter MDL is to use employees with great ASPD like Administration Rifleman, Ifrit, or Millia Rage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- deals tons of damage for a defender,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- hard to kill thanks to high stats and 5% MDL.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- without sacrifices, she's meh at best and if you let her die before she uses her ult, you will likely lose the match,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- weak in PVE.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "9",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A high-powered Defender that strengthens itself by destroying ally Mechs"
+            },
+            "introduction": {
+              "introduction": "Evolved One is an aggressive Ranged Defender that sacrifices her own Mechs to grow stronger. \nThis leader of the criminal group, Scavengers, is different from other robots that have raged out of control because of the influence of the Corruption. She can actually think on her own and carries out destructive activities with clear purposes in mind. \nShe's also obsessed with evolution and thinks that everything, including humanity, is disposable where her evolution is concerned. \nIf compared to wildlife, Evolved One is an apex predator at the top of a food chain. She destroys other machines and devours them like a voracious carnivore does, \nsave she's armed with fusion projectiles and heavy firearms instead of claws and fangs."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": "EE is only worth crafting after you have cleared the golden bullet shop."
+              },
+              "pvp": {
+                "set": "CDR DPS, Full Tank, or CDR Tank",
+                "notes": "EE is only worth crafting after you have cleared the golden bullet shop. Tank E1 is a real build on banned Awakened Jake weeks. It requires a completely different team than standard maze CDR build."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1190_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a Gatling gun at Ground units and an anti-air gun at Air units, inflicting AoE damage on and around the target for 8 seconds. 1 or more Passive stacks activate an enhanced attack after Basic attacks that decreases its targets' Healing by 100% for 8 seconds."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1190_2",
+                "name": "Evolving Attraction",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When deployed, destroys ally Mechs on the field and increases ATK by 15%. (Up to 3 stacks) Evolved One can't be healed or receive non-Permanent buffs or debuffs."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Ally Mech-destroying buff adds DMG RDC +15%. (Up to 3 stacks)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1190_3",
+                "name": "War Bringer",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Fires a high-powered railgun, inflicting AoE damage in front. Decreases enemy ATK and Skill Haste by 30% for 6 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Removes all non-Permanent buffs on targets. (Bosses excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1190_4",
+                "name": "Anti-war Ender: Nemesis",
+                "type": "Ultimate",
+                "validHits": 5,
+                "cooldown": 56,
+                "baseDescription": {
+                  "baseDescription": "Fires a tactical fusion projectile, inflicting AoE damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Penetrates the target's DMG RES by 50%."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 35.24,
+                "critical": 0.85,
+                "def": 11.25,
+                "evade": 0,
+                "hit": 3.89,
+                "hp": 760
+              },
+              "base": {
+                "hp": 6165,
+                "atk": 352,
+                "def": 852,
+                "hit": 294,
+                "critical": 64,
+                "evade": 0
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "fdabbb68-3ab5-51cb-874c-11dab5f34a61"
+    }
+  },
+  "staticQueryHashes": []
+}

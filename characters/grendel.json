@@ -1,0 +1,241 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/grendel",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "270b7bea-dbcc-5826-9260-9980555c2146",
+            "updatedAt": "2024-10-17T22:13:58.462Z",
+            "createdAt": "2022-06-07T05:27:29.025Z",
+            "unitId": "1219",
+            "fullName": "Grendel",
+            "slug": "grendel",
+            "shortName": "Grendel",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4e91d70a1d3c3a70d4e17845330a1018/acb7c/emp-1219.png",
+                        "srcSet": "/static/4e91d70a1d3c3a70d4e17845330a1018/1c9ce/emp-1219.png 64w,\n/static/4e91d70a1d3c3a70d4e17845330a1018/bf8e1/emp-1219.png 128w,\n/static/4e91d70a1d3c3a70d4e17845330a1018/acb7c/emp-1219.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4e91d70a1d3c3a70d4e17845330a1018/8257c/emp-1219.webp 64w,\n/static/4e91d70a1d3c3a70d4e17845330a1018/6766a/emp-1219.webp 128w,\n/static/4e91d70a1d3c3a70d4e17845330a1018/22bfc/emp-1219.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "The Northern Convention",
+            "seaReleaseDate": "November 2nd, 2022",
+            "krReleaseDate": "June 7th, 2022",
+            "globalReleaseDate": "January 12th, 2023",
+            "cost": 4,
+            "type": [
+              "Mech"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Grendel is a long range backline damage dealer with a well-rounded kit. Grendel is notable in that it has (what is effectively) mapwide barrier reflux + barrier nullification, applied regularly through its enhanced basic attack after Special Skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Grendel occupies the competitive dedicated damage dealer niche. Grendel was never particularly good, but in the current state of the game it has been thoroughly powercrept out of the meta. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Grendel sees infrequent play in mech comps as a damage dealer on account of its synergy with Coffin-6, otherwise it has largely disappeared from the meta in favor of stronger alternatives.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Extremely long range barrier reflux + barrier nullification with decent uptime. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Special and lower hitstun immunity allows Grendel to maintain a constant steady damage output by ignoring the effects of most types of hitstun. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Overshadowed by stronger dedicated damage dealers. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "9",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A long range attacker that can Reflux Barriers on enemies"
+            },
+            "introduction": {
+              "introduction": "그렌델은 배리어로 보호 받는 적에게 강력한 위력을 발휘하는 스나이퍼입니다.\n병기 개발국이 개발한 「심판의 망치」는 일부 침식체들이 형성하는 방어 역장을 파훼하기 위해 산악지대에 설치된 레일건이었습니다. 하지만 북방 합의체는 이 막강한 화력을 보다 다양한 국면에서 활용하길 바랐고, 그 기대에 부응한 산물이 바로 그렌델입니다.\n이 투박한 외형의 다족 보행 병기는 심판의 망치를 운용하기 위한 플랫폼으로서 설계되었습니다. 한계로 지적 받던 전력 소모 문제를 에너지 실린더로 극복한 이후, 그렌델은 국경을 지키는 감시자 역할을 훌륭하게 수행하고 있습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Anti Striker Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Anti-Striker Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1219_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When an enemy is detected, she enters stationary mode and fires her railgun at the target. If the enemy comes within her melee range, she will strike it with her leg, resulting in a knockback."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +5%"
+                },
+                "level5": {
+                  "level5": "DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1219_2",
+                "name": "Laser Bullet",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After activating her Special Skill, basic attacks are enhanced for 3 seconds (Max 1 attack). Strike enemies on the laser’s trajectory causing Barrier Reflux by 50%, and nullifying enemies’ Barrier for 12 seconds."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "Increase Barrier Reflux to 75%."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1219_3",
+                "name": "VLS",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 30,
+                "baseDescription": {
+                  "baseDescription": "Can only be used in stationary mode. Fires a barrage of missiles, dealing AoE damage to the target and nearby enemies."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1219_4",
+                "name": "Four-legged Machine of Destruction",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Permanent immunity to Hitstun from Special or lower skills."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "HP +15%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 46.85,
+                "critical": 1.59,
+                "def": 2.71,
+                "evade": 0,
+                "hit": 6.53,
+                "hp": 149
+              },
+              "base": {
+                "hp": 1185,
+                "atk": 459,
+                "def": 189,
+                "hit": 456,
+                "critical": 111,
+                "evade": 0
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "270b7bea-dbcc-5826-9260-9980555c2146"
+    }
+  },
+  "staticQueryHashes": []
+}

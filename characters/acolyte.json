@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/acolyte",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "4b25c908-9a09-523f-a5af-ec1d3f16dab3",
+            "updatedAt": "2024-07-24T09:07:22.615Z",
+            "createdAt": "2022-11-08T07:28:17.046Z",
+            "unitId": "1231",
+            "fullName": "Acolyte",
+            "slug": "acolyte",
+            "shortName": "Acolyte",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/579b6a75950ca26328b2a9dd4d5138db/acb7c/emp-1231.png",
+                        "srcSet": "/static/579b6a75950ca26328b2a9dd4d5138db/1c9ce/emp-1231.png 64w,\n/static/579b6a75950ca26328b2a9dd4d5138db/bf8e1/emp-1231.png 128w,\n/static/579b6a75950ca26328b2a9dd4d5138db/acb7c/emp-1231.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/579b6a75950ca26328b2a9dd4d5138db/8257c/emp-1231.webp 64w,\n/static/579b6a75950ca26328b2a9dd4d5138db/6766a/emp-1231.webp 128w,\n/static/579b6a75950ca26328b2a9dd4d5138db/22bfc/emp-1231.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "ESPR",
+            "seaReleaseDate": "March 21st, 2023",
+            "krReleaseDate": "November 8th, 2022",
+            "globalReleaseDate": "September 6th, 2023",
+            "cost": 3,
+            "type": [
+              "Soldier",
+              "Corrupted Object"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Healer",
+              "Buffer",
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Acolytes are long-range healing supporters with a self-damage gimmick. Unlike most other units, Acolytes cannot be healed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, it is generally preferred to use units that stay alive throughout the fight without needing to be redeployed. Since Acolytes will inevitably die after a certain period of time, this makes them less than ideal. For the same 3-cost you spend on Acolytes, you can get healers (such as Rearmed Chinatsu and Evelyn) who not only heal the entire team without killing themselves, but also provide other forms of buffs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Acolyte is one of the strongest PVP healers in the game because of how Jungle gear (see gear recommendation) interacts with healing reduction debuffs. The greatest advantage of Jungle gear is it offsets healing reduction debuffs. This allows Jungle healers to continue healing in situations where traditional Support CDR healers cannot. Acolyte benefits heavily from Jungle sets because the usual trade off, Skill Haste for Outgoing Healing, does not apply to them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On top of Acolyte’s raw healing numbers, their on-death backline stun effect is a powerful disruption tool that disables the enemy backline and even does a considerable chunk of damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Long-ranged healing\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CC on enemy backline after death\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Reliant on niche relic gear \",\"marks\":[],\"data\":{}}]}]},{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"A unit that kills themselves is not useful in PVE specifically\",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "11",
+              "pvp_global": "10",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Supporters who sacrifice their own life to heal allies."
+            },
+            "introduction": {
+              "introduction": "애콜라이트는 자신의 체력을 소모해 아군을 회복해 주면서, 사망 시 적에게 해로운 영향을 끼치는 서포터입니다.\n애콜라이트란 학회의 최전선에서 새로운 지식을 탐색하는 연구자들이요, 지식의 탐구를 방해하는 무지한 자들을 내쫓기 위한 비밀스러운 창칼입니다. 복식은 여느 학회원과 동일하나, 가면 너머에는 더욱 위험하고 신비로운 실체가 숨겨져 있습니다.\n이들을 제공하는 책무는 의학부에 있습니다. 의학부는 주로 영지의 주민들이나 학회에 헌신하길 원하는 외부인들 중에서 지원자를 차출됩니다. 헌신을 거부하는 이들도 호수의 파편과 접촉하면 어김없이 자신의 뜻을 되돌리고는 합니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "ASPD Tank",
+                "notes": "Benefits the most from healing enhancement wild gear."
+              },
+              "pvp": {
+                "set": "ASPD Tank",
+                "notes": "Benefits the most from healing enhancement wild gear."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1231_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a sniper rifle, dealing damage to target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1231_2",
+                "name": "Plague Treatment",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every basic attack heals all allies within attack range for 2% of their max HP."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "After being deployed, lose 0.5% HP/s for 30s (Cannot be removed). Every 3s, increase ASPD by 3% (Up to 10 stacks, Cannot be removed)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1231_3",
+                "name": "Tainted Blood Transfusion",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every 2 basic attacks, consume 10% of own HP to fire an enhanced attack. Allies within range recover 10% of their max HP."
+                },
+                "level2": {
+                  "level2": "EVA +5%"
+                },
+                "level3": {
+                  "level3": "EVA +5%"
+                },
+                "level4": {
+                  "level4": "EVA +10%"
+                },
+                "level5": {
+                  "level5": "When using enhanced attack, allied Soldiers/C.O. units above 80% HP gain 15% increased HP for 15s (Up to 2 stacks, Summons excluded)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1231_4",
+                "name": "Death Sentence",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The Acolyte cannot recover HP. After dying, inflicts knockback on the furthest target and Stun them for 5s. Does not apply to targets exceeding valid hits."
+                },
+                "level2": {
+                  "level2": "HIT +5%"
+                },
+                "level3": {
+                  "level3": "HIT +5%"
+                },
+                "level4": {
+                  "level4": "HIT +10%"
+                },
+                "level5": {
+                  "level5": "When HP falls below 50%, all enemies lose 10% Anti-Soldier/C.O. DMG for 20 sec. (Up to 2 stacks)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 14.02,
+                "critical": 1.09,
+                "def": 0.99,
+                "evade": 2,
+                "hit": 2.04,
+                "hp": 157
+              },
+              "base": {
+                "hp": 1272,
+                "atk": 140,
+                "def": 75,
+                "hit": 154,
+                "critical": 82,
+                "evade": 151
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "4b25c908-9a09-523f-a5af-ec1d3f16dab3"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/noel",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "122372b0-b21b-516d-986e-e1e9e1dcb27e",
+            "updatedAt": "2025-05-01T07:58:23.820Z",
+            "createdAt": "2023-03-23T07:55:27.007Z",
+            "unitId": "1243",
+            "fullName": "Noelle Wright",
+            "slug": "noel",
+            "shortName": "Noel",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6d2193137fd17348c2e455284c186f8a/acb7c/1243.png",
+                        "srcSet": "/static/6d2193137fd17348c2e455284c186f8a/1c9ce/1243.png 64w,\n/static/6d2193137fd17348c2e455284c186f8a/bf8e1/1243.png 128w,\n/static/6d2193137fd17348c2e455284c186f8a/acb7c/1243.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6d2193137fd17348c2e455284c186f8a/8257c/1243.webp 64w,\n/static/6d2193137fd17348c2e455284c186f8a/6766a/1243.webp 128w,\n/static/6d2193137fd17348c2e455284c186f8a/22bfc/1243.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Fenrir Squad",
+            "seaReleaseDate": "July 18th, 2023",
+            "krReleaseDate": "March 15th, 2023",
+            "globalReleaseDate": "November 8th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": {
+              "name": "Vajra",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Activate: Vajra",
+              "description": "ATK <b>+30%</b>, resets Special Skill cooldown when using Ultimate Skill."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Noelle is a backline damage dealer with a little bit of miscellaneous utility. Unfortunately she does not have the stats nor multipliers to justify using her. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Noelle’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" improves her attack stat and makes her special reset upon casting ultimate. Her reactor did not improve her damage enough to compete with better damage dealers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"None. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Damage is low despite being a dedicated damage dealer. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "6",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Sniper who can seal enemy skills"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1243_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Launches an autonomous weapon Vajra at an enemy, dealing single-target damage. Vajra pierces the enemy and remains in place."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1243_2",
+                "name": "Activation: Vajra",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After 3 Basic Attacks, cast an Enhanced Attack. Issues a command to recall all Vajras on the battlefield, dealing 50% of basic attack as damage with hitstun. "
+                },
+                "level2": {
+                  "level2": "HIT +10%"
+                },
+                "level3": {
+                  "level3": "HIT +10%"
+                },
+                "level4": {
+                  "level4": "HIT +20%"
+                },
+                "level5": {
+                  "level5": "EVA +100% for 3s after recovering stance ends."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1243_3",
+                "name": "Detonate",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Sends a number of Vajras flying towards the target, exploding them and dealing damage. All Vajras on the battlefield also explode, dealing 50% of basic attack as damage. All remaining Vajras explode upon Noel dying. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Enemies hit by the explosion have their skills sealed for 2s. (Mechs excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1243_4",
+                "name": "Full Metal Jacket",
+                "type": "Ultimate",
+                "validHits": 1,
+                "cooldown": 44,
+                "baseDescription": {
+                  "baseDescription": "Throws five Vajras in a straight line that penetrates enemies based on valid hit. Each throw increases Vajra's valid hits by 1."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Damaged enemies receive +4% DMG Taken AMP for 5s (Up to 20%)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 38.48,
+                "critical": 2.05,
+                "def": 1.95,
+                "evade": 1.12,
+                "hit": 7.93,
+                "hp": 167
+              },
+              "base": {
+                "hp": 1324,
+                "atk": 377,
+                "def": 136,
+                "hit": 554,
+                "critical": 143,
+                "evade": 78
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "122372b0-b21b-516d-986e-e1e9e1dcb27e"
+    }
+  },
+  "staticQueryHashes": []
+}

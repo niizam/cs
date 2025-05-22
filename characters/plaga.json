@@ -1,0 +1,234 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/plaga",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "36fd455c-6527-5589-9e3c-6403820f443c",
+            "updatedAt": "2025-01-28T07:13:36.050Z",
+            "createdAt": "2023-07-28T09:41:49.154Z",
+            "unitId": "1254",
+            "fullName": "Plaga",
+            "slug": "plaga",
+            "shortName": "Plaga",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/47024952e42de7806f2600d92d057c1a/acb7c/1254.png",
+                        "srcSet": "/static/47024952e42de7806f2600d92d057c1a/1c9ce/1254.png 64w,\n/static/47024952e42de7806f2600d92d057c1a/bf8e1/1254.png 128w,\n/static/47024952e42de7806f2600d92d057c1a/acb7c/1254.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/47024952e42de7806f2600d92d057c1a/8257c/1254.webp 64w,\n/static/47024952e42de7806f2600d92d057c1a/6766a/1254.webp 128w,\n/static/47024952e42de7806f2600d92d057c1a/22bfc/1254.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Elysium Philharmonic",
+            "seaReleaseDate": "December 12th, 2023",
+            "krReleaseDate": "July 26th, 2023",
+            "globalReleaseDate": "February 21st, 2024",
+            "cost": 3,
+            "type": [
+              "Counter",
+              "Corrupted Object"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Plaga is a backline offensive buffer. Her kit provides a little bit of DMG RDC, movement speed and Ultimate applies massive ATK and CDMG buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Plaga sees usage in 16-unit content such as Raids and Guild Coop.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Plaga's Philharmonic synergy give her limited viability as a niche option for Maestra comps.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Strong offensive and defensive buffs.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Non-existent personal damage output.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "9"
+            },
+            "description": {
+              "description": "A Ranger who can support her allies"
+            },
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1254_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Performs the bassoon and increases her CRIT by 350 (Up to 3 stacks). Upon reaching 3 stacks, consume all stacks to unleash an attack that stuns enemies for 1s."
+                },
+                "level2": {
+                  "level2": "Upon successful CRIT attack, increases self Skill Haste +5% for 10s."
+                },
+                "level3": {
+                  "level3": "Upon successful CRIT attack, increases self Skill Haste +5% for 10s."
+                },
+                "level4": {
+                  "level4": "Upon successful CRIT attack, increases self Skill Haste +5% for 10s."
+                },
+                "level5": {
+                  "level5": "Upon successful CRIT attack, increases self Skill Haste +10% for 10s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1254_2",
+                "name": "Vibrato",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Summons a [Remnant] upon deployment and after every 40s. [Remnant] cannot be attacked and increases allied C.O. units’ DMG RDC by 20%. Basic attacks additionally increases allies’ DMG RDC by 3% for 8s (Up to 3 stacks). [Remnant] will repeat Special Skill when Plaga uses Special Skill. [Remnant] is destroyed after casting Special Skill twice."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "[Remnant] basic attacks grants C.O. units 15% Status RES (Up to 3 stacks)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1254_3",
+                "name": "B Flat Major",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 34,
+                "baseDescription": {
+                  "baseDescription": "Launches a [Note] into the air before blasting it. Allies within range including Plaga receives 10% Movement speed, Skill haste for 12s (Up to 3 stacks). "
+                },
+                "level2": {
+                  "level2": "Cooldown -1s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2s"
+                },
+                "level5": {
+                  "level5": "The effect applies globally to C.O. units."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1254_4",
+                "name": "Sorrow Sunday",
+                "type": "Ultimate",
+                "validHits": null,
+                "cooldown": 68,
+                "baseDescription": {
+                  "baseDescription": "Performs using the bassoon to spread a gloomy tone onto the battlefield and attacks all enemies in the finale. Grants all allies excluding Plaga+20% ATK, +40% Crit DMG for 15s, and applies [Melody] to allied Elysium Philharmonic members including Plaga, which increases their Counter DMG Res by 20%. "
+                },
+                "level2": {
+                  "level2": "Cooldown -2s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4s"
+                },
+                "level5": {
+                  "level5": "[Melody] duration is extended to 30s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 0,
+                "critical": 0,
+                "def": 2.06,
+                "evade": 3.37,
+                "hit": 3.32,
+                "hp": 251
+              },
+              "base": {
+                "hp": 2064,
+                "atk": 0,
+                "def": 170,
+                "hit": 274,
+                "critical": 0,
+                "evade": 278
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "36fd455c-6527-5589-9e3c-6403820f443c"
+    }
+  },
+  "staticQueryHashes": []
+}

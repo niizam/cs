@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lee-jisoo",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "6fa139b5-3ced-5cb3-8684-b3b4b491f7d0",
+            "updatedAt": "2025-02-25T07:32:25.743Z",
+            "createdAt": "2021-10-21T13:14:50.702Z",
+            "unitId": "1072",
+            "fullName": "Lee Jisoo",
+            "slug": "lee-jisoo",
+            "shortName": "Lee Jisoo",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/05d0824aeb070112f6a959cf0b4b7161/acb7c/emp-1072.png",
+                        "srcSet": "/static/05d0824aeb070112f6a959cf0b4b7161/1c9ce/emp-1072.png 64w,\n/static/05d0824aeb070112f6a959cf0b4b7161/bf8e1/emp-1072.png 128w,\n/static/05d0824aeb070112f6a959cf0b4b7161/acb7c/emp-1072.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/05d0824aeb070112f6a959cf0b4b7161/8257c/emp-1072.webp 64w,\n/static/05d0824aeb070112f6a959cf0b4b7161/6766a/emp-1072.webp 128w,\n/static/05d0824aeb070112f6a959cf0b4b7161/22bfc/emp-1072.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Six Wings",
+            "seaReleaseDate": "June 10th, 2021",
+            "krReleaseDate": "July 10th, 2020",
+            "globalReleaseDate": "May 26th, 2022",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": {
+              "name": "Ghost Hunter's Blade",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Spell: Healing Prevention",
+              "description": "Status Effect RES +40%. While Lee Jisoo exists on the battlefield, inflicts enemy Ranger, Striker, and Sniper units with a Skill Haste -75% debuff for 12 s (cannot be canceled)."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Dispeller",
+              "Offtank",
+              "Healblock"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jisoo is a utility tank who creates value for the team through a plethora of debuffs. Notably, she applies a 90%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"healing reduction debuff and 25% ASPD decrease debuff passively globally. Not only does the debuff have 100% uptime, it is classified as a permanent debuff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jisoo’s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" addressed her long-standing survivability issues by turning her into a stat-stick monstrosity. Jisoo’s reactor comes with an assortment of desirable stats; notably, she gains up to 60% Status Effect RES. Status Effect RES reduces debuff duration and effect (among other things, this means healing reflux refluxes less and falls off sooner). While players typically assess character kits holistically, Jisoo’s reactor is so strong that many people opt to frontline Jisoo purely for the stats it grants.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Generally speaking, Jisoo’s utility rarely finds enough value that it would justify running her over other frontline alternatives. Of note, Jisoo’s reactor turns her into a massive stat stick capable of frontlining most PVE stages.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jisoo without her reactor is borderline unplayable in PVP. With her reactor, Jisoo becomes an unbelievably oppressive frontline tank. She provides insane utility, has unimaginable bulk, and she does all this for 5 DP. When Jisoo isn’t banned, everyone is basically forced to run their own Jisoo to match the opponent. For now, she is unironically considered the strongest frontline tank in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Part of her tankiness can be attributed to her supporter role. There is no dedicated anti-supporter gear configuration, as the substat option does not exist. Traditional anti-defender/ anti-striker DMG sets won’t work against Jisoo. Unless you are willing to invest in a Volcano set, Jisoo will only be affected by the 3 lines of 51.2% anti-ground DMG shared by all damage dealer gear (and Britra ranged/ melee DMG from latents, but that’s tangential). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Killing Jisoo is a daunting task. Contrasting other ASSRs with clear counterplay, Jisoo is so grossly overtuned that your only real option is to play into the Jisoo mirror match hoping your backline is stronger than theirs. Access to a proper Volcano set opens your options considerably, otherwise it’s too inefficient to dedicate resources towards a scuffed anti-Jisoo unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Global permanent healing reduction hard-counters healers and cripples comps whose frontlines depend on healing for sustain.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"ASPD decrease debuff can be coupled with other debuffers to neuter ASPD-based damage dealers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Jisoo’s reactor is pretty broken.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Her utility is rarely ever needed in PVE. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "11",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A supporter who combines swordsmanship with curses to incapacitate enemies"
+            },
+            "introduction": {
+              "introduction": "　Lee Jisoo is a Melee supporter specializing in various curses, including Recovery reduction.\n\n　A member of an organization called Six Wings, she's often seen escorting her leader, Na Yubin, unlike the other members who rarely reveal themselves in public.\n　She's a dangerous person who has penetrated the Administration's security several times, with only her sword. Her Counter abilities are powerful curses, which she uses through her swordsmanship to subdue her enemies.\n　She's currently working undercover at a government office, but she has a bad reputation among her colleagues because she is always messing up at work. It is suspected that she, who must be a talented person, is pretending to be clumsy in order to avoid suspicion. What other reason could there be?"
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank or Tank CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank or Tank CDR",
+                "notes": "More Skill Haste means faster ults, and Jisoo's ult grants a ton of defensive utility, can ruin enemy positioning, and can win games on its own."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1072_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her sword sheathed, and then unsheathes it, inflicting AoE damage on enemies in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1072_2",
+                "name": "Spell: Healing Prevention",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Surrounds the field with her magic power. While she's alive, enemy units' healing amounts are permanently decreased by 90%, and enemy Rangers, Strikers, and Snipers' ASPD is decreased by 15%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "ASPD -25% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1072_3",
+                "name": "Seal: Annihilation",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Draws her weapon with lightning speed, inflicting AoE damage. The last attack increases the damage taken by enemies by 15% for 16 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1072_4",
+                "name": "Forbidden: Night of Curses",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 46,
+                "baseDescription": {
+                  "baseDescription": "Musters up her strength and charges, inflicting AoE damage. This skill's first attack cancels all its targets' non-Permanent buffs, and disables new buffs on them for 15 seconds. If the debuffed targets die, her DEF increases by 10%, up to 50%. Gains 15% max HP barrier after casting the skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Debuffs for 45 s and buff effect changes to Permanent"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.84,
+                "critical": 3.7,
+                "def": 4.45,
+                "evade": 4.64,
+                "hit": 1.86,
+                "hp": 400
+              },
+              "base": {
+                "hp": 3289,
+                "atk": 302,
+                "def": 367,
+                "hit": 153,
+                "critical": 305,
+                "evade": 383
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "6fa139b5-3ced-5cb3-8684-b3b4b491f7d0"
+    }
+  },
+  "staticQueryHashes": []
+}

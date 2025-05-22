@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/joo-shiyoon",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "9355c2ae-c02a-5a1a-bb9b-bba996ae2a9e",
+            "updatedAt": "2024-08-31T20:19:08.822Z",
+            "createdAt": "2021-10-21T11:01:03.325Z",
+            "unitId": "1003",
+            "fullName": "Joo Shiyoon",
+            "slug": "joo-shiyoon",
+            "shortName": "Joo Shiyoon",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/53e29a391642ff5b213d64c3e429b667/acb7c/emp-1003.png",
+                        "srcSet": "/static/53e29a391642ff5b213d64c3e429b667/1c9ce/emp-1003.png 64w,\n/static/53e29a391642ff5b213d64c3e429b667/bf8e1/emp-1003.png 128w,\n/static/53e29a391642ff5b213d64c3e429b667/acb7c/emp-1003.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/53e29a391642ff5b213d64c3e429b667/8257c/emp-1003.webp 64w,\n/static/53e29a391642ff5b213d64c3e429b667/6766a/emp-1003.webp 128w,\n/static/53e29a391642ff5b213d64c3e429b667/22bfc/emp-1003.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Fenrir Squad",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 3rd, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Paratrooper"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Joo Shiyoon - one of the three protagonists of Counter Side - is famous for his counterattack ability that proved to be so strong, it had to be nerfed. Twice. When the game was first launched, not only he could counter all ship skills, but also Awakened Employees' skills. The ability to do that made him a meta pick in PVP, but sadly he got hit by a nerf bat.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Nowadays he is rarely used in PVP due to it being Awakened employee fiesta, but in PVE he still has places where he shines. For example, he's a staple in normal Raid and his counter will help your squishy team members survive - until his Awakened counterpart comes around at least. He is also great in Shadow Palace and basically mandatory to use on three bosses in Danger Close (Sollicitatio, Tyrant Sword, and Bishop).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- counterattack!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can cheese some PVE stages/bosses like Shadow Palace and Danger Close.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can't counterattack Awakened employees which makes him bad in PVP in the current meta.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "6",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Creates variables through forward deployment and Hitstun countering."
+            },
+            "introduction": {
+              "introduction": "　A tricky attacker who can counter enemy attacks from anywhere in the battlefield.\n\n　His main weapon is the long blade he wears, but he mostly uses only daggers with the excuse that the blade can break his pinky fingernail.\n　He always claims that he's an ordinary employee, but no one actually believes it. He is the only member who stayed in Fenrir Squad after Hilde disappeared. Many people in the company assume that he only retained his position to keep getting his salary without working.\n　The leaders of the 52-minute Week Movement and the maintenance team's Drunk-on-duty Incident claim that they had spoken to him before their actions. The Managerial Department is suspecting that he instigated the protests because he wanted to create justifiable reasons to slack off. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS or Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS or Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1003_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Dashes forward and backward a long distance, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1003_2",
+                "name": "Snake Instinct",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Assesses the battle situation and secures a vantage point. Can be deployed anywhere, regardless of enemy Boss's or ship's HP."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -8%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1003_3",
+                "name": "Counterattack",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Ignores damage from Hitstunning Special Skills and shoots a spirit sword, inflicting AoE damage. Stuns the targets for 1.5 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -3 s"
+                },
+                "level5": {
+                  "level5": "DMG +25%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1003_4",
+                "name": "Spatial Slash",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 40,
+                "baseDescription": {
+                  "baseDescription": "Performs a slash and drops a building onto enemies, inflicting AoE damage. Stuns the targets for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Skill always inflicts CRIT damage"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.8,
+                "critical": 4.37,
+                "def": 0.72,
+                "evade": 2.79,
+                "hit": 1.82,
+                "hp": 157
+              },
+              "base": {
+                "hp": 1243,
+                "atk": 292,
+                "def": 50,
+                "hit": 127,
+                "critical": 305,
+                "evade": 195
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "9355c2ae-c02a-5a1a-bb9b-bba996ae2a9e"
+    }
+  },
+  "staticQueryHashes": []
+}

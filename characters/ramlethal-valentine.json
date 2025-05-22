@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ramlethal-valentine",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "897f2314-23ad-557a-8f97-c78208f577b5",
+            "updatedAt": "2024-11-09T01:49:22.596Z",
+            "createdAt": "2021-10-22T07:07:15.936Z",
+            "unitId": "1185",
+            "fullName": "Ramlethal Valentine",
+            "slug": "ramlethal-valentine",
+            "shortName": "Ramlethal Valentine",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/bd20f91826ab49cd5405c7b065f3b8e0/acb7c/emp-1185.png",
+                        "srcSet": "/static/bd20f91826ab49cd5405c7b065f3b8e0/1c9ce/emp-1185.png 64w,\n/static/bd20f91826ab49cd5405c7b065f3b8e0/bf8e1/emp-1185.png 128w,\n/static/bd20f91826ab49cd5405c7b065f3b8e0/acb7c/emp-1185.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/bd20f91826ab49cd5405c7b065f3b8e0/8257c/emp-1185.webp 64w,\n/static/bd20f91826ab49cd5405c7b065f3b8e0/6766a/emp-1185.webp 128w,\n/static/bd20f91826ab49cd5405c7b065f3b8e0/22bfc/emp-1185.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Illyria Commando Brigade",
+            "seaReleaseDate": "June 5th, 2024",
+            "krReleaseDate": "July 6th, 2021",
+            "globalReleaseDate": "June 5th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "ETB"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ramlethal Valentine is a bulky frontline tank that is notable for her high uptime DMG RDC, perfect evasion buffs, and a counter on the special skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ramlethal can be a beginner-friendly generalist unit with good coverage but, like many frontline tanks without strong identities, begins to show her faults the further you progress. Ramlethal does not transition well into high-end PVE because team slots are limited, and units that excel in a particular niche tend to contribute more value than generalists.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a PVP unit, Ramlethal is a complete package. She provides:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Remarkable Survivability\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Non-ASSR strikers generally struggle to stay alive, and as a result have largely disappeared from PVP. Ramlethal breaks the mold as one of the tankiest strikers in the game, competing even with many mainstay defenders for the frontline role on PVP teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Personal Damage Output\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Frontline tanks typically do not have the luxury of stacking anything but DMG RES% substats on their gear, often at the expense of personal damage output. Ramlethal’s built-in current %HP damage allows her to still apply pressure without any cost to survivability.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"COUNTER(!)\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": The counterattack on her special can be used creatively to negate a variety of skill effects. Contrasting other units with counterattacks, Ramlethal’s counterattack comes with a unique delay that can make it difficult to time.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Of note, Ramlethal’s survivability comes primarily from her whopping 50% DMG RDC, amplified further by her perfect EVA self-buff. This also means she is exceptionally vulnerable when those buffs are dispelled. Consider the prevalence of buff removal on a given week when opting to run Ramlethal in your team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Massive HP meatball\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"On a serious note the pros have all been listed above\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"COUNTER.wav\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At the end of the day, for all that Ramlethal does she is still just a walking HP meatball\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavily buff-reliant\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "8",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Melee attacker specializing in continuous combo attacks."
+            },
+            "introduction": {
+              "introduction": "Ramlethal Valentine is a Striker specializing in powerful close-range combo attacks. She is one of the human-like life-forms known as the Valentines that were tasked to destroy humanity. She used to carry out her orders with mechanical determination before she met someone and learned what it felt like to have emotions. She's been fighting on humanity's side since then. Ramlethal, whose worldview is as innocent as a child's, would blend right in with socially awkward employees."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank or CDR Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank or CDR Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1185_1",
+                "name": "Erarlumo",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Strikes at enemies in front, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1185_2",
+                "name": "Gatling Combo",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The Basic attack following Erarlumo delivers up to 3 enhanced attacks, depending on her distance to the target. The closest attack has 70% of Erarlumo's power. Attack range and power increase by 50% per phase. Additionally, increases ATK and Skill Haste by 3% for every Guilty Gear unit on the battlefield in PVE (up to 18%)."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "Immune to Hitstun from Special or lower Skill, DMG RDC +50% for 5 s upon deployment. Same effect after every 3rd enhanced attack."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1185_3",
+                "name": "Sabrobato",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Delivers a powerful, high-ATK attack, inflicting AoE damage in front. Resets Special Skill cooldown and grants Perfect EVA for 3 seconds after casting skill. After cooldown reset, Special Skill nullifies damage when Hitstun by an attack other than Ultimate Skill within 15 seconds and deals AoE damage in front. Activating Special Skill in this method will not reset the cooldown, but grant Perfect EVA for 6 seconds after casting skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Additional DMG by 20% of targets' current HP (Bosses excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1185_4",
+                "name": "Calvados",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 52,
+                "baseDescription": {
+                  "baseDescription": "Fires a large green beam, inflicting AoE damage in front. Cannot reach targets outside 1300 reach."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "ASPD +25%  and DEF Penetration +100% for 12s after skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 39.91,
+                "critical": 2.06,
+                "def": 2.78,
+                "evade": 1.89,
+                "hit": 3.98,
+                "hp": 490
+              },
+              "base": {
+                "hp": 3898,
+                "atk": 391,
+                "def": 194,
+                "hit": 278,
+                "critical": 144,
+                "evade": 132
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "897f2314-23ad-557a-8f97-c78208f577b5"
+    }
+  },
+  "staticQueryHashes": []
+}

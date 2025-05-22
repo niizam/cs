@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/choi-gangsan",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "8d919d63-244d-5561-9cab-09c67c3ac1fa",
+            "updatedAt": "2024-10-17T21:17:15.660Z",
+            "createdAt": "2021-10-22T00:05:53.381Z",
+            "unitId": "1130",
+            "fullName": "Choi Gangsan",
+            "slug": "choi-gangsan",
+            "shortName": "Choi Gangsan",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5e044ce37019921555ff5f1f9776c583/acb7c/emp-1130.png",
+                        "srcSet": "/static/5e044ce37019921555ff5f1f9776c583/1c9ce/emp-1130.png 64w,\n/static/5e044ce37019921555ff5f1f9776c583/bf8e1/emp-1130.png 128w,\n/static/5e044ce37019921555ff5f1f9776c583/acb7c/emp-1130.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5e044ce37019921555ff5f1f9776c583/8257c/emp-1130.webp 64w,\n/static/5e044ce37019921555ff5f1f9776c583/6766a/emp-1130.webp 128w,\n/static/5e044ce37019921555ff5f1f9776c583/22bfc/emp-1130.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "N",
+            "rarityNumber": 1,
+            "rarityClassName": "N",
+            "title": "Daymine Mining Team 4",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Choi Gangsan does not have the stats necessary to meet the baseline requirements expected of him as a frontline tank.\\n\\nChoi Gangsan does not possess relevant utility that would justify using him. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Fights on the front lines, taunting enemies to keep them away from allies."
+            },
+            "introduction": {
+              "introduction": "　Choi Gangsan is a likable guy with a burly physique resulting from his love for sports.\n\n　He is a defender who taunts enemies and protects allies. His shield created from his Watch, obviously influenced by his experience as a riot cop, looks like an ordinary shield.\n　But it is actually stronger than any Eternium alloy. He is a little bit too sensitive, tightening his guard even upon the minor events of daily life—a Chihuahua walking by or a fumigator truck passing—but he is a righteous man who never spares himself when saving lives."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1130_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Pushes and damages a target with a shield."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1130_2",
+                "name": "Weight Enhancement",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Improves his ability to control object weight. Increases HP by 4%."
+                },
+                "level2": {
+                  "level2": "HP +4%"
+                },
+                "level3": {
+                  "level3": "HP +4%"
+                },
+                "level4": {
+                  "level4": "HP +8%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -8%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1130_3",
+                "name": "Shield Charge",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Charges with his shield held in front of him, knocking enemies backward with AoE damage. Forces the inflicted enemies to target on him for 5 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1130_4",
+                "name": "Heavy Shock Wave",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 58,
+                "baseDescription": {
+                  "baseDescription": "Repeatedly strikes the ground with his shield and generates shock waves, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 14.32,
+                "critical": 0.7,
+                "def": 4.1,
+                "evade": 0.24,
+                "hit": 1.58,
+                "hp": 266
+              },
+              "base": {
+                "hp": 2157,
+                "atk": 143,
+                "def": 310,
+                "hit": 119,
+                "critical": 53,
+                "evade": 18
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "8d919d63-244d-5561-9cab-09c67c3ac1fa"
+    }
+  },
+  "staticQueryHashes": []
+}

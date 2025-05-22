@@ -1,0 +1,342 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/special-forces-han-sorim",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "10e5dcae-bd81-5088-aca9-43165c49bd0b",
+            "updatedAt": "2024-11-07T21:47:40.529Z",
+            "createdAt": "2022-07-05T06:59:07.286Z",
+            "unitId": "2136",
+            "fullName": "Special Forces Han Sorim",
+            "slug": "special-forces-han-sorim",
+            "shortName": "Special Forces Sorim",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/642b7dc497b4c1713dedfdfe72fdbcea/acb7c/emp-2136.png",
+                        "srcSet": "/static/642b7dc497b4c1713dedfdfe72fdbcea/1c9ce/emp-2136.png 64w,\n/static/642b7dc497b4c1713dedfdfe72fdbcea/bf8e1/emp-2136.png 128w,\n/static/642b7dc497b4c1713dedfdfe72fdbcea/acb7c/emp-2136.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/642b7dc497b4c1713dedfdfe72fdbcea/8257c/emp-2136.webp 64w,\n/static/642b7dc497b4c1713dedfdfe72fdbcea/6766a/emp-2136.webp 128w,\n/static/642b7dc497b4c1713dedfdfe72fdbcea/22bfc/emp-2136.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Special Forces",
+            "seaReleaseDate": "November 30th, 2022",
+            "krReleaseDate": "July 5th, 2022",
+            "globalReleaseDate": "March 8th, 2023",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Special Forces Han Sorim (RSorim) is a backline damage dealer with a kit designed solely for damage output. Sorim’s rearm is a large upgrade over the base version. She has more stats, an additional 2s skill seal on her enhanced basic attack, and a new Ultimate skill that does massive damage. Unfortunately, she has not stood the test of time and is struggling to find a place in any content.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"RSorim occupies the competitive dedicated damage dealer niche. Like many others that served the role, RSorim has inevitably been powercrept out of the meta. Ignoring her performance at the highest levels of competitive content, RSorim is still a serviceable damage dealer for players who want to incorporate her into their teams. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Cheap and accessible defender shredder option. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"The need for cheap and accessible defender shredders is greatly diminished by the limited number of defender shredders that can be stuffed into a team. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Overshadowed by stronger dedicated damage dealers (e.g. Rearm Rivet, Laika). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "9",
+              "pve_early": "6",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A Ranger that increases her own ASPD and has the ability to attack the backline"
+            },
+            "introduction": {
+              "introduction": "관리국 카운터 아카데미는 매년 외부인 입장이 가능한 축제를 개최합니다. 카운터에 대한 인식을 보다 긍정적으로 개선하기 위해, 축제 중에는 학생들의 능력을 활용해서 화려한 공연이 펼쳐집니다.\n올해 주목 받는 공연은 「강하하라! 애니멀 레스큐 스페셜 포스!」입니다. 베테랑 요원 「심판의 방아쇠」와 터프한 「스미스 병장」의 화약 냄새 물씬 풍기는 활약극을 기대해 주세요.\n주연 토끼 대원들의 연기는 고등부의 염동력 능력자 학생들이 기꺼이 협조해 주었습니다. 스미스 병장이 물구나무 선 채로 전사하는 장면에서는 진심으로 애도를 표했다더군요. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Anti-Defender Autoattack DPS.",
+                "notes": "Exclusive Equipment yields a marginal damage increase."
+              },
+              "pvp": {
+                "set": "Anti-Defender Autoattack DPS.",
+                "notes": "Exclusive Equipment yields a marginal damage increase."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2136_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rifle and deals damage to a target in the front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2136_2",
+                "name": "Ace Ranger",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swiftly takes down targets on new battlefields. Basic attacks increase ASPD by 4%, which stacks up to 20%. After every 3rd Basic attack, she fires an enhanced bullet that inflicts 30% more damage and penetrates up to 2 times."
+                },
+                "level2": {
+                  "level2": "Anti-Defender DMG +10%"
+                },
+                "level3": {
+                  "level3": "Anti-Defender DMG +10%"
+                },
+                "level4": {
+                  "level4": "Anti-Defender DMG +20%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1, increase DMG by 60% instead"
+                },
+                "level6": {
+                  "level6": "Anti-Defender DMG +5%"
+                },
+                "level7": {
+                  "level7": "Anti-Defender DMG +5%"
+                },
+                "level8": {
+                  "level8": "Anti-Defender DMG +5%"
+                },
+                "level9": {
+                  "level9": "Anti-Defender DMG +5%"
+                },
+                "level10": {
+                  "level10": "Skills of Defender units struck by the enhanced bullet sealed for 2s"
+                }
+              },
+              {
+                "skillId": "2136_3",
+                "name": "SKM-11 Smoke Grenade",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 32,
+                "baseDescription": {
+                  "baseDescription": "Throws a smoke grenade to the foremost target, inflicting AoE damage on and around the target. Hit targets are blinded for 4s."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Special skill gets included in activation requirement for enhanced attack"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Blind duration +2s"
+                }
+              },
+              {
+                "skillId": "2136_4",
+                "name": "Forward Firepower Projection",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Throw Sergeant Smith high up in the air to call for armed support. Uses the timely supplied machine gun to deal AoE damage to 800, 1000, and 1200 distances in front 3 times each, for a total of 9 times."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "DMG +50%"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Immune to DMG during Ultimate skill"
+                }
+              },
+              {
+                "skillId": "2136_5",
+                "name": "Fog of War",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Allies within range are immune to Blindness."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +5%"
+                },
+                "level5": {
+                  "level5": "Smoke Grenade will not disappear immediately but fly again to detonate a second time."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 26.63,
+                "critical": 3.89,
+                "def": 1.18,
+                "evade": 2.7,
+                "hit": 4.21,
+                "hp": 152
+              },
+              "base": {
+                "hp": 1187,
+                "atk": 256,
+                "def": 76,
+                "hit": 273,
+                "critical": 252,
+                "evade": 175
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1136",
+              "slug": "han-sorim",
+              "shortName": "Han Sorim",
+              "rarityClassName": "SR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/0328e3457269ff1927778bfd584ee243/acb7c/emp-1136.png",
+                          "srcSet": "/static/0328e3457269ff1927778bfd584ee243/1c9ce/emp-1136.png 64w,\n/static/0328e3457269ff1927778bfd584ee243/bf8e1/emp-1136.png 128w,\n/static/0328e3457269ff1927778bfd584ee243/acb7c/emp-1136.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/0328e3457269ff1927778bfd584ee243/8257c/emp-1136.webp 64w,\n/static/0328e3457269ff1927778bfd584ee243/6766a/emp-1136.webp 128w,\n/static/0328e3457269ff1927778bfd584ee243/22bfc/emp-1136.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "10e5dcae-bd81-5088-aca9-43165c49bd0b"
+    }
+  },
+  "staticQueryHashes": []
+}

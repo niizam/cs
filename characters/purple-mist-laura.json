@@ -1,0 +1,344 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/purple-mist-laura",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "45a7f257-32d6-534c-8ab6-6bb4c621678d",
+            "updatedAt": "2024-12-12T22:01:57.351Z",
+            "createdAt": "2021-12-28T08:37:38.818Z",
+            "unitId": "2091",
+            "fullName": "Purple Mist Laura",
+            "slug": "purple-mist-laura",
+            "shortName": "Purple Mist Laura",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8e8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/d053bf23cd83d4c55eb410aef09c3719/acb7c/emp-2091.png",
+                        "srcSet": "/static/d053bf23cd83d4c55eb410aef09c3719/1c9ce/emp-2091.png 64w,\n/static/d053bf23cd83d4c55eb410aef09c3719/bf8e1/emp-2091.png 128w,\n/static/d053bf23cd83d4c55eb410aef09c3719/acb7c/emp-2091.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/d053bf23cd83d4c55eb410aef09c3719/8257c/emp-2091.webp 64w,\n/static/d053bf23cd83d4c55eb410aef09c3719/6766a/emp-2091.webp 128w,\n/static/d053bf23cd83d4c55eb410aef09c3719/22bfc/emp-2091.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Purple Haze",
+            "seaReleaseDate": "March 23rd, 2022",
+            "krReleaseDate": "December 28th, 2021",
+            "globalReleaseDate": "December 8th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Summoner",
+              "Debuffer",
+              "Perfect Evasion",
+              "Executor"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Purple Mist Laura takes the kit of her normal version and massively improves it, making her a great unit in PVP. Her cat, Pluto, is now a great frontline offtank with Perfect Evasion that can buy valuable time for your team, and her debuffs that affect the whole battlefield make using employees that rely on Crit and ASPD a lot weaker. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This combined with her 3 cost, makes her an auto-include pick for a lot of teams in PVP, because you just need to drop her at the back and she will do her job. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The rearm also made her better in PVE, especially the ability to Seal Skill which will make her a decent choice for Shadow Palace, and the debuffs might come in handy in some harder stages. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- battlefield-wide debuffs,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- and even more debuffs tied to her skills,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Pluto is damn hard to kill now with Perfect Evasion.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- while she can help in PVE, she's mainly a PVP employee.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "9",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Summoner who weakens enemies"
+            },
+            "introduction": {
+              "introduction": "잠든 마녀가 깨어나는 시간. 관이 열리며 소리 없이 절규하는 망령들이 쏟아져 나옵니다. 잠에서 깬 마녀는 눈을 비비며 사역마를 부르죠. 사역마는 제멋대로 흩어진 망령들을 이끌며 마녀의 부름에 충실히 응답… 해야 하는데. 망령들과 함께 몰려 다니며 이리저리 사고치기 바쁘네요.\n망령들과 사역마가 이렇게 장난꾸러기인 줄 알았다면, 마녀도 그녀의 포근한 잠자리 한 켠을 내주지는 않았을 겁니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": "Her EE can roll double skill haste. Isn't very important because trading ground res for skill haste isn't always great."
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": "Her EE can roll double skill haste. Isn't very important because trading ground res for skill haste isn't always great."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2091_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Throws a slow-traveling mass of impurity at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2091_2",
+                "name": "I'm scared of Pluto",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Accompanies her pet cat, Pluto. Pluto decreases all enemies' ASPD by 20% for 10 seconds as soon as it appears. Pluto's stats increase, depending on Laura's level."
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "Pluto also decreases enemies' ATK by 10%"
+                },
+                "level6": {
+                  "level6": "HP +3%"
+                },
+                "level7": {
+                  "level7": "HP +3%"
+                },
+                "level8": {
+                  "level8": "HP +3%"
+                },
+                "level9": {
+                  "level9": "HP +9%"
+                },
+                "level10": {
+                  "level10": "Pluto gains permanent Perfect Evasion."
+                }
+              },
+              {
+                "skillId": "2091_3",
+                "name": "Touch of Darkness",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "An impure touch inflicts AoE damage on enemies in front. This skill increases Pluto's ASPD by 40% for 6 seconds, and instantly finishes one Defender or Striker with 15% or lower HP within range. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "Cooldown -1sec"
+                },
+                "level3": {
+                  "level3": "Cooldown -1sec"
+                },
+                "level4": {
+                  "level4": "Cooldown -2sec"
+                },
+                "level5": {
+                  "level5": "DMG Taken -40% added to Pluto's buff"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Seals the Skills of damaged targets for 4 seconds (bosses excluded)."
+                }
+              },
+              {
+                "skillId": "2091_4",
+                "name": "The Sun Sets on Spring Day",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Opens a path to the Abyss, inflicting AoE damage on enemies in front. This skill fully restores Pluto's HP, or summons Pluto if it's not on the field."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": " Skill creates an area in front which decreases enemy's ASPD and SPD by 20% for 10 s"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Laura and Pluto take 20% Reduced Damage for 10 seconds after casting the skill."
+                }
+              },
+              {
+                "skillId": "2091_5",
+                "name": "A Misfortunate Witch",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "While Laura is on the battlefield enemies have reduced ASPD by 10% (this effect only occurs once the Pluto's on deploy debuff is over)."
+                },
+                "level2": {
+                  "level2": "+5% DMG Res"
+                },
+                "level3": {
+                  "level3": "ASPD debuff value is changed to 15%."
+                },
+                "level4": {
+                  "level4": "+5% DMG Res"
+                },
+                "level5": {
+                  "level5": "-200 CRIT added to the permanent debuff."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 21.84,
+                "critical": 1.22,
+                "def": 1.86,
+                "evade": 2.34,
+                "hit": 2.34,
+                "hp": 224
+              },
+              "base": {
+                "hp": 1780,
+                "atk": 214,
+                "def": 130,
+                "hit": 163,
+                "critical": 85,
+                "evade": 163
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1091",
+              "slug": "laura-beatrix",
+              "shortName": "Laura Beatrix",
+              "rarityClassName": "SR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#f8f8e8",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/9b4a02bb4def5f38f48adf448fa1e036/acb7c/emp-1091.png",
+                          "srcSet": "/static/9b4a02bb4def5f38f48adf448fa1e036/1c9ce/emp-1091.png 64w,\n/static/9b4a02bb4def5f38f48adf448fa1e036/bf8e1/emp-1091.png 128w,\n/static/9b4a02bb4def5f38f48adf448fa1e036/acb7c/emp-1091.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/9b4a02bb4def5f38f48adf448fa1e036/8257c/emp-1091.webp 64w,\n/static/9b4a02bb4def5f38f48adf448fa1e036/6766a/emp-1091.webp 128w,\n/static/9b4a02bb4def5f38f48adf448fa1e036/22bfc/emp-1091.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "45a7f257-32d6-534c-8ab6-6bb4c621678d"
+    }
+  },
+  "staticQueryHashes": []
+}

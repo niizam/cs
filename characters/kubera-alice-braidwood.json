@@ -1,0 +1,225 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kubera-alice-braidwood",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "bf273aeb-08bd-52ae-be30-e241b3b91ba4",
+            "updatedAt": "2024-12-12T22:01:28.981Z",
+            "createdAt": "2024-03-18T12:39:24.488Z",
+            "unitId": "1265",
+            "fullName": "Kubera Alice Braidwood",
+            "slug": "kubera-alice-braidwood",
+            "shortName": "Kubera Alice",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#282838",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/bd1d3df2433d2f7a074b33544613207d/22bfc/1265.webp",
+                        "srcSet": "/static/bd1d3df2433d2f7a074b33544613207d/8257c/1265.webp 64w,\n/static/bd1d3df2433d2f7a074b33544613207d/6766a/1265.webp 128w,\n/static/bd1d3df2433d2f7a074b33544613207d/22bfc/1265.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Unknown",
+            "seaReleaseDate": "July 10th, 2024",
+            "krReleaseDate": "February 6th, 2024",
+            "globalReleaseDate": "July 10th, 2024",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Perfect Evasion"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kubera Alice is a frontline damage dealer DPS monster who provides extremely high DPS for her cost. As a melee-range fury ranger, Alice exposes her to a considerable amount of risk. However, her damage more than makes up for her precarious positioning.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Alice is one of the highest damage for cost units in the game, standing alongside Eve on the DPS charts. Alice’s high damage output is appreciated everywhere. Like her peers, Alice excels in single target situations, making her a strong option for boss content (e.g. Raids, Guild Coop, Dimension Trimming, Danger Close). Unlike her peers, Alice is considerably harder to keep alive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Alice outputs high burst damage capable of nearly one-shotting many non-MDL characters (e.g. Jisoo). However, she herself is also susceptible to getting one-shot due to her melee range. Even the most defensive setups will struggle to keep Alice alive. While Alice is capable of outputting an obscene amount of damage, it is too difficult to effectively utilize in a PVP environment.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Incredible single target damage and a full damage-oriented kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Alice's m\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"elee-range attacks put her in very exposed positions.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "1",
+              "pve_early": "10",
+              "pve_late": "9"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1265_1",
+                "name": "Basic Attack ",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks the enemy in front with Beast Claw's built-in blade, dealing AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1265_2",
+                "name": "Yaksha Raja",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Increases the Bygone's physical ability to the limit and gains incredible strength. While in this enhanced state, gains EVA +3000, and becomes immune to Stun (cannot be canceled). While in her first enhanced state, she gains ATK +30% (cannot be canceled) and 3 stacks of barrier buff worth 15% of Max HP. A stack is removed for every Special Skill casting, and redeployment or casting Ultimate Skill will reset the stacks. Enhanced attacks do not increase Fury counts. After delivering her last hit of enhanced attacks, she falls back toward the ally ship.\n"
+                },
+                "level2": {
+                  "level2": "While in enhanced state, Basic Skill DMG AMP +10%"
+                },
+                "level3": {
+                  "level3": "While in enhanced state, Basic Skill DMG AMP +10%"
+                },
+                "level4": {
+                  "level4": "While in enhanced state, Basic Skill DMG AMP +20%"
+                },
+                "level5": {
+                  "level5": "While in enhanced state, enters Perfect EVA."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1265_3",
+                "name": "First in, Last out",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 5,
+                "baseDescription": {
+                  "baseDescription": "In a split second, accumulates CRF and makes a space jump. Attacks the enemy in front, inflicting Binding◇ for 3 seconds and dealing AoE damage. When casting Special Skill, enters Yaksha Raja state for 8 seconds.\n"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Special Skill does true damage instead. Resets Special Skill cooldown upon deployment"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1265_4",
+                "name": "Antardana Astra ",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 14,
+                "baseDescription": {
+                  "baseDescription": "Disables Astra Drive's limiter to reach near-light speed. Charges forward and inflicts AoE damage while gaining DMG AMP +30% for 15 seconds (cannot be canceled) on contact with the first enemy in her path, then falls back toward the ally ship."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Resets Special Skill cooldown after casting."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 47.15,
+                "critical": 5.22,
+                "def": 1.76,
+                "evade": 1.14,
+                "hit": 4.43,
+                "hp": 405
+              },
+              "base": {
+                "hp": 3284,
+                "atk": 471,
+                "def": 133,
+                "hit": 335,
+                "critical": 395,
+                "evade": 86
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "bf273aeb-08bd-52ae-be30-e241b3b91ba4"
+    }
+  },
+  "staticQueryHashes": []
+}

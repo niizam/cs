@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/john-mason",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "0c16c8c9-776f-531c-ad45-60c9d48f2bab",
+            "updatedAt": "2024-03-19T21:04:15.703Z",
+            "createdAt": "2021-10-21T13:41:59.912Z",
+            "unitId": "1096",
+            "fullName": "John Mason",
+            "slug": "john-mason",
+            "shortName": "John Mason",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4e2c1adc3f3e6ff00fd7d5b8dece1da0/acb7c/emp-1096.png",
+                        "srcSet": "/static/4e2c1adc3f3e6ff00fd7d5b8dece1da0/1c9ce/emp-1096.png 64w,\n/static/4e2c1adc3f3e6ff00fd7d5b8dece1da0/bf8e1/emp-1096.png 128w,\n/static/4e2c1adc3f3e6ff00fd7d5b8dece1da0/acb7c/emp-1096.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4e2c1adc3f3e6ff00fd7d5b8dece1da0/8257c/emp-1096.webp 64w,\n/static/4e2c1adc3f3e6ff00fd7d5b8dece1da0/6766a/emp-1096.webp 128w,\n/static/4e2c1adc3f3e6ff00fd7d5b8dece1da0/22bfc/emp-1096.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Mason Mercenary Office",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Buffer",
+              "Dispeller",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"John Mason is a Ranger employee that focuses more on helping his teammates than on doing damage. Not only can his EMP Granade cancel any barriers, but also it can Silence whoever is struck in the pretty wide explosion. With a CDR set, the EMP cooldown can be lowered significantly, but sadly not enough to perma-Silence someone. Still, when paired with Mone, Mason becomes a staple in Guild Raid coop because together they can make the boss there a sitting duck and he won't ever use his devastating ultimate skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sadly, in PVP he is rarely used because there are better Silencers there (like Choi Jihoon) and in Mecha deck there are cheaper and better options than him.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can Silence enemies, which makes him BIS for Guild Coop,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- good buffer for Mechs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- high cost,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- useless in PVP in the current meta.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Summons a high-performance Mech and enhances ally Mechs."
+            },
+            "introduction": {
+              "introduction": "　An attacker who fights with custom-built drones and enhances allied armored units. \n\n　Surprisingly, John Mason has a doctorate degree in engineering which is unusual for a mercenary. He acquired his degree so quickly that he was even offered a job as professor. He isn't lying when he calls himself an intelligent mercenary.\n　John roams the battlefield alone, equipped with the cutting edge gear he invented. Probably because he learned from an experienced veteran that money often causes conflict among mercenaries, he insists on keeping a one-man office.\n　However, his office has never made profit ever since its establishment, because he only chooses the most expensive materials to build his own gear. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR or CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR or CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1096_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires all his guns at a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1096_2",
+                "name": "Anti-C.O. Drone: Ian Jr.",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses a drone he built himself to take the upper hand in battle. This drone summons a C.O. that can't be healed once per battle, after 35 seconds from its creation."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "28 s before summoning C.O."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1096_3",
+                "name": "Tracking EMP Grenade",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Throws a portable EMP he built himself, inflicting AoE damage on and around the target. Seals the damaged targets' skills for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s, also cancels barriers"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1096_4",
+                "name": "Operation System Hacking",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Efficiently modifies the operating systems of armored forces. Increases all Mechs' ATK by 10%."
+                },
+                "level2": {
+                  "level2": "All Mechs' ATK +2%"
+                },
+                "level3": {
+                  "level3": "All Mechs' ATK +2%"
+                },
+                "level4": {
+                  "level4": "All Mechs' ATK +4%"
+                },
+                "level5": {
+                  "level5": "All Mechs' DEF Penetration +10% added to Passive buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.37,
+                "critical": 4.28,
+                "def": 0.85,
+                "evade": 2.39,
+                "hit": 2.66,
+                "hp": 224
+              },
+              "base": {
+                "hp": 1777,
+                "atk": 278,
+                "def": 59,
+                "hit": 186,
+                "critical": 299,
+                "evade": 167
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "0c16c8c9-776f-531c-ad45-60c9d48f2bab"
+    }
+  },
+  "staticQueryHashes": []
+}

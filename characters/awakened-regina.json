@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/awakened-regina",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "9e116095-c3a2-55a6-97f5-e10f9c527386",
+            "updatedAt": "2025-04-12T08:18:53.862Z",
+            "createdAt": "2022-11-08T07:22:35.030Z",
+            "unitId": "1235",
+            "fullName": "Awakened Regina",
+            "slug": "awakened-regina",
+            "shortName": "Awakened Regina",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/551c16b4e9f397db9f7b211303aefb90/acb7c/emp-1235.png",
+                        "srcSet": "/static/551c16b4e9f397db9f7b211303aefb90/1c9ce/emp-1235.png 64w,\n/static/551c16b4e9f397db9f7b211303aefb90/bf8e1/emp-1235.png 128w,\n/static/551c16b4e9f397db9f7b211303aefb90/acb7c/emp-1235.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/551c16b4e9f397db9f7b211303aefb90/8257c/emp-1235.webp 64w,\n/static/551c16b4e9f397db9f7b211303aefb90/6766a/emp-1235.webp 128w,\n/static/551c16b4e9f397db9f7b211303aefb90/22bfc/emp-1235.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "President for Life",
+            "seaReleaseDate": "March 21st, 2023",
+            "krReleaseDate": "November 8th, 2022",
+            "globalReleaseDate": "September 6th, 2023",
+            "cost": 7,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "CC",
+              "True Damage"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Regina is the second 7-cost character in the game. And similar to another 7-cost character, Maestra Nequitia, she also has a pretty interesting gimmick. When you first deploy A. Regina, she will be covered in an ice barrier that doubles her HP and gives immunity to a lot of status effects. In this phase, she's really hard to kill but barely deals any damage herself as she can't use her skills.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As the barrier state loses strength, A. Regina's ATK will slowly increase and the moment the barrier breaks, she will enter phase 2 and become a machine of pure destruction. Her damage output and utility is scary and justifies her deployment cost, but two things make her borderline overpowered: the range on her special and ultimate is very large, with the special skill grouping up enemies, locking their buffs, and resetting its own CD. Also the ultimate allows Regina to easily hit and kill the backline while freezing the entire map.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A. Regina has some downsides though. Her movement speed is very slow and also once she enters phase 2, she loses the HP% buff allowing her to be assassinated. Due to her high cost you need to build a team around to protect her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Scary damage output,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Very strong grouping on special.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Special and Ultimate have huge range,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Chill/Freeze can control the whole battlefield.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- slow movement speed,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Very vulnerable in her phase.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "10",
+              "pve_early": "10",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A Ranger who can control the battlefield with Ice magic."
+            },
+            "introduction": {
+              "introduction": "종신 학회장 레지나 맥크레디는 적을 빙결시킨 후 영구적으로 증가한 공격력으로 치명적인 공격을 가하는 레인저입니다.\n에크하르트 초월지식 학회는 오랜 세월에 걸쳐 세력을 확장해 온 음모론적 조직입니다. 호수에 대한 광기로 수많은 적을 만들었고, 그럼에도 역사 속에서 여러 이름 뒤에 숨어 끈질기게 명맥을 이어 왔습니다.\n그리고 이제, 학회는 새로운 지도자와 새로운 시대를 앞두고 있습니다. 변화를 몰고 올 폭풍은 살을 에듯 차고 고통스러울지 모르나, 결국 누구도 거부할 수 없게 될 것입니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1235_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals damage to enemies using ice attacks. When [Ice barrier] is active, summon Ice Vortex to attack enemies. Adds 1 stack of [Chill] per hit. Does not deal damage to targets exceeding valid hit.\n\n[Chill] Each stack reduces SPD/ASPD by 3% per stack, up to 20 stacks, the effect lasts 5 seconds. Upon 20 stacks, the effect changes to [Freeze].\n\n[Freeze] Unable to act for 5s. Knockback/Airborne immune. Unable to accumulate [Chill] under the effect. Boss excluded."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Summons a sustained Ice Vortex after [Ice Barrier] is removed. (After casting Ultimate, Ice vortex damage is affected by Ultimate DMG Increase)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1235_2",
+                "name": "A Monster of Reason",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Unaffected by Chill or Freeze. Casts the [Ice barrier] when deployed (Cannot be canceled). When [Ice barrier] is active, becomes immune to all Hitstun, Sleep, and Stun. When [Ice barrier] is active, gain 100% HP but continuously lose HP per second (up to 30%/s) and continuously gain ATK (up to 150%). [Ice barrier] is removed after falling below 50% HP, dealing AoE damage around her and adding 5 stacks of [Chill] to damaged enemies."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "When [Ice barrier] is removed, gains 100% Knockback RES. The effect is removed after taking 12 hits (Activated again after casting ultimate)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1235_3",
+                "name": "Singularity",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 34,
+                "baseDescription": {
+                  "baseDescription": "Unable to cast during [Ice barrier]. Deals AoE damage in front and each hit adds 1 stack of [Chill] to damaged enemies. If the target is affected by [Freeze], release the effect from them to deal additional damage and increase the cooldown of their skills by 8 seconds. When a target affected by [Freeze] is detected, ignore the skill's cooldown and cast the skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Enemies within the range have their buffs nullified for 6 seconds."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1235_4",
+                "name": "The Great Freeze",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 68,
+                "baseDescription": {
+                  "baseDescription": "Unable to cast during [Ice barrier]. Adds 20 stacks of [Chill] to all enemies over 3 second. Deals AoE damage in front and the last 3 attacks deal true damage. Each hit adds 1 stack of [Chill]. Targets affected by [Freeze] receive additional damage equal to 30% of their max HP and release [Freeze] on them (bosses excluded)."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "When attacking enemy affected by [Freeze], seal their skills for 12s. "
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 42.69,
+                "critical": 3.66,
+                "def": 2.38,
+                "evade": 3.66,
+                "hit": 3.66,
+                "hp": 397
+              },
+              "base": {
+                "hp": 3260,
+                "atk": 432,
+                "def": 196,
+                "hit": 302,
+                "critical": 302,
+                "evade": 302
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "9e116095-c3a2-55a6-97f5-e10f9c527386"
+    }
+  },
+  "staticQueryHashes": []
+}

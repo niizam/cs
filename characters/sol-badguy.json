@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sol-badguy",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "e768fcc4-7b47-5469-a153-f2ca9170ccba",
+            "updatedAt": "2025-01-28T07:13:16.917Z",
+            "createdAt": "2021-10-22T07:02:51.104Z",
+            "unitId": "1182",
+            "fullName": "Sol Badguy",
+            "slug": "sol-badguy",
+            "shortName": "Sol Badguy",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#e8b888",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b5f00915617d77c21b166a9ad5477c28/acb7c/emp-1182.png",
+                        "srcSet": "/static/b5f00915617d77c21b166a9ad5477c28/1c9ce/emp-1182.png 64w,\n/static/b5f00915617d77c21b166a9ad5477c28/bf8e1/emp-1182.png 128w,\n/static/b5f00915617d77c21b166a9ad5477c28/acb7c/emp-1182.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b5f00915617d77c21b166a9ad5477c28/8257c/emp-1182.webp 64w,\n/static/b5f00915617d77c21b166a9ad5477c28/6766a/emp-1182.webp 128w,\n/static/b5f00915617d77c21b166a9ad5477c28/22bfc/emp-1182.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Flame of Corruption",
+            "seaReleaseDate": "June 5th, 2024",
+            "krReleaseDate": "June 29th, 2021",
+            "globalReleaseDate": "June 5th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "CC",
+              "Selfhealer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sol Badguy is a bulky frontline tank notable for his high uptime DMG RDC self-buff and potent debuffs, applying high uptime ATK and ASPD debuffs to nearby enemies. Sol has a chunky self-heal tied to his Ultimate skill, giving him some self-sufficiency to round out his kit and identity as a debuff-oriented frontline tank.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Sol Badguy struggles to distinguish himself from his peers on account of his high DP cost and his lack of relevant debuffs. Sol fulfills the basic functions of a frontline tank but does not have the utility to justify running over more competitive alternatives (e.g. Rearm Kaci, Ciel) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Sol’s stat distribution and kit utility lands him comfortably in the pool of viable frontline defenders. His high-value debuffs naturally synergise with other similar debuffs, making him stronger in debuff-oriented teams (e.g. RLaura, Ministra). Note that his survivability is somewhat tied to his DMG RDC self-buff, which can be dispelled. Consider the prevalence of buff removal on a given week when opting to run Sol in your team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Free,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Competitive statline for a four-cost defender in a price range where units typically go to die,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Decently self-sufficient on account of his DPS-reducing debuffs and self-heal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Still a bit expensive for what he brings.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heavily reliant on evasion accessories to bolster his low base evasion.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "8",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "An offensive defender that neutralizes surrounding enemies and enhances himself after a number of attacks"
+            },
+            "introduction": {
+              "introduction": "  Sol Badguy is a Defender who can temporarily enhance himself and incapacitate surrounding enemies, depending on the number of attacks he delivers.\n\n  He claims to be a bounty hunter, but his primary target is Gears, the bionic weapons scattered everywhere in the world. The way he fights, destroying his enemies with brute force instead of technique, is possible because he's a Gear himself.\n  This simulated version of him seems just as brusque and aloof as his original. Still, he has to have a humane side that's been formed during his hitherto turbulent life."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank or CDR Tank",
+                "notes": "Sol can get 100% uptime on his Special Skill buff with a bit of Skill Haste."
+              },
+              "pvp": {
+                "set": "Full Tank or CDR Tank",
+                "notes": "Sol can get 100% uptime on his Special Skill buff with a bit of Skill Haste."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1182_1",
+                "name": "Basic Attack/Gun Flame",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Throws punches at nearby targets and shoots flames at distant ones."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1182_2",
+                "name": "Roman Cancel",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After every 5th attack, he is able to cancel his current move and do something else. Forces surrounding units to target him and decreases their ASPD by 30% for 6 seconds. (Attack count persists through deployments.) Additionally, increases ATK and Skill Haste by 3% for every Guilty Gear unit on the battlefield in PVE (up to 18%)."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Special skill cooldown -4 s added to Passive skill, ATK -30% added to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1182_3",
+                "name": "Fafnir",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Punches enemies in front, inflicting AoE damage. Increases DMG RDC by 30% for 10 seconds when cast."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Buff also adds immunity to Hitsun from Special or lower skills."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1182_4",
+                "name": "Heavy Mob Cemetery",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Transforms into an otherworldly form and lunges at a target, inflicting AoE damage on and around it. Restores 33% of HP over 12 seconds after this skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Buff also nullifies non-Permanent debuffs"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 26.54,
+                "critical": 2.55,
+                "def": 6.18,
+                "evade": 1.98,
+                "hit": 2.34,
+                "hp": 413
+              },
+              "base": {
+                "hp": 3288,
+                "atk": 260,
+                "def": 432,
+                "hit": 163,
+                "critical": 178,
+                "evade": 138
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "e768fcc4-7b47-5469-a153-f2ca9170ccba"
+    }
+  },
+  "staticQueryHashes": []
+}

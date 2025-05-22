@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/harab",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "8d51f186-2094-5ea0-bbf7-46029bac8ac9",
+            "updatedAt": "2024-12-02T18:30:50.225Z",
+            "createdAt": "2021-10-22T06:43:49.550Z",
+            "unitId": "1169",
+            "fullName": "Harab",
+            "slug": "harab",
+            "shortName": "Harab",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a72909c896c4b1c03e158938bbdc2214/acb7c/emp-1169.png",
+                        "srcSet": "/static/a72909c896c4b1c03e158938bbdc2214/1c9ce/emp-1169.png 64w,\n/static/a72909c896c4b1c03e158938bbdc2214/bf8e1/emp-1169.png 128w,\n/static/a72909c896c4b1c03e158938bbdc2214/acb7c/emp-1169.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a72909c896c4b1c03e158938bbdc2214/8257c/emp-1169.webp 64w,\n/static/a72909c896c4b1c03e158938bbdc2214/6766a/emp-1169.webp 128w,\n/static/a72909c896c4b1c03e158938bbdc2214/22bfc/emp-1169.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Cronenworth Puppet Troupe",
+            "seaReleaseDate": "August 12th, 2021",
+            "krReleaseDate": "February 16th, 2021",
+            "globalReleaseDate": "July 7th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Debuffer",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Harab is a PVP-oriented supporter defined by her ability to confuse enemy summons and enemies that cost less than 3 DP. The confusion status makes afflicted targets switch sides. In short, Harab steals enemy units.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Harab has historically seen extremely fringe use in high level endgame content as a DMG RDC buffer. In the majority of situations, there will be stronger alternatives for the defensive support role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Harab is played predominantly as a hard counterpick in response to the week’s meta. Harab’s primary use cases are:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Harab can be used as a counterpick against units/ comps vulnerable to confusion (e.g. Awakened Yuna’s bird).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Harab can be used as a counterpick against oppressive UP units; Harab’s “2 DP or below” condition checks after the -1 DP cost discount on UP, making her a natural counter to the vast majority of the UP pool on any given week.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Confusion gimmick fulfills a specific purpose. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Unit does nothing outside of her niche.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Her range is not very far and Harab does not have the stats to take much damage for long.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "9",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "An offensive Supporter that enhances allies and neutralizes the enemy's summonlings."
+            },
+            "introduction": {
+              "introduction": "  Harab is a Supporter who grows stronger the longer she attacks. She confuses the enemy's summoned units into attacking their own.\n\n  Her Cronenworth Puppet Troupe is famous for its realistic puppet shows. Some of its fans are so fascinated by the performance that they believe they see the puppets actually shedding tears.\n  Since the War, Harab Cronenworth has been traveling around the world, showcasing her incredible performance for free wherever she goes. When asked why she's doing this, she says she's looking for a puppet that's important to her. Lately, something about her has changed, which is the consensus among those who watched her recent performance."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1169_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Whips at the front area, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1169_2",
+                "name": "Sadistic Creation",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Increases her ATK by 1% as per Basic attack targets, up to 99%. Harab's Basic attacks also damage allies at 1% of ATK and increase their DMG RES by 5% every time, up to 30%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "After every 4th Basic attack, she delivers an enhanced attack (DMG +50%). True DMG by 33% of HP on affected summonlings."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1169_3",
+                "name": "Death Adder",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Forcefully whips at the front area, inflicting AoE damage. Confuses summoned units and increases their ATK by 30% for 10 seconds. In Gauntlet, this effect is also applied to Cost 2 or below units."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -0.5 s for every Basic attack"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1169_4",
+                "name": "Painful Instinct",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Whips and generates a strong wind, inflicting AoE damage on enemies in front. Increases DMG RES by 20% for 12 seconds when cast."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Additional Special Skill effect on affected targets"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 17.92,
+                "critical": 3.49,
+                "def": 2.59,
+                "evade": 1.62,
+                "hit": 2.7,
+                "hp": 287
+              },
+              "base": {
+                "hp": 2322,
+                "atk": 179,
+                "def": 196,
+                "hit": 204,
+                "critical": 264,
+                "evade": 122
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "8d51f186-2094-5ea0-bbf7-46029bac8ac9"
+    }
+  },
+  "staticQueryHashes": []
+}

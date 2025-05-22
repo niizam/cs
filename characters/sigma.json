@@ -1,0 +1,249 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sigma",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "f2112c84-ed41-55bd-a59a-498c46921ec0",
+            "updatedAt": "2025-04-12T08:22:40.176Z",
+            "createdAt": "2021-10-22T00:45:14.492Z",
+            "unitId": "1160",
+            "fullName": "Sigma",
+            "slug": "sigma",
+            "shortName": "Sigma",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/61a1a56cc79160e400f1f0c0a5f05390/acb7c/emp-1160.png",
+                        "srcSet": "/static/61a1a56cc79160e400f1f0c0a5f05390/1c9ce/emp-1160.png 64w,\n/static/61a1a56cc79160e400f1f0c0a5f05390/bf8e1/emp-1160.png 128w,\n/static/61a1a56cc79160e400f1f0c0a5f05390/acb7c/emp-1160.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/61a1a56cc79160e400f1f0c0a5f05390/8257c/emp-1160.webp 64w,\n/static/61a1a56cc79160e400f1f0c0a5f05390/6766a/emp-1160.webp 128w,\n/static/61a1a56cc79160e400f1f0c0a5f05390/22bfc/emp-1160.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Future Strategy Department",
+            "seaReleaseDate": "August 25th, 2021",
+            "krReleaseDate": "September 29th, 2020",
+            "globalReleaseDate": "June 9th, 2022",
+            "cost": 4,
+            "type": [
+              "Mech"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Battery",
+              "Barrier",
+              "Buffer",
+              "Debuffer",
+              "Offtank",
+              "Summoner",
+              "Retribution"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sigma is a stationary backline support unit used primarily for her Deployment Point (DP) generation. She also comes with a mapwide Role Advantage/ Disadvantage buffs and her ultimate summons a squishy mech frontline unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Sigma sees period use in content that warrants DP generation (i.e. 16-man content). Compared to Lin Xien, the other DP generation unit, Sigma is relatively safer as a stationary tower but generates DP at a slower rate. In situations where Lin Xien cannot be used (e.g. impossible to keep her alive, heavy mapwide Counter debuffs), Sigma represents the next best alternative.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Sigma sees infrequent play as a “camping” unit. Sigma is played at the ship at the start of the match with the intention of securing a positional advantage for her team. Compared to other methods of “camping”, using Sigma comes with higher upfront costs and risks, but her DP generation gives her a significant advantage the longer the game drags on.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Generates DP from safe range. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"If survivability is not a concern, Sigma is outperformed by Lin Xien as a DP battery.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "6",
+              "pve_late": "9"
+            },
+            "description": {
+              "description": "A support unit that continuously replenishes Deployment Resources."
+            },
+            "introduction": {
+              "introduction": "　Sigma is a supportive guard with the ability to restore Deployment Resources and control and optimize role advantage/disadvantage for her troops' benefits.\n\n　She's known to be the latest product of the Administration's technology, and everything else about her is veiled in secrecy. She uses a nanoparticle hologram body to materialize and interact with things in reality, and is next to none when it comes to detecting and filling in other machines' weaknesses.\n　Her personality, however, couldn't be farther from her performance as the essence of super-advanced technology. Her strange obsession with storybooks and obvious need for others' approval are more childlike than machinelike.\n　Nevertheless, her innocent and unpretentious personality, combined with her voluntary work around the company repairing old machines, has given a good impression to the employees.\n　They have been careful with her, however, since the rumor that she's the daughter of their CEO."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1160_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Activates the Terrabrain's self-defense system. Condenses energy from her surroundings and fires it, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1160_2",
+                "name": "Sigma Protocol",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Manipulates her troops' characteristics so as to make up for their weaknesses. Increases Role DISADV DMG RES by 30% for all allies except for herself. Sigma can't be healed."
+                },
+                "level2": {
+                  "level2": "DMG Taken -2%"
+                },
+                "level3": {
+                  "level3": "DMG Taken -2%"
+                },
+                "level4": {
+                  "level4": "DMG Taken -4%"
+                },
+                "level5": {
+                  "level5": "Role ADV DMG +60% added to buff, Deployment Resources +1 upon death"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1160_3",
+                "name": "Square Dance",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 32,
+                "baseDescription": {
+                  "baseDescription": "Using a special algorithm melody, Sigma commands arithmetic cubes and restores Deployment Resources quickly. Restores 1 Deployment Resource. This skill consumes 15% of her HP when used."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Barrier equal to 20% of Max HP for 10 s for up to 3 skill uses"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1160_4",
+                "name": "Daddy! Help!",
+                "type": "Ultimate",
+                "validHits": null,
+                "cooldown": 76,
+                "baseDescription": {
+                  "baseDescription": "Uses a beeper from her father and summons Machine G.O.D. Daddy, a nanny robot that can't be healed. When deployed, Machine G.O.D. Daddy inflicts AoE damage, forcing the enemies to attack it for 3 seconds, and decreases approaching enemies' ATK by 10%."
+                },
+                "level2": {
+                  "level2": "Cooldown -4 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -4 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -8 s"
+                },
+                "level5": {
+                  "level5": "Enemy ATK -20% instead, Deployment Resource +1 when used"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 14.6,
+                "critical": 2.49,
+                "def": 2.46,
+                "evade": 0.36,
+                "hit": 3.67,
+                "hp": 126
+              },
+              "base": {
+                "hp": 996,
+                "atk": 143,
+                "def": 172,
+                "hit": 256,
+                "critical": 174,
+                "evade": 25
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "f2112c84-ed41-55bd-a59a-498c46921ec0"
+    }
+  },
+  "staticQueryHashes": []
+}

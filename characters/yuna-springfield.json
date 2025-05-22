@@ -1,0 +1,237 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/yuna-springfield",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "98a048bc-4fc3-5baa-9fdc-2916935c5129",
+            "updatedAt": "2024-10-17T21:37:48.873Z",
+            "createdAt": "2021-10-21T13:35:51.718Z",
+            "unitId": "1090",
+            "fullName": "Yuna Springfield",
+            "slug": "yuna-springfield",
+            "shortName": "Yuna Springfield",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/0eb5ad2a19347a74e5fe53bde0623ec5/acb7c/emp-1090.png",
+                        "srcSet": "/static/0eb5ad2a19347a74e5fe53bde0623ec5/1c9ce/emp-1090.png 64w,\n/static/0eb5ad2a19347a74e5fe53bde0623ec5/bf8e1/emp-1090.png 128w,\n/static/0eb5ad2a19347a74e5fe53bde0623ec5/acb7c/emp-1090.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/0eb5ad2a19347a74e5fe53bde0623ec5/8257c/emp-1090.webp 64w,\n/static/0eb5ad2a19347a74e5fe53bde0623ec5/6766a/emp-1090.webp 128w,\n/static/0eb5ad2a19347a74e5fe53bde0623ec5/22bfc/emp-1090.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Strega",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Yuna Springfield does not have the stats necessary to meet the baseline requirements expected of her as a damage dealer.\\n\\nYuna Springfield does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Uses high-firepower AoE attacks from a distance."
+            },
+            "introduction": {
+              "introduction": "　Yuna Springfield, an apprentice witch of Strega, is a ranged attacker who prepares devastating magic using the Witch's Staff that has been passed down her family.\n\n　She decided to become a witch to follow the will of her deceased grandmother, and recklessly visited a real witch and asked her to be her master. But for some reason, the new master made her a waitress in the Witch Cafe she owns, saying that it's all part of the training.\n　Yuna always begins her chores filled with enthusiasm, but quickly gets exhausted and overwhelmed. She is full of spirit, but lacking in seriousness.\n　When a counselor asked her what she wanted to do when she became a real witch, she answered that she'd think about it after she became one. Many are paying attention to this young witch's future. Of course, most of them bet their money on her failure."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1090_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Shoots a fireball, inflicting damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1090_2",
+                "name": "Trainee Witch on Training",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She's practicing something that she claims is magic. Increases ATK by 3%."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +9%"
+                },
+                "level5": {
+                  "level5": "Basic attack Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1090_3",
+                "name": "Blast Bomb",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Shoots concentrates of explosive energy, inflicting AoE damage on and around the target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1090_4",
+                "name": "Disintegrate",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Discharges a high-temperature heat ray, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Skill always inflicts CRIT damage"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 25.07,
+                "critical": 4.18,
+                "def": 0.81,
+                "evade": 1.04,
+                "hit": 2.1,
+                "hp": 137
+              },
+              "base": {
+                "hp": 1069,
+                "atk": 241,
+                "def": 52,
+                "hit": 136,
+                "critical": 271,
+                "evade": 67
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "98a048bc-4fc3-5baa-9fdc-2916935c5129"
+    }
+  },
+  "staticQueryHashes": []
+}

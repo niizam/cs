@@ -1,0 +1,240 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/han-sorim",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "d638f5c7-175a-5dec-8109-a96193ceb081",
+            "updatedAt": "2024-10-17T21:20:16.787Z",
+            "createdAt": "2021-10-22T00:15:10.233Z",
+            "unitId": "1136",
+            "fullName": "Han Sorim",
+            "slug": "han-sorim",
+            "shortName": "Han Sorim",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/0328e3457269ff1927778bfd584ee243/acb7c/emp-1136.png",
+                        "srcSet": "/static/0328e3457269ff1927778bfd584ee243/1c9ce/emp-1136.png 64w,\n/static/0328e3457269ff1927778bfd584ee243/bf8e1/emp-1136.png 128w,\n/static/0328e3457269ff1927778bfd584ee243/acb7c/emp-1136.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/0328e3457269ff1927778bfd584ee243/8257c/emp-1136.webp 64w,\n/static/0328e3457269ff1927778bfd584ee243/6766a/emp-1136.webp 128w,\n/static/0328e3457269ff1927778bfd584ee243/22bfc/emp-1136.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "White Rabbit",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "May 27th, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Han Sorim does not have the stats necessary to meet the baseline requirements expected of her as a damage dealer.\\n\\nHan Sorim does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Continuously increases ASPD, and uses enhanced Basic attacks in between attacks."
+            },
+            "introduction": {
+              "introduction": "　Han Sorim is an all-around ranged attacker who attacks faster as she grows familiar to battle.\n\n　She is the secondary leader of the animal rescue club, White Rabbit. Although she hates all forms of physical activities, she is a very fast learner. In her first simulation training, she scored well above the averages of soldiers in weapon utilization and shooting, only with the knowledge she learned by watching others.\n　Sorim always calls Harim Captain, because she has become a military maniac through a variety of media including comic books. She is living under the fantasy that she is a soldier, but she becomes a shy girl again when she gets nervous.\n　Her future looks bright because she is a genius who gravitates toward what she likes."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Anti-Defender Autoattack DPS",
+                "notes": "EE is very strong."
+              },
+              "pvp": {
+                "set": "Anti-Defender Autoattack DPS",
+                "notes": "EE is very strong."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1136_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rifle at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1136_2",
+                "name": "Slow Starter",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Slowly adapts to the battle situation. Basic attacks increase ASPD by 2% every time they are performed, up to 20%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Basic attacks increase ASPD by 4% instead (consistently up to 20%)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1136_3",
+                "name": "SKM-09 Smoke Grenade",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 32,
+                "baseDescription": {
+                  "baseDescription": "Throws a smoke grenade, inflicting AoE damage on and around the foremost target. The targets are blinded for 4 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Special Skill attacks can also trigger DBT-01 Adamantine Bullet."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1136_4",
+                "name": "DBT-01 Adamantine Bullet",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After every 4th Ground Basic attack, she fires an enhanced bullet that inflicts 30% more damage and penetrates up to 2 times."
+                },
+                "level2": {
+                  "level2": "Anti-Defender DMG +10%"
+                },
+                "level3": {
+                  "level3": "Anti-Defender DMG +10%"
+                },
+                "level4": {
+                  "level4": "Anti-Defender DMG +20%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1, DMG Bonus changes to 60%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 23.72,
+                "critical": 3.56,
+                "def": 1.11,
+                "evade": 2.39,
+                "hit": 3.75,
+                "hp": 138
+              },
+              "base": {
+                "hp": 1076,
+                "atk": 228,
+                "def": 72,
+                "hit": 243,
+                "critical": 231,
+                "evade": 155
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "d638f5c7-175a-5dec-8109-a96193ceb081"
+    }
+  },
+  "staticQueryHashes": []
+}

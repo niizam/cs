@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/awakened-ray",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "f49b2b26-6602-5809-a4ee-5cd84f736eae",
+            "updatedAt": "2024-12-12T22:01:16.114Z",
+            "createdAt": "2023-02-10T08:04:52.377Z",
+            "unitId": "1240",
+            "fullName": "Awakened Ray",
+            "slug": "awakened-ray",
+            "shortName": "Awakened Ray",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/cd6d301c27deb769044c155a61f69f29/acb7c/1240.png",
+                        "srcSet": "/static/cd6d301c27deb769044c155a61f69f29/1c9ce/1240.png 64w,\n/static/cd6d301c27deb769044c155a61f69f29/bf8e1/1240.png 128w,\n/static/cd6d301c27deb769044c155a61f69f29/acb7c/1240.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/cd6d301c27deb769044c155a61f69f29/8257c/1240.webp 64w,\n/static/cd6d301c27deb769044c155a61f69f29/6766a/1240.webp 128w,\n/static/cd6d301c27deb769044c155a61f69f29/22bfc/1240.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Nehemoth",
+            "seaReleaseDate": "June 13th, 2023",
+            "krReleaseDate": "February 9th, 2023",
+            "globalReleaseDate": "October 11th, 2023",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Barrier",
+              "Selfhealer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Ray (Ray) is a PVP-oriented frontline tank designed to break through enemy teams by smashing their positioning. His kit is a strange combination of a counterattack on special and self-buff on ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Distinguishing himself from other counterattack characters, Ray’s counterattack comes with a unique trigger that protects his backline. While interesting, it suffers from poor uptime and lack of self-synergy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most of Ray’s power budget was allocated to his Ultimate Skill. His combination of surefire basics, ultimate self-buffs, and special targeting all synergize to create a kit with potent pushing power. If not dealt with, Ray can win games on his own.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Although Ray is predominantly a PVP unit, he has niche applications in PVE (i.e. Britra) Notably, he was used in Danger Close against Knight of the Lake to bug his phase transition for a significantly faster clear speed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ray’s ultimate struggles to find value in PVE. As a general frontline tank, Ray struggles to distinguish himself from the pool of stronger, cheaper alternatives (e.g. Rearm Kaci, Rearm Alex).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Ray functions as a frontline tank who specializes in busting through the enemy team with his ultimate. He also provides some utility in the form of his counterattacks, but the focus is largely on the pushing power he gains from his ultimate skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ray’s ultimate generates value in a number of ways:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Destroy positioning\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Positioning is one of Counterside’s core mechanics. This covers where you place your units, how you space backline units to keep them safe, and how you position your team relative to your opponent on the map (see also: \",\"nodeType\":\"text\"},{\"data\":{\"uri\":\"https://www.prydwen.gg/counter-side/guides/rta-concepts\"},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"https://www.prydwen.gg/counter-side/guides/rta-concepts\",\"nodeType\":\"text\"}],\"nodeType\":\"hyperlink\"},{\"data\":{},\"marks\":[],\"value\":\"). Ray gains ultimate level hitstun on his basics for the duration of his self-buffs. Paired with his surefire on basics, he can pump out an obnoxious amount of knockback. Ray can expose the backline by pushing back the frontline tanks and left unchecked, he will squeeze the entire enemy team under their own ship, destroying their positioning and opening the enemy team up to devastating followup through splash damage from AOE attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Massive boost to survivability\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ray heals himself for 20% HP and gains invincibility while moving. The invincibility makes it difficult to deal damage to Ray as he has to be stationary to take damage, and he will only be stationary if he is stopping to knock something back (and obviously, he won’t be stationary for long in this scenario). This can be paired with healing from Ray’s own backline. It can be difficult for the enemy backline to make damage stick.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Gain tempo\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ray’s ultimate cooldown starts when he casts his ultimate, not when the ultimate buffs time out. On high end gear (i.e. Swift movements), he could be halfway to his next ult cast by the time the first ultimate expires.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If at any point Ray wedges himself under the enemy ship, it can be impossible for the opponent to recover. In a sense, he can be considered an ASSR sidegrade to base Horizon; Ray costs more, needs more support, and has a less immediate impact, but he brings consistency.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ray’s counterattack has some funny interactions such as stopping Rearm Elizabeth, but since Ray is never played specifically for the counterattack this stuff is more of a bonus than a point to be emphasized.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While Ray’s ultimate skill is powerful, it can be incredibly difficult for him to get there. Ray has little to no defensive utility and his stats are fairly middling. Ray can be managed through a combination of:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Killing Ray\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ray’s survivability issues are exacerbated by his gearing; he desperately needs skill haste to get his ultimate sooner, but this comes at the expense of losing survivability from set and (if using Swift movements) substats. For a frontline tank, Ray is pretty squishy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Stacking frontline tanks\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": If Ray is unable to touch the backline with his ultimate skill, it will effectively have done nothing. Stacking frontline tanks is an easy way to keep him occupied. This can be taken a step further by playing a heavy stall comp to tank the whole thing; if Ray is unable to secure a lead with his ultimate skill, he will effectively have ruined his own team’s positioning. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Ultimate skill can completely ruin enemy positioning.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Difficult to dislodge from underneath the enemy ship.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Ray’s performance hinges entirely on how much he can accomplish with his ultimate skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Lack of defensive utility makes him surprisingly squishy, even more so with Tank CDR gear.   \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "9",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Defender who can counterattack and protect backline allies"
+            },
+            "introduction": {
+              "introduction": "네헤모트 레이는 자신과 후열 아군이 받는 공격을 반격하여 아군 보호에 특화된 디펜더입니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "HP+HP / Cooldown Reduction",
+                "notes": "Ground DMG Res > Skill Haste"
+              },
+              "pvp": {
+                "set": "HP+HP / Cooldown Reduction",
+                "notes": "Ground DMG RES > Melee/Ranged DMG Res > Skill Haste"
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1240_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swiftly attacks enemies with his sword. All of Ray's attacks are considered Sure Fire."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1240_2",
+                "name": "Pitch-dark Savior ",
+                "type": "Passive",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When deployed, charges forward, deals AoE damage and knocks back enemies (including targets immune to Hitstun from Ultimate or lower skills). When an attack that does not include Ray causes Hitstun from Special or lower skills to Ranger, Sniper and Supporter allies in the very rear, Ray blocks the attack, inflicts a powerful Knockback and Stun for 3 seconds in front, and comes back. (Cooldown is fixed to 35 seconds and does not trigger while the Ultimate Skill buff is active.) Ray does not detect enemies in his rear."
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "Debuff RES + 50%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1240_3",
+                "name": "Cleave",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "When an enemy attack causes Hitstun from Special or lower skills, he blocks the attack, and counterattacks with a powerful Knockback attack to the front. Enemies hit become stunned for 5 seconds."
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "Creates a barrier worth 10% of Max HP after skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1240_4",
+                "name": "Advance of the Demon Lord",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Unleashes his power and deals AoE damage to nearby enemies. Become enhanced for 16 seconds after using his Ultimate Skill, and his basic attack changes to an attack that inflicts a powerful Knockback equivalent to an Ultimate Skill Hitstun. While he is enhanced, he is immune to CC and Hitstun from Ultimate or lower skills; his SPD decreases by 30%; and he is invincible while moving.\n\n*Crowd control immunity: Stun, Sleep, Fear, Confusion and Freeze Immune"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Recovers 20% HP after casting."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 38.34,
+                "critical": 1.15,
+                "def": 7.89,
+                "evade": 3.03,
+                "hit": 2.72,
+                "hp": 464
+              },
+              "base": {
+                "hp": 3759,
+                "atk": 383,
+                "def": 597,
+                "hit": 203,
+                "critical": 87,
+                "evade": 229
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "f49b2b26-6602-5809-a4ee-5cd84f736eae"
+    }
+  },
+  "staticQueryHashes": []
+}

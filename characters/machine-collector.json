@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/machine-collector",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "6c1e07f1-f259-504e-9dfa-b969a173bfbb",
+            "updatedAt": "2024-02-18T08:39:27.393Z",
+            "createdAt": "2021-10-22T07:12:53.019Z",
+            "unitId": "1189",
+            "fullName": "Machine Collector",
+            "slug": "machine-collector",
+            "shortName": "Machine Collector",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a8f1e2e6bdd63ceb1350ce614593712c/acb7c/emp-1189.png",
+                        "srcSet": "/static/a8f1e2e6bdd63ceb1350ce614593712c/1c9ce/emp-1189.png 64w,\n/static/a8f1e2e6bdd63ceb1350ce614593712c/bf8e1/emp-1189.png 128w,\n/static/a8f1e2e6bdd63ceb1350ce614593712c/acb7c/emp-1189.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a8f1e2e6bdd63ceb1350ce614593712c/8257c/emp-1189.webp 64w,\n/static/a8f1e2e6bdd63ceb1350ce614593712c/6766a/emp-1189.webp 128w,\n/static/a8f1e2e6bdd63ceb1350ce614593712c/22bfc/emp-1189.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Scavengers",
+            "seaReleaseDate": "December 15th, 2021",
+            "krReleaseDate": "August 10th, 2021",
+            "globalReleaseDate": "November 10th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Dispeller",
+              "Debuffer",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Machine Collector is an anti-mech supporter employee who is one of the best counters to mech-based meta teams and certain counter teams reliant on buffs. Deployed right, she makes the enemy frontline melt with her mix of debuffs applied to them. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall she uses a few unique stats, that are hard to find on other employees:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DMG Res Penetration (buff for allies) - Allies ignores their target's DMG Res (which means they deal more damage). This effect is doubled for allied Mechs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DMG Increase suppression (debuff for enemies) - Decrease the target's DMG-Increase bonuses (so their Anti-Ground/Anti-Role damage bonus will be lowered by X, making them do less damage). The effect is doubled against enemy Mechs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The problem with those stats is that they can't go into negative, meaning if an enemy doesn't have any DMG Res, Machine Collector will do nothing with her DMG Res Penetration. This makes that stat way worse than DEF shred for PVE because every PVE enemy has DEF stat, but has no DMG Res unless stated otherwise or through Role Disadvantage Res.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Still, in the recently released Relic Dungeons (the place where you farm T7 gear) she's used in all auto-teams against the Titan boss. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- unique DMG Res/DMG increase skills,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- top tier in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- she's not a unit that works great on her own as she allows her allies to shine,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- very niche when it comes to PVE content.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "9",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A buff-suppressing supporter that's especially effective on Mechs"
+            },
+            "introduction": {
+              "introduction": "  Machine Collector is a Supporter commanding parasites to enhance allies, remove enemy buffs, and create additional effects for Mechs.\n\n  She's the most infamous pirate on the Dark Network and a more threatening enemy to the companies that develop armored weapons than their competitors. With a simple flick of her fingers, she can instantly set her parasites on their machines, divesting them of control.\n  As her name suggests, she collects machines. She also enjoys putting them to the test, which is the reason things in her collection usually don't last long. Unless she finds some machines that can endure her cruel treatment, her thirst as a collector won't be quenched."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1189_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a gun at a target in front. Enhances every 3rd Basic attack."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1189_2",
+                "name": "Parasite Scarlet",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Stacks a buff effect with enhanced attacks, and then consumes all stacks with Special skill. (Max 4 stacks) Increases her and all allies' DMG RES Penetration by 25% for 12 seconds upon deployment. (x2 effect on Mechs)"
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "4 Passive Buff stacks upon deployment"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1189_3",
+                "name": "Shutdown Code",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Discharges the subminiature drones' energy, inflicting AoE damage on and around the target. The last attack decreases DMG RES by 5 - 25% for 5 - 25 seconds, in proportion to the number of the consumed Passive stacks. (x2 effect on Mechs)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%\n"
+                },
+                "level5": {
+                  "level5": "Randomly removes 1 non-Permanent buff. Stuns affected Mechs for 4 s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1189_4",
+                "name": "Wild Hunt",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Creates a group of subminiature drones that follow enemies and inflict AoE damage. The affected enemies receive DMG-Increase Suppression by 25% for 12 seconds (x2 effect on Mechs)"
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Affected Mech HP -2% every second for 10 s (Bosses excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 24.31,
+                "critical": 2.87,
+                "def": 1.74,
+                "evade": 2.01,
+                "hit": 3.55,
+                "hp": 226
+              },
+              "base": {
+                "hp": 1857,
+                "atk": 246,
+                "def": 143,
+                "hit": 293,
+                "critical": 237,
+                "evade": 166
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "6c1e07f1-f259-504e-9dfa-b969a173bfbb"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,250 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/veronica",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "ad7ea29c-5157-5091-8093-4720962efe0c",
+            "updatedAt": "2024-12-12T22:02:56.322Z",
+            "createdAt": "2021-10-22T06:35:00.828Z",
+            "unitId": "1162",
+            "fullName": "Veronica",
+            "slug": "veronica",
+            "shortName": "Veronica",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/784b4db4dd7531af02528cb5602cbdd2/acb7c/emp-1162.png",
+                        "srcSet": "/static/784b4db4dd7531af02528cb5602cbdd2/1c9ce/emp-1162.png 64w,\n/static/784b4db4dd7531af02528cb5602cbdd2/bf8e1/emp-1162.png 128w,\n/static/784b4db4dd7531af02528cb5602cbdd2/acb7c/emp-1162.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/784b4db4dd7531af02528cb5602cbdd2/8257c/emp-1162.webp 64w,\n/static/784b4db4dd7531af02528cb5602cbdd2/6766a/emp-1162.webp 128w,\n/static/784b4db4dd7531af02528cb5602cbdd2/22bfc/emp-1162.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Flora Maid Service",
+            "seaReleaseDate": "November 16th, 2021",
+            "krReleaseDate": "December 10th, 2020",
+            "globalReleaseDate": "September 29th, 2022",
+            "cost": 4,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Striker",
+            "alterniumInfo": {
+              "name": "Spicata",
+              "type": "Special Skill Enh.",
+              "skill_name": "Rasta Blasta",
+              "description": "When buffed with Rasta Blasta, she gains immunity to Hitstun from Ultimate or lower skills and all attacks are treated as an Ultimate Skill Hitstun."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "True Damage",
+              "Immortality"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Veronica is a PVP-oriented melee-range damage dealer with a highly synergistic “berserker” kit that increases her damage the lower her health gets. The first time Veronica is “killed”, she triggers an immortality self-buff and significantly boosts her damage output for a duration. Veronica’s kit can be heavily leveraged to output obscene amounts of damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Veronica’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" significantly improves her damage potential and consistency by effectively addressing her weaknesses:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Veronica’s damage window could be stalled out by knocking her around with hitstun, effectively stunning her with constant staggers. Immunity to Hitstun from Ultimate or lower skills removes this weakness entirely, improving her consistency across all her matchups.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate skill hitstun allows Veronica to disrupt the enemy team by knocking enemies out of their skill animations to cancel them before they complete. In particular, this allows Veronica to protect herself from having her buffs removed by frontline tanks (e.g. Rearm Kaci, Rearm Alex).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Veronica sees limited use as a gimmicky frontline tank/ damage dealer to cheese certain stages (notably, Dive 50). To briefly explain the strategy, Veronica can be rapidly redeployed to cycle herself faster than she is killed. This, coupled with Veronica’s personal damage output, allows players to clear challenging content in situations where they may lack the gear to clear conventionally (frontline - backline - supports).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Veronica serves as the core to the Veronica-Vivian(-Matador) comp. Veronica-Vivian is an extremely oppressive statcheck comp that aims to bulldoze the enemy team by letting loose Veronica supported with the most potent offensive buffs in the game, Vivian and Matador. To elaborate on the core components of the comp:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Veronica’s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" “berserker” mechanic increases her damage output the lower her health gets, with a 10 second immortality self-buff during which she performs at “full power”.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Matador\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", the dedicated soldier ship, has an exceedingly rare multiplicative ATK% buff that scales with missing HP, up to a maximum of 100%. Veronica’s immortality self-buff allows her to maximize the effect of Matador’s passive buffs for a brief duration.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Vivian Rashford\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", a damage boost operator, buffs Veronica (among other units) with potent short-lived damage buffs. This synergizes perfectly with Veronica’s own concentrated damage window. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Uninteractible immortal damage dealer that does infinite DPS.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Extremely potent synergy with Vivian Rashford (operator) and Matador (ship).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Statcheck comps live and die by their stats, and falling short of the check is a miserable experience for both sides.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "8",
+              "pve_early": "8",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A dealer who grows stronger as her HP decreases"
+            },
+            "introduction": {
+              "introduction": "　Veronica, the chief of the Flora Maid Service, is a striker who refuses to leave the battlefield or her master even if it kills her.\n\n　Her such fierce loyalty has inspired the other maids and attracted many good clients. Despite the recent reinforcement of the team, she's not accepting any long-term contracts because she wants to be ready whenever her master calls her. When asked about her master's identity, she'd only smile mysteriously."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1162_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a shotgun, knocking enemies backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1162_2",
+                "name": "Bogeyman Hunter",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Her body automatically performs her skills from the past as she nears death. Increases ATK by up to 50% in inverse proportion to HP."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "ATK, DMG RES +30% for 12 s when deployed"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1162_3",
+                "name": "Burst Stinger",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Charges forward, pushing targets as she goes, and then fires a shotgun, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1, True Skill damage during Rasta Blasta buff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1162_4",
+                "name": "Rasta Blasta",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Her loyalty toward her master helps her defy Death. Gains Immortality for 7 seconds when her HP drops to 1% or lower, and delivers enhanced Basic attacks during Immortality."
+                },
+                "level2": {
+                  "level2": "DMG RES +2%"
+                },
+                "level3": {
+                  "level3": "DMG RES +2%"
+                },
+                "level4": {
+                  "level4": "DMG RES +4%"
+                },
+                "level5": {
+                  "level5": "Buff duration +3 s, enhanced Basic attacks' Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 24.6,
+                "critical": 2.65,
+                "def": 3.19,
+                "evade": 2.72,
+                "hit": 3.27,
+                "hp": 269
+              },
+              "base": {
+                "hp": 2135,
+                "atk": 241,
+                "def": 223,
+                "hit": 228,
+                "critical": 185,
+                "evade": 190
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "ad7ea29c-5157-5091-8093-4720962efe0c"
+    }
+  },
+  "staticQueryHashes": []
+}

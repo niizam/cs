@@ -1,0 +1,227 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/shepherd-and-lurcher",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a19eed2c-7e31-5bee-8fd7-946b62c62bf2",
+            "updatedAt": "2024-11-25T17:34:59.234Z",
+            "createdAt": "2024-01-13T10:10:47.441Z",
+            "unitId": "1262",
+            "fullName": "Shepherd and Lurcher",
+            "slug": "shepherd-and-lurcher",
+            "shortName": "Shepherd and Lurcher",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#b8b8c8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/82ad159dd5e83ea897d32c48c6ee1989/22bfc/1262.webp",
+                        "srcSet": "/static/82ad159dd5e83ea897d32c48c6ee1989/8257c/1262.webp 64w,\n/static/82ad159dd5e83ea897d32c48c6ee1989/6766a/1262.webp 128w,\n/static/82ad159dd5e83ea897d32c48c6ee1989/22bfc/1262.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Elementals and Beasts",
+            "seaReleaseDate": "June 19th, 2024",
+            "krReleaseDate": "December 19th, 2023",
+            "globalReleaseDate": "June 19th, 2024",
+            "cost": 7,
+            "type": [
+              "Mech",
+              "Corrupted Object"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Immortality",
+              "Detect Stealth",
+              "CC"
+            ],
+            "reviewGeneral": null,
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "1",
+              "pve_early": "11",
+              "pve_late": "9"
+            },
+            "description": {
+              "description": "A Striker who gets stronger the lower their HP gets"
+            },
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1262_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage to enemies in front. While [Enraged], deals AoE damage 2 times."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1262_2",
+                "name": "Can’t Stop If I’m Angry",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Shepherd calms down Lurcher so he does not attack allies. Becomes Immune to Knockback and Hitstun from Ultimate or lower skills, but cannot gain Stealth, healing, and Barriers. Becomes Immortal◇ (canceled after taking 50 hits) upon deployment. Performs an enhanced attack that deals AoE damage and inflicts Airborne after every 3 basic attacks. Always looks in the direction where more enemies are within sight."
+                },
+                "level2": {
+                  "level2": "ATK as per HP Loss +10%"
+                },
+                "level3": {
+                  "level3": "ATK as per HP Loss +10%"
+                },
+                "level4": {
+                  "level4": "ATK as per HP Loss +20%"
+                },
+                "level5": {
+                  "level5": "All attacks increase Immortal◇ hit count by 1 (up to 30 after deployment)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1262_3",
+                "name": "Destructive Instincts",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 10,
+                "baseDescription": {
+                  "baseDescription": "Lurcher swings his tail in front, dealing AoE damage and inflicting strong Knockback. Damaged enemies are stunned◇ for 2 seconds (Mechs included). Gains 2 Fury when cast."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Changes Special Skill to Sure Fire"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1262_4",
+                "name": "Boron T6 Spectroscopic Auger",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Activates the auger in front and enters the uncancellable [Enraged] state for 30 seconds, firing a laser in front to deal AoE damage.\n\n[Enraged]: Changes basic and enhanced attacks to Special Skill Hitstun, DMG RES Penetration +50%, DMG-Up Defense +50%, Nullify Debuff"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "ASPD +25% after Ultimate Skill and until death"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 58.48,
+                "critical": 0,
+                "def": 9.81,
+                "evade": 1.79,
+                "hit": 5.42,
+                "hp": 1020
+              },
+              "base": {
+                "hp": 8115,
+                "atk": 573,
+                "def": 686,
+                "hit": 379,
+                "critical": 0,
+                "evade": 125
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": false
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a19eed2c-7e31-5bee-8fd7-946b62c62bf2"
+    }
+  },
+  "staticQueryHashes": []
+}

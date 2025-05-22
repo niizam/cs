@@ -1,0 +1,252 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/awakened-seo-yoon",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "4a84463c-f95d-5c59-94d8-58c5741b5e70",
+            "updatedAt": "2025-01-28T07:11:42.897Z",
+            "createdAt": "2021-10-22T06:40:56.661Z",
+            "unitId": "1166",
+            "fullName": "Awakened Seo Yoon",
+            "slug": "awakened-seo-yoon",
+            "shortName": "Awakened Seo Yoon",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/a86c2545dc1a11238dccc6fea1a0d959/acb7c/emp-1166.png",
+                        "srcSet": "/static/a86c2545dc1a11238dccc6fea1a0d959/1c9ce/emp-1166.png 64w,\n/static/a86c2545dc1a11238dccc6fea1a0d959/bf8e1/emp-1166.png 128w,\n/static/a86c2545dc1a11238dccc6fea1a0d959/acb7c/emp-1166.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/a86c2545dc1a11238dccc6fea1a0d959/8257c/emp-1166.webp 64w,\n/static/a86c2545dc1a11238dccc6fea1a0d959/6766a/emp-1166.webp 128w,\n/static/a86c2545dc1a11238dccc6fea1a0d959/22bfc/emp-1166.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Altergressive",
+            "seaReleaseDate": "September 22nd, 2021",
+            "krReleaseDate": "February 2nd, 2021",
+            "globalReleaseDate": "September 8th, 2022",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "Misteltein",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Arms Synchronization",
+              "description": "Passive Skill's ATK buff to self and telekinetic rifle changed to <b>+10%</b> (Up to <b>+50%</b>). Special Skill triggers the same effect activated by an enhanced attack."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Dispeller",
+              "ETB",
+              "Healblock",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Seo Yoon is a top-tier damage dealer that dominates the battlefield by sheer presence. Her gimmick is that she can summon rifles that are Snipers while she is a Ranger, so you get two different damage dealers in one. Furthermore, she's quite hard to kill thanks to her rifles - they take any damage instead of her - and jumping backward away from the action when her HP falls below a certain threshold. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the early game, deploying ASY behind a tank is enough to safely clear most stages in story mode as she will kill everything that tries to harm her. Together with Awakened Yuna, she forms a duo that can easily clear the whole Shadow Palace (except for stages where awakened units are banned). While for the longest of time, she was a staple in any Raid team, it's getting harder and harder to justify using her over other employees - it takes a lot of time for ASY to ramp up her damage output, and other damage dealers are cheaper and do a similar amount of damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As for the late game, while she is often used as a support employee in Dive 50, there's no place for her in Relic Dungeons. While you can use her there in one of the three endgame Dungeons, if she's your only awakened unit, she's useless in the other two.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, while her damage is also scary, she's feared because of Healing Reflux. She places a debuff on any enemy hit by her special and whenever they are healed they get damaged instead. Still, nowadays she's not as good as she was because there are a lot of characters that counter her - for example, the current meta character, Replacer King can instantly wipe her Rifles, leaving her defenseless. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the Global version, ASY is basically impossible to efficiently counter besides using Ingrid and other strikers to rush her down. This makes her a fearsome DPS with sustainability thanks to her backsteps, likely warping the meta for a time. Still, as different and stronger strikers come out like Spira and Veronica, ASY will begin to fall off - as well as other stronger awakens being released like Ministra/Amy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- two units in one,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- solo carry potential,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- one of the best damage dealers in the game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Healing Reflux is super strong in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- has fallen quite a bit in the current KR PVP meta and in endgame PVE content.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "9",
+              "pve_early": "9",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A highly enduring attacker who keeps pushing the front enemy line."
+            },
+            "introduction": {
+              "introduction": "  Seo Yoon has awakened her Altergressive power!\nA Ranger specializing in telekinetically controlling firearms and her spear Misteltein, she distinguished herself during the battle with the Replacers, and received an official license to run a squad, which used to operate illegally in the Underground.\n  A lot of Underground Counters are jealous of her success, and it's a mystery among them why such an independent and successful individual would insist on staying with a small TASKFORCE company that doesn't seem to offer much."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": "Good user of ASPD sets/substats/latents and Ranged DMG latents."
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1166_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks a single target in front with various firearms."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1166_2",
+                "name": "Arms Synchronization",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When deployed, increases skill cooldown by 8 seconds for all enemies in a 700-reach radius in front and knocks them backward. After every 3rd basic attack, she delivers an enhanced attack, summons up to 4 telekinetic rifles, and increases her and her telekinetic rifles' ATK by 5% for 12 seconds (Up to +25%). These telekinetic rifles take damage for her. Seo Yoon moves backward when her HP drops to 70% or below, knocking surrounding enemies backward in her facing direction, and then summons 1 additional telekinetic rifle."
+                },
+                "level2": {
+                  "level2": "ASPD +5%"
+                },
+                "level3": {
+                  "level3": "ASPD +5%"
+                },
+                "level4": {
+                  "level4": "ASPD +10%"
+                },
+                "level5": {
+                  "level5": "Passive evasion is activated again if HP drops to 40% or below"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1166_3",
+                "name": "Divine Slash",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 21,
+                "baseDescription": {
+                  "baseDescription": "Swings Misteltein, inflicting AoE damage on enemies in front. The affected enemies can't recover for 9 seconds. In Gauntlet, they receive as much damage as their healing amount. (Bosses and ships excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Debuff duration +6 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1166_4",
+                "name": "Deicide Cleaver",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 52,
+                "baseDescription": {
+                  "baseDescription": "Concentrates energy onto Misteltein and throws it in a straight line, inflicting AoE damage multiple times. The first attack randomly removes 1 non-Permanent buff from the affected target. Additionally summons a telekinetic rifle after this skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Special & Ultimate skills also activate Passive"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 51.03,
+                "critical": 5.05,
+                "def": 3.17,
+                "evade": 2.69,
+                "hit": 4.19,
+                "hp": 343
+              },
+              "base": {
+                "hp": 2725,
+                "atk": 500,
+                "def": 221,
+                "hit": 293,
+                "critical": 353,
+                "evade": 188
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "4a84463c-f95d-5c59-94d8-58c5741b5e70"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,248 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/rosaria-le-friede",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a4321deb-2209-5b19-8fcd-43626665d904",
+            "updatedAt": "2025-04-12T08:22:35.325Z",
+            "createdAt": "2021-10-21T23:34:31.229Z",
+            "unitId": "1109",
+            "fullName": "Rosaria le Friede",
+            "slug": "rosaria-le-friede",
+            "shortName": "Rosaria le Friede",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/0c50a2e35e1c08801fa4ec610f3ecc69/acb7c/emp-1109.png",
+                        "srcSet": "/static/0c50a2e35e1c08801fa4ec610f3ecc69/1c9ce/emp-1109.png 64w,\n/static/0c50a2e35e1c08801fa4ec610f3ecc69/bf8e1/emp-1109.png 128w,\n/static/0c50a2e35e1c08801fa4ec610f3ecc69/acb7c/emp-1109.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/0c50a2e35e1c08801fa4ec610f3ecc69/8257c/emp-1109.webp 64w,\n/static/0c50a2e35e1c08801fa4ec610f3ecc69/6766a/emp-1109.webp 128w,\n/static/0c50a2e35e1c08801fa4ec610f3ecc69/22bfc/emp-1109.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Fallen Hawk",
+            "seaReleaseDate": "June 10th, 2021",
+            "krReleaseDate": "May 21st, 2020",
+            "globalReleaseDate": "May 26th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "Tyrant's Blade",
+              "type": "Special Skill Enh.",
+              "skill_name": "Destructive Light",
+              "description": "Deployment Resources +1 upon death, Special Skill changed to multi-hit attack (2 times) and its total DMG +20%"
+            },
+            "hasAlternium": true,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rosaria is a PVP-oriented glass cannon damage dealer valued for the massive on-demand burst damage of her Special Skill. Rosaria’s on-deploy Special skill cooldown reset allows her to spam special skills and gives players control over where and when they need it. As a result, she can take full DMG% gear without the tradeoffs (skill haste at the expense of damage) that apply to other characters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rosaria’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" improves her Special skill damage and makes her significantly more cost-efficient. Rosaria has bordered on the cusp of viability for the longest time owing to her cost issues. Her reactor solves all these. She now sees frequent play in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Rosaria’s Special skill cooldown reset encourages her to be cycled repeatedly over the course of a match, chunking the enemy team with every cast. As mentioned above, Rosaria is a glass cannon. She is exceptionally squishy and dies to the slightest pressure. She is almost always played in risky, forward positions to reach deep into the enemy backline. Even though Rosaria does not have the survivability to last long in those positions (read: dies instantly), just the Special skill itself can be enough to swing the game in her favor.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Special skill is can one shot most squishy targets and resets with redeploy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Very squishy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "8",
+              "pve_early": "6",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A Ranged attacker who delivers high-power AoE attacks from a distance."
+            },
+            "introduction": {
+              "introduction": "　Rosaria le Friede is an all-around Ranged attacker, delivering powerful AoE attacks from the air.\n\n　The owner of the Fallen Hawk Detective Agency famous for its ability to find the missing, she's been seen by many of her clients treating her employees like her servants. According to her, she's only being gracious to lesser beings who wouldn't have known their purpose in life if it weren't for her.\n　She enjoys observing mankind's self-destructive and irrational behavior, and loves watching daytime soap operas. She's especially an avid fan of The Bridge of Seduction Season 6, widely popular for its immoral and controversial story.\n　Sometimes she accompanies her employees on their investigations, and whenever she does, mysterious cases of local destruction occur."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1109_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Creates a small flame and inflicts damage on a target in front. Stomps on approaching Air units, knocking them backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1109_2",
+                "name": "Owner of the Throne",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Permanently increases ATK by 1.5% with each kill, up to 15%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Immunity to all damage for 4 s upon deployment"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1109_3",
+                "name": "Destructive Light",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Fires blazing beams at enemies in front, causing Hitstun and AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Redeployment resets Special skill cooldown, also causes Hitstun to targets in Special Skill mode"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1109_4",
+                "name": "Punishing Edge",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Rises from her throne and summons a fiery sword, swinging it once. Inflicts AoE damage on enemies in front and levitates them."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Ultimate skill cooldown -15 s when redeployed"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 48.89,
+                "critical": 4.21,
+                "def": 0.53,
+                "evade": 1.59,
+                "hit": 3.05,
+                "hp": 131
+              },
+              "base": {
+                "hp": 1037,
+                "atk": 479,
+                "def": 37,
+                "hit": 213,
+                "critical": 294,
+                "evade": 111
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a4321deb-2209-5b19-8fcd-43626665d904"
+    }
+  },
+  "staticQueryHashes": []
+}

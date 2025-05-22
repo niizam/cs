@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/raphaela",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "d9d49deb-75da-5aae-891b-ae9ada3017fd",
+            "updatedAt": "2025-05-01T07:55:30.400Z",
+            "createdAt": "2022-03-09T01:05:00.047Z",
+            "unitId": "1208",
+            "fullName": "Raphaela Juri the Evil Chaser",
+            "slug": "raphaela",
+            "shortName": "Raphaela Juri",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6512033e13c2c24757488880dd9f426d/acb7c/emp-1208.png",
+                        "srcSet": "/static/6512033e13c2c24757488880dd9f426d/1c9ce/emp-1208.png 64w,\n/static/6512033e13c2c24757488880dd9f426d/bf8e1/emp-1208.png 128w,\n/static/6512033e13c2c24757488880dd9f426d/acb7c/emp-1208.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6512033e13c2c24757488880dd9f426d/8257c/emp-1208.webp 64w,\n/static/6512033e13c2c24757488880dd9f426d/6766a/emp-1208.webp 128w,\n/static/6512033e13c2c24757488880dd9f426d/22bfc/emp-1208.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "SEA",
+              "KR",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Alphatrix Innovation",
+            "seaReleaseDate": "August 24th, 2022",
+            "krReleaseDate": "March 8th, 2022",
+            "globalReleaseDate": "January 12th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Buffer",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Raphaela - The female version of Gabriel both belonging in tower class, Raphaela was released as a BP unit. Her kit seemed pretty underwhelming at first outside of the 2% MDL, but the 2% MDL alone made her basically impossible to kill for 3 cost and just her addition to the game increased the average length of P\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"VP matches by 10%. As a result, her MDL was soon nerfed to 4%.\\n\\n\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"After in game tests, it quickly revealed her strength that was not mentioned in her kit. Her tower mode has an absurd hit-stun and with the 4m pseudo forward deployment, she can completely prevent units with slow attack speed from performing any action. Also, her skill multipliers are pretty insane and combined with her massive ATK% self-buffs and DPS gears, she can actually nuke backline units with both her special skill and her 50% pre-charged ult, while still applying pretty strong buffs/debuffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As for PVE, she has some uses, but requires manual play or else she just sits at the back for 15 seconds.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- 4% MDL, the highest in the game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great stats for a 3 cost employee,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can stall enemy rush teams pretty well.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can deal alot of damage with her ATK% buff and high skill multipliers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- pretty useless if cannot be deployed into enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "11",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Melee attacker who scatters the enemy front line while defending her position"
+            },
+            "introduction": {
+              "introduction": "라파엘라 주리 더 에빌 체이서는 악을 감시하는 타워 「감시자 모드」와 악을 추적하는 스트라이커 「추적자 모드」, 두 가지 클래스를 가진 하이브리드형 공격수입니다.\n자신을 두고 떠난 쌍둥이의 비밀노트를 보게 된 라파엘라는 불과 한 달만에 자신에게 어울리는 새로운 창술을 고안했습니다.\n더 많은 악과 대적할 수록 강한 공격을 할 수 있게되는 그녀의 「추적 창법」은 지금껏 자신만이 완벽하게 터득했습니다.\n파사의 추적자로 활동 중인 그녀는 현재 자신의 가치를 알아 본 알파트릭스에 입사. 그 활동을 지원받고 있습니다.\n※이상의 서술은 조사 대상이 알파트릭스에 제출한 이력서의 요약임을 알려드립니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": "Can run autoattack DPS gear to kill backline instead of just stalling it. Not as universally applicable as full tank."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1208_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE DMG to surrounding enemies and inflicts Hitstun. In Chaser mode, deals AoE DMG to enemies in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1208_2",
+                "name": "Raphaela the Chaser",
+                "type": "Passive",
+                "validHits": 4,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deploys 400 reach in front and defends her surroundings. In Watcher mode, the DMG Taken Limit is permanently fixed to 20%, always faces to the right, and becomes immune to Stun◇. After 15 seconds or if HP drops to 70% or below, she deals AoE DMG to surrounding enemies and enters Chaser mode."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "20% DMG Taken Limit lasts for 10s after Watcher mode ends. Raphaela also gains ATK +20% per enemy damaged by Chaser mode activation (Up to 100%)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1208_3",
+                "name": "Rising Smash",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 21,
+                "baseDescription": {
+                  "baseDescription": "Jumps high and swings her spear, dealing AoE DMG to enemies in front. ASPD -25% to damaged enemies for 8s. Can only be used in Chaser mode. Cooldown -4s when Chaser mode is activated."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +10%"
+                },
+                "level5": {
+                  "level5": "Cooldown Reduction changes to -6s. If Lv. 5 Passive Skill’s ATK Buff not active, she gains ATK +10% per enemy damaged (Up to 50%)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1208_4",
+                "name": "High Leap Annihilator",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 43,
+                "baseDescription": {
+                  "baseDescription": "Jumps and strikes the ground with her spear dealing AoE DMG, and gains Ranged DMG RES +20% for 12s. Can only be used in Chaser mode. When Chaser mode is activated for the first time, Ultimate Skill is charged by 50%."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Buff effect changes to Ranged DMG RES +40%, and grants nearby allies with half of the effect."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.17,
+                "critical": 1.28,
+                "def": 4.6,
+                "evade": 1.75,
+                "hit": 3.14,
+                "hp": 395
+              },
+              "base": {
+                "hp": 3138,
+                "atk": 276,
+                "def": 321,
+                "hit": 219,
+                "critical": 89,
+                "evade": 122
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "d9d49deb-75da-5aae-891b-ae9ada3017fd"
+    }
+  },
+  "staticQueryHashes": []
+}

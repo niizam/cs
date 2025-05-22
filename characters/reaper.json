@@ -1,0 +1,218 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/reaper",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "3daeff26-c351-53ca-8ed8-e67ff9b5a5fc",
+            "updatedAt": "2024-08-31T20:22:27.338Z",
+            "createdAt": "2021-10-21T11:41:59.563Z",
+            "unitId": "1034",
+            "fullName": "Reaper",
+            "slug": "reaper",
+            "shortName": "Reaper",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3b5b1713fbdf715dd87dc6a50b5240e5/acb7c/emp-1034.png",
+                        "srcSet": "/static/3b5b1713fbdf715dd87dc6a50b5240e5/1c9ce/emp-1034.png 64w,\n/static/3b5b1713fbdf715dd87dc6a50b5240e5/bf8e1/emp-1034.png 128w,\n/static/3b5b1713fbdf715dd87dc6a50b5240e5/acb7c/emp-1034.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3b5b1713fbdf715dd87dc6a50b5240e5/8257c/emp-1034.webp 64w,\n/static/3b5b1713fbdf715dd87dc6a50b5240e5/6766a/emp-1034.webp 128w,\n/static/3b5b1713fbdf715dd87dc6a50b5240e5/22bfc/emp-1034.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Black Tide",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Mech"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "Ground",
+            "speciality": [
+              "ETB",
+              "Battery",
+              "Paratrooper"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Reaper is a bomber that can be deployed anywhere on the battlefield. This makes him great in killing enemy snipers that hide in the backline. Sadly, he was nerfed massively (his damage was cut in half and his cost increased from 2 to 3) and currently he's only worth using in Ranked PVP when he is an upped employee.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Don't use him on auto-play because he will drop bombs on your ship and fly away, satisfied with doing his job.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can be deployed anywhere,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- good against squishy backliners.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can't be used on auto-play,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low damage,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- good only against stationary targets.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "Delivers an AoE attack to enemies in front upon appearance, and then leaves."
+            },
+            "introduction": {
+              "introduction": "　A single-use attacker that bombards an area before exiting the battle.\n\n　It is a pinpoint-strike UAV used to suppress the spread of damage in urban warfare. The military is considering its reintroduction due to its excellent firepower and easy maintenance."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1034_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires missiles at its deployment spot, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1034_2",
+                "name": "LBU-16 Missile",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Performs remote-controlled bombardment. Attacks its deployment spot and leaves the filed upon reaching the other end. Successful escape restores 1 Deployment resource."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Deployment resource +2 upon successful escapes"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1034_3",
+                "name": "Precise Attack OS",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Updates its OS and improves its precision attack capability. Inflicts 20% more damage on Snipers."
+                },
+                "level2": {
+                  "level2": "DMG to Sniper +5%"
+                },
+                "level3": {
+                  "level3": "DMG to Sniper +5%"
+                },
+                "level4": {
+                  "level4": "DMG to Sniper +10%"
+                },
+                "level5": {
+                  "level5": "DMG to Siege +40%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.25,
+                "critical": 1.15,
+                "def": 0.59,
+                "evade": 0.63,
+                "hit": 3.34,
+                "hp": 31
+              },
+              "base": {
+                "hp": 248,
+                "atk": 296,
+                "def": 48,
+                "hit": 276,
+                "critical": 95,
+                "evade": 52
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "3daeff26-c351-53ca-8ed8-e67ff9b5a5fc"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/carmen",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "96766382-adfc-57fb-ba4c-a43b0969bf38",
+            "updatedAt": "2025-03-27T09:24:16.175Z",
+            "createdAt": "2022-05-12T08:12:50.400Z",
+            "unitId": "1216",
+            "fullName": "Carmen",
+            "slug": "carmen",
+            "shortName": "Carmen",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#484858",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/589a09a843286c32d7ff90aac7506b0d/acb7c/emp-1216.png",
+                        "srcSet": "/static/589a09a843286c32d7ff90aac7506b0d/1c9ce/emp-1216.png 64w,\n/static/589a09a843286c32d7ff90aac7506b0d/bf8e1/emp-1216.png 128w,\n/static/589a09a843286c32d7ff90aac7506b0d/acb7c/emp-1216.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/589a09a843286c32d7ff90aac7506b0d/8257c/emp-1216.webp 64w,\n/static/589a09a843286c32d7ff90aac7506b0d/6766a/emp-1216.webp 128w,\n/static/589a09a843286c32d7ff90aac7506b0d/22bfc/emp-1216.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Elysium Philharmonic",
+            "seaReleaseDate": "October 12th, 2022",
+            "krReleaseDate": "May 10th, 2022",
+            "globalReleaseDate": "March 8th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter",
+              "Corrupted Object"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Healer",
+              "Buffer",
+              "Dispeller"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Carmen is a backline long range healing support. She is notable in that she is one of the few ways to access debuff removal in the entire game. Better yet, her debuff removal is readily accessible from her Special skill, applied during healing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Carmen provides no offensive utility. As PVE content is heavily biased towards damage, she is frequently sidelined in favor of more effective alternatives (e.g. Rearm Chinatsu). That being said, Carmen does see use in Dimension Trimming Volcano as part of a specific setup that runs all healers that exist in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Carmen's combination of debuff removal, healing output, and safe range make her one of the best sustain options on any given week. Of note, Carmen’s Special skill fires a projectile that stops at the first enemy hit - this means Carmen’s healing can be denied through redirect tools and buff block (i.e. Serina Crews operator).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Special skill debuff immunity strongly counters anti-heal debuffs (healing reduction/ reflux).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Above average range keeps Carmen safe deep in the backline. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Wonky healing mechanics can make it difficult for Carmen to heal the backline; similarly, Carmen’s heal can be physically intercepted before it hits the frontline.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "10",
+              "pve_early": "6",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "Long range healer that uses music to heal her allies"
+            },
+            "introduction": {
+              "introduction": "카르멘은 치명타가 발생할 때마다 아군을 치유하는 서포터입니다. 카르멘이 생성하는 음표는 아군의 해로운 효과를 제거하면서 체력을 회복시킵니다.\n그녀는 엘리시움 필하모닉에서 콘트라베이스를 연주하는 단원들의 대표입니다. 차분하고 구슬픈 선율은 침식체에게 힘을, 적에게는 깊은 좌절을 불러일으킵니다.\n오래 전부터 카르멘은 싸움으로 자신의 손을 더럽히는 대신 인간들과의 공존을 추구해 왔습니다. 하지만 그 방법은 그림자라는 근본적인 한계에서 벗어나지 못했고, 구 관리국과의 교전 중에 핵이 파괴되는 치명상을 입은 끝에 오랜 시간 자취를 감췄습니다.\n다시 나타난 카르멘은 인간들을 다루는 데 보다 능숙해졌고, 그만큼 더욱 위험한 존재로 거듭났습니다. 그녀의 친절에 속아서는 안 됩니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1216_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Carmen plays her instrument to deal damage to a single target within range."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1216_2",
+                "name": "Corrupting Cadence",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Plays a corrupting cadence where after she lands a critical hit, her next basic attack will heal all allies for 2% of their max HP. (4% for C.O. allies)"
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "ASPD +25% for 3 s for herself when landing a critical hit"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1216_3",
+                "name": "Peaceful Tunes",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Performs a powerful stroke with her bow to generate a note. When the note collides with an enemy, it will explode, inflicting AoE damage to enemies. Allies (Ship excluded) within the note's explosion will be granted a buff that recovers 20% of their max HP over 1 second. (Max 2 stacks)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Nullify Debuff added to buff."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1216_4",
+                "name": "Moonlight Nocturne",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Plays a contrabass solo that heals all allies (Ship excluded) for 40% of their max HP over 5 seconds. Afterwards, she will damage all enemies 3 times, removing 1 non-Permanent buff from them with the last hit. Ally C.O.s regain an additional 10% of their max HP after the performance ends."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 20.41,
+                "critical": 2.92,
+                "def": 2.09,
+                "evade": 2.11,
+                "hit": 5.07,
+                "hp": 218
+              },
+              "base": {
+                "hp": 1734,
+                "atk": 200,
+                "def": 146,
+                "hit": 354,
+                "critical": 204,
+                "evade": 147
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "96766382-adfc-57fb-ba4c-a43b0969bf38"
+    }
+  },
+  "staticQueryHashes": []
+}

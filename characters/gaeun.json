@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/gaeun",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "fcb56010-1752-513b-b054-5ed39df79e97",
+            "updatedAt": "2024-11-07T21:46:47.608Z",
+            "createdAt": "2021-10-21T11:49:00.251Z",
+            "unitId": "1042",
+            "fullName": "Gaeun",
+            "slug": "gaeun",
+            "shortName": "Gaeun",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/110b2d5daf32f7891caf77c442647b04/acb7c/emp-1042.png",
+                        "srcSet": "/static/110b2d5daf32f7891caf77c442647b04/1c9ce/emp-1042.png 64w,\n/static/110b2d5daf32f7891caf77c442647b04/bf8e1/emp-1042.png 128w,\n/static/110b2d5daf32f7891caf77c442647b04/acb7c/emp-1042.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/110b2d5daf32f7891caf77c442647b04/8257c/emp-1042.webp 64w,\n/static/110b2d5daf32f7891caf77c442647b04/6766a/emp-1042.webp 128w,\n/static/110b2d5daf32f7891caf77c442647b04/22bfc/emp-1042.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "HRT Berry",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gaeun is one of the most popular employees in Counter Side, both because of her design and because of how good she is.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Not only her stats are among the best in Ranger class, but also she does it all - she can deal damage, stun enemies, and also debuff them. Oh, and all that for only 3-cost. Honestly, when the developers reworked her, they buffed her way too much.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"That's why she's often called an Awakened Employee in disguise. In SEA she already reached Ban Level 4 in Ranked PVP not once, but twice. She also got this ban level in JP. She does fall off a bit later in the game though, but still remains a great employee used in many teams due to her flexibility.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- a perfect example of a synergistic kit,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- high DEF and HP for a Ranger, which allows her to survive longer that she should,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great damage combined with CC.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- honestly, none.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "9",
+              "pve_early": "9",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "Uses debuffs and Stun attacks to keep enemies at bay."
+            },
+            "introduction": {
+              "introduction": "　Gaeun is an attacker who devastates multiple enemies with chain attacks.\n\n　Gaeun, the leader of HRT Berry, was born in a country where a civil war had been in progress for two decades. When she was getting used to a life of risking it all just for a piece of bread, she received help from an unknown savior— Teacher—and came out into the world.\n　Her only wish is to meet her Teacher again. The reason why she joined HRT Berry without even having a clue about streaming was because Choi Ina convinced her that her Teacher might recognize her if she became famous.\n　She threw other members in panic by not saying a single word during their first stream, but Choi Ina advised her to smile to the camera while thinking of her Teacher. Her bright smile caused thousands of fans to fall for her. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS or CDR DPS",
+                "notes": "CDR build  does not do any damage to frontliners but allows you to disrupt enemies with skills and ults."
+              },
+              "pvp": {
+                "set": "Autoattack DPS or CDR DPS",
+                "notes": "CDR build  does not do any damage to frontliners but allows you to disrupt enemies with skills and ults."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1042_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a pistol at the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1042_2",
+                "name": "Quarter Note",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After every 3rd Basic attack, she delivers an enhanced attack, inflicting AoE damage on and around her target. Also decreases the targets' ASPD by 10% for 4 seconds."
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "ASPD -20% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1042_3",
+                "name": "Double Flat",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 23,
+                "baseDescription": {
+                  "baseDescription": "Dodges backward and fires an energy bomb, inflicting AoE damage on and around the foremost target. Stuns targets for 1 second."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Stun duration +1 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1042_4",
+                "name": "Prestissimo",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 44,
+                "baseDescription": {
+                  "baseDescription": "Fires projectiles that quickly hits multiple enemies several times, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Passive decreases Ultimate skill cooldown by 2 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 34.09,
+                "critical": 3.69,
+                "def": 2.44,
+                "evade": 2.51,
+                "hit": 3.84,
+                "hp": 272
+              },
+              "base": {
+                "hp": 2162,
+                "atk": 334,
+                "def": 170,
+                "hit": 268,
+                "critical": 258,
+                "evade": 175
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "fcb56010-1752-513b-b054-5ed39df79e97"
+    }
+  },
+  "staticQueryHashes": []
+}

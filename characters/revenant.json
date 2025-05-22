@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/revenant",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "05474c62-0dab-54a2-89e2-118bb9ae998e",
+            "updatedAt": "2024-10-17T22:11:14.369Z",
+            "createdAt": "2022-04-26T06:36:17.966Z",
+            "unitId": "1215",
+            "fullName": "Revenant",
+            "slug": "revenant",
+            "shortName": "Revenant",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/058ee695b7de135191f6bb30e9874962/acb7c/emp-1215.png",
+                        "srcSet": "/static/058ee695b7de135191f6bb30e9874962/1c9ce/emp-1215.png 64w,\n/static/058ee695b7de135191f6bb30e9874962/bf8e1/emp-1215.png 128w,\n/static/058ee695b7de135191f6bb30e9874962/acb7c/emp-1215.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/058ee695b7de135191f6bb30e9874962/8257c/emp-1215.webp 64w,\n/static/058ee695b7de135191f6bb30e9874962/6766a/emp-1215.webp 128w,\n/static/058ee695b7de135191f6bb30e9874962/22bfc/emp-1215.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Gronia Security Agency",
+            "seaReleaseDate": "October 5th, 2022",
+            "krReleaseDate": "April 26th, 2022",
+            "globalReleaseDate": "March 8th, 2023",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Shielder"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Revenant is a PVP-oriented backline supporter designed as a dedicated buffer for multi-unit soldier teams. Revenant addresses multi-unit soldiers’ long-standing survivability issues with constant barrier application and further amplifies their already high damage output. The viability of multi-unit soldier teams is entirely attributed to Revenant.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Revenant has seen historical use in Dimension Trimming Swift Room 2 and Dimension Trimming Volcano Room 3. Nowadays, there exist better setups for both stages, rendering Revenant-based comps largely obsolete.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Revenant struggles to keep the increasingly outdated multi-unit soldiers relevant. As new releases push damage and survivability across all other comps, the long-standing issues inherent to multi-unit soldier comps are becoming too difficult to ignore.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Extremely powerful support for multi-unit soldiers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"The last multi unit-soldier that benefited from Revenant was released over 2 years ago.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "10",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Supporter that buffs multi-unit employees"
+            },
+            "introduction": {
+              "introduction": "레버넌트는 아군 솔저 다중 유닛을 지원하는 데 특화된 서포터입니다.\n본명은 레아 슈나이더로, 그로니아의 국내 • 외 첩보 활동을 총괄하는 그로니아 보안국의 1급 공작원입니다. 단독으로도 우수한 능력을 발휘하지만, 그 진가는 무장도 훈련도 부족한 병력들을 최정예 부대처럼 싸울 수 있게 만드는 현장 지휘 역량입니다. 그녀는 국제 수배자인 리플레이서 나이트의 계획을 저지한 것을 비롯해 외부에 알려져선 안 될 경이로운 성과를 여럿 달성했습니다.\n역동적인 하드 록을 사랑하고 바이크 투어를 즐기기에 자유분방한 인물으로 오해하기 쉽지만, 보안국 수뇌부에서는 전시임에도 반군을 향한 그녀의 적개심이 지나칠 정도라고 우려를 표한 바 있습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1215_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals damage to a single target with her SMGs."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1215_2",
+                "name": "Hateful Woman",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every 10 seconds, throws a Gronian grenade at the closest enemy to do an enhanced attack. Enemies hit by the enhanced attack deal 1% less Anti-Soldier damage for 4 seconds (Max 10 stacks) based on the number of individual multi-unit Soldiers deployed. Multi-units are [units that have xN in their name]. (Summons excluded)"
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Cooldown becomes 8 s, deal 2% less Anti-Soldier damage instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1215_3",
+                "name": "First Class Operative",
+                "type": "Special",
+                "validHits": null,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Deploys tactical force fields that generate a barrier equal to 30% of Max HP to ally multi-unit Soldiers (Summons excluded) and becomes immune to Hitstun from Special or lower skills for this barrier's duration."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Affected units enter Sure Fire mode for 4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1215_4",
+                "name": "Field Commander",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Increases ally multi-unit Soldiers’ ATK (Summons excluded) by 10% while on the field."
+                },
+                "level2": {
+                  "level2": "All ally multi-unit ATK +2%"
+                },
+                "level3": {
+                  "level3": "All ally multi-unit ATK +2%"
+                },
+                "level4": {
+                  "level4": "All ally multi-unit ATK +4%"
+                },
+                "level5": {
+                  "level5": "Adds DEF Penetration +15% to Passive effect"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 12.66,
+                "critical": 1.33,
+                "def": 2.05,
+                "evade": 2.89,
+                "hit": 2.45,
+                "hp": 278
+              },
+              "base": {
+                "hp": 2212,
+                "atk": 124,
+                "def": 143,
+                "hit": 171,
+                "critical": 93,
+                "evade": 202
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "05474c62-0dab-54a2-89e2-118bb9ae998e"
+    }
+  },
+  "staticQueryHashes": []
+}

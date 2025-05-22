@@ -1,0 +1,342 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/hidden-challenger-chulsoo",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "32ea7237-c827-5296-a46d-f5927fbbc856",
+            "updatedAt": "2024-11-07T21:43:34.463Z",
+            "createdAt": "2022-12-20T13:18:15.893Z",
+            "unitId": "2050",
+            "fullName": "Hidden Challenger Chulsoo",
+            "slug": "hidden-challenger-chulsoo",
+            "shortName": "Challenger Chulsoo",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b0c7d97d4c5f4c2b23171dfcf4260039/acb7c/2050.png",
+                        "srcSet": "/static/b0c7d97d4c5f4c2b23171dfcf4260039/1c9ce/2050.png 64w,\n/static/b0c7d97d4c5f4c2b23171dfcf4260039/bf8e1/2050.png 128w,\n/static/b0c7d97d4c5f4c2b23171dfcf4260039/acb7c/2050.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b0c7d97d4c5f4c2b23171dfcf4260039/8257c/2050.webp 64w,\n/static/b0c7d97d4c5f4c2b23171dfcf4260039/6766a/2050.webp 128w,\n/static/b0c7d97d4c5f4c2b23171dfcf4260039/22bfc/2050.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Yeoksam Residents' Association",
+            "seaReleaseDate": "April 18th, 2023",
+            "krReleaseDate": "November 29th, 2022",
+            "globalReleaseDate": "September 27th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "True Damage"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hidden Challenger Chulsoo (RChulsoo) is a frontline tank with a very basic kit. He lacks the MDL and VHA of SSR defenders, but compensates for that with the absurd amount of DMG RDC his kit provides.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, frontline tanks with buffs/ debuffs are valued more highly than those focused solely on tanking for themselves. RChulsoo meets the baseline requirements expected of him as a frontline tank, but he contributes nothing more to the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, RChulsoo is played infrequently as a general frontline tank. As mentioned above, RChulsoo’s tankiness is attributed to his stacking DMG RDC. His lead skill greatly accelerates the process and quickly brings him up to par with other competitive alternatives. Therein lies his greatest issue: leader slot is highly competitive and RChulsoo does not provide enough to justify leading. This, compounded by his lack of MDL and VHA, means he tends to get passed up for the role in favor of less demanding alternatives even within his cohort of viable-but-not-meta defenders (e.g. Freelancer Kim Chowon).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Cheap and durable frontline. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Taunts with basic attacks. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Lacks MDL and VHA. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Taunts with basic attacks. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "10",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Defender that can enter Rage Mode"
+            },
+            "introduction": {
+              "introduction": "가정의 안녕과 평화를 수호하는 월급쟁이 히어로, 샐러리맨X!\\n사실, 그의 정체가 평범한 중소기업의 만년 과장이었다고!?\\n우연한 사고에 휘말려 카운터로 각성해버린 그는 지금 히어로 활동과 회사 생활을 병행 중! 그의 마스크와 무장은 그가 손수 제작한 것으로 별다른 기능은 없지만 가족들의 신변을 보호하기 위해 자신의 정체를 감추기 위해 사용한다.\\n그에게는 막대한 부도, 막강한 초능력도 없지만 이 시대를 살아가는 모든 가장이야말로 영웅이 될 수 있다는 것을 증명하기 위해 오늘도 묵묵히 그만의 출근길에 오른다.\\n※이상의 서술은 「카운터즈 사가」에 동봉된 설정집에서 발췌하였습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2050_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Performs a series of attack moves that anyone can follow, inflicting damage on a target in front. The last attack deals AoE damage and Taunts the damaged targets. In [Rage Mode], the last attack deals 50% increased damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2050_2",
+                "name": "Breadwinner's Burden",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Gains unbending will thinking of his beloved family. Each basic attack stacks [Breadwinner's Burden]. When [Breadwinner's Burden] reaches 20 stacks, all stacks are consumed to deal AoE damage as he enters [Rage Mode].\n\n[Breadwinner's Burden]: ASPD +1% (Up to 20 stacks).\n\n[Rage Mode]: Enhances all skills, ATK and DEF +30% (Up to 2 stacks, cannot be canceled)."
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "HP +20%"
+                },
+                "level6": {
+                  "level6": "HP +3%"
+                },
+                "level7": {
+                  "level7": "HP +3%"
+                },
+                "level8": {
+                  "level8": "HP +3%"
+                },
+                "level9": {
+                  "level9": "HP +9%"
+                },
+                "level10": {
+                  "level10": "Resets special skill CD after receiving 28 attacks in [Rage Mode]."
+                }
+              },
+              {
+                "skillId": "2050_3",
+                "name": "Nostalgic Jump Kick, Combo!",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Using a combo that newcomers cannot easily follow, inflicts damage with kicks and gains 3 stacks of [Burden of the Breadwinner]. In [Rage Mode], uses his powers to launch enemies into the air and unleash additional kick combos."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Gains 2 more stacks of [Burden of the Breadwinner]."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "DEF +20% for 8s after casting skill."
+                }
+              },
+              {
+                "skillId": "2050_4",
+                "name": "True Burnout Fist",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Gathers all his fatigue and stress from work, dealing damage to targets in front and inflicting Knockback. While [Rage Mode], generates an additional shockwave that deals no damage but inflicts very strong Knockback to enemies."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Skill always inflicts CRIT damage"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Anti-C.O./Replacer DMG, DMG RES +30% for 15s after casting skill."
+                }
+              },
+              {
+                "skillId": "2050_5",
+                "name": "Hidden Challenger",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Goes into battle with a cherished childhood memory. Upon deployment, gains DEF +50% for 8 seconds and 10 stacks of [Breadwinner's Burden]."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "Buff duration +2s"
+                },
+                "level4": {
+                  "level4": "DMG +5%"
+                },
+                "level5": {
+                  "level5": "Buff duration +2s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 21.32,
+                "critical": 0.56,
+                "def": 6.12,
+                "evade": 0.98,
+                "hit": 1.54,
+                "hp": 363
+              },
+              "base": {
+                "hp": 2941,
+                "atk": 213,
+                "def": 464,
+                "hit": 116,
+                "critical": 42,
+                "evade": 75
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1050",
+              "slug": "kim-chulsoo",
+              "shortName": "Kim Chulsoo",
+              "rarityClassName": "R",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/365403c2b0855b61a0e62650983b849e/acb7c/emp-1050.png",
+                          "srcSet": "/static/365403c2b0855b61a0e62650983b849e/1c9ce/emp-1050.png 64w,\n/static/365403c2b0855b61a0e62650983b849e/bf8e1/emp-1050.png 128w,\n/static/365403c2b0855b61a0e62650983b849e/acb7c/emp-1050.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/365403c2b0855b61a0e62650983b849e/8257c/emp-1050.webp 64w,\n/static/365403c2b0855b61a0e62650983b849e/6766a/emp-1050.webp 128w,\n/static/365403c2b0855b61a0e62650983b849e/22bfc/emp-1050.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "32ea7237-c827-5296-a46d-f5927fbbc856"
+    }
+  },
+  "staticQueryHashes": []
+}

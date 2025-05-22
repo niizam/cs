@@ -1,0 +1,343 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/rearmed-chinatsu",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "6274a897-762b-58f0-914b-9c277b2183f0",
+            "updatedAt": "2024-02-18T08:20:29.761Z",
+            "createdAt": "2023-01-03T12:46:21.551Z",
+            "unitId": "2112",
+            "fullName": "Full Bloom Moon Chinatsu",
+            "slug": "rearmed-chinatsu",
+            "shortName": "Full Bloom Moon Chinatsu",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/cab5fc5492dfdaf2c6951e777f9d2c95/acb7c/2112.png",
+                        "srcSet": "/static/cab5fc5492dfdaf2c6951e777f9d2c95/1c9ce/2112.png 64w,\n/static/cab5fc5492dfdaf2c6951e777f9d2c95/bf8e1/2112.png 128w,\n/static/cab5fc5492dfdaf2c6951e777f9d2c95/acb7c/2112.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/cab5fc5492dfdaf2c6951e777f9d2c95/8257c/2112.webp 64w,\n/static/cab5fc5492dfdaf2c6951e777f9d2c95/6766a/2112.webp 128w,\n/static/cab5fc5492dfdaf2c6951e777f9d2c95/22bfc/2112.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "The Moon in Full Bloom",
+            "seaReleaseDate": "May 16th, 2023",
+            "krReleaseDate": "January 3rd, 2023",
+            "globalReleaseDate": "July 5th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Healer",
+              "Buffer",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Chinatsu's rearm took her base kit and added a whole new mechanic, which allows her to heal so much that she became the best healer in the game. Although, she needs to score a kill or use her Ultimate to reach that.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her healing output is so strong that it's comparable to using 2 healers, since her moonlight flowers can stack healing up 10% HP per sec with 4 bloomed flowers. On top of that, she can buff the DEF and ATK of all allies and also give them DMG RDC, making them even stronger. But wait, that's not all! When you use her as your Leader, she will also shred the DEF of enemies near the flowers she creates.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She performs very well both in PVE and PVP, making her pretty universal in any content and the first healer you usually add to your team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"massive healing output,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK, DEF, and DMG RDC buffs,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF Shred.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"none.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "11",
+              "pvp_global": "11",
+              "pve_early": "10",
+              "pve_late": "11"
+            },
+            "description": {
+              "description": "A Supporter who creates pockets of healing"
+            },
+            "introduction": {
+              "introduction": "자기 세계를 잃은 신은 뒤틀리고 맙니다. 돌아갈 곳을 잃은 인간도 예외는 아닙니다. \\n하지만 때로는, 아무도 눈여겨보지 않은 한 떨기의 벚꽃이 새로운 나무를 싹 틔우기도 합니다. \\n나나하라 치나츠는 신의 혈통이 가진 힘을 통해 꽃을 피워내고 생명을 치유합니다. 죽어가는 존재를 되살리고 주어진 운명의 순환을 바꿉니다. \\n지키고자 하는 작은 세계를 위해, 그녀는 자신이 가진 가능성의 시험을 두려워하지 않을 것입니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2112_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Dances with her sword and creates a small twister, attacking a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2112_2",
+                "name": "Moonlight Flower",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Increases all allies' DMG RDC by 15% for 20 seconds upon deployment. When a target hit by any of Chinatsu's attacks dies, create a [Moonlight Flower] lasting 20s at the location, periodically restoring 1.25% of HP for nearby allies. (Up to 2 can be created this way)"
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Grant 25% DMG RDC instead. "
+                },
+                "level6": {
+                  "level6": "EVA +3%"
+                },
+                "level7": {
+                  "level7": "EVA +3%"
+                },
+                "level8": {
+                  "level8": "EVA +3%"
+                },
+                "level9": {
+                  "level9": "EVA +6%"
+                },
+                "level10": {
+                  "level10": "EVA +10%"
+                }
+              },
+              {
+                "skillId": "2112_3",
+                "name": "Gust of Creation",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Summons a gust of wind in front, restoring 15% of HP for allies, and she recovers half of the healing amount. Inflicts AoE damage on enemies within range."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Restores 25% HP instead."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Defenders and Strikers receive Hitstun immunity for Special skills and lower for 8 seconds after being healed."
+                }
+              },
+              {
+                "skillId": "2112_4",
+                "name": "Dance of Full Bloom",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 56,
+                "baseDescription": {
+                  "baseDescription": "Dances and summons a powerful twister around her, attacking enemies within range and restoring 30% of HP for all allies except herself, and she recovers half of the healing amount. Summons 1 [Moonlight Flower] in her position and in front of her and reset the duration of all [Moonlight Flower]. All [Moonlight flower] blooms for 15s, periodically restoring 2.5% of HP for nearby allies. (Only 1 can be created this way) "
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "All allies (except herself) gain +30% ATK for 15 seconds after casting the skill."
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "All allies (except herself) gain +15% DEF for 15 seconds after casting the skill."
+                }
+              },
+              {
+                "skillId": "2112_5",
+                "name": "Ritual Dance",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Blooming [Moonlight Flower] grant nearby allies 3% DMG RDC (Effect cannot be stacked)"
+                },
+                "level2": {
+                  "level2": "Blooming [Moonlight Flower] grant nearby allies 3% DMG RDC (Effect cannot be stacked)"
+                },
+                "level3": {
+                  "level3": "Blooming [Moonlight Flower] grant nearby allies 3% DMG RDC (Effect cannot be stacked)"
+                },
+                "level4": {
+                  "level4": "Blooming [Moonlight Flower] grant nearby allies 6% DMG RDC (Effect cannot be stacked)"
+                },
+                "level5": {
+                  "level5": "Enemies within a blooming [Moonlight Flower] lose 10% DEF (Effect cannot be stacked)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.62,
+                "critical": 2.38,
+                "def": 2.67,
+                "evade": 1.09,
+                "hit": 2.59,
+                "hp": 248
+              },
+              "base": {
+                "hp": 2012,
+                "atk": 196,
+                "def": 202,
+                "hit": 196,
+                "critical": 180,
+                "evade": 82
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1112",
+              "slug": "nanahara-chinatsu",
+              "shortName": "Nanahara Chinatsu",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/df620cd5ea67838324bc5182b9bdca47/acb7c/emp-1112.png",
+                          "srcSet": "/static/df620cd5ea67838324bc5182b9bdca47/1c9ce/emp-1112.png 64w,\n/static/df620cd5ea67838324bc5182b9bdca47/bf8e1/emp-1112.png 128w,\n/static/df620cd5ea67838324bc5182b9bdca47/acb7c/emp-1112.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/df620cd5ea67838324bc5182b9bdca47/8257c/emp-1112.webp 64w,\n/static/df620cd5ea67838324bc5182b9bdca47/6766a/emp-1112.webp 128w,\n/static/df620cd5ea67838324bc5182b9bdca47/22bfc/emp-1112.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "6274a897-762b-58f0-914b-9c277b2183f0"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/aura",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "249cd139-d1c2-5ff1-857c-959c29194d88",
+            "updatedAt": "2025-03-27T09:24:51.253Z",
+            "createdAt": "2024-11-28T11:04:26.686Z",
+            "unitId": "1279",
+            "fullName": "Aura",
+            "slug": "aura",
+            "shortName": "Aura",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8c8b8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/f89d933796eee9d756a847fafc5389c9/22bfc/auror.webp",
+                        "srcSet": "/static/f89d933796eee9d756a847fafc5389c9/8257c/auror.webp 64w,\n/static/f89d933796eee9d756a847fafc5389c9/6766a/auror.webp 128w,\n/static/f89d933796eee9d756a847fafc5389c9/22bfc/auror.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "December 11th, 2024",
+            "krReleaseDate": "October 29th, 2024",
+            "globalReleaseDate": "December 11th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aura is one of many middling frontline tanks that struggle to carve a niche for themselves. She is painfully average, with decent defensive stats and a low impact skill set. There is nothing notable to her kit, nor to her stats. To that end, she offers nothing of value. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Aura meets the baseline requirements expected of her as a frontline tank, and contributes nothing more to the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a general frontline tank, Aura struggles to distinguish herself from the pool of stronger alternatives (e.g. Ciel, Ramlethal).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- None.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Aura isn’t egregiously over-statted enough to be viable with a kit like this. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1279_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks with projection of light from fists, dealing AoE damage.\n"
+                },
+                "level2": {
+                  "level2": "Basic Attack Damage +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack Damage +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack Damage +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack Damage +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1279_2",
+                "name": "Quantum Mobility!",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After every 8 attacks, releases a projection of energy in front to deal AoE damage. When casting Passive Skill, gains immunity to Hitstun from Special Skills for 6s, and increases DMG Taken by targets by 20% for 10s. "
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Passive also reduces target’s EVA by 20%."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1279_3",
+                "name": "Spiral Kick!",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 16,
+                "baseDescription": {
+                  "baseDescription": "Concentrates energy and attacks with Roundhouse kicks. Then, launches a spinning attack that causes shockwaves, dealing AoE damage. Gain 4 stacks of [Turbo]. (Cannot be removed)\n[Turbo] - Each stack increases EVA by 5%. (Up to 10 stacks) 1 stack is lost every 6s."
+                },
+                "level2": {
+                  "level2": "Damage +5%"
+                },
+                "level3": {
+                  "level3": "Damage +5%"
+                },
+                "level4": {
+                  "level4": "Damage +15%"
+                },
+                "level5": {
+                  "level5": "Each stack of [Turbo] additionally grants 2% DMG Reduction. (Max 20%, cannot be removed)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1279_4",
+                "name": " Transform! Fire!",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Robin uses Auror’s powers to fire off a beam. The beam targets the closest enemy, continuously dealing AoE damage with knockback. "
+                },
+                "level2": {
+                  "level2": "Damage +5%"
+                },
+                "level3": {
+                  "level3": "Damage +5%"
+                },
+                "level4": {
+                  "level4": "Damage +15%"
+                },
+                "level5": {
+                  "level5": "Decreases Ultimate Skill CD by 10s. Resets Special Skill CD when casting Ultimate Skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 31.84,
+                "critical": 3.34,
+                "def": 4.65,
+                "evade": 6.35,
+                "hit": 2.72,
+                "hp": 441
+              },
+              "base": {
+                "hp": 3508,
+                "atk": 312,
+                "def": 325,
+                "hit": 190,
+                "critical": 233,
+                "evade": 444
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "249cd139-d1c2-5ff1-857c-959c29194d88"
+    }
+  },
+  "staticQueryHashes": []
+}

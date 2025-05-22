@@ -1,0 +1,346 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/near-astraea-esterosa",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "2600656f-2111-524b-8700-40a607d2e17e",
+            "updatedAt": "2025-01-28T07:13:30.397Z",
+            "createdAt": "2021-12-28T08:33:15.022Z",
+            "unitId": "2085",
+            "fullName": "Near Astraea Esterosa",
+            "slug": "near-astraea-esterosa",
+            "shortName": "Near Astraea Esterosa",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f898a8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/fdcc05b940be99f50c1254e5ca37a5ba/acb7c/emp-2085.png",
+                        "srcSet": "/static/fdcc05b940be99f50c1254e5ca37a5ba/1c9ce/emp-2085.png 64w,\n/static/fdcc05b940be99f50c1254e5ca37a5ba/bf8e1/emp-2085.png 128w,\n/static/fdcc05b940be99f50c1254e5ca37a5ba/acb7c/emp-2085.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/fdcc05b940be99f50c1254e5ca37a5ba/8257c/emp-2085.webp 64w,\n/static/fdcc05b940be99f50c1254e5ca37a5ba/6766a/emp-2085.webp 128w,\n/static/fdcc05b940be99f50c1254e5ca37a5ba/22bfc/emp-2085.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Near Astraea",
+            "seaReleaseDate": "April 19th, 2022",
+            "krReleaseDate": "December 28th, 2021",
+            "globalReleaseDate": "December 8th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Barrier",
+              "True Damage",
+              "Buffer",
+              "Dispeller",
+              "Immortality",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Near Astrea Esterosa is one of the better PVE rearms in the game; with her high amounts of damage and the immortality she gains from her leader skill, she is similar to Veronica but with better overall damage and bulk.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, she's a beast of a tank who can survive for a long time while dealing insane amounts of damage, despite lacking MDL. Even if her HP gets down to 0, she will still keep tanking for 8 seconds thanks to the immortality. As a result, she can be used for specific playstyles in PVE, such as the immortality cheese strat for Dives 48-50. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As for PVP, while she was initially very strong, she has started to fall off due to newer units who are more tanky, and sometimes cheaper, than her. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, she's a great character to have rearmed.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Immortality! You can easily cheese a lot of content with it, including Dive 50 and Relic Dungeons,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- she can deal massive damage even if you build her full tank due to True Damage on her passive,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- conversely, she's strangely tanky even with full offense gear, being able to tank some endgame PVE stages.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- buff removers are her bane in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "8",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Striker that protects herself with barriers and uses wide area attacks"
+            },
+            "introduction": {
+              "introduction": "조디악 나이츠의 전승은 버고 소드를 쥔 역대 기사단장들의 무훈에 대해 이야기합니다. 별의 가호 아래 지치지도, 쓰러지지도 않고 강적을 무찔렀다는 내용은 신화에 등장하는 초월적인 존재를 연상케 합니다.\n불의한 적이 나타난다면, 당대 버고 소드의 계승자인 에스테로사는 기꺼이 그 힘을 사용할 준비가 되어 있습니다. 그리고 단원들은 치열한 전쟁터에서도 그 위용이 찬란하게 빛날 것이리라 믿어 의심치 않습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank, CDR Tank or CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank or CDR Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2085_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her sword and moves forward, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2085_2",
+                "name": "Persephone's Protection",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The Sword of Light casts a blessing on her. Casts a barrier equal to 25% of Max HP when deployed, and inflicts True DMG with all attacks for this barrier's duration."
+                },
+                "level2": {
+                  "level2": "HP +3%"
+                },
+                "level3": {
+                  "level3": "HP +3%"
+                },
+                "level4": {
+                  "level4": "HP +6%"
+                },
+                "level5": {
+                  "level5": "Passive effect is activated again if HP drops to 50% or below, all allies' DMG RES +30% for 8 s when deployed"
+                },
+                "level6": {
+                  "level6": "HP +3%"
+                },
+                "level7": {
+                  "level7": "HP +3%"
+                },
+                "level8": {
+                  "level8": "HP +3%"
+                },
+                "level9": {
+                  "level9": "HP +9%"
+                },
+                "level10": {
+                  "level10": "ATK +10% added to Passive buff for 10 s"
+                }
+              },
+              {
+                "skillId": "2085_3",
+                "name": "Porrima's Light",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Discharges the power of her sword, inflicting AoE damage around her. Increases DMG RES by 15% for 10 seconds when cast."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": " Buff also increases ATK by 15%"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Skill inflict True damage without her barrier."
+                }
+              },
+              {
+                "skillId": "2085_4",
+                "name": "Gloria Virgo",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Discharges her sword's energy at once, inflicting AoE damage. Also cancels barriers around enemies to inflict damage."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Cooldown -10 s"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Resets her existing barrier HP upon casting."
+                }
+              },
+              {
+                "skillId": "2085_5",
+                "name": "The Zodiac Knight",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Her loss means the Knights'. Becomes Immortal for 6 seconds when her HP drops to 1% or lower."
+                },
+                "level2": {
+                  "level2": "ATK+5%"
+                },
+                "level3": {
+                  "level3": "+1 second to Immortality duration"
+                },
+                "level4": {
+                  "level4": "ATK+5%"
+                },
+                "level5": {
+                  "level5": "+1 second to Immortality duration"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 29.6,
+                "critical": 4.17,
+                "def": 4.72,
+                "evade": 2.86,
+                "hit": 2.72,
+                "hp": 317
+              },
+              "base": {
+                "hp": 2518,
+                "atk": 290,
+                "def": 330,
+                "hit": 190,
+                "critical": 291,
+                "evade": 200
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1085",
+              "slug": "esterosa-de-chevalier",
+              "shortName": "Esterosa de Chevalier",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/21b54538a048252e36085adebf8e1de8/acb7c/emp-1085.png",
+                          "srcSet": "/static/21b54538a048252e36085adebf8e1de8/1c9ce/emp-1085.png 64w,\n/static/21b54538a048252e36085adebf8e1de8/bf8e1/emp-1085.png 128w,\n/static/21b54538a048252e36085adebf8e1de8/acb7c/emp-1085.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/21b54538a048252e36085adebf8e1de8/8257c/emp-1085.webp 64w,\n/static/21b54538a048252e36085adebf8e1de8/6766a/emp-1085.webp 128w,\n/static/21b54538a048252e36085adebf8e1de8/22bfc/emp-1085.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "2600656f-2111-524b-8700-40a607d2e17e"
+    }
+  },
+  "staticQueryHashes": []
+}

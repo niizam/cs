@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/cindy-looper",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a5dfb43b-852c-5605-903a-01be6ef20232",
+            "updatedAt": "2024-10-17T21:17:32.523Z",
+            "createdAt": "2021-10-21T11:57:10.290Z",
+            "unitId": "1047",
+            "fullName": "Cindy Looper",
+            "slug": "cindy-looper",
+            "shortName": "Cindy Looper",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/0ca02dd9363dd686a2cebb270e295552/acb7c/emp-1047.png",
+                        "srcSet": "/static/0ca02dd9363dd686a2cebb270e295552/1c9ce/emp-1047.png 64w,\n/static/0ca02dd9363dd686a2cebb270e295552/bf8e1/emp-1047.png 128w,\n/static/0ca02dd9363dd686a2cebb270e295552/acb7c/emp-1047.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/0ca02dd9363dd686a2cebb270e295552/8257c/emp-1047.webp 64w,\n/static/0ca02dd9363dd686a2cebb270e295552/6766a/emp-1047.webp 128w,\n/static/0ca02dd9363dd686a2cebb270e295552/22bfc/emp-1047.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Miracle Investigation Council 9",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Offtank",
+              "Selfhealer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Cindy Looper does not have the stats necessary to meet the baseline requirements expected of her as a frontline tank.\\n\\nCindy Looper does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can keep herself alive with all the self-healing in her kit,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low cost so even if she dies, you can redeploy her fast.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- short range on her skills,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- prone to CC.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "7",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Heals herself and fights continuously on the front lines."
+            },
+            "introduction": {
+              "introduction": "　Cindy Looper is a vanguard who fights while healing herself. The chainsaw created from the Watch steals away its victim's will to resist.\n\n　This little nun was found in a closed cult as the sole survivor. When she was found, she had multiple B splatter films recorded in VHS. Further investigation showed that these films greatly contributed in developing Cindy's personality.\n　She often skips services and is terrible at saying prayers. But when it comes to smiting the enemies of the Lord, she displays outstanding skills. She is confident that the roaring ignition of her chainsaw serves as a hymn."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1047_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Violently swings an chain saw at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1047_2",
+                "name": "Slightly Dangerous Faith",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Her twisted faith keeps her going, no matter the situation. Increases HP by 5%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1047_3",
+                "name": "Judgment Chainsaw",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Swings an chain saw and moves forward, inflicting AoE damage. Restores 5% of HP every second during this skill's effect."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -30% during skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1047_4",
+                "name": "Divine Berserker",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "A suspicious blessing transforms her into a fearless warrior of the Lord. Generates a shock wave that levitates all surrounding targets; removes debuffs cast on her; restores 40% of HP; increases ATK by 15% and grants immunity to Hitstun from Special or lower skills for 15 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -6 s"
+                },
+                "level5": {
+                  "level5": "Restores 60% of HP instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 26.32,
+                "critical": 2.76,
+                "def": 2.1,
+                "evade": 3.87,
+                "hit": 1.21,
+                "hp": 202
+              },
+              "base": {
+                "hp": 1576,
+                "atk": 253,
+                "def": 136,
+                "hit": 78,
+                "critical": 179,
+                "evade": 251
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a5dfb43b-852c-5605-903a-01be6ef20232"
+    }
+  },
+  "staticQueryHashes": []
+}

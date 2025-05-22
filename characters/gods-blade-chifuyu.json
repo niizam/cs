@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/gods-blade-chifuyu",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "6dbdf0a7-b156-5b6d-8e5a-1268caf2d89f",
+            "updatedAt": "2025-04-12T08:19:12.084Z",
+            "createdAt": "2023-01-03T12:59:25.884Z",
+            "unitId": "1236",
+            "fullName": "Orochinagi Chifuyu",
+            "slug": "gods-blade-chifuyu",
+            "shortName": "Orochinagi Chifuyu",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2083a6027f43c891483d93de01d89f4b/acb7c/1236.png",
+                        "srcSet": "/static/2083a6027f43c891483d93de01d89f4b/1c9ce/1236.png 64w,\n/static/2083a6027f43c891483d93de01d89f4b/bf8e1/1236.png 128w,\n/static/2083a6027f43c891483d93de01d89f4b/acb7c/1236.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2083a6027f43c891483d93de01d89f4b/8257c/1236.webp 64w,\n/static/2083a6027f43c891483d93de01d89f4b/6766a/1236.webp 128w,\n/static/2083a6027f43c891483d93de01d89f4b/22bfc/1236.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Nanahara Family Alliance",
+            "seaReleaseDate": "May 10th, 2023",
+            "krReleaseDate": "January 3rd, 2023",
+            "globalReleaseDate": "July 5th, 2023",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Executor",
+              "Immortality"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Orochinagi Chifuyu (AChifuyu) is a melee damage dealer who delivers heavy bursts of damage with her powerful skills. AChifuyu mostly sees use in PVP, though she has some noteworthy niche applications in PVE.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Among other things, AChifuyu’s ultimate skill comes with an absurd 50% HP execute. Contrasting other frontline units, AChifuyu doesn’t need to sacrifice survivability for skill haste because her passive all but guarantees at least one ultimate skill cast per deploy. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AChifuyu is an offensive debuffer with tons of team utility. Not only does she have 3 separate HP thresholds (70%, 40%, 10%), but she gains multiple self buffs upon reaching each of these thresholds. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of the way flat cooldown decreases work, AChifuyu’s  –30s Ultimate Skill cooldown decrease is not affected by skill haste. Notably, this means it isn’t affected by the Danger Close skill haste debuff tags, allowing AChifuyu to get her ult (and apply her debuffs) in a reasonable amount of time.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Historically, AChifuyu has been used against multiple Danger Close bosses (Moderator B, Tyrant Sword, Tyrant Armor, Orochi). Outside of Danger Close, she is used as an offensive debuffer against Guild Coop Tyrant Gigas. She can theoretically find value against any high evasion boss due to her evasion debuffs applied by her Special Skill, with the main consideration being her high DP cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AChifuyu exerts pressure on the enemy backline and frontline through her skills. She differs from more traditional damage dealers in that she is expected to “die” to trigger her ultimate skill cooldown refund on passive. Her main gameplay loop revolves around killing as much as she can with her ultimate skill and redeploying before the opponent can recover from the losses. Properly supported, AChifuyu can mulch through enemy teams with her repeated ultimate skill casts.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AChifuyu excels at killing squishy backline units (e.g. rangers). Both her special skill and ultimate skill have good reach, and her special skill notably extends deep into the enemy backline. She can inflict a ton of damage and create constant pressure through her repeated specials. Left unchecked, AChifuyu can shut down enemy teams by wiping their backlines.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AChifuyu’s special skill can be combo’d into her ultimate skill to devastating effect. Manually casting ultimate skill will cancel a character’s current action. AChifuyu’s special can be used to dive into the enemy backline, where her ultimate is then manually activated to reposition herself past the enemy frontline and deliver a point-blank ultimate at her destination. Players are heavily encouraged to use manual ult to maximize AChifuyu’s value.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Although AChifuyu looks intimidating, she can be managed fairly easily by mitigating the impact of her ultimate skill. Counterplay includes:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Redirecting AChifuyu’s Ult\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": AChifuyu’s ultimate can be redirected by the usual suspects (Gremory, Kang, Raphaela, etc.) to avoid the damage entirely.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Hospital comps\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Hospital comps describe a broad range of comps that lean heavily into stall tools (e.g. bringing multiple healers/ shielders). AChifuyu has far less staying power than actual frontline tanks. AChifuyu comps run out of gas quickly and outsustaining AChifuyu’s damage is the most straightforward way of dragging out the game to that point.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Barriers\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Barriers prevent damage in excess of the barrier’s HP. Barriers can soak a majority of AChifuyu’s special skill damage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AChifuyu has a relatively higher skill ceiling than most ASSRs and can be quite finicky to manage. However, players are rewarded with flashy gameplay and fast-paced matches. A little positional awareness goes a long way towards finding success with AChifuyu.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Constant backline harassment and with some luck, even kill an opponent’s win condition (e.g. Replacer Queen, Awakened Regina, Curian).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Guaranteed to be on the field for a certain amount of time; AChifuyu can stall with her HP gates and unremovable immortality.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Extremely week dependent. When forward deploy units are free, her viability drops.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Needs to be played on manual\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "9",
+              "pvp_global": "10",
+              "pve_early": "8",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A Striker who gets stronger the lower her HP gets"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1236_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Chifuyu uses the mending sword to deal area damage in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1236_2",
+                "name": "Ring of the Underworld",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The closer death approaches, the stronger the Nether god's power dwells in Chifuyu. When Chihuyu's HP falls below 70%/40%/10%, excess damage is blocked, and a twisted fate is created. Then, gains 15% ATK and receives additional effects (cannot be canceled).\n\n[Stage 1: Gain immunity to hitstun from Special Skills or lower]\n\n[Stage 2: Added Blindness effect to Special Skill]\n\n[Stage 3: Gain immunity to Skill Seal and Ultimate cooldown -30 seconds (1 time)]"
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "When HP falls below 1%, gain Immortality for 5 seconds (cannot be removed)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1236_3",
+                "name": "Stygian raindrops",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Brings out the mending and nether sword to quickly cut through enemies. Damaged enemies have their HIT and EVA reduced by 50% for 7s. After slashing through enemies, return to the original position and delivers an attack once more to the adjacent area."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -5s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1236_4",
+                "name": "Season of Peace",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Unleashes the power of the nether sword and draws out a blade to cut through the enemy’s soul. Inflicts hitstun, knock up, and knockback to enemies with 3 attacks. The first attack cancels enemy barriers, and then executes 1 enemy below 50% HP after the final attack. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Enemies hit by the final slash recieve 40% DMG Taken AMP for 8s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 46.28,
+                "critical": 4.52,
+                "def": 5.96,
+                "evade": 2.38,
+                "hit": 3.98,
+                "hp": 435
+              },
+              "base": {
+                "hp": 3391,
+                "atk": 445,
+                "def": 387,
+                "hit": 258,
+                "critical": 293,
+                "evade": 154
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "6dbdf0a7-b156-5b6d-8e5a-1268caf2d89f"
+    }
+  },
+  "staticQueryHashes": []
+}

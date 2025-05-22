@@ -1,0 +1,240 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/miya",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "9327acfc-12cd-5cca-96fc-d5c5e376421d",
+            "updatedAt": "2024-10-17T21:26:44.824Z",
+            "createdAt": "2021-10-21T11:52:08.042Z",
+            "unitId": "1044",
+            "fullName": "Miya",
+            "slug": "miya",
+            "shortName": "Miya",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/11bb5e78d9bd28c6de9b868875c72cbb/acb7c/emp-1044.png",
+                        "srcSet": "/static/11bb5e78d9bd28c6de9b868875c72cbb/1c9ce/emp-1044.png 64w,\n/static/11bb5e78d9bd28c6de9b868875c72cbb/bf8e1/emp-1044.png 128w,\n/static/11bb5e78d9bd28c6de9b868875c72cbb/acb7c/emp-1044.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/11bb5e78d9bd28c6de9b868875c72cbb/8257c/emp-1044.webp 64w,\n/static/11bb5e78d9bd28c6de9b868875c72cbb/6766a/emp-1044.webp 128w,\n/static/11bb5e78d9bd28c6de9b868875c72cbb/22bfc/emp-1044.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "HRT Berry",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Miya does not have the stats necessary to meet the baseline requirements expected of her as a damage dealer.\\n\\nMiya does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Uses offensive support skills and has an Ultimate skill that attacks all enemies."
+            },
+            "introduction": {
+              "introduction": "　Miya is a sniper who overachieves by gaining morale as she continues to attack.　As the cameraperson and editor, she always catches the best moments of her teammates.\n \n　She used to be very shy, and stayed at home, indulging in video editing. But ever since she unexpectedly showed up on TV, she started streaming on NetTube for the few fans she acquired.\n　She is terrible at both playing games and sniping, but she has many stable fans because she is always live except when she's asleep. At first, she was called Mi-Whale for her large figure, but to the delight of her fans, she rapidly lost weight due to her rigorous streaming schedule.\n　She is still criticized for her lame jokes during opening remarks, and the self-composed song used as the closing theme, but she insists on keeping them. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1044_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a sniper rifle at the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1044_2",
+                "name": "Donation Mission Clear",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Celebrates successfully accomplishing a mission during a show. After every 5th Basic attack, her ATK is increased by 25% for 10 seconds."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Ultimate skill cooldown -5 s with each kill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1044_3",
+                "name": "Sudden Ban",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Delivers 3 consecutive Knockback attacks if enemies are present within 700 reach."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Enemy SPD -40% for 3 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1044_4",
+                "name": "Raid Party",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Fires a gun 3 times that takes a long time to charge but shoots increasingly powerful bullets, inflicting Knockback and AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Knockback distance doubled"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 46.54,
+                "critical": 3.21,
+                "def": 0.18,
+                "evade": 0.25,
+                "hit": 8.79,
+                "hp": 160
+              },
+              "base": {
+                "hp": 1269,
+                "atk": 456,
+                "def": 12,
+                "hit": 614,
+                "critical": 224,
+                "evade": 17
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "9327acfc-12cd-5cca-96fc-d5c5e376421d"
+    }
+  },
+  "staticQueryHashes": []
+}

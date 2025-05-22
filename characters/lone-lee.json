@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lone-lee",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "de4f0e2b-ce45-56f7-bfb4-2a3c482bb25e",
+            "updatedAt": "2024-03-19T21:05:55.689Z",
+            "createdAt": "2021-10-22T07:15:46.675Z",
+            "unitId": "1191",
+            "fullName": "Lone Lee",
+            "slug": "lone-lee",
+            "shortName": "Lone Lee",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b35e8adeffb75102992a9337ec0e3fef/acb7c/emp-1191.png",
+                        "srcSet": "/static/b35e8adeffb75102992a9337ec0e3fef/1c9ce/emp-1191.png 64w,\n/static/b35e8adeffb75102992a9337ec0e3fef/bf8e1/emp-1191.png 128w,\n/static/b35e8adeffb75102992a9337ec0e3fef/acb7c/emp-1191.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b35e8adeffb75102992a9337ec0e3fef/8257c/emp-1191.webp 64w,\n/static/b35e8adeffb75102992a9337ec0e3fef/6766a/emp-1191.webp 128w,\n/static/b35e8adeffb75102992a9337ec0e3fef/22bfc/emp-1191.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Lonely Villainess",
+            "seaReleaseDate": "April 13th, 2022",
+            "krReleaseDate": "August 3rd, 2021",
+            "globalReleaseDate": "September 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "ETB",
+              "Debuffer",
+              "Retribution",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lone Lee is a debuffer that's great in Danger Close and Guild Coop - the 40% DEF reduction on her special seems to be the strongest debuff in the game, but it's on cooldown so it needs to be timed right.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She's not that good in PVP sadly - while her debuffs are pretty strong, they're more suited toward PVE and a pure debuffer character isn't that good in PVP.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- one of the strongest DEF shreds in the game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- jumps back when her HP gets low, allowing her to survive longer against bosses and cheese through some mechanics (like Mod A/B laser attack that pushes everyone in front of them).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- debuffs are everything she brings to the battle,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- not that good in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A supporter that neutralizes enemies' CRIT DMG upon deployment"
+            },
+            "introduction": {
+              "introduction": "  Lone Lee the villainess is a Supporter capable of various debuffs, such as CRIT DMG Decrease.\n\n  In the past, she was just a gloomy scientist well-versed in the Counterside effect. Unrequited love changed all that, making her hate all couples in the world.\n  She joined the Administration's affiliated laboratory to study C.O. while plotting to destroy her enemies. Her plans went awry at a critical moment, and she was sent to prison.\n  Now, she's successfully escaped, and no one knows what she's up to. What's clear is that she now works for someone and is no longer interested in destroying innocent couples."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR, CDR Tank or Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR, CDR Tank or Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1191_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a special pistol at a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1191_2",
+                "name": "Negative Delusion",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Her negative thoughts turn the battlefield upside-down. Decreases CRIT DMG by 50% for 20 seconds for all enemy units in the field upon deployment. (By 25% in the Gauntlet)"
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Casts Passive again upon death"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1191_3",
+                "name": "Mystery Aura",
+                "type": "Special",
+                "validHits": 4,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Releases mysterious fog, inflicting AoE damage in front. The affected enemies lose 20% of DEF for 8 seconds. (x2 effect on Soldiers and C.O.)"
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "ASPD -10% added to debuff (x2 effect on Soldiers and C.O.)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1191_4",
+                "name": "Bio Bomb (Escape Purposes)",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks surrounding targets and moves backward when her HP drops to 70%, and then 40%. Becomes Immune to Damage until the attack and Blinds the targets for 6 seconds. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "DMG RES +3%"
+                },
+                "level3": {
+                  "level3": "DMG RES +3%"
+                },
+                "level4": {
+                  "level4": "DMG RES +6%"
+                },
+                "level5": {
+                  "level5": "Special skill cooldown -5 s added to Passive, SPD -66% added to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.35,
+                "critical": 1.85,
+                "def": 2.87,
+                "evade": 1.21,
+                "hit": 3.59,
+                "hp": 218
+              },
+              "base": {
+                "hp": 1696,
+                "atk": 186,
+                "def": 186,
+                "hit": 233,
+                "critical": 120,
+                "evade": 78
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "de4f0e2b-ce45-56f7-bfb4-2a3c482bb25e"
+    }
+  },
+  "staticQueryHashes": []
+}

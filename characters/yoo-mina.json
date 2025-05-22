@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/yoo-mina",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "57d9cf99-0cea-5e2a-98f5-115cbdfa5a6d",
+            "updatedAt": "2024-10-17T21:37:24.263Z",
+            "createdAt": "2021-10-21T10:57:23.990Z",
+            "unitId": "1001",
+            "fullName": "Yoo Mina",
+            "slug": "yoo-mina",
+            "shortName": "Yoo Mina",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5541aed544211c921d84db1fb8365a85/acb7c/emp-1001.png",
+                        "srcSet": "/static/5541aed544211c921d84db1fb8365a85/1c9ce/emp-1001.png 64w,\n/static/5541aed544211c921d84db1fb8365a85/bf8e1/emp-1001.png 128w,\n/static/5541aed544211c921d84db1fb8365a85/acb7c/emp-1001.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5541aed544211c921d84db1fb8365a85/8257c/emp-1001.webp 64w,\n/static/5541aed544211c921d84db1fb8365a85/6766a/emp-1001.webp 128w,\n/static/5541aed544211c921d84db1fb8365a85/22bfc/emp-1001.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Fenrir Squad",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Yoo Mina does not have the stats necessary to meet the baseline requirements expected of her as a damage dealer.\\n\\nYoo Mina does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A powerful Ranged attacker with AoE skills"
+            },
+            "introduction": {
+              "introduction": "　Yoo Mina, a new member of Fenrir Squad, is an attacker who decimates enemies from a distance with a pulse revolver.\n\n　She is capable to taking down multiple enemies at once by using the secret feature of her weapon. Although she never received proper combat training and is lacking in industry knowledge, the Coffin Company is her third employer.\n　According to an anonymous community, she disobeyed orders from superiors at her previous workplace to distinguish herself in battle, and staged an armed protest when her payments were delayed.\n　These reckless behaviors are assumed to be due to massive medical bills she's paying for her family, but she has never spoken up about the issue."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1001_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a gun at a target. Last attacks inflict AoE damage around the target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1001_2",
+                "name": "Experienced Rookie",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Displays non-rookie power in spite of herself. Increases CRIT DMG by 15%."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +5%"
+                },
+                "level5": {
+                  "level5": "CRIT DMG +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1001_3",
+                "name": "Pulse Revolver",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Fires high-powered energy, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1001_4",
+                "name": "Wolvesbane",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Draws out the sword housed inside her gun and shoots a massive spirit sword to the front, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "ATK +10% after skill and until death"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 40.25,
+                "critical": 4.64,
+                "def": 2.02,
+                "evade": 0.65,
+                "hit": 3.99,
+                "hp": 228
+              },
+              "base": {
+                "hp": 1781,
+                "atk": 387,
+                "def": 131,
+                "hit": 259,
+                "critical": 301,
+                "evade": 42
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "57d9cf99-0cea-5e2a-98f5-115cbdfa5a6d"
+    }
+  },
+  "staticQueryHashes": []
+}

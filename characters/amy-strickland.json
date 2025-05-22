@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/amy-strickland",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "e7bfffaf-0c84-52ba-a201-e410017e28ff",
+            "updatedAt": "2024-10-17T21:42:32.169Z",
+            "createdAt": "2021-10-21T12:00:15.145Z",
+            "unitId": "1049",
+            "fullName": "Amy Strickland",
+            "slug": "amy-strickland",
+            "shortName": "Amy Strickland",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6e30b3e29598307987cd560579f127b6/acb7c/emp-1049.png",
+                        "srcSet": "/static/6e30b3e29598307987cd560579f127b6/1c9ce/emp-1049.png 64w,\n/static/6e30b3e29598307987cd560579f127b6/bf8e1/emp-1049.png 128w,\n/static/6e30b3e29598307987cd560579f127b6/acb7c/emp-1049.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6e30b3e29598307987cd560579f127b6/8257c/emp-1049.webp 64w,\n/static/6e30b3e29598307987cd560579f127b6/6766a/emp-1049.webp 128w,\n/static/6e30b3e29598307987cd560579f127b6/22bfc/emp-1049.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "R",
+            "rarityNumber": 2,
+            "rarityClassName": "R",
+            "title": "Freedom Riders",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Amy Strickland does not have the stats necessary to meet the baseline requirements expected of her as a frontline tank.\\n\\nAmy Strickland does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Uses Hitstun and anti-ground AoE attacks to handle multiple enemies."
+            },
+            "introduction": {
+              "introduction": "　Amy Strickland is a vanguard who performs ranged area attacks with her special yoyo.　As she gets into the rhythm of battle, her yoyo skills become fancier and faster.\n\n　As the leader of the Freedom Riders, Amy never turns away from facing danger. This often drags her into all kinds of trouble, but she always encourages others and manages the crises.\n　She believes that she has become a Counter in order to help others, and always tries to use her powers in the right place. She does things on her own initiative without expecting a reward, which is a rare attitude in the industry these days."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1049_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her yoyo-type Watch, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1049_2",
+                "name": "Loop the Loop",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The longer she spins her yoyo, the easier it gets for her to use skills. Basic attacks increase Skill Haste by 1% every time they're performed, up to 15%."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Attacks increase Skill Haste by 2% instead (up to +20%), Skill Haste stat +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1049_3",
+                "name": "Walk the Dog",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Sends her yoyo rolling forward, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1049_4",
+                "name": "Double Shoot the Moon",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Broadly swings her yoyo while on a skateboard, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 22.99,
+                "critical": 2.53,
+                "def": 2.3,
+                "evade": 4.72,
+                "hit": 1.88,
+                "hp": 250
+              },
+              "base": {
+                "hp": 1951,
+                "atk": 221,
+                "def": 149,
+                "hit": 122,
+                "critical": 164,
+                "evade": 306
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "e7bfffaf-0c84-52ba-a201-e410017e28ff"
+    }
+  },
+  "staticQueryHashes": []
+}

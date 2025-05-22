@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/gambler",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "f2bd3cdc-c8da-5e28-af12-97f60f90caba",
+            "updatedAt": "2024-07-28T19:25:58.911Z",
+            "createdAt": "2022-09-21T08:46:26.339Z",
+            "unitId": "1232",
+            "fullName": "Gambler",
+            "slug": "gambler",
+            "shortName": "Gambler",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/44c4678657920e5356b7eb46a6b1bb9e/acb7c/emp-1232.png",
+                        "srcSet": "/static/44c4678657920e5356b7eb46a6b1bb9e/1c9ce/emp-1232.png 64w,\n/static/44c4678657920e5356b7eb46a6b1bb9e/bf8e1/emp-1232.png 128w,\n/static/44c4678657920e5356b7eb46a6b1bb9e/acb7c/emp-1232.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/44c4678657920e5356b7eb46a6b1bb9e/8257c/emp-1232.webp 64w,\n/static/44c4678657920e5356b7eb46a6b1bb9e/6766a/emp-1232.webp 128w,\n/static/44c4678657920e5356b7eb46a6b1bb9e/22bfc/emp-1232.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Betatrix",
+            "seaReleaseDate": "March 1st, 2023",
+            "krReleaseDate": "September 21st, 2022",
+            "globalReleaseDate": "February 8th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "CC",
+              "Healblock"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Studiobside did the players dirty with Gambler\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"/Cecilia\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". She was initially an NPC that instantly became a fan-favorite, and after some time the developers announced she will become an Operator, only to change their mind and instead release her as a character - which made KR players ecstatic.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sadly, she's pretty much terrible.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gambler relies on RNG to actually work while other characters can use their full potential instantly. Basically, every time she uses her Special attack, you roll a die and you have a 33% chance for her debuffs to be actually do something, otherwise they do nothing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Just avoid her till they decide to buff her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Can summon Betatrix Shin Jia in branches\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Can be placed in the lobby\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Can spectate the battle while on the field\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Amazing 0.5s stun\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\":(\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Supporter that relies on chance to debuff enemies."
+            },
+            "introduction": {
+              "introduction": "갬블러는 적을 약화 시키는 방해형 서포터입니다. 일정 확률에 따라 약화 효과는 더욱 증가합니다.\n언더그라운드 카지노의 유명 인사인 갬블러는 승부에서 이기기 위해서라면 수단과 방법을 가리지 않습니다. 그래서 그녀가 벌이는 승부에는 항상 구경꾼이 꼬이곤 합니다. 이번에는 무엇을 걸지, 결국 누구에게 패하게 될 지 궁금해 하면서 말이죠.\n그녀의 정체에 대해서는 밝혀진 바가 없습니다. 부잣집 규슈 같은 외모로 막대한 돈을 휘두르는 그녀가 카지노에 모습을 보이기 시작한 시점이 알파트릭스 회장의 사망 시점과 맞아 떨어져, 어쩌면 경영권 분쟁에서 밀려난 신씨 일가의 일원일지도 모른다는 소문만이 무성할 뿐입니다.\n비밀 루트를 통해, 그녀가 최근 세실리아 신이라는 위장 신분으로 베타트릭스 컴퍼니라는 유령회사를 설립하였다는 사실이 확인되었습니다. 그녀가 어떤 목적으로 회사를 설립하였는지, 누구의 도움을 받았는지는 분명하지 않습니다.\n다만, 자신만의 갬블에서 승리를 취하기 위해 그녀가 펼친 오프닝인 것은 틀림없습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1232_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Moves a black pawn as an opening to deal damage to an enemy."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1232_2",
+                "name": "Underpromotion",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Has a 33% chance of transforming pawns into rooks when using her Special skill. When successful, her Special skill’s debuff effect is increased by 1.4x. Passive chance changes to 50% after 1 failed cast, and becomes 100% after 2 failed casts. Passive chance resets on successful cast."
+                },
+                "level2": {
+                  "level2": "The debuffs are 1.8 times stronger."
+                },
+                "level3": {
+                  "level3": "The debuffs are 2.2 times stronger."
+                },
+                "level4": {
+                  "level4": "The debuffs are 2.6 times stronger."
+                },
+                "level5": {
+                  "level5": "Increases effect by 3x instead, Skill Haste +10% every 10 seconds (Max 50%, effect resets on activating Passive Effect)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1232_3",
+                "name": "Exchange Sacrifice",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 30,
+                "baseDescription": {
+                  "baseDescription": "Sacrifice all summoned pieces to deal AoE damage around the target in the center. Targets inflicted with the first attack are stunned for 0.5 seconds, and targets hit by the last attack receive ATK -10%, CRIT -100, and incoming healing -10% for 8 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -1 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -1 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -2 s"
+                },
+                "level5": {
+                  "level5": "Adds Skill Haste -8% to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1232_4",
+                "name": "Endgame",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Destroy the white queen by summoning a non-standard special piece. Deals AoE damage to the front, and the target hit by her last attack is blinded for 10 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Adds Ranged DMG -35% to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 25.93,
+                "critical": 4.67,
+                "def": 1.25,
+                "evade": 4.67,
+                "hit": 2.15,
+                "hp": 224
+              },
+              "base": {
+                "hp": 1780,
+                "atk": 254,
+                "def": 87,
+                "hit": 150,
+                "critical": 326,
+                "evade": 326
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "f2bd3cdc-c8da-5e28-af12-97f60f90caba"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,243 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/awakened-rosaria",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "85d63206-0b44-5d73-a4f5-fc0896342e70",
+            "updatedAt": "2025-04-12T08:18:59.881Z",
+            "createdAt": "2023-02-10T07:43:58.545Z",
+            "unitId": "1239",
+            "fullName": "Awakened Rosaria",
+            "slug": "awakened-rosaria",
+            "shortName": "Awakened Rosaria",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c2b6d8485b89c26c4c4e99b07661caf1/acb7c/1239.png",
+                        "srcSet": "/static/c2b6d8485b89c26c4c4e99b07661caf1/1c9ce/1239.png 64w,\n/static/c2b6d8485b89c26c4c4e99b07661caf1/bf8e1/1239.png 128w,\n/static/c2b6d8485b89c26c4c4e99b07661caf1/acb7c/1239.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c2b6d8485b89c26c4c4e99b07661caf1/8257c/1239.webp 64w,\n/static/c2b6d8485b89c26c4c4e99b07661caf1/6766a/1239.webp 128w,\n/static/c2b6d8485b89c26c4c4e99b07661caf1/22bfc/1239.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Asmodeus",
+            "seaReleaseDate": "June 13th, 2023",
+            "krReleaseDate": "February 8th, 2023",
+            "globalReleaseDate": "October 11th, 2023",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "True Damage"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Rosaria (ARosaria) is a sniper damage dealer DPS monster who outputs more than enough damage to justify her cost. She is easy to slot into a team and finds use across most content in the game. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ARosaria’s kit is loaded with effects, including a slew of damage self-buffs as well as some teamwide utility through the buff nullification on her enhanced basic and the Damage Taken AMP on her Ultimate Skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ARosaria’s high damage output is appreciated everywhere. In particular, she excels in single target situations, making her a good pick for boss content (e.g. Raids, Guild Coop, Dimension Trimming). Notably, her DMG AMP debuff is appreciated against Tyrant Gigas. It is also worth mentioning that she trivializes Dimension Trimming Swift Stage 3.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ARosaria’s high damage output is both a blessing and curse, as she provides little to no utility to distinguish her from her peers. ARosaria can be replaced by a number of alternative damage dealers. This issue is most prominent in Danger Close, a boss gamemode where she sees limited use.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ARosaria is one of the strongest single-target PVP damage dealers in the game, capable of outputting absurd amounts of damage from incredible range.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a flying damage dealer, ARosaria ignores Anti-Ground DMG RES. Bypassing ~67.2% DMG RES (the standard amount of RES you’d expect to find on a T7 set) gives her a significant edge over other damage dealers, putting her own damage output leagues above her peers. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ARosaria dominates the PVP meta due to the immense pressure she creates with her damage output. As a sniper, she can vaporize even the strongest frontline strikers almost instantly, and as a flier, she has no difficulty chewing through defenders. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With few comps able to match ARosaria’s damage, the week frequently devolves into ARosaria mirror matches with a few slots dedicated to anti-ARosaria tech options, and of course these comps will be optimized and everyone will be running the same anti-ARosaria tech options... \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ARosaria’s 40% HP gate can be tricky to deal with efficiently; her HP gate prevents her from being oneshot and frequently it costs more DP to kill ARosaria than it does to deploy her. While ARosaria represents a new level of damage creep, at the end of the day she is still ultimately a squishy backline sniper. With some smart planning, she can be managed fairly consistently:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Deploying multiple frontline tanks\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": ARosaria’s basic attack inflicts an extra hit when hitting a single target. Stacking two frontline tanks together significantly reduces the single-target damage they take. Tangentially, spreading the damage between two tanks also makes it easier to heal back.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Traditional backline harassment tools\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Backline access units will always remain the most straightforward answer to troublesome backline units (i.e. Rearm Sylvia, Lily). Notably, Lily’s combination of sleep and damage can effectively shut down ARosaria and even kill her given time. Lily is by far the most popular counter to ARosaria. It is highly recommended in this situation to equip Lily with Courageous Crowns for the Anti-Counter DMG (in lieu of Anti-Ground DMG).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Levia Thanis\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": For a brief duration, Levia deals %current HP damage to enemies who attack her, doubling against snipers. Timed well, Levia can quickly trigger ARosaria’s HP gate and set up her team for the kill. It should be noted that Olivie’s (operator) debuff immunity will prevent Levia’s damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Counterintuitively, Awakened Lee Sooyeon (ALSY) is pretty bad against ARosaria for a number of reasons:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Both ARosaria and ALSY have air target priority but ARosaria outranges ALSY by a significant margin.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ALSY does not have enough HIT to surefire a properly geared ARosaria on two movement accessories. This can lead to consistency issues.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Incredible single target damage and a full damage-oriented kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Insurance in the form of her damage immunity HP gate\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Ultimately still just a squishy backline damage dealer\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "11",
+              "pve_early": "10",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A flying sniper who deals massive single target damage"
+            },
+            "introduction": {
+              "introduction": "로자리아 르 프리데는 공중에서 강력한 범위 공격을 가하는 전천후 원거리 공격수입니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Attack Speed / Crit DMG / Spectral Blaze / Spectral Smite",
+                "notes": "Ground DMG > Ranged DMG > Anti-Type > CRIT DMG > Skill Haste."
+              },
+              "pvp": {
+                "set": "Auto-attack DPS (ASPD/ATK/CDMG) > Cooldown Reduction",
+                "notes": "Ground DMG > Ranged DMG > Crit DMG > Skill Haste."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1239_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Blows demon's flame to the target and nearby units, dealing AoE damage. Deal additional damage that always CRIT if the attack hits a single target. Prioritizes attacking targets in the air, does not deal damage to targets exceeding valid hits."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1239_2",
+                "name": "Tyrant of the North",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Unaffected by [Chill] or [Freeze]. After 5 CRIT attack, cast an enhanced attack that nullifies the target's buffs for 2s, does not apply to targets exceeding valid hits. Permanently gain 1 [Hellfire] stack after casting enhanced attack (Max 3 stacks). When HP falls below 40%, excess damage is blocked and Rosaria gains 30% ATK and 3s damage immunity."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +6%"
+                },
+                "level5": {
+                  "level5": "At 3 [Hellfire] stacks, Enhanced attacks will grant 10% ATK for 10s instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1239_3",
+                "name": "The Lord's Judgement",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 28,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage in to enemies in front. This skill consumes all [Hellfire] stacks to gain additional effects according to the amount of stacks consumed.\n\n[Stage 1: Special skill's DEF Penetration +50%]\n\n[Stage 2: Special skill's DEF Penetration +50%]\n\n[Stage 3: Ultimate CD -5s]"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Gain 15% ASPD for 10s after casting, starts with maximum [Hellfire] stacks upon first deployment."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1239_4",
+                "name": "Disparity in Class",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 62,
+                "baseDescription": {
+                  "baseDescription": "Applies 20% Damage Taken AMP to enemies for 8s before dealing AoE true damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Debuff duration +4s, Basic attacks and enhanced attacks always CRIT for 10s after casting Ultimate."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 42.54,
+                "critical": 3.13,
+                "def": 2.1,
+                "evade": 1.58,
+                "hit": 10.77,
+                "hp": 206
+              },
+              "base": {
+                "hp": 1602,
+                "atk": 409,
+                "def": 136,
+                "hit": 699,
+                "critical": 203,
+                "evade": 102
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "85d63206-0b44-5d73-a4f5-fc0896342e70"
+    }
+  },
+  "staticQueryHashes": []
+}

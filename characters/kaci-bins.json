@@ -1,0 +1,248 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kaci-bins",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "cbfbbd45-6ec4-591d-b512-4e6e571472da",
+            "updatedAt": "2024-10-23T17:01:24.757Z",
+            "createdAt": "2021-10-21T13:49:39.881Z",
+            "unitId": "1101",
+            "fullName": "Kaci Bins",
+            "slug": "kaci-bins",
+            "shortName": "Kaci Bins",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c46d4a8f6cc97c16eead6216f2bea16f/acb7c/emp-1101.png",
+                        "srcSet": "/static/c46d4a8f6cc97c16eead6216f2bea16f/1c9ce/emp-1101.png 64w,\n/static/c46d4a8f6cc97c16eead6216f2bea16f/bf8e1/emp-1101.png 128w,\n/static/c46d4a8f6cc97c16eead6216f2bea16f/acb7c/emp-1101.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c46d4a8f6cc97c16eead6216f2bea16f/8257c/emp-1101.webp 64w,\n/static/c46d4a8f6cc97c16eead6216f2bea16f/6766a/emp-1101.webp 128w,\n/static/c46d4a8f6cc97c16eead6216f2bea16f/22bfc/emp-1101.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Special Hero Class",
+            "seaReleaseDate": "March 16th, 2022",
+            "krReleaseDate": "May 25th, 2021",
+            "globalReleaseDate": "November 3rd, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Buffer",
+              "Dispeller",
+              "Selfhealer",
+              "Shielder",
+              "Detect Stealth"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kaci is a cheap Defender that can remove buffs from enemies, grant shields to her allies and give damage immunity to herself This combined with her low stats and cost makes her one of the best utility Defenders in the game, but a terrible main Defender.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP Barriers are often a death sentence if Awakened Na Yubin isn't jailed, so using her is pretty risky during those weeks. Still, if Na Yubin sits in jail, having a 15% max HP (after the recent buff) barrier in the pocket for the whole team can be game-changing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, she can't really be used as the main tank but there she is also more of a support employee that can abuse the Barrier she creates to help her allies survive and provide more support to them. For example in Guild Coop.\\n\\n\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- top-tier utility for a Defender,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can keep herself alive pretty well.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- her shields can be refluxed by Na Yubin,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- not that tanky.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "8",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A defender who enhances herself by attacking enemies."
+            },
+            "introduction": {
+              "introduction": "Kaci Bins is a Defender who grows stronger, the more she attacks enemies. She is an elementary student at the Academy who loves plants. She has a Counter phobia although she herself is a Counter, so she has few friends despite her kind and caring personality. She loves flower arranging so much that she started a club at school, and she has extensive knowledge of plants. However, her Counter abilities are mostly based on her instincts, not on learning. Even so, Kaci always ranks at the top of the Academy by pure strength, so the Special Hero Class is always keeping an eye on her."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1101_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings a polearm, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1101_2",
+                "name": "I'll Protect You",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks enemies within range and forces them to attack her for 8 seconds upon deployment. Also casts a barrier equal to 15% of Max HP around allies for 8 seconds. Increases ATK and DEF by 15% for 30 seconds in proportion to the number of barriers created. (Max 3 stacks) This effect can't be canceled."
+                },
+                "level2": {
+                  "level2": "DMG RES +2%"
+                },
+                "level3": {
+                  "level3": "DMG RES +2%"
+                },
+                "level4": {
+                  "level4": "DMG RES +4%"
+                },
+                "level5": {
+                  "level5": "Also detects Stealth. Enters Iron Defense state for 4s at 3 buff stacks. Receives 1 stack and applies a barrier to self when there are no stacks."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1101_3",
+                "name": "Pruning",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Quickly thrusts her polearm, inflicting AoE damage. The last attack randomly removes 1 non-Permanent buff from the affected target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG RES +20% for 8 s when cast"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1101_4",
+                "name": "Like Blossoming Flower",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 46,
+                "baseDescription": {
+                  "baseDescription": "Swings her polearm to drag nearby enemies while inflicting AoE damage. Cancels all debuffs cast on herself and permanently inceases all stats by 10%."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Recovers 30% of Max HP."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.83,
+                "critical": 1.9,
+                "def": 4.58,
+                "evade": 1.39,
+                "hit": 1.7,
+                "hp": 385
+              },
+              "base": {
+                "hp": 3001,
+                "atk": 181,
+                "def": 297,
+                "hit": 110,
+                "critical": 123,
+                "evade": 90
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "cbfbbd45-6ec4-591d-b512-4e6e571472da"
+    }
+  },
+  "staticQueryHashes": []
+}

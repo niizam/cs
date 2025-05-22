@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/sword-princess-ais-wallenstein",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "737bf6c0-5919-50d1-b47f-558f28f97c7b",
+            "updatedAt": "2025-03-27T09:24:08.351Z",
+            "createdAt": "2025-01-23T09:17:59.304Z",
+            "unitId": "1282",
+            "fullName": "Sword Princess Ais Wallenstein",
+            "slug": "sword-princess-ais-wallenstein",
+            "shortName": "Ais Wallenstein",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#e8d898",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b534057283b62ee695ca49c1ddfb3507/22bfc/1282.webp",
+                        "srcSet": "/static/b534057283b62ee695ca49c1ddfb3507/8257c/1282.webp 64w,\n/static/b534057283b62ee695ca49c1ddfb3507/6766a/1282.webp 128w,\n/static/b534057283b62ee695ca49c1ddfb3507/22bfc/1282.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Sword Princess",
+            "seaReleaseDate": "January 22nd, 2025",
+            "krReleaseDate": "January 22nd, 2025",
+            "globalReleaseDate": "January 22nd, 2025",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ais is a frontline damage dealer that focuses on dealing damage through her basic attacks. She has high base stats and notably high movement speed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most of Ais damage comes from the [Enhancement] state she gains through Special and Ultimate skills. While enhanced her basic attack has a massively improved damage multiplier and does 5% of the current target's HP. Importantly, current HP damage triggers on every hit of her basic attack and she hits 4 times per animation, adding up to ~20% current HP% per animation. This damage  is further increased by gear, as DMG% lines scale %-based damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ais has potential use cases in any PVE content that has tanky non boss enemies while also providing good auto attack damage such as Dive or Last Stand.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ais is played as an aggressive rush unit, leveraging her movement speed and massive damage output to overwhelm the opponent. Combination of high damage multipliers and massive current HP% damage means that she can deplete any HP bar in seconds. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The only way to survive Ais is to not die from damage. To name a few options - Veronica, Jaina Kropel and base Horizon can all survive the absurd damage output represented by Ais and let you deploy a dedicated striker killer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It is worth noting that as most of Ais damage comes from [Enhancement], if she does not have special ready when deployed (e.g. redeploy situations) she offers close to nothing for her cost.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Highest consistent current HP% damage dealer in the game \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"No utility \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "9",
+              "pve_early": "9",
+              "pve_late": "8"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Auto Attack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Auto Attack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1282_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses her Desperate and deals damage to a single target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1282_2",
+                "name": "Sword Dance of the Wind",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "A basic attack in [Enhancement] state becomes an enhanced attack, inflicting AoE damage in front. For each hit, enhanced attacks deal additional damage equal to 5% of the current target's HP (Bosses excluded). Becomes immune to Hitstun from Special or lower skills while casting an enhanced attack.\nEnhancement] ATK +30% and DMG RES Penetration +50% for 10 seconds (Cannot be canceled), recovers 0.6% of Max HP when hit in [Enhancement] state."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Immune to Stun while casting an enhanced attack"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1282_3",
+                "name": "Ariel",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 19,
+                "baseDescription": {
+                  "baseDescription": "Enters [Enhancement] state, inflicting AoE damage around herself."
+                },
+                "level2": {
+                  "level2": "ATK +5%"
+                },
+                "level3": {
+                  "level3": "ATK +5%"
+                },
+                "level4": {
+                  "level4": "ATK +10%"
+                },
+                "level5": {
+                  "level5": "[Enhancement] duration +5s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1282_4",
+                "name": "Lil Rafaga",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Enters [Enhancement] state and charges forward to inflict AoE damage. Enters Sure Fire mode for 12 seconds, after casting skill."
+                },
+                "level2": {
+                  "level2": "DMG+5%"
+                },
+                "level3": {
+                  "level3": "DMG+5%"
+                },
+                "level4": {
+                  "level4": "DMG+15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 35.62,
+                "critical": 3.01,
+                "def": 4.82,
+                "evade": 8.16,
+                "hit": 3.64,
+                "hp": 486
+              },
+              "base": {
+                "hp": 3864,
+                "atk": 349,
+                "def": 337,
+                "hit": 254,
+                "critical": 210,
+                "evade": 570
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "737bf6c0-5919-50d1-b47f-558f28f97c7b"
+    }
+  },
+  "staticQueryHashes": []
+}

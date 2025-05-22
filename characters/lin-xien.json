@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lin-xien",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "4832e37f-9662-5a53-8ac6-92b3f4792a62",
+            "updatedAt": "2025-04-12T08:20:14.787Z",
+            "createdAt": "2021-10-21T12:06:21.028Z",
+            "unitId": "1055",
+            "fullName": "Lin Xien",
+            "slug": "lin-xien",
+            "shortName": "Lin Xien",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b1362699c97db54cf6ffc24c81141065/acb7c/emp-1055.png",
+                        "srcSet": "/static/b1362699c97db54cf6ffc24c81141065/1c9ce/emp-1055.png 64w,\n/static/b1362699c97db54cf6ffc24c81141065/bf8e1/emp-1055.png 128w,\n/static/b1362699c97db54cf6ffc24c81141065/acb7c/emp-1055.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b1362699c97db54cf6ffc24c81141065/8257c/emp-1055.webp 64w,\n/static/b1362699c97db54cf6ffc24c81141065/6766a/emp-1055.webp 128w,\n/static/b1362699c97db54cf6ffc24c81141065/22bfc/emp-1055.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Freedom Riders",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Battery"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lin Xien is one of the best SR rarity employees in the game, mainly because she is one of the few Batteries (meaning she can restore the Deployment Resources that are used to deploy employees) available. While she is a 4 cost employee, she gives 2 DR instantly back once you deploy her, and if she survives to cast her ultimate ability, you earn 4 more DR. This makes her one of the best choices for high-cost teams with multiple Awakened Employees.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Still, she requires good gear to work - a good defensive CDR set is almost required for her in most content so she can survive while still being able to print money.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- she is one of the few Batteries in the game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- and the best one at that.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- gear hungry; she really wants high CDR for herself to unlock her full potential,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- causes economic inflation due to the amount of money she prints.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "8",
+              "pve_early": "6",
+              "pve_late": "10"
+            },
+            "description": {
+              "description": "Delivers AoE Knockback attacks and restores Cost."
+            },
+            "introduction": {
+              "introduction": "　An attacker who increases ally reinforcement speed with mysterious powers.\n\n　The cash she sprays around in battle that apparently has her own face printed on it. As someone who pretends to be a lone wolf, Lin Xien is far from being a mercenary. In fact, she is the only daughter of a financial titan.\n　She is running away from home, because she wants to become the greatest gunman like in noir films. Her aides have left a comment for whoever finds her to take care of her, because she will run again if she is sent back home.\n　Lin Xien's specialty in battle is saying her catch phrase—Leave this to me—and then falling down before returning later without a scar. It is truly an amazing survival skill, but she refuses to explain how it's done because she thinks it's not cool."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR or CDR Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR or CDR Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1055_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a shotgun, knocking enemies backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1055_2",
+                "name": "Continental Heiress",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The daughter of a continental business tycoon, she's awakened to a mysterious power upon becoming a Counter. Instantly restores 1 Deployment resource upon deployment."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Deployment resource recovery +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1055_3",
+                "name": "I'll Hit Something Eventually",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Wildly fires two shotguns, knocking enemies backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1055_4",
+                "name": "I Have a Lot of Money",
+                "type": "Ultimate",
+                "validHits": null,
+                "cooldown": 65,
+                "baseDescription": {
+                  "baseDescription": "Flaunts her enormous wealth to affect the battle situation. Instantly restores 3 Deployment resources."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Deployment resource recovery +1, cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 26.13,
+                "critical": 1.88,
+                "def": 1.23,
+                "evade": 1.69,
+                "hit": 1.52,
+                "hp": 327
+              },
+              "base": {
+                "hp": 2599,
+                "atk": 256,
+                "def": 86,
+                "hit": 106,
+                "critical": 131,
+                "evade": 118
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "4832e37f-9662-5a53-8ac6-92b3f4792a62"
+    }
+  },
+  "staticQueryHashes": []
+}

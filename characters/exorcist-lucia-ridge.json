@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/exorcist-lucia-ridge",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a33e62ca-feff-52e7-b92e-b64ca94c82cf",
+            "updatedAt": "2025-04-30T15:40:15.927Z",
+            "createdAt": "2025-04-02T17:25:28.319Z",
+            "unitId": "1289",
+            "fullName": "Exorcist Lucia Ridge",
+            "slug": "exorcist-lucia-ridge",
+            "shortName": "Exorcist Lucia Ridge",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/86801d833d586234d5df601a6cf9b1f7/22bfc/1289_sm.webp",
+                        "srcSet": "/static/86801d833d586234d5df601a6cf9b1f7/8257c/1289_sm.webp 64w,\n/static/86801d833d586234d5df601a6cf9b1f7/6766a/1289_sm.webp 128w,\n/static/86801d833d586234d5df601a6cf9b1f7/22bfc/1289_sm.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Unknown",
+            "seaReleaseDate": "April 2nd, 2025",
+            "krReleaseDate": "April 2nd, 2025",
+            "globalReleaseDate": "April 2nd, 2025",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lucia Ridge is a PVP-oriented frontline tank mostly notable for her exceptional defensive stats and HP scaling Ultimate Skill. Boasting a massive HP pool, innate DMG RDC and Ranged DMG RES she is one of the most durable units in the game. However, as a Striker, she lacks Defender-exclusive Max Damage Limit and Valid Hit Absorption stats, leaving allies behind her vulnerable to AoE attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Another notable part of Lucia’s kit is the low cooldown enhanced attack. Triggered by getting knocked back or crowd controlled, she retaliates with a swipe attack that increases cooldowns of enemies hit by 21s and gives her a +1000 EVA self-buff that offsets her base 0 evasion. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lucia’s exclusive equipment set provides much higher HP% than usual tank gear at the cost of other stats.  While it boosts her Ultimate Skill’s damage, practical value over normal gear is minimal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Lucia’s high cost and lack of utility render her irrelevant. Her hybrid frontline tank/ damage dealer role is overshadowed by specialized units, and while her Ultimate Skill has potential in Danger Close game mode, as of writing no viable strategies exist.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Lucia is simply a durable striker body. While her enhanced attack locks nearby enemies out of using abilities, most frontline units don't rely on their skills to begin with. The rest of her kit barely matters, as Special Skill is a simple dispel, and Ultimate Skill lacks impact and is on a long cooldown.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lucia brings a truly absurd level of survivability to the table. Only HP%-based damage dealers (e.g. Awakened Yuna, Ais Wallenstein) and the highest-end snipers deal enough damage to kill her in a reasonable length of time. An alternative to killing Lucia is knocking her back. As her kit offers no displacement effects, she cannot recover ground after getting pushed. It’s not uncommon to kill backline threats (or even ship) before killing Lucia. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As an expensive frontline striker tank, Lucia enforces teambuilding restrictions on the rest of the team. She has to play a long game but, because she doesn’t provide Valid Hit Absorption, the rest of the team has to independently mitigate AoE threats. She pairs well with self-sufficient long-range units (e.g. Awakened Rosaria, Awakened Karin Wong).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"One of the most durable units in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cooldown damage on enhanced attack.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rest of the kit does nothing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "1",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank, CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank, CDR Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1289_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals damage to a single target in front."
+                },
+                "level2": {
+                  "level2": "Basic attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1289_2",
+                "name": "Monetary Reprisal",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Enters Stealth Detection state upon deployment. When inflicted with Hitstun or CC performs an enhanced attack that deals AoE damage in front. Targets hit by the enhanced attack have their cooldowns increased by 21 seconds. While casting an enhanced attack, she becomes Immune to CC and cannot be damaged. Enhanced attack cannot be reactivated for 7 seconds after use, but grants EVA +1000 to self during this time."
+                },
+                "level2": {
+                  "level2": "DMG RDC +5%"
+                },
+                "level3": {
+                  "level3": "DMG RDC +5%"
+                },
+                "level4": {
+                  "level4": "DMG RDC +10%"
+                },
+                "level5": {
+                  "level5": "Basic and enhanced attacks always inflict CRIT damage"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1289_3",
+                "name": "Milwaukee Protocol",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 21,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage in front and removes 2 random buffs from damaged targets."
+                },
+                "level2": {
+                  "level2": "Ranged DMG RES +5%"
+                },
+                "level3": {
+                  "level3": "Ranged DMG RES +5%"
+                },
+                "level4": {
+                  "level4": "Ranged DMG RES +10%"
+                },
+                "level5": {
+                  "level5": "Permanently increases CRIT DMG by 10% after casting Special Skill (Up to 15 stacks)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1289_4",
+                "name": "Werewolf Syndrome",
+                "type": "Ultimate",
+                "validHits": 1,
+                "cooldown": 52,
+                "baseDescription": {
+                  "baseDescription": "Deals damage to a single target in front. Ultimate Skill's damage scales with Max HP instead of ATK. ASPD does not affect the skill during casting and direction cannot be changed. If the target is defeated, the casting ends immediately and Ultimate Skill cooldown is restored by 50%."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Grants DMG RES Penetration +50% to self while casting Ultimate Skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 35.82,
+                "critical": 5.24,
+                "def": 6.77,
+                "evade": 0,
+                "hit": 3.41,
+                "hp": 797
+              },
+              "base": {
+                "hp": 6338,
+                "atk": 351,
+                "def": 473,
+                "hit": 238,
+                "critical": 366,
+                "evade": 0
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": true,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a33e62ca-feff-52e7-b92e-b64ca94c82cf"
+    }
+  },
+  "staticQueryHashes": []
+}

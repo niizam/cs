@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/eins-and-zwei",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "9f1f146f-8f08-50e9-aeef-d9e9da52697c",
+            "updatedAt": "2024-12-12T22:00:15.227Z",
+            "createdAt": "2021-10-22T06:42:22.734Z",
+            "unitId": "1167",
+            "fullName": "Eins & Zwei",
+            "slug": "eins-and-zwei",
+            "shortName": "Eins & Zwei",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/40480ff5dc2b663544dbe4d9958e1048/acb7c/emp-1167.png",
+                        "srcSet": "/static/40480ff5dc2b663544dbe4d9958e1048/1c9ce/emp-1167.png 64w,\n/static/40480ff5dc2b663544dbe4d9958e1048/bf8e1/emp-1167.png 128w,\n/static/40480ff5dc2b663544dbe4d9958e1048/acb7c/emp-1167.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/40480ff5dc2b663544dbe4d9958e1048/8257c/emp-1167.webp 64w,\n/static/40480ff5dc2b663544dbe4d9958e1048/6766a/emp-1167.webp 128w,\n/static/40480ff5dc2b663544dbe4d9958e1048/22bfc/emp-1167.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Jehuty Biotech",
+            "seaReleaseDate": "June 3rd, 2021",
+            "krReleaseDate": "February 2nd, 2021",
+            "globalReleaseDate": "May 26th, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Offtank",
+              "CC",
+              "Summoner",
+              "True Damage"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Eins & Zwei (colloquially referred to as “Twins”) is a PVP-oriented multi-unit frontline tank consisting of two counter strikers. Twins are notable for their above average survivability, which when paired with their low cost make them one of the more cost-efficient frontline tanks in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, frontline tanks with buffs/ debuffs are valued more highly than those focused solely on tanking for themselves. Twins meets the baseline requirements expected of them as a frontline tank, but their cost-efficiency is worth considerably less than what is provided by stronger alternatives (e.g. Ciel, Chifuyu).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Twins are played primarily as a cheap frontline tank to stall and quickly cycle the “deck”. Twins are particularly effective at what they do; this can be attributed to the following:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As multi-unit strikers, it can be difficult to displace Twins with knockback; Twins already have above average EVA, and as EVA checks are calculated independently for Eins and Zwei, it is incredibly difficult to knock both back (on top of any other frontline tanks deployed alongside them).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Twins absorbs two valid hits, as they are two units. This is notable as strikers typically only have one valid hit absorption. Valid hit absorption soaks up AOE and mitigates the damage transferred to the rest of the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Twins’ Ultimate skill displaces enemy backline in range and gives Twins iframes for the duration of its (long) cast time. It has good value for how cheap Twins are and how low its cooldown is.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Incredibly cost-effective frontline tanks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Deploying as a pair allows Eins & Zwei to more effectively off-tank and provides niche benefits such as some insulation against knockback.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Often can spend 1 more DP for a much more consistent tanking option.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Does not solo frontline well.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "10",
+              "pvp_global": "9",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "High-efficiency Melee attackers who grow stronger when they're together."
+            },
+            "introduction": {
+              "introduction": "Eins and Zwei are Strikers who gain special abilities when they're together on the battlefield. Eins and Zwei are identical in everything, including their stats and gear. They're best friends who bicker all the time, but never stay angry with each other for long. They're also wise and reliable older sisters to their eight siblings. Jehuty Biotech advertised these kids as successful Counter clones, when in actuality they were just twins who shared the same Counter Watch. Currently, their release is pending because someone pointed out this critical shortcoming."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank or CDR Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank or CDR Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1167_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Eins and Zwei swing their swords, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1167_2",
+                "name": "Together We're Strong",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Eins enters battle with Zwei, her identical twin sister who has the same stats and gear as her. Eins and Zwei increase DMG RES by 30% when they're together on the field."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Additional Skill Haste +30% for Eins, ATK +30% for Zwei"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1167_3",
+                "name": "Doppelklingen",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Eins and Zwei shoot spirit swords at enemies in front, inflicting AoE damage. When Eins casts the skill, Zwei responds by casting the same skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Inflicts True DMG if cast by Zwei while Eins is on the field"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1167_4",
+                "name": "Starke Schwestern",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 46,
+                "baseDescription": {
+                  "baseDescription": "Eins summons all her siblings, inflicting AoE damage on and around the target. Invincible during skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Instant cooldown -20% after skill if Zwei is on the field"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.12,
+                "critical": 3.15,
+                "def": 2.16,
+                "evade": 4.12,
+                "hit": 1.76,
+                "hp": 212
+              },
+              "base": {
+                "hp": 1719,
+                "atk": 181,
+                "def": 163,
+                "hit": 133,
+                "critical": 238,
+                "evade": 312
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "9f1f146f-8f08-50e9-aeef-d9e9da52697c"
+    }
+  },
+  "staticQueryHashes": []
+}

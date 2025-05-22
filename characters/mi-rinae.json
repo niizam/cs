@@ -1,0 +1,249 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/mi-rinae",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "13139fc9-bd32-53ec-84d2-67c41b954925",
+            "updatedAt": "2025-03-27T11:27:54.414Z",
+            "createdAt": "2022-12-20T13:18:15.979Z",
+            "unitId": "1238",
+            "fullName": "Mi Rinae",
+            "slug": "mi-rinae",
+            "shortName": "Mi Rinae",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/80ddf73bb6b33976d6a32e305367d15e/acb7c/1238.png",
+                        "srcSet": "/static/80ddf73bb6b33976d6a32e305367d15e/1c9ce/1238.png 64w,\n/static/80ddf73bb6b33976d6a32e305367d15e/bf8e1/1238.png 128w,\n/static/80ddf73bb6b33976d6a32e305367d15e/acb7c/1238.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/80ddf73bb6b33976d6a32e305367d15e/8257c/1238.webp 64w,\n/static/80ddf73bb6b33976d6a32e305367d15e/6766a/1238.webp 128w,\n/static/80ddf73bb6b33976d6a32e305367d15e/22bfc/1238.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Subculture Research Society",
+            "seaReleaseDate": "April 11th, 2023",
+            "krReleaseDate": "November 29th, 2022",
+            "globalReleaseDate": "September 27th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": {
+              "name": "Azoth Sword",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Bora! Gimme a weapon!",
+              "description": "Skill Haste +30%.<br/>Flame: Damage per sec 1% instead.<br/>Ice: 2 stacks of Chill instead.<br/>Volt: Skill Haste 10% instead."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Perfect Evasion"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mi Rinae is one of many middling frontline tanks that struggle to carve a niche for themselves. Mi Rinae is notable in that she has a convoluted, utterly inconsequential “element” mechanic that cycles her between three elements of equal insignificance. She is painfully average, with decent defensive stats and a low-impact skill set.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mi Rinae’s Alternium Reactor attempts to salvage the element mechanic by doubling its effects and giving her base skill haste. This improvement utterly fails to change anything and her elemental states remain about as significant as the rest of her kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a general frontline tank, Mi Rinae struggles to distinguish herself from the pool of stronger alternatives (e.g. Rearm Alex).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"unordered-list\",\"data\":{},\"content\":[{\"nodeType\":\"list-item\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"None. \",\"marks\":[],\"data\":{}}]}]}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Absence of teamwide utility hampers her viability when stronger alternatives not only tank better, but also provide more. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Striker that can use elemental attacks."
+            },
+            "introduction": {
+              "introduction": "루나는"
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1238_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals AoE damage in front using the current elemental weapon. In reality, it is just an ordinary broom overlaid with free resource images."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1238_2",
+                "name": "Bora! Gimme a weapon!",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every 7 Basic Attacks with her enhanced broo... Elemental Weapon, casts an Enhanced attack. Hit enemies are inflicted with elemental effects that last for 4 seconds. Afterwards, Mi Rinae breaks her weapon and permanently gains ASPD +10% (Up to 3 stacks). Her elemental weapon is switched in order of Volt > Frost > Flame > Volt.\n\nElemental Effects\n\nFlame: Damage per second (Bosses Excluded): 0.5%\n\nIce: 1 stack of [Chill] (lasts 5 s)\n\nVolt: Increases EVA, Skill Haste by 7.5% to self\"\n"
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +6%"
+                },
+                "level5": {
+                  "level5": "EVA +60% based on decreased HP"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1238_3",
+                "name": "Tri-color Hadoken!!",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Charges up the current element in hand to the max and deals damage to enemies in front. Passive Buff is doubled for the damaged enemy for 7 seconds. Does not apply to targets exceeding Valid Hits.\n"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hit + 1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1238_4",
+                "name": "Mi Rinae★Starlight Special",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 46,
+                "baseDescription": {
+                  "baseDescription": "Summons a Master Sword, mixing elements and attacking enemies in front, triggering all Elemental Effects at the same time. The values of the Elemental Effects are quadrupled and last for 10 seconds this way. Does not affect targets exceeding the valid hit count."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Resets Special Skill cooldown after casting the skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 23.27,
+                "critical": 2.12,
+                "def": 2.91,
+                "evade": 4.66,
+                "hit": 1.98,
+                "hp": 354
+              },
+              "base": {
+                "hp": 2869,
+                "atk": 309,
+                "def": 220,
+                "hit": 150,
+                "critical": 161,
+                "evade": 353
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "13139fc9-bd32-53ec-84d2-67c41b954925"
+    }
+  },
+  "staticQueryHashes": []
+}

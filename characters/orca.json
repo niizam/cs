@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/orca",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "545b5280-d825-5e8d-8add-477e2b09f97c",
+            "updatedAt": "2024-03-19T04:31:48.421Z",
+            "createdAt": "2021-10-21T11:18:48.214Z",
+            "unitId": "1018",
+            "fullName": "Orca",
+            "slug": "orca",
+            "shortName": "Orca",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/11d541a1ba908977009a4d7a530bf0a6/acb7c/emp-1018.png",
+                        "srcSet": "/static/11d541a1ba908977009a4d7a530bf0a6/1c9ce/emp-1018.png 64w,\n/static/11d541a1ba908977009a4d7a530bf0a6/bf8e1/emp-1018.png 128w,\n/static/11d541a1ba908977009a4d7a530bf0a6/acb7c/emp-1018.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/11d541a1ba908977009a4d7a530bf0a6/8257c/emp-1018.webp 64w,\n/static/11d541a1ba908977009a4d7a530bf0a6/6766a/emp-1018.webp 128w,\n/static/11d541a1ba908977009a4d7a530bf0a6/22bfc/emp-1018.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Successor",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Offtank",
+              "Selfhealer",
+              "True Damage"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Orca gains bonus damage against C.O.s, which makes her a great PVE employee. Before her rework, she needed to kill enemies herself to activate the healing and ATK bonus from her passive, but now she just needs to hit an enemy within 4 seconds of his/her death. Her ultimate also deals True Damage and can be reset on kill, but in harder PVE content where enemies' health pools are massive, this rarely gets activated. Also, for some reason, the Replacers in story mode are not registered as Replacer types so she does not get her bonus against them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall, she is a good pure damage dealer in PVE, but in a lot of content, you have to choose your team wisely so other Strikers that also can do damage while helping the team with debuffs/buffs are often picked instead of her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can self-sustain pretty well thanks to the heal on her passive,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- true damage on her ult deals pretty nice damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- useless in PVP,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- lacks utility to make her worth using over other Strikers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee attacker that regains HP with each kill and continues to fight."
+            },
+            "introduction": {
+              "introduction": "　Orca is a vanguard who continues her fight by healing off of defeated enemies.\n\n　Orca actually refers to the red Watch that shines ominously. According to rumors, Counters who acquire Orca are forced to wander Corrupted Areas and hunt down Corrupted Objects until they die. Some say that the hatred of previous owners infused in Orca forces the new owner to become obsessed with hunting.\n　Reports of those witnessing Orca owners have never stopped since the Administration was established. Surprisingly, the most recent owner has been reported to be able to partially control the urge to hunt, unlike in previous cases. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1018_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Wildly swings her dagger and moves forward, inflicting AoE damage. Orca also attacks surrounding enemies as she rises after being downed."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1018_2",
+                "name": "Regenerator",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The angrier she gets, the faster she recovers from her wounds. Basic attacks debuff targets for 4 seconds, and restore 8% of HP and increase ATK by 4% (up to 20%) with each kill."
+                },
+                "level2": {
+                  "level2": "Passive HP recovery +1%"
+                },
+                "level3": {
+                  "level3": "Passive HP recovery +1%"
+                },
+                "level4": {
+                  "level4": "Passive HP recovery +2%"
+                },
+                "level5": {
+                  "level5": "Immunity to Stun, Anti-C.O./Replacer DMG +80%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1018_3",
+                "name": "Dagon's Daggers",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Summons and throws 6 daggers. Each dagger penetrates once."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1018_4",
+                "name": "Orca's Fury",
+                "type": "Ultimate",
+                "validHits": 1,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Discharges all her energy and lunges at the target, inflicting damage. This skill's cooldown is decreased by 40 seconds if the target dies."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Skill deals true damage instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 37.15,
+                "critical": 3.88,
+                "def": 2.05,
+                "evade": 1.75,
+                "hit": 1.56,
+                "hp": 428
+              },
+              "base": {
+                "hp": 3402,
+                "atk": 364,
+                "def": 143,
+                "hit": 109,
+                "critical": 271,
+                "evade": 122
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "545b5280-d825-5e8d-8add-477e2b09f97c"
+    }
+  },
+  "staticQueryHashes": []
+}

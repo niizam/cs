@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lambda",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "053bc846-f053-5125-8442-a4c748b010dd",
+            "updatedAt": "2025-02-25T07:30:50.730Z",
+            "createdAt": "2023-06-19T11:26:13.450Z",
+            "unitId": "1250",
+            "fullName": "Lamda Spatari",
+            "slug": "lambda",
+            "shortName": "Lamda Spatari",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/e860389a05418392fe03af04df807271/acb7c/1250.png",
+                        "srcSet": "/static/e860389a05418392fe03af04df807271/1c9ce/1250.png 64w,\n/static/e860389a05418392fe03af04df807271/bf8e1/1250.png 128w,\n/static/e860389a05418392fe03af04df807271/acb7c/1250.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/e860389a05418392fe03af04df807271/8257c/1250.webp 64w,\n/static/e860389a05418392fe03af04df807271/6766a/1250.webp 128w,\n/static/e860389a05418392fe03af04df807271/22bfc/1250.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "September 26th, 2023",
+            "krReleaseDate": "May 23rd, 2023",
+            "globalReleaseDate": "March 13th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lambda is a Ranger with high survivability and a synergistic kit that gets stronger with Agnes. Unfortunately the synergy has been reduced to just 20% increased DMG on Lambda for their 8 total cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her kit focuses on dealing a lot of DMG with basic attack while being hard to kill thanks to the 2 passive backstep. However her DMG even with Agnes does not exceed those who specializes in dealing damage so she remains as a low priority damage dealer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- High Survivability\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Barrier Removal\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Not much utility to offer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Ranger who deals more damage to debuffed enemies"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Attack Speed / Spectral Blaze",
+                "notes": "Ground DMG / Anti-Class DMG / Crit DMG"
+              },
+              "pvp": {
+                "set": "Attack Speed / Cooldown Reduction / Spectral Blaze",
+                "notes": "Ground DMG / Anti-Class DMG / Crit DMG / Skill Haste"
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1250_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Unleash energy from her sword to attack enemies. The attack stops after 10s."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1250_2",
+                "name": "Beyond Remorse ",
+                "type": "Passive",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "She always plans her next move even in unfavorable situations. All of Lambda’s attacks deals 20% increased DMG to targets below 50% HP or targets marked by [Sacrifice]. (In Gauntlet, This effect only applies to enemies with 3 deployment cost or below). When her HP falls below 70%, she dodges backward to fire an enhanced attack that cancels enemies’ barriers. Upon death, casts an attack that cancels all barriers."
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "Activates passive backstep one more time at 40% HP"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1250_3",
+                "name": "Forced execution",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 30,
+                "baseDescription": {
+                  "baseDescription": "Emits an ominous aura then explodes, dealing AoE DMG. Damaged enemies are stunned for 2s."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -7s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1250_4",
+                "name": "Instant displacement",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Summons a huge guillotine that slows enemies before launching an attack that cancels barriers. She then strikes her weapon to deal AoE DMG. Casts Sure Fire on Lambda for the duration of the skill. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "The last attack instantly finishes off 1 enemy below 40% HP (Bosses, Awakened units excluded)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 48.88,
+                "critical": 4.29,
+                "def": 1.9,
+                "evade": 2.33,
+                "hit": 4.49,
+                "hp": 275
+              },
+              "base": {
+                "hp": 2142,
+                "atk": 470,
+                "def": 123,
+                "hit": 291,
+                "critical": 278,
+                "evade": 151
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "053bc846-f053-5125-8442-a4c748b010dd"
+    }
+  },
+  "staticQueryHashes": []
+}

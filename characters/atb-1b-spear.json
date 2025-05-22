@@ -1,0 +1,217 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/atb-1b-spear",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "ec2dc0c8-7c4c-54fa-82a7-f0e2f78642d7",
+            "updatedAt": "2024-03-19T20:57:52.375Z",
+            "createdAt": "2021-10-21T13:25:00.140Z",
+            "unitId": "1083",
+            "fullName": "ATB-1B Spear",
+            "slug": "atb-1b-spear",
+            "shortName": "ATB-1B Spear",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/feb1970ffc75c51fc512332e222dea87/acb7c/emp-1083.png",
+                        "srcSet": "/static/feb1970ffc75c51fc512332e222dea87/1c9ce/emp-1083.png 64w,\n/static/feb1970ffc75c51fc512332e222dea87/bf8e1/emp-1083.png 128w,\n/static/feb1970ffc75c51fc512332e222dea87/acb7c/emp-1083.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/feb1970ffc75c51fc512332e222dea87/8257c/emp-1083.webp 64w,\n/static/feb1970ffc75c51fc512332e222dea87/6766a/emp-1083.webp 128w,\n/static/feb1970ffc75c51fc512332e222dea87/22bfc/emp-1083.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "States of One",
+            "seaReleaseDate": "July 8th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Mech"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "Ground",
+            "speciality": [
+              "Battery",
+              "Barrier"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATB-1B is a bomber-type employee who appears on the battlefield, drops his payload, and tries to escape immediately. Sadly, while on paper his kit looks good to get rid of squishy backliners, the damage simply isn't there. It's far better to use someone like Kang to kill snipers that hide in the back than use him.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can attack anywhere on the battlefield.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low damage,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- high cost for what he does.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Delivers an anti-ground AoE attack to the entire filed, and then returns."
+            },
+            "introduction": {
+              "introduction": "　A single-use attacker that strikes the entire map.\n\n　It is a strategic bomber equipped with variable wings. It has a handful of nicknames thanks to its unique appearance. It is currently used for close air support with its long flight duration."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": "Anti-Ranger or Anti-Sniper subs are good to have."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1083_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Always appears from the rearmost line and moves forward, dropping bombs and inflicting AoE damage on the entire field."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1083_2",
+                "name": "Close Air Support OS",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks Ground enemies and leaves the field upon reaching the other end of the field. Successful escapes restore 1 Deployment resource."
+                },
+                "level2": {
+                  "level2": "DMG to Ranger +10%"
+                },
+                "level3": {
+                  "level3": "DMG to Ranger +10%"
+                },
+                "level4": {
+                  "level4": "DMG to Ranger +20%"
+                },
+                "level5": {
+                  "level5": "DMG to Sniper +40%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1083_3",
+                "name": "Assault Barrier Coating",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Enters battle with a barrier around it that temporarily resists attacks. Generates a barrier equal to 20% of Max HP for 3 seconds when deployed."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Barrier covers 30% of Max HP instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 25.93,
+                "critical": 2.08,
+                "def": 0.39,
+                "evade": 0.37,
+                "hit": 1.6,
+                "hp": 48
+              },
+              "base": {
+                "hp": 388,
+                "atk": 259,
+                "def": 29,
+                "hit": 121,
+                "critical": 157,
+                "evade": 28
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "ec2dc0c8-7c4c-54fa-82a7-f0e2f78642d7"
+    }
+  },
+  "staticQueryHashes": []
+}

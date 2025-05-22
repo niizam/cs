@@ -1,0 +1,240 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/ryan-ferrier",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "f68288f5-31e3-5f19-831f-7e474a273dab",
+            "updatedAt": "2024-10-17T21:30:33.211Z",
+            "createdAt": "2021-10-21T23:49:20.286Z",
+            "unitId": "1119",
+            "fullName": "Ryan Ferrier",
+            "slug": "ryan-ferrier",
+            "shortName": "Ryan Ferrier",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/702d5276552e7e90cda6d58b819ed787/acb7c/emp-1119.png",
+                        "srcSet": "/static/702d5276552e7e90cda6d58b819ed787/1c9ce/emp-1119.png 64w,\n/static/702d5276552e7e90cda6d58b819ed787/bf8e1/emp-1119.png 128w,\n/static/702d5276552e7e90cda6d58b819ed787/acb7c/emp-1119.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/702d5276552e7e90cda6d58b819ed787/8257c/emp-1119.webp 64w,\n/static/702d5276552e7e90cda6d58b819ed787/6766a/emp-1119.webp 128w,\n/static/702d5276552e7e90cda6d58b819ed787/22bfc/emp-1119.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Prydwen Institution",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Ryan Ferrier does not have the stats necessary to meet the baseline requirements expected of him as a frontline tank.\\n\\nRyan Ferrier does not possess relevant utility that would justify using him. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A tanker who changes places and Taunts enemies on the front lines."
+            },
+            "introduction": {
+              "introduction": "　Ryan is a defender who constantly switches his position to parry attacks directed towards him while demolishing the enemy with his iron fists.\n\n　As a former soldier of the special forces, he demanded to replace the agency's outdated facility and equipment on his first day at Prydwen. Ever since, he is called the Butler.　Living up to his nickname, he always offers guidance, in a polite manner, to the agents who are slacking in their jobs.\n　Upon facing his iron fists that can can devastate even a C.O. in a single blow, many agents have learned to stay vigilant. But the Chief, along with other Counters, always brings new troubles and tests his iron will. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1119_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Throws punches at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1119_2",
+                "name": "Man of Steel",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every 18th incoming attack enables him to move forward, ignoring the Hitstun effect. Forces 3 surrounding enemies to attack him for 5 seconds, and decreases DMG Taken by 25%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Passive effect activated with every 13th attack instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1119_3",
+                "name": "Critical Body Blow",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Throws a power body blow into enemies in front, stunning them for 2 seconds with AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Stun duration +2"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1119_4",
+                "name": "Straight Impact",
+                "type": "Ultimate",
+                "validHits": 2,
+                "cooldown": 45,
+                "baseDescription": {
+                  "baseDescription": "Throws mighty straight punches, inflicting AoE damage. Last attacks decrease their targets' EVA by 50% for 10 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "DMG Taken -30% for 10 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 23.23,
+                "critical": 0.53,
+                "def": 3.83,
+                "evade": 1.92,
+                "hit": 1.54,
+                "hp": 389
+              },
+              "base": {
+                "hp": 3151,
+                "atk": 232,
+                "def": 290,
+                "hit": 116,
+                "critical": 40,
+                "evade": 145
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "f68288f5-31e3-5f19-831f-7e474a273dab"
+    }
+  },
+  "staticQueryHashes": []
+}

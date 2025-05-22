@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lyudmila",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c060c33a-dddd-55da-92df-12ac69ee44c3",
+            "updatedAt": "2025-04-09T08:09:04.609Z",
+            "createdAt": "2021-10-22T00:40:27.509Z",
+            "unitId": "1157",
+            "fullName": "Lyudmila",
+            "slug": "lyudmila",
+            "shortName": "Lyudmila",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/93ba8d5fc79e0813c4d688d69c142697/acb7c/emp-1157.png",
+                        "srcSet": "/static/93ba8d5fc79e0813c4d688d69c142697/1c9ce/emp-1157.png 64w,\n/static/93ba8d5fc79e0813c4d688d69c142697/bf8e1/emp-1157.png 128w,\n/static/93ba8d5fc79e0813c4d688d69c142697/acb7c/emp-1157.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/93ba8d5fc79e0813c4d688d69c142697/8257c/emp-1157.webp 64w,\n/static/93ba8d5fc79e0813c4d688d69c142697/6766a/emp-1157.webp 128w,\n/static/93ba8d5fc79e0813c4d688d69c142697/22bfc/emp-1157.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Old Administration: Maze Division",
+            "seaReleaseDate": "October 20th, 2021",
+            "krReleaseDate": "September 10th, 2020",
+            "globalReleaseDate": "July 21st, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lyudmila is a flying backline damage dealer with a well-rounded kit that provides decent damage output and powerful crowd control effects in a sniper with exceptional range. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Compared to her peers, Lyudmila trades away some damage for utility; her Special and Ultimate skills can heavily affect positioning by grouping and pushing enemies around. She is also notable in that she is one of the few characters in the game with air target priority.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Lyudmila infrequently sees use in content that favors long-range damage dealers and fliers. Since her release, the pool of damage dealers and strategies available to players has expanded significantly. Ignoring her performance at the highest levels of competitive content, Lyudmila is still a serviceable damage dealer for players who want to incorporate her into their teams. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Lyudmila sees (exceedingly) limited use as a crowd control/ damage dealer hybrid. As mentioned above, Lyudmila can use her Special and Ultimate skills to scramble enemy formations and expose their backline to damage. Unfortunately, Lyudmila is held back by her poor damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Decent crowd control.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Air-target priority with the range to make use of it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- All the benefits of being a flier.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Novel buffs-on-ally-death mechanic.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Overshadowed by dedicated damage dealers. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "7",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "An all-round Ranged attacker who grows stronger every time an ally leaves the battlefield."
+            },
+            "introduction": {
+              "introduction": "　(This text was restored by a Class 1 Administrator.)\n　Lyudmila uses naval artillery to bombard enemies from all sides and fill in fallen allies. Her telekinesis, a rare power even in the Administration, effectively brings down enemies that manage to approach her through the barrages of cannonballs.\n\n　Originally, she wanted to become an air-traffic controller, but her tendency to pass out at the sight of blood got in the way and even her appointment as a bridge officer had to be put on hold. At first, she was all but coerced into becoming a field agent by her friend, Lee Sooyeon, but soon realized she was talented in commanding troops and organizing operations.\n　She became the leader of the artillery division, Maze, at a surprisingly young age, and her preference for safe artillery combat over melee fray has gained support in and out of her troops.\n　Her only known weakness is that she's all thumbs when it comes to crafting. There are multiple instances in which her handmade accessories terrorized the children who received them."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS, Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS, Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1157_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Remotely controls a naval cannon and periodically fires at a single target in front. Targets Air units within range first and stops attacking if the target dies or moves 1500 reach away from her."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1157_2",
+                "name": "Maintain Battle Front",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Unlocks a new power every time an ally leaves the field, depending on its type. Increases CRIT if they're Counters and ATK if Soldiers by 5%, up to 50%. If Mechs, creates a barrier equal to 15% of Max HP for 10 seconds."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "CRIT/ATK +10% instead (Up to 50%)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1157_3",
+                "name": "Coordinates locked!",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Telekinetically gathers enemies in front and levitates them, and then fires a cannon at them, knocking them backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1157_4",
+                "name": "Last-ditch Effort",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 63,
+                "baseDescription": {
+                  "baseDescription": "Musters up her strength and throws an abandoned ship. This ship crashes onto the ground and continuously pulls enemies before it explodes with AoE damage."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Last attacked targets' SPD & ASPD -25% for 15 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 56.79,
+                "critical": 3.65,
+                "def": 1.75,
+                "evade": 2.08,
+                "hit": 5.84,
+                "hp": 148
+              },
+              "base": {
+                "hp": 1151,
+                "atk": 546,
+                "def": 113,
+                "hit": 379,
+                "critical": 237,
+                "evade": 135
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c060c33a-dddd-55da-92df-12ac69ee44c3"
+    }
+  },
+  "staticQueryHashes": []
+}

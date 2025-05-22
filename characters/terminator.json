@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/terminator",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "df8ebaaf-e10c-5165-8fcd-274e5ee0430c",
+            "updatedAt": "2024-03-19T22:02:58.342Z",
+            "createdAt": "2021-10-21T11:38:42.767Z",
+            "unitId": "1031",
+            "fullName": "Terminator",
+            "slug": "terminator",
+            "shortName": "Terminator",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2f9a94e97846420c4b1bba2a36e60159/acb7c/emp-1031.png",
+                        "srcSet": "/static/2f9a94e97846420c4b1bba2a36e60159/1c9ce/emp-1031.png 64w,\n/static/2f9a94e97846420c4b1bba2a36e60159/bf8e1/emp-1031.png 128w,\n/static/2f9a94e97846420c4b1bba2a36e60159/acb7c/emp-1031.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2f9a94e97846420c4b1bba2a36e60159/8257c/emp-1031.webp 64w,\n/static/2f9a94e97846420c4b1bba2a36e60159/6766a/emp-1031.webp 128w,\n/static/2f9a94e97846420c4b1bba2a36e60159/22bfc/emp-1031.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Black Tide",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 4,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Terminator is one of the most-buffed employees in the game and his current version makes him one of the best PVE oriented strikers in the game. Not only his damage is pretty damn good, but he also can debuff enemies' DEF which is a great thing to have especially on bosses - and that's where he shines the most. Sadly he's really squishy and you need to have a defender in front of him or else he will die without doing anything.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- DEF reduction is one of the best debuffs in the game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- a bit too high cost,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- squishy, you have to protect him.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "7",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "Uses Knockback and anti-ground AoE attacks to decrease enemy DEF."
+            },
+            "introduction": {
+              "introduction": "　A vanguard who pushes back enemies with area attacks to reduce their defense.\n\n　Terminators are special agents who are deployed upon a C.O. appearance. The reinforced Terminator armor is nearly as strong as a human-sized heavy equipment. But their deployment is limited because the armor requires a painful process of welding the circuits directly to the central nerves.\n　These units are recruited through a strict screening only when police officers who have acquired moderate physical disabilities during their duties express their willingness to volunteer."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank, ASPD Tank or Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1031_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a shotgun, knocking enemies backward with AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1031_2",
+                "name": "High-strength Gun Barrel",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses buckshot shells that inflict more damage on closer targets. Inflicts 5% more damage on Defenders."
+                },
+                "level2": {
+                  "level2": "DMG to Defender +5%"
+                },
+                "level3": {
+                  "level3": "DMG to Defender +5%"
+                },
+                "level4": {
+                  "level4": "DMG to Defender +10%"
+                },
+                "level5": {
+                  "level5": "DMG to Striker +25%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1031_3",
+                "name": "Armor-piercing Buckshot",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses special bullets that decreases defense capability. Decreases targets' DEF by 10%."
+                },
+                "level2": {
+                  "level2": "HIT +10%"
+                },
+                "level3": {
+                  "level3": "HIT +10%"
+                },
+                "level4": {
+                  "level4": "HIT +20%"
+                },
+                "level5": {
+                  "level5": "Targets' DEF -20% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1031_4",
+                "name": "Indomitable Will",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Refuses to cower, no matter the situation. Increases DEF by up to 60% in inverse proportion to HP."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Immunity to Stun and Hitstun from Special or lower skills"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 21.84,
+                "critical": 2.81,
+                "def": 3.49,
+                "evade": 1.36,
+                "hit": 2.12,
+                "hp": 237
+              },
+              "base": {
+                "hp": 1879,
+                "atk": 214,
+                "def": 244,
+                "hit": 148,
+                "critical": 196,
+                "evade": 95
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "df8ebaaf-e10c-5165-8fcd-274e5ee0430c"
+    }
+  },
+  "staticQueryHashes": []
+}

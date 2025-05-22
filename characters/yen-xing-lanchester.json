@@ -1,0 +1,248 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/yen-xing-lanchester",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "9d0d08ea-bc42-5659-8244-606c80c07171",
+            "updatedAt": "2025-03-27T09:24:30.547Z",
+            "createdAt": "2021-10-22T00:34:09.369Z",
+            "unitId": "1151",
+            "fullName": "Yen Xing Lanchester",
+            "slug": "yen-xing-lanchester",
+            "shortName": "Yen Xing Lanchester",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/e6a9bccba8184589d79adb845db56a15/acb7c/emp-1151.png",
+                        "srcSet": "/static/e6a9bccba8184589d79adb845db56a15/1c9ce/emp-1151.png 64w,\n/static/e6a9bccba8184589d79adb845db56a15/bf8e1/emp-1151.png 128w,\n/static/e6a9bccba8184589d79adb845db56a15/acb7c/emp-1151.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/e6a9bccba8184589d79adb845db56a15/8257c/emp-1151.webp 64w,\n/static/e6a9bccba8184589d79adb845db56a15/6766a/emp-1151.webp 128w,\n/static/e6a9bccba8184589d79adb845db56a15/22bfc/emp-1151.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Academy Student Council",
+            "seaReleaseDate": "September 8th, 2021",
+            "krReleaseDate": "July 23rd, 2020",
+            "globalReleaseDate": "August 18th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": {
+              "name": "Yin-Yang Unification",
+              "type": "Special Skill Enh.",
+              "skill_name": "Gliding Dagger",
+              "description": "Ultimate Skill Cooldown -3 s when casting Special Skill and nullifies buffs for 2s to targets who are hit by Special Skill."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Dispeller"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yen Xing Lanchester (YXL) is a melee-range buff removal specialist with some limited functionality as a frontline tank. YXL’s kit is designed to fulfill the niche of constant buff removal at shorter intervals than what is typically possible from the existing pool of buff removal options. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"YXL’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" marginally improves her kit by adding buff nullification on top of her existing buff removal on Special skill. It also improves her survivability by increasing uptime on her Ultimate skill damage immunity self-buff. YXL’s effective HP is still too low to compete as a frontline tank with stronger alternatives for the role, but her reactor improves her survivability to the point where she at least approaches the baseline requirements expected of her as a frontline tank.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In practice, there are few scenarios where YXL’s rate of buff removal is actually relevant. There are few buffs in the game important enough to warrant bringing a dedicated source of buff removal to begin with and buff removal itself is not an uncommon debuff. With survivability issues and little else to her kit, YXL struggles to distinguish herself (both as a debuffer and as a frontline tank) from the pool of stronger alternatives (e.g. Rearm Kaci, Rearm Alex).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"High frequency buff removal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"There are better and safer buff removal options. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee attacker whose EVA increases the longer she fights."
+            },
+            "introduction": {
+              "introduction": "　Yen Xing Lanchester is the president of the Counter Academy Student Council. She's also a swift swordswoman who uses daggers to blow away beneficial effects cast on enemies.\n\n　Among the students of the Academy, Yen Xing is known as a stern senior, but personally, she wants everyone to treat her like a friend. The charisma and seriousness she exudes is only due to her upbringing; on the inside she's just like other girls her age who love children and animals.\n　But even the numerous rumors about her that circulate in school can't refute that she's a born leader.As a master of the traditional martial arts, she earns a lot of money teaching children of rich familiies, but she donates almost all her wealth to the Academy and the society. Also, she doesn't treat other students differently because of who they are.\n　She believes it's necessary for everyone to accept each other's differences to achieve perfect harmony. Her belief doesn't seem to be empty idealism, given how successful she has been as the leader of a Council filled with unique characters that rarely agree with each other."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR Tank, Defensive CDR, Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR Tank, Defensive CDR, Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1151_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her sheath with the daggers inside, inflicting AoE damage on the frontal area."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1151_2",
+                "name": "President's Class",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "All attacks increase EVA by 10% for 8 seconds, up to 50%. After every 2 Basic attacks, she delivers an enhanced attack. Randomly removes 1 non-Permanent buff cast on targets."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Enhanced attacks always inflict CRIT damage"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1151_3",
+                "name": "Gliding Dagger",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Charges forward, swinging a dagger, and then leaps backward, inflicting AoE damage. The first attack randomly removes 1 non-Permanent buff."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1151_4",
+                "name": "Ethereal Sword Dance",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 44,
+                "baseDescription": {
+                  "baseDescription": "Charges at a target with both of her daggers and inflicts AoE damage on surrounding enemies. The first attack randomly removes 2 non-Permanent buffs."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Immunity to all damage for 6 s after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.73,
+                "critical": 1.8,
+                "def": 3.21,
+                "evade": 5.8,
+                "hit": 1.55,
+                "hp": 417
+              },
+              "base": {
+                "hp": 3384,
+                "atk": 287,
+                "def": 243,
+                "hit": 117,
+                "critical": 136,
+                "evade": 439
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "9d0d08ea-bc42-5659-8244-606c80c07171"
+    }
+  },
+  "staticQueryHashes": []
+}

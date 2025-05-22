@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/may",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "aac089bb-8e24-5275-a976-db30b6e18e4d",
+            "updatedAt": "2024-06-22T22:04:25.228Z",
+            "createdAt": "2021-10-22T07:04:19.725Z",
+            "unitId": "1183",
+            "fullName": "May",
+            "slug": "may",
+            "shortName": "May",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#e89848",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b43361033784f947b0aca5c7bc2b5195/acb7c/emp-1183.png",
+                        "srcSet": "/static/b43361033784f947b0aca5c7bc2b5195/1c9ce/emp-1183.png 64w,\n/static/b43361033784f947b0aca5c7bc2b5195/bf8e1/emp-1183.png 128w,\n/static/b43361033784f947b0aca5c7bc2b5195/acb7c/emp-1183.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b43361033784f947b0aca5c7bc2b5195/8257c/emp-1183.webp 64w,\n/static/b43361033784f947b0aca5c7bc2b5195/6766a/emp-1183.webp 128w,\n/static/b43361033784f947b0aca5c7bc2b5195/22bfc/emp-1183.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Jellyfish Pirates",
+            "seaReleaseDate": "June 5th, 2024",
+            "krReleaseDate": "June 22nd, 2021",
+            "globalReleaseDate": "June 5th, 2024",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "CC",
+              "Dispeller"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"May is a PVP-oriented frontline tank that trades survivability for utility. Of note, May differs from traditional frontline tanks in that she has seemingly arbitrarily assigned [Supporter][Soldier] tags.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, May struggles to generate value from her kit. While she comes with a lot of utility, none of it is particularly relevant in a PVE environment. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, May doesn’t see much play. In isolation, May’s Special skill is very strong, providing a litany of utility, but isn’t enough to distinguish her from her peers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"[Supporter][Soldier] typing avoids all the major Anti-X DMG% substats used in PVP, giving May much needed survivability \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Special skill loaded with good utility \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Abysmal evasion means she’s getting surefire by almost all damage dealers in the game, and cannot be fixed with evasion accessories\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Power budget almost entirely concentrated in the Special skill and its lingering effects\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Squishy in spite of favorable [Supporter][Soldier] typing\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A defensive supporter that takes the punishment for surrounding allies"
+            },
+            "introduction": {
+              "introduction": "  May is a Supporter that maximizes surrounding allies' survivability through her decent HP and supportive abilities.\n\n  A war orphan and Jellyfish Pirate. Her small, dainty appearances belie her superhuman strength, which enables her to swing an anchor as if it weighs nothing. She can also summon sea creatures. \n  Believing in taking action first and thinking later, she often drags the other Jellyfish Pirates along with her impulsive behavior.\n  In Guilty Gear -Strive-, after which the simulation software was modeled, she appears more mature than she was in previous titles, surprising her fans."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank or CDR Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank or CDR Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1183_1",
+                "name": "Basic Attack/Arisugawa Sparkle",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Delivers chain attacks to nearby targets and summons Mr. Dolphin to attack distant ones, inflicting damage on and around them."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1183_2",
+                "name": "Faultless Defense",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When Hitstunned, for up to 8 seconds, she increases DMG RDC for herself and nearby allies by 40%, makes herself immune to all Hitsun, and grants allies CRIT DMG REG +35% and Stun Immunity. This effect will not reactivate for 15 seconds. Skills are sealed while maintaining this stance. Additionally, increases ATK and Skill Haste by 3% for every Guilty Gear unit on the battlefield in PVE."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Increases ATK up to 100% for 8s based on defense stance duration"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1183_3",
+                "name": "Mr. Dolphin",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Charges forward or upward, inflicting AoE damage. Upon landing, stuns nearby targets for 3 seconds (6 seconds for units with 3 or lower cost). Passive Skill becomes available after skill."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Nullifies 1 random non-Permanent buff from the hit targets and seals their skills for 6s. (Bosses excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1183_4",
+                "name": "Great Yamada Attack",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 43,
+                "baseDescription": {
+                  "baseDescription": "Summons Great Yamada, inflicting AoE damage on enemies in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Resets Special skill cooldown after skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 21.44,
+                "critical": 1.74,
+                "def": 3.55,
+                "evade": 0.68,
+                "hit": 1.66,
+                "hp": 319
+              },
+              "base": {
+                "hp": 2537,
+                "atk": 210,
+                "def": 248,
+                "hit": 116,
+                "critical": 121,
+                "evade": 47
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "aac089bb-8e24-5275-a976-db30b6e18e4d"
+    }
+  },
+  "staticQueryHashes": []
+}

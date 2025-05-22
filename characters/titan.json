@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/titan",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "13a05d65-cd26-5d54-93fc-a15db63141ff",
+            "updatedAt": "2024-05-21T11:17:18.157Z",
+            "createdAt": "2021-10-21T11:46:09.366Z",
+            "unitId": "1040",
+            "fullName": "Titan",
+            "slug": "titan",
+            "shortName": "Titan",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6f7ee8056bbf4ba626e187bf4ae8ba77/acb7c/emp-1040.png",
+                        "srcSet": "/static/6f7ee8056bbf4ba626e187bf4ae8ba77/1c9ce/emp-1040.png 64w,\n/static/6f7ee8056bbf4ba626e187bf4ae8ba77/bf8e1/emp-1040.png 128w,\n/static/6f7ee8056bbf4ba626e187bf4ae8ba77/acb7c/emp-1040.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6f7ee8056bbf4ba626e187bf4ae8ba77/8257c/emp-1040.webp 64w,\n/static/6f7ee8056bbf4ba626e187bf4ae8ba77/6766a/emp-1040.webp 128w,\n/static/6f7ee8056bbf4ba626e187bf4ae8ba77/22bfc/emp-1040.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Future-at-War",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 6,
+            "type": [
+              "Mech"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Battery",
+              "CC",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Titan is a Mech that gets tankier everytime units (both allies and enemies) die. His cost is on par with Awakened Employees, but sadly the performance is not there anymore. While Titan-teams were pretty common in PVP in the early days of Counter Side, now he's rarely used. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, in Global version, Titan teams with Counter support are likely to be very strong and even oppressive in the early days of PVP there, so Titan is worth investing in and leveling for that purpose alone.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Titan can be used, but his high cost, low DPS to cost ratio, and his skills based around things dying does not make him the best option in any scenario at all. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- pretty tanky,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great AOE damage potential.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- super high cost,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- powercrept by Evolved-1 in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A high-cost, high-efficiency Mech with powerful anti-ground AoE suppression capability."
+            },
+            "introduction": {
+              "introduction": "　Titan is an annihilator developed from the Future-at-War Project. It is a giant mech unit that possesses incredible capabilities to match its cost.\n\n　It was developed to counter Category 3 C.O. by itself, but the project was canceled after the budget was reallocated in accordance to the success of the North Pole operation.　But there are still multiple active units in the military and the defense industry.\n　Originally, your company was unable to operate these units due to their high price and maintenance cost. But some of the Titans, equipped with autonomous AIs, refused to follow their orders, which allowed your company to obtain them with relative ease."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1040_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 3,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Periodically inflicts damage on and around the target in front. The attack stops if 14 seconds pass, if the target dies, or if the target moves 1000 reach away from the caster."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1040_2",
+                "name": "Strong AI",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Its self-thinking AI combines all information available in the field. Every time an ally or enemy unit dies, permanently increases DMG RES for the employee type by 3% (up to 30%)."
+                },
+                "level2": {
+                  "level2": "Skill Haste +5%"
+                },
+                "level3": {
+                  "level3": "Skill Haste +5%"
+                },
+                "level4": {
+                  "level4": "Skill Haste +10%"
+                },
+                "level5": {
+                  "level5": "Deployment Resources +1 when deployed. When deployed, additionally improves this DMG RES buff based on the employee types and numbers of all units in the field."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1040_3",
+                "name": "War Ender: Phalanx Waves",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 30,
+                "baseDescription": {
+                  "baseDescription": "Fires missiles, inflicting AoE damage on and around the target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1040_4",
+                "name": "Posture Stability Controller",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Increases its responsiveness to external impact. Permanently grants immunity to Hitstun from Special or lower skills."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "Permanent immunity to Hitstun from Ultimate or lower skills"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 40.21,
+                "critical": 1.49,
+                "def": 3.55,
+                "evade": 1.58,
+                "hit": 5.47,
+                "hp": 455
+              },
+              "base": {
+                "hp": 3617,
+                "atk": 394,
+                "def": 248,
+                "hit": 382,
+                "critical": 104,
+                "evade": 110
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "13a05d65-cd26-5d54-93fc-a15db63141ff"
+    }
+  },
+  "staticQueryHashes": []
+}

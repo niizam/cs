@@ -1,0 +1,343 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/nest-keeper-xiao-lin",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a0e95d0c-adb4-5180-b43d-490895228b95",
+            "updatedAt": "2024-02-18T08:42:34.155Z",
+            "createdAt": "2021-11-16T10:33:10.446Z",
+            "unitId": "3006",
+            "fullName": "Nest Keeper Xiao Lin",
+            "slug": "nest-keeper-xiao-lin",
+            "shortName": "Nest Keeper Xiao Lin",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/7972c7fc4e1bdac3c20ee549b76cb477/acb7c/emp-3006.png",
+                        "srcSet": "/static/7972c7fc4e1bdac3c20ee549b76cb477/1c9ce/emp-3006.png 64w,\n/static/7972c7fc4e1bdac3c20ee549b76cb477/bf8e1/emp-3006.png 128w,\n/static/7972c7fc4e1bdac3c20ee549b76cb477/acb7c/emp-3006.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/7972c7fc4e1bdac3c20ee549b76cb477/8257c/emp-3006.webp 64w,\n/static/7972c7fc4e1bdac3c20ee549b76cb477/6766a/emp-3006.webp 128w,\n/static/7972c7fc4e1bdac3c20ee549b76cb477/22bfc/emp-3006.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Nest Keeper",
+            "seaReleaseDate": "March 2nd, 2022",
+            "krReleaseDate": "November 2nd, 2021",
+            "globalReleaseDate": "February 8th, 2023",
+            "cost": 5,
+            "type": [
+              "Counter"
+            ],
+            "role": "Tower",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Barrier",
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Nest Keeper Xiao Lin is one of two available Rearms, which changes her class into a Tower. \\nOut of the two, while Kestrel is more of a PVE-oriented character, Nest Keeper focuses more on the PVP side of things. Like all other versions, she is able to output massive DPS, due to the rearm turning her into a two-in-one character with an invulnerable air drone that will follow up all of her attacks. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Being a Tower, she promotes a camping playstyle in PVP which alone already gives her a massive advantage. Still, after being one of the most hated characters in PVP for almost a year, and several attempts to reduce her capabilities (from releasing tower counters, to reducing safe zone), they directly nerfed her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"From the changes, her drone basic attack DPS was reduced by 55%, and her range was reduced by 100. This severely reduced her damage output as most of her DPS was from the drone. Also, her defensive capabilities were reworked to open her up for more counterplay. Her barrier was increased from 20% to 55% but her HP was reduced by 35%. These changes allow her A. Na Yubin to delete half of her HP from reflux and allow assassins to one-shot her after releasing her barrier.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While she is still usable, she needs much more time to make up for her high cost. If left alone, she is still able to output a lot of damage to tanks, and with the ultimate, she is able to protect her own base by inflicting massive knockback with a high valid hit.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- great damage due to ignoring most resistance from gear.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- high cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "An offensive supporter that delivers AoE attacks to a broad area from a fixed location"
+            },
+            "introduction": {
+              "introduction": "The researchers have decided that Xiao Lin is the right person to help them test-drive Falcon Nest, a drone carrier in the technical verification stage. This drone carrier designed for base protection purposes uses swift small drones to clear enemies in the rear. The researchers expect Xiao Lin and Falcon Nest to show remarkable performance in taking the upper hand in battle together."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": "EE is BIS. Prefers ATK set instead of ASPD."
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": "EE is BIS. Prefers ATK set instead of ASPD."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "3006_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Precisely snipes at a target, and then sends a Falcon after it, additionally inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "3006_2",
+                "name": "Falcon Nest",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Enters battle with the self-regulated combat support drone, Falcon Nest. Falcon Nest generates a barrier around Xiao Lin by 55% of Max HP when deployed."
+                },
+                "level2": {
+                  "level2": "HIT +5%"
+                },
+                "level3": {
+                  "level3": "HIT +5%"
+                },
+                "level4": {
+                  "level4": "HIT +10%"
+                },
+                "level5": {
+                  "level5": "ATK +15% for barrier duration"
+                },
+                "level6": {
+                  "level6": "HIT +5%"
+                },
+                "level7": {
+                  "level7": "HIT +5%"
+                },
+                "level8": {
+                  "level8": "HIT +5%"
+                },
+                "level9": {
+                  "level9": "HIT +10%"
+                },
+                "level10": {
+                  "level10": "Skill Haste +50% for 10s if barrier is destroyed. Not applicable if barrier is canceled."
+                }
+              },
+              {
+                "skillId": "3006_3",
+                "name": "Falcon Flock",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Fires all the Falcons, inflicting AoE damage on and around the target. The targets lose 15% of SPD for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Target ATK -15% for 8 s"
+                }
+              },
+              {
+                "skillId": "3006_4",
+                "name": "Door Knocker FN Burst",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Receives fire support from the Falcon Nest and inflicts AoE damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Valid Hits +1"
+                }
+              },
+              {
+                "skillId": "3006_5",
+                "name": "Broad Analysis System",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Assesses the battle situation and supports its commander. Decreases EVA by 15% for all enemy units on the battlefield for 20 seconds upon deployment"
+                },
+                "level2": {
+                  "level2": "DMG RES +4%"
+                },
+                "level3": {
+                  "level3": "Enemy unit EVA -20%"
+                },
+                "level4": {
+                  "level4": "DMG RES +4%"
+                },
+                "level5": {
+                  "level5": "Enemy unit EVA -20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 43.38,
+                "critical": 2.81,
+                "def": 4.8,
+                "evade": 0,
+                "hit": 5.42,
+                "hp": 217
+              },
+              "base": {
+                "hp": 1722,
+                "atk": 425,
+                "def": 335,
+                "hit": 379,
+                "critical": 196,
+                "evade": 0
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1006",
+              "slug": "xiao-lin",
+              "shortName": "Xiao Lin",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/aa6db1d7516e17e428242d9fc9aac00d/acb7c/emp-1006.png",
+                          "srcSet": "/static/aa6db1d7516e17e428242d9fc9aac00d/1c9ce/emp-1006.png 64w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/bf8e1/emp-1006.png 128w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/acb7c/emp-1006.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/aa6db1d7516e17e428242d9fc9aac00d/8257c/emp-1006.webp 64w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/6766a/emp-1006.webp 128w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/22bfc/emp-1006.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a0e95d0c-adb4-5180-b43d-490895228b95"
+    }
+  },
+  "staticQueryHashes": []
+}

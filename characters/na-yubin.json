@@ -1,0 +1,249 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/na-yubin",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "1b081ca2-c287-5ffe-a8f0-349d6cb36849",
+            "updatedAt": "2024-10-18T22:53:48.095Z",
+            "createdAt": "2021-10-21T12:15:33.974Z",
+            "unitId": "1064",
+            "fullName": "Na Yubin",
+            "slug": "na-yubin",
+            "shortName": "Na Yubin",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/7982e3f733a7fab00f8c7956e7c38805/acb7c/emp-1064.png",
+                        "srcSet": "/static/7982e3f733a7fab00f8c7956e7c38805/1c9ce/emp-1064.png 64w,\n/static/7982e3f733a7fab00f8c7956e7c38805/bf8e1/emp-1064.png 128w,\n/static/7982e3f733a7fab00f8c7956e7c38805/acb7c/emp-1064.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/7982e3f733a7fab00f8c7956e7c38805/8257c/emp-1064.webp 64w,\n/static/7982e3f733a7fab00f8c7956e7c38805/6766a/emp-1064.webp 128w,\n/static/7982e3f733a7fab00f8c7956e7c38805/22bfc/emp-1064.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Fenrir Division",
+            "seaReleaseDate": "February 16th, 2022",
+            "krReleaseDate": "March 19th, 2020",
+            "globalReleaseDate": "May 27th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "Pulse Blaster Type A",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Fusion Ray Burster",
+              "description": "Nullifies barrier for 12s to enemies hit by Special Skill."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Na Yubin is a PVP-oriented buffer/ backline damage dealer hybrid played for his synergy with strikers. He is most known for the teamwide striker buffs on his passive. In many ways, he functions more like a supporter than a traditional ranger.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Na Yubin's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" adds a barrier nullification effect to his Special Skill—a rare, situationally useful debuff—but disconnected from the rest of his kit. Na Yubin’s reactor doesn’t address his long-standing issues nor do they lean into his strengths. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Na Yubin sparingly (read: once in a blue moon) sees play in striker rush comps. As his buff isn’t actually that good, and his damage is non-existent, his actual contribution to the team is so low that there is generally always a more impactful alternative to occupy the team slot. Importantly, Na Yubin doesn’t actually enable anything; at the slightest obstacle, he is generally the first to go from the team, should he be included at all. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Buffs strikers\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Rare source of barrier nullification debuff\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Doesn't provide enough to justify using.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Enhances all Strikers and uses AoE attacks."
+            },
+            "introduction": {
+              "introduction": "　(This text was restored by Class 1 Administrator.)\n　Na Yubin is an attacker who is responsible for rear fire support for Fenrir Division. He usually carries out control missions, but he launches powerful area attacks in battle to turn the tide.\n\n　He is one of the few agents who can assess a situation from a wide perspective. Because he always moves with the post-combat situation in mind, he often gets scolded by other division members for letting his mind wander.\n　Although Na Yubin has been offered a commander training course by several units he worked with, he keeps refusing the offer for the reason that he still has a lot to learn from Fenrir Division. In response to this, the commander commented that he should first deviate from textbook methodology. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1064_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires laser beams, inflicting AoE damage on enemies in front. Also, detonates where his target stands, causing additional AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1064_2",
+                "name": "Leader Quality",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Commands the allies on the front lines. Increases all Strikers' DMG RES by 5%."
+                },
+                "level2": {
+                  "level2": "All Strikers' DMG RES +3%"
+                },
+                "level3": {
+                  "level3": "All Strikers' DMG RES +3%"
+                },
+                "level4": {
+                  "level4": "All Strikers' DMG RES +4%"
+                },
+                "level5": {
+                  "level5": "Passive buff also increases all Strikers' ATK by 15%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1064_3",
+                "name": "Fusion Ray Burster",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Generates several laser beams in front of him, and then causes small-scale explosions to inflict AoE damage. The targets lose 10% of ATK for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Debuff also decreases enemy's ASPD by 20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1064_4",
+                "name": "Pulse Blaster",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Uses all his abilities and his weapon's power to inflict AoE damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 38.74,
+                "critical": 3.65,
+                "def": 1.6,
+                "evade": 1.52,
+                "hit": 5.07,
+                "hp": 245
+              },
+              "base": {
+                "hp": 1984,
+                "atk": 387,
+                "def": 121,
+                "hit": 384,
+                "critical": 276,
+                "evade": 115
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "1b081ca2-c287-5ffe-a8f0-349d6cb36849"
+    }
+  },
+  "staticQueryHashes": []
+}

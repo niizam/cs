@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/maya-hunt",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "bb00b9cf-03c6-52d1-959c-908d12162550",
+            "updatedAt": "2024-10-17T21:26:15.206Z",
+            "createdAt": "2021-10-22T00:01:08.151Z",
+            "unitId": "1127",
+            "fullName": "Maya Hunt",
+            "slug": "maya-hunt",
+            "shortName": "Maya Hunt",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2ccd17f2000c8a796565e6ee250f7736/acb7c/emp-1127.png",
+                        "srcSet": "/static/2ccd17f2000c8a796565e6ee250f7736/1c9ce/emp-1127.png 64w,\n/static/2ccd17f2000c8a796565e6ee250f7736/bf8e1/emp-1127.png 128w,\n/static/2ccd17f2000c8a796565e6ee250f7736/acb7c/emp-1127.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2ccd17f2000c8a796565e6ee250f7736/8257c/emp-1127.webp 64w,\n/static/2ccd17f2000c8a796565e6ee250f7736/6766a/emp-1127.webp 128w,\n/static/2ccd17f2000c8a796565e6ee250f7736/22bfc/emp-1127.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "N",
+            "rarityNumber": 1,
+            "rarityClassName": "N",
+            "title": "Frontier",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As a low rarity unit, Maya Hunt does not have the stats necessary to meet the baseline requirements expected of her as a damage dealer.\\n\\nMaya Hunt does not possess relevant utility that would justify using her. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "4",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Uses high-firepower AoE attacks from a distance."
+            },
+            "introduction": {
+              "introduction": "　Anti-tank firearms and snipers don't go well together, but Maya Hunt is an exception.\n\n　She acquired a Watch due to her desire to create more awesome explosions.　The size, decibel, and color of the explosion greatly affect her condition. This explosive maniac suddenly appeared at the Refuge District and attacked the gangsters.　Other gang members who tried to take revenge succumbed to her overwhelming firepower. Residents cheered at first, but later suffered from noise.\n　Fortunately, she was scouted by the Frontier where she didn't have to resist her impulse.　In the Corrupted Areas, no one ever complains about explosions.　"
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1127_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rocket grenade, inflicting AoE damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1127_2",
+                "name": "Reinforce Firepower",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Adds CRF to her weapon to make it more destructive than other commercial weapons. Increases ATK by 3%."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Basic attack Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1127_3",
+                "name": "Air Explosion",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Fires a rocket grenade upward and lets it explodes in the air, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1127_4",
+                "name": "Super Explosion Warhead",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Fires a high-powered rocket grenade, inflicting AoE damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 26.93,
+                "critical": 1.83,
+                "def": 1.05,
+                "evade": 0.78,
+                "hit": 3.15,
+                "hp": 105
+              },
+              "base": {
+                "hp": 851,
+                "atk": 269,
+                "def": 79,
+                "hit": 238,
+                "critical": 138,
+                "evade": 59
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "bb00b9cf-03c6-52d1-959c-908d12162550"
+    }
+  },
+  "staticQueryHashes": []
+}

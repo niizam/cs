@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lulu",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b6411026-dede-58f5-98b8-668bd281869d",
+            "updatedAt": "2025-05-01T07:55:38.158Z",
+            "createdAt": "2022-06-30T08:47:29.171Z",
+            "unitId": "1220",
+            "fullName": "Lulu",
+            "slug": "lulu",
+            "shortName": "Lulu",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8e8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/8beb7b031ddff58802c5741cccdc7832/acb7c/emp-1220.png",
+                        "srcSet": "/static/8beb7b031ddff58802c5741cccdc7832/1c9ce/emp-1220.png 64w,\n/static/8beb7b031ddff58802c5741cccdc7832/bf8e1/emp-1220.png 128w,\n/static/8beb7b031ddff58802c5741cccdc7832/acb7c/emp-1220.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/8beb7b031ddff58802c5741cccdc7832/8257c/emp-1220.webp 64w,\n/static/8beb7b031ddff58802c5741cccdc7832/6766a/emp-1220.webp 128w,\n/static/8beb7b031ddff58802c5741cccdc7832/22bfc/emp-1220.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "The Nightmare",
+            "seaReleaseDate": "November 23rd, 2022",
+            "krReleaseDate": "June 21st, 2022",
+            "globalReleaseDate": "May 3rd, 2023",
+            "cost": 2,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": {
+              "name": "Dreamcatcher",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Mightmare Retrieval",
+              "description": "When Lulu falls asleep, inflicts all enemies on the battlefield with Seal Skill and HP loss per sec 3% debuff for 5 seconds (Bosses excluded). If the effect is activated within 5 seconds of deployment, the debuff duration is doubled."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Debuffer",
+              "CC",
+              "Dispeller"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lulu is a PVP-oriented backline anti-sleep utility support. Lulu is defined by her punishing anti-sleep debuffs accessible through her Alternium Reactor. Conversely, this means Lulu’s base kit is largely unimpressive. Worth mentioning, Lulu’s Special skill applies multiple instances of buff removal, making it one of the more consistent ways to remove specific effects from targets with multiple removable buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lulu’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" focuses on her anti-sleep utility, applying mapwide skill seal and HP% degen to the enemy team whenever she gets hit by sleep effect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Lulu is extremely powerful as a counterpick unit into sleep at the expense of being completely useless in any other situation. Her oppressive debuffs act as a check against sleep units (i.e. Lily) and helps rein them in when sleep becomes an overbearing presence in the week’s meta.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Strong anti-sleep tech. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Requires Alternium Reactor. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Generally speaking, in situations when Gremory is played, it can be hard to immediately respond with Lulu. That is to say, Lulu only really works against Lily. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"-  Doesn’t do anything against teams not running sleep. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Supporter who grants defense buffs to allies and inflicts Sleep debuff to enemies."
+            },
+            "introduction": {
+              "introduction": "루루 나이트메어는 적의 버프를 해제하고, 다수의 유닛에게 수면을 거는 서포터입니다.\n악몽 속에서 떨고 있는 꿈의 주인을 구해주는 건 다름 아닌 한 소녀입니다. 루루는 매일 밤 사람들이 꾸는 악몽 속으로 들어가 악몽을 거둬 갑니다.\n본래 악몽 그 자체인 그녀는 악몽의 힘을 강하게 만드는 대신 직접 거두며 사람들이 편안히 자도록 돕습니다. 그것이 호의가 아닌 참회라고 믿으면서요. 오랜 기간 홀로 떠돈 덕분에 세상 물정 모르는 순진한 면모를 보이면서도, 마음 넓고 인자하게 주변 사람들을 챙겨주곤 합니다.\n한편, 많은 인간을 희생시켰던 한 존재가 다시 깨어남과 동시에 정신을 잃었던 일은 그녀의 존재에 의문을 품게 만듭니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Defensive CDR",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Defensive CDR",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1220_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks the closet enemy with a nightmare."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1220_2",
+                "name": "Nightmare Retrieval",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Increases DEF of all allies by 15% for 6 seconds every 15 seconds. If Lulu is inflicted with Sleep, she grants herself Sleep Immunity for 10 seconds and immediately casts her buff that will double the DEF value."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Buff duration to allies +4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1220_3",
+                "name": "Paranoia",
+                "type": "Special",
+                "validHits": 1,
+                "cooldown": 21,
+                "baseDescription": {
+                  "baseDescription": "Deals damage to an enemy in front, and removes a random buff from the damaged enemy. Removes 2 random buffs if the enemy's HP is below 20%."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Removes 3 buffs if the enemy's HP is below 20% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1220_4",
+                "name": "Nightmare Syndrome",
+                "type": "Ultimate",
+                "validHits": null,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Inflicts Sleep to all enemies for 5 seconds (excluding Bosses and Mechs). In Gauntlet mode, inflicts Sleep for 3 seconds to all units costing 3 and lower, and 5 seconds to all units costing 4 and above (excluding Bosses, Mechs, and self). Sleeping allies recover 3% of their HP per second, and enemies have their DEF decreased by 5%."
+                },
+                "level2": {
+                  "level2": "Sleeping enemy DEF reduction +3%"
+                },
+                "level3": {
+                  "level3": "Sleeping enemy DEF reduction +3%"
+                },
+                "level4": {
+                  "level4": "Sleeping enemy DEF reduction +4%"
+                },
+                "level5": {
+                  "level5": "Enemy sleep duration +2 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.09,
+                "critical": 1.71,
+                "def": 2.22,
+                "evade": 2.14,
+                "hit": 2.02,
+                "hp": 222
+              },
+              "base": {
+                "hp": 1767,
+                "atk": 187,
+                "def": 155,
+                "hit": 141,
+                "critical": 119,
+                "evade": 149
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b6411026-dede-58f5-98b8-668bd281869d"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,210 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/recoiless-gunner",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "43b1548d-4820-50c1-bbc3-16152529080a",
+            "updatedAt": "2024-10-17T21:29:49.220Z",
+            "createdAt": "2021-10-21T11:21:45.376Z",
+            "unitId": "1021",
+            "fullName": "Recoiless Gunner",
+            "slug": "recoiless-gunner",
+            "shortName": "Recoiless Gunner",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/871aa3b1a0ce7f464c3deaf85daa0972/acb7c/emp-1021.png",
+                        "srcSet": "/static/871aa3b1a0ce7f464c3deaf85daa0972/1c9ce/emp-1021.png 64w,\n/static/871aa3b1a0ce7f464c3deaf85daa0972/bf8e1/emp-1021.png 128w,\n/static/871aa3b1a0ce7f464c3deaf85daa0972/acb7c/emp-1021.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/871aa3b1a0ce7f464c3deaf85daa0972/8257c/emp-1021.webp 64w,\n/static/871aa3b1a0ce7f464c3deaf85daa0972/6766a/emp-1021.webp 128w,\n/static/871aa3b1a0ce7f464c3deaf85daa0972/22bfc/emp-1021.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Fennec Fox",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a low rarity unit, Recoiless Gunner does not have the stats necessary to meet the baseline requirements expected of them as a damage dealer.\\n\\nRecoiless Gunner does not possess relevant utility that would justify using them. There are no trade-offs within the kit that would compensate for the stat deficiency.\\n\\nFor all scenarios, there exist more effective alternatives for the role. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": null,
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "5",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A special anti-ground Ranged AoE attacker"
+            },
+            "introduction": {
+              "introduction": "　A ranged attacker who can efficiently take down armored ground units.\n\n　They are specialized units with expertise in anti-tank rockets. Their targets include armored vehicles, tanks, and Corrupted Objects with thick shells.\n　They are the most sacrificed units in battle, but the veterans always return miraculously from whatever danger they encounter.\n　Since they are often exposed to enemy fire, they are more superstitious than other soldiers. This explains why they never even dare to touch candy drops."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1021_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires anti-tank rockets, inflicting damage on and around the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1021_2",
+                "name": "RPG-81 Cactus",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attacks the weaknesses of armored enemy forces. Inflicts 50% more damage on Mechs."
+                },
+                "level2": {
+                  "level2": "DMG to Mech +10%"
+                },
+                "level3": {
+                  "level3": "DMG to Mech +10%"
+                },
+                "level4": {
+                  "level4": "DMG to Mech +30%"
+                },
+                "level5": {
+                  "level5": "ASPD +10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1021_3",
+                "name": "Small High Explosive",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Effectively intercepts targets from moving forward. Inflicts 20% more damage on Siege units."
+                },
+                "level2": {
+                  "level2": "DMG to Siege +5%"
+                },
+                "level3": {
+                  "level3": "DMG to Siege +5%"
+                },
+                "level4": {
+                  "level4": "DMG to Siege +10%"
+                },
+                "level5": {
+                  "level5": "ASPD +10%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 23.78,
+                "critical": 3.59,
+                "def": 1.03,
+                "evade": 0.68,
+                "hit": 1.64,
+                "hp": 127
+              },
+              "base": {
+                "hp": 1009,
+                "atk": 233,
+                "def": 72,
+                "hit": 114,
+                "critical": 251,
+                "evade": 47
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "43b1548d-4820-50c1-bbc3-16152529080a"
+    }
+  },
+  "staticQueryHashes": []
+}

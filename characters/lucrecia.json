@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lucrecia",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b11830d4-c0ee-5e59-b570-e1031eed6237",
+            "updatedAt": "2024-11-07T21:47:15.323Z",
+            "createdAt": "2021-11-07T11:10:06.729Z",
+            "unitId": "1195",
+            "fullName": "Lucrecia",
+            "slug": "lucrecia",
+            "shortName": "Lucrecia",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/aca9aa63492a145f200fc92acc33a6c4/acb7c/emp-1195.png",
+                        "srcSet": "/static/aca9aa63492a145f200fc92acc33a6c4/1c9ce/emp-1195.png 64w,\n/static/aca9aa63492a145f200fc92acc33a6c4/bf8e1/emp-1195.png 128w,\n/static/aca9aa63492a145f200fc92acc33a6c4/acb7c/emp-1195.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/aca9aa63492a145f200fc92acc33a6c4/8257c/emp-1195.webp 64w,\n/static/aca9aa63492a145f200fc92acc33a6c4/6766a/emp-1195.webp 128w,\n/static/aca9aa63492a145f200fc92acc33a6c4/22bfc/emp-1195.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Knights of Redemption",
+            "seaReleaseDate": "April 27th, 2022",
+            "krReleaseDate": "September 14th, 2021",
+            "globalReleaseDate": "December 8th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "ETB",
+              "Buffer",
+              "Debuffer",
+              "Immortality"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lucrecia is an Air Ranger who keeps her allies alive and debuffs enemies at the same time. Her kit is great for PVE, but in PVP there are quite a lot of characters that can remove buffs - like Yen Xing or Serina operator.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE she allows you to cheese some stages with the Immortality buff, but it requires manual gameplay to deploy her at the right moment. Still, even if you use her on auto, the debuffs she provides are really good.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As for PVP. She's squishy, but being an air unit she can stay in the back safely. The immortality buff she gives can change the flow of the battle and for a 3 cost unit, she deals scary amounts of damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- immortality buff!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- provides so much for only 3 cost, which makes her an auto-pick in a lot PVP/PVE teams,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- being an air unit she is safer in the sky.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- not auto-gameplay friendly if you want to cheese some content using her immortality,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- immortality doesn't work on Mechs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "10",
+              "pve_early": "6",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A magical Ranged Air unit that makes allies unkillable with its Deployment Passive skill, and then debuffs and attacks enemies from the rear"
+            },
+            "introduction": {
+              "introduction": "  Lucrecia is an Air Ranger who can make her allies immortal with her blessings while releasing unholy energy at her enemies.\n\n  A vital member of the Knights of Redemption, she fervently follows the figure named the Savior. She's often referred to as the Saintess because of the power she wields, known as the Blessings.\n\n  But her concept of blessings and mercy is alarmingly different from their conventional meanings. There's only one form of redemption she wants, and all the sacrifices that may be created during the process of achieving this redemption are what she thinks of as blessings and mercy. She dreams of dangerous things and has the power to realize them. Interaction with her can be a bit too risky."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1195_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Burns enemies with holy flames."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1195_2",
+                "name": "Promise of Revival",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Prays to a false god when deployed, casting the Immortality buff and immunity to Hitstun from Special or lower skills on the 3 foremost allies for 5 seconds. (Mechs excluded) The buff safeguards against reset."
+                },
+                "level2": {
+                  "level2": "ASPD +3%"
+                },
+                "level3": {
+                  "level3": "ASPD +3%"
+                },
+                "level4": {
+                  "level4": "ASPD +6%"
+                },
+                "level5": {
+                  "level5": "HP +10% for Immortality buff targets upon buff expiration"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1195_3",
+                "name": "Heaven's Wrath",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Drops holy rays onto enemies, knocking them backward with damage. The enemies lose 25% of DEF for 7 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1195_4",
+                "name": "Kingdom Come",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 54,
+                "baseDescription": {
+                  "baseDescription": "Opens up a path to a world of indeterminate forms, attacking all enemies and decreasing their ASPD by 100% for 5 seconds. (Boss excluded) This duration is halved for Mechs."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Changes Ultimate Skill attacks to Sure Fire."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 30.52,
+                "critical": 2.74,
+                "def": 0.98,
+                "evade": 2.19,
+                "hit": 3.07,
+                "hp": 183
+              },
+              "base": {
+                "hp": 1450,
+                "atk": 299,
+                "def": 68,
+                "hit": 214,
+                "critical": 191,
+                "evade": 153
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b11830d4-c0ee-5e59-b570-e1031eed6237"
+    }
+  },
+  "staticQueryHashes": []
+}

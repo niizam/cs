@@ -1,0 +1,231 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/nibble",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "e16044c5-9e7d-5d6f-b3be-374cfa8548e3",
+            "updatedAt": "2025-05-01T13:38:14.973Z",
+            "createdAt": "2025-02-26T15:35:23.656Z",
+            "unitId": "1287",
+            "fullName": "Nibble",
+            "slug": "nibble",
+            "shortName": "Nibble",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#c8c8c8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/1efb342b7174c3dc0bdd62240b47e810/22bfc/1287_sm.webp",
+                        "srcSet": "/static/1efb342b7174c3dc0bdd62240b47e810/8257c/1287_sm.webp 64w,\n/static/1efb342b7174c3dc0bdd62240b47e810/6766a/1287_sm.webp 128w,\n/static/1efb342b7174c3dc0bdd62240b47e810/22bfc/1287_sm.webp 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": []
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Unknown",
+            "seaReleaseDate": "February 26th, 2025",
+            "krReleaseDate": "February 26th, 2025",
+            "globalReleaseDate": "February 26th, 2025",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": false,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": null,
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Nibble is a backline anti-defender damage dealer. She has unique targeting priority against defenders but does mediocre damage for the cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PvE, her Ultimate Skill’s up to 40% DEF reduction against counters offers limited utility, though its short duration and low uptime significantly diminish its practical value.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PvP, Nibble fits among similar underwhelming Ranger options that only see usage on UP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cute \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Targeting priority against Defenders.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mediocre damage output.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "1",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": null,
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Auto Attack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Auto Attack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1287_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a thorn from her tail and deals damage to a single target in front."
+                },
+                "level2": {
+                  "level2": "Basic attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1287_2",
+                "name": "Harvest Instinct",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Loses control over her impulsive aggression due to an intense thirst for CRF. Increases Anti-Counter/Defender DMG by 30% and prioritizes attacking Defender units within range.\n"
+                },
+                "level2": {
+                  "level2": "Anti-Counter/Defender DMG +5%"
+                },
+                "level3": {
+                  "level3": "Anti-Counter/Defender DMG +5%"
+                },
+                "level4": {
+                  "level4": "Anti-Counter/Defender DMG +10%"
+                },
+                "level5": {
+                  "level5": "Increases ASPD by 60% for 12 seconds after deployment. Effect gradually decays by 1/3 of the maximum every 4 seconds, then disappears,"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1287_3",
+                "name": "Dark Thirst",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Fires a thorn that track enemies, inflicting AoE damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Fury Count -4"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1287_4",
+                "name": "Massacre",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 36,
+                "baseDescription": {
+                  "baseDescription": "Summons a tail that pierces the ground in front, continuously pulling in enemies and inflicting AoE damage. Decreases hit enemies' SPD and DEF by 20% for 8 seconds (x2 effect on Counters) and grants ATK +30% to self."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Activates Lv. 5 Passive Skill effect after casting Ultimate Skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.58,
+                "critical": 2.45,
+                "def": 1.31,
+                "evade": 2.92,
+                "hit": 4.35,
+                "hp": 240
+              },
+              "base": {
+                "hp": 1907,
+                "atk": 280,
+                "def": 91,
+                "hit": 304,
+                "critical": 171,
+                "evade": 204
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "e16044c5-9e7d-5d6f-b3be-374cfa8548e3"
+    }
+  },
+  "staticQueryHashes": []
+}

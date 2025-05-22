@@ -1,0 +1,242 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/griffin-rider-chris",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b9cae73c-7b52-558c-bf8c-ca19a92ccf5c",
+            "updatedAt": "2025-01-28T07:09:23.230Z",
+            "createdAt": "2023-07-28T09:25:01.846Z",
+            "unitId": "1253",
+            "fullName": "Griffin Rider Chris",
+            "slug": "griffin-rider-chris",
+            "shortName": "Griffin Rider Chris",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#786868",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/876fb88703dd0a2b85278af86c7b5ae3/acb7c/1253.png",
+                        "srcSet": "/static/876fb88703dd0a2b85278af86c7b5ae3/1c9ce/1253.png 64w,\n/static/876fb88703dd0a2b85278af86c7b5ae3/bf8e1/1253.png 128w,\n/static/876fb88703dd0a2b85278af86c7b5ae3/acb7c/1253.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/876fb88703dd0a2b85278af86c7b5ae3/8257c/1253.webp 64w,\n/static/876fb88703dd0a2b85278af86c7b5ae3/6766a/1253.webp 128w,\n/static/876fb88703dd0a2b85278af86c7b5ae3/22bfc/1253.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Griffin Rider",
+            "seaReleaseDate": "December 12th, 2023",
+            "krReleaseDate": "July 26th, 2023",
+            "globalReleaseDate": "February 14th, 2024",
+            "cost": 7,
+            "type": [
+              "Counter",
+              "Mech"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Air",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Chris (AChris) a seven-cost flying supporter notable for her personal damage and global DMG AMP debuff. Additionally, she is the only character in the game with evasion block debuff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A significant portion of AChris’ power budget is allocated to her Ultimate Skill, which (on top dealing a ton of damage), applies a number of self-buffs. Those buffs include:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Global DMG AMP debuff increase from 15% to 30%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Basic attack damage multiplier increase\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"50% ASPD self-buff\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Special skill cooldown reset\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increased applications of special skill EVA block debuff\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While AChris is empowered by her ult self-buffs, she becomes one of the strongest characters in the game. In the absence of those buffs, her performance is underwhelming.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AChris performs well in 16-man content such as raids and CCB where external skill haste buffs (i.e. Yang Harim, AJia) enable her to be geared for more damage without sacrificing the uptime on her ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AChris is one of the strongest PVP damage dealers in the game, capable of dealing immense damage when empowered by her ultimate self-buffs. However, it can be a challenge getting there. The struggle typically lies in keeping the team afloat for long enough that she reaches that point.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AChris’ prohibitively high cost and low immediate impact can be difficult to work with. As such, she is typically played in teams built to enable her. AChris is frequently played with Sysop (operator) to shore up her rough early game. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"That said, AChris does have some immediate impact by way of her ETB. AChris’ ETB deals surprisingly high damage and can frequently oneshot unprotected non-ASSR units on its own. This is most consistent against squishy backline damage dealers like soldiers, but can kill more expensive backliners (e.g. Agnes) with a lucky crit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AChris’ combination of defensive stats, type (counter-mech hybrid), and role (supporter) make it difficult to target her. Counterplay to AChris is limited to: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Awakened Jake (AJake)\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": AJake is the premier anti-mech option and the most direct means of winning mech matchups. AJake’s kit is designed to counter mechs and AChris is a mech.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Skill haste debuffs: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"As AChris (and by extension her team) is heavily reliant on the ultimate for damage, delaying her ultimate increases the time before she becomes an actual threat. Skill haste debuffs are most accessible through New Ohio, but can also be accessed through other means.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Counterintuitively, Awakened Lee Sooyeon (ALSY) is pretty bad against AChris for a number of reasons:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Both AChris and ALSY have air target priority but AChris outranges ALSY by a significant margin.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ALSY does not have enough HIT to surefire AChris. This can lead to consistency issues.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- EVA block is a potent offensive debuff that significantly increases damage where applicable\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- High survivability for a PVP backliner\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Borderline useless up until she casts her ultimate skill \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "10",
+              "pve_early": "8",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A flying Supporter who makes enemies weaker"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1253_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals damage to a single target in front with her sniper rifle. Prioritizes attacking air units within range. In [Critical Breakthrough] state, basic attack's damage is increased, valid Hits change to 2 and AoE damage is dealt. "
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1253_2",
+                "name": "Griffin Rider",
+                "type": "Passive",
+                "validHits": 5,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Upon deployment, deals damage to all enemies with a shockwave from her high-speed maneuver. While on the battttlefield, enemies received DMG Taken AMP +15%. Each time a unit leaves the battlefield, her Ultimate Skill cooldown is reduced by 1 second, and her Special Skill cooldown by 0.5 seconds. "
+                },
+                "level2": {
+                  "level2": "ATK +5%"
+                },
+                "level3": {
+                  "level3": "ATK +5%"
+                },
+                "level4": {
+                  "level4": "ATK +10%"
+                },
+                "level5": {
+                  "level5": "DMG Taken AMP effect is increased by 2x while in [Critical Breakthrough] state."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1253_3",
+                "name": "Rapid Acceleration",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Unleashes a shockwave from her high-speed maneuver that deals AoE damage and becomes immune to damage while moving. 1 damaged target in front becomes Unavoidable for 5 seconds. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "All attacks always inflict CRIT damage while in the [Critical Breakthrough] state. Up to 3 damaged targets become Unavoidable for 5 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1253_4",
+                "name": "Ignite",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Launches an attack in front by unleashing the flight unit's performance. She becomes immune to damage while moving and enters the [Critical Breakthrough] state that cannot be canceled for 20 seconds after using her Ultimate Skill. \n\n[Critical Breakthrough]: Immune to all Hitstuns, ASPD +50%, Skill Seal Immunity. "
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "Resets Special Skill cooldown after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 45.04,
+                "critical": 2.88,
+                "def": 2.04,
+                "evade": 6.09,
+                "hit": 2.24,
+                "hp": 392
+              },
+              "base": {
+                "hp": 3058,
+                "atk": 433,
+                "def": 132,
+                "hit": 145,
+                "critical": 187,
+                "evade": 395
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b9cae73c-7b52-558c-bf8c-ca19a92ccf5c"
+    }
+  },
+  "staticQueryHashes": []
+}

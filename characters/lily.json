@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/lily",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "b8a0f017-eb12-5a7e-b9ac-cbdc30a472ba",
+            "updatedAt": "2024-12-12T22:03:18.518Z",
+            "createdAt": "2021-10-22T06:39:30.395Z",
+            "unitId": "1165",
+            "fullName": "Lily",
+            "slug": "lily",
+            "shortName": "Lily",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/eaf57511ce73ebf4542c0e6e3875c409/acb7c/emp-1165.png",
+                        "srcSet": "/static/eaf57511ce73ebf4542c0e6e3875c409/1c9ce/emp-1165.png 64w,\n/static/eaf57511ce73ebf4542c0e6e3875c409/bf8e1/emp-1165.png 128w,\n/static/eaf57511ce73ebf4542c0e6e3875c409/acb7c/emp-1165.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/eaf57511ce73ebf4542c0e6e3875c409/8257c/emp-1165.webp 64w,\n/static/eaf57511ce73ebf4542c0e6e3875c409/6766a/emp-1165.webp 128w,\n/static/eaf57511ce73ebf4542c0e6e3875c409/22bfc/emp-1165.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Flora Maid Service",
+            "seaReleaseDate": "November 24th, 2021",
+            "krReleaseDate": "December 22nd, 2020",
+            "globalReleaseDate": "September 29th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Supporter",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A grenade-tossing maid who puts her targets to sleep. Even eternal sleep, because her grenades actually do quite a lot of damage, so if the enemy has a squishy backline, she can easily deal with them. She's mainly used in PVP, where the ability to attack/CC the backline becomes important against certain compositions.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sadly in PVE she's pretty much useless.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- strong and long CC that can't be easily countered in PVP,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- deals good damage to squishy backliners,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- low cost makes her a good fit in any composition.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- only good in PVP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "10",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Ranged debuffer who removes the enemy's Role Advantage bonuses and puts them to Sleep"
+            },
+            "introduction": {
+              "introduction": "　Lily is a supporter capable of neutralizing the targets' Role Advantages and putting rear-line enemies to sleep.\n\n　She uses everything she can—lullabies, plush bedding, and even instant sleeping pills and firearms—to eliminate enemies that give her master nightmares. Of course, she claims that she now only uses moderate methods such as aromatherapy.\n　A stern senior to Mone and Lycoris, she's been studying in order to become more socially acceptable with help from the Chief Maid."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": "Good user of Challenger hands."
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": "Good user of Challenger hands."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1165_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a gun at a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1165_2",
+                "name": "Where Are You Looking At?",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "For every 25% of HP lost, drops a smoke bomb where she stands and steps back, attacking surrounding enemies. The bomb generates a smokescreen that lasts for 5 seconds, and the enemies within the smokescreen lose 60% of SPD and HIT."
+                },
+                "level2": {
+                  "level2": "EVA +5%"
+                },
+                "level3": {
+                  "level3": "EVA +5%"
+                },
+                "level4": {
+                  "level4": "EVA +10%"
+                },
+                "level5": {
+                  "level5": "EVA +50% for 6 s after stepping back"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1165_3",
+                "name": "Instant Sleeping Grenade",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Summons a special grenade onto the farthest target within her sight, inflicting damage on and around it. The damaged targets are put to Sleep for 7 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Debuff duration +3 s, Cooldown -3 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1165_4",
+                "name": "Debilitating Explosion",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Summons a special grenade onto a target, inflicting damage on and around it. The damaged targets lose 100% of their Role Advantage damage bonus for 12 seconds."
+                },
+                "level2": {
+                  "level2": "Cooldown -2 s"
+                },
+                "level3": {
+                  "level3": "Cooldown -2 s"
+                },
+                "level4": {
+                  "level4": "Cooldown -4 s"
+                },
+                "level5": {
+                  "level5": "Debuff duration +6 s, DMG +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 20.01,
+                "critical": 1.81,
+                "def": 1.86,
+                "evade": 3.51,
+                "hit": 1.75,
+                "hp": 224
+              },
+              "base": {
+                "hp": 1780,
+                "atk": 196,
+                "def": 130,
+                "hit": 122,
+                "critical": 126,
+                "evade": 245
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "b8a0f017-eb12-5a7e-b9ac-cbdc30a472ba"
+    }
+  },
+  "staticQueryHashes": []
+}

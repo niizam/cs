@@ -1,0 +1,239 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/galahad-roy-burnett",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "189232f6-cc39-5807-9c04-10e389ab0a0f",
+            "updatedAt": "2024-12-02T18:23:58.914Z",
+            "createdAt": "2023-11-17T11:35:08.208Z",
+            "unitId": "1261",
+            "fullName": "Galahad Roy Burnett",
+            "slug": "galahad-roy-burnett",
+            "shortName": "Galahad Roy Burnett",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/377ad4c21d8d9c11d702198a508f4108/acb7c/1261.png",
+                        "srcSet": "/static/377ad4c21d8d9c11d702198a508f4108/1c9ce/1261.png 64w,\n/static/377ad4c21d8d9c11d702198a508f4108/bf8e1/1261.png 128w,\n/static/377ad4c21d8d9c11d702198a508f4108/acb7c/1261.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/377ad4c21d8d9c11d702198a508f4108/8257c/1261.webp 64w,\n/static/377ad4c21d8d9c11d702198a508f4108/6766a/1261.webp 128w,\n/static/377ad4c21d8d9c11d702198a508f4108/22bfc/1261.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "Global",
+              "SEA"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Prydwen Institution",
+            "seaReleaseDate": "May 15th, 2024",
+            "krReleaseDate": "November 14th, 2023",
+            "globalReleaseDate": "May 15th, 2024",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": {
+              "name": "Prydwen",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Anti-Divinity Armament, Prydwen",
+              "description": "Special Skill cooldown -8s upon Passive Skill activation, Passive Skill's Healing Extort changed to <b>50%<b> and also applies to enemy Strikers."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "CC",
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Galahad Roy is a weird tank. He's very strong when you look at his kit as he can passively debuff enemies (and steal their healing received) that are close to him, but to balance him out, his stats and kit lack any self-protection skills. Which means he should be used more as a support frontline character instead of a proper tank. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The problem with that is that his high cost makes this not viable in PVP and even in PVE you would rather use a proper buffer or debuffer that sits in the backline and won't be killed randomly by a big damage spike coming from the enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of this he has very niche uses and isn't that popular.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unique debuffs that suppress enemies close to him and steal their healing received,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A great utility frontline character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High cost,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can't keep himself alive like other tanks,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Niche uses.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "1",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Defender who debuffs enemies and buffs allies"
+            },
+            "introduction": null,
+            "gearRecommendation": null,
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1261_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses Prydwen to deal AoE damage in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1261_2",
+                "name": "Great Holy Defense Weapon Prydwen",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Activates the ability of the holy weapon for 12s after deployment, gaining Immunity to Hitstun from Special skills or Lower, inflicting 15% DMG RES Suppression to nearby enemy units, and applying 20% Heal steal to Defender and Supporter units. Reactivates the buff after receiving damage 25 times."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Gains 30% Ranged DMG RES upon Passive activation, the effect decays by 5% every 2s until it wears out."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1261_3",
+                "name": "Skip Chain Slash",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Swings the chain connected to the shield, dealing wide AoE damage in front. Permanently gain 5% HP after casting. (Up to 5 stacks, Max 25%) "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "HP gain is increased to 10% (Max 50%)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1261_4",
+                "name": "Beyond the Legend",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 50,
+                "baseDescription": {
+                  "baseDescription": "Creates countless sealing chains, dealing AoE damage. The last attack inflicts [Bind] on damaged targets for 2s. "
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Adds 30% DMG RES Suppression effect for 8s to targets damaged by last attack."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 24.6,
+                "critical": 0.88,
+                "def": 8.61,
+                "evade": 2.26,
+                "hit": 1.72,
+                "hp": 329
+              },
+              "base": {
+                "hp": 2612,
+                "atk": 241,
+                "def": 602,
+                "hit": 120,
+                "critical": 61,
+                "evade": 158
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "189232f6-cc39-5807-9c04-10e389ab0a0f"
+    }
+  },
+  "staticQueryHashes": []
+}

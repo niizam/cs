@@ -1,0 +1,249 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/naielle-bluesteel",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a23c0dca-658a-57ce-8235-889d0b8a8216",
+            "updatedAt": "2024-12-12T22:05:11.680Z",
+            "createdAt": "2021-10-22T06:56:55.395Z",
+            "unitId": "1178",
+            "fullName": "Naielle Bluesteel",
+            "slug": "naielle-bluesteel",
+            "shortName": "Naielle Bluesteel",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/fabf43598783b9f12af35c8b6926cffb/acb7c/emp-1178.png",
+                        "srcSet": "/static/fabf43598783b9f12af35c8b6926cffb/1c9ce/emp-1178.png 64w,\n/static/fabf43598783b9f12af35c8b6926cffb/bf8e1/emp-1178.png 128w,\n/static/fabf43598783b9f12af35c8b6926cffb/acb7c/emp-1178.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/fabf43598783b9f12af35c8b6926cffb/8257c/emp-1178.webp 64w,\n/static/fabf43598783b9f12af35c8b6926cffb/6766a/emp-1178.webp 128w,\n/static/fabf43598783b9f12af35c8b6926cffb/22bfc/emp-1178.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Administration Counter Academy",
+            "seaReleaseDate": "October 13th, 2021",
+            "krReleaseDate": "May 20th, 2021",
+            "globalReleaseDate": "August 18th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": {
+              "name": "The Blade Catastrophe",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Ethereal Overdrive",
+              "description": "Enhanced attack is activated after every 3rd basic attack instead. Enhanced attacks decrease Special Skill cooldown by 4s."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Naielle Bluesteel is a melee-range damage dealer/ frontline tank hybrid. Naielle differs from her peers in that she is noticeably more effective within her niche as a “bruiser”, made possible via her high uptime invulnerability. Counterintuitively, for a damage dealer, Naielle has anti-synergy with ASPD. After every special, Naielle becomes invulnerable for the duration of 2 basic attack animations; as ASPD reduces animation time, it actually reduces Naielle’s invulnerability uptime. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Naielle’s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" improves her survivability by adding a flat Special skill CD reduction on her enhanced basic and increasing its frequency, which in effect increases uptime on her invulnerability self-buff. Naielle’s alternium reactor offsets some of her aforementioned ASPD anti-synergy and in doing so, noticeably improves her performance.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, frontline tanks with buffs/ debuffs are valued more highly than those focused solely on tanking for themselves. Naielle’s personal damage output, while above average for a frontline tank, still pales in comparison to that of dedicated damage dealers. Naielle meets the baseline requirements expected of her as a frontline tank, but she contributes nothing more to the team. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Naielle sees fringe play as a frontline tank in specialized comps. She is typically paired with Albion for the stealth on S1, which improves her survivability and manipulates positioning to allow her to wreak havoc in the enemy backline. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Importantly, Naielle’s heavy reliance on her invulnerability self-buff, the key aspect of her kit, is also her great weakness:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a buff, Naielle’s invulnerability is highly susceptible to buff block (e.g. Awakened Yuna, Anila).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The gaps in Naielle’s invulnerability uptime can be exploited to burst her down while she is vulnerable (i.e. timed sniper deploys).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"High uptime invulnerability with a damage-oriented kit allows Naielle to apply more pressure than the average frontline unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- 6s skill seal on Special skill is nice-to-have, relevant utility on a frequently cast skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"As a damage dealer/ frontline tank hybrid, Naielle is cursed with the gearing issues that plague the rest of the niche; building damage comes at the sacrifice of survivability, and as a relatively squishy unit Naielle cannot afford to lose any tank stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "7",
+              "pve_early": "7",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A striker whose cheeky behavior stimulates aggression in allies."
+            },
+            "introduction": {
+              "introduction": "Naielle Bluesteel is a striker whose cheeky behavior stimulates aggression in allies. She is an elite who has never missed the top grade in the Academy's combat evaluation. She was notorious for looking down on inferior students, posing as a team leader among her childhood friends. However, she began to show anxiety after the appearance of a stronger rival, and her way of speaking changed strangely after a certain incident. Her attitude of disrespecting others still remains unchanged, but she now proudly calls herself \"garbage.\" With all the rumors put together, she is presumed to have been influenced by some kind of autosuggestion. According to an expert at the Student Council, it is very rare that a person gets hypnotized as easily as her."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1178_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her sword, inflicting AoE damage. To tell the truth, she can only handle a single sword at a time."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1178_2",
+                "name": "Ethereal Overdrive",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After every 4th Basic attack, she delivers an enhanced attack, inflicting AoE damage. Increases her ASPD by 50% for 5 seconds if any unit in the field is killed. (Can't be renewed during buff.)"
+                },
+                "level2": {
+                  "level2": "DMG RES +2%"
+                },
+                "level3": {
+                  "level3": "DMG RES +2%"
+                },
+                "level4": {
+                  "level4": "DMG RES +4%"
+                },
+                "level5": {
+                  "level5": "Increases enhanced attack damage by up to 75% in inverse proportion to current HP. Special skill attacks also count."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1178_3",
+                "name": "Starlight Inverse Strike",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Charges forward and inflicts AoE damage on contact with the first enemy in her path. Seals the affected target's skills for 6 seconds. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Immune to damage for 2 Basic attacks after skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1178_4",
+                "name": "Call Blade Catastrophe",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 46,
+                "baseDescription": {
+                  "baseDescription": "Summons spirit swords, inflicting AoE damage on and around the target."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Blinds all enemies for 4 s after skill (Bosses excluded)"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 33.48,
+                "critical": 3.68,
+                "def": 3.05,
+                "evade": 2.85,
+                "hit": 1.59,
+                "hp": 343
+              },
+              "base": {
+                "hp": 2729,
+                "atk": 328,
+                "def": 213,
+                "hit": 111,
+                "critical": 257,
+                "evade": 199
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a23c0dca-658a-57ce-8235-889d0b8a8216"
+    }
+  },
+  "staticQueryHashes": []
+}

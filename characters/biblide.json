@@ -1,0 +1,249 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/biblide",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c57df364-7d66-5b10-9069-03c1b43d5e60",
+            "updatedAt": "2025-05-01T07:55:16.688Z",
+            "createdAt": "2022-07-05T06:53:10.811Z",
+            "unitId": "1223",
+            "fullName": "Biblide",
+            "slug": "biblide",
+            "shortName": "Biblide",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/ec6e1141a388a6fb1213ffd14bbe2112/acb7c/emp-1223.png",
+                        "srcSet": "/static/ec6e1141a388a6fb1213ffd14bbe2112/1c9ce/emp-1223.png 64w,\n/static/ec6e1141a388a6fb1213ffd14bbe2112/bf8e1/emp-1223.png 128w,\n/static/ec6e1141a388a6fb1213ffd14bbe2112/acb7c/emp-1223.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/ec6e1141a388a6fb1213ffd14bbe2112/8257c/emp-1223.webp 64w,\n/static/ec6e1141a388a6fb1213ffd14bbe2112/6766a/emp-1223.webp 128w,\n/static/ec6e1141a388a6fb1213ffd14bbe2112/22bfc/emp-1223.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Miracle Investigation Council 9",
+            "seaReleaseDate": "December 7th, 2022",
+            "krReleaseDate": "July 5th, 2022",
+            "globalReleaseDate": "May 24th, 2023",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "Book of Judgement",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Silence when Reading",
+              "description": "ATK +50% during enhanced attacks instead. Additional DEF Penetration +50% during enhanced attacks."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Debuffer",
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Biblide is a DPS-debuffer hybrid unit. Unfortunately, she doesn’t excel at either, and there are many units that can fulfill both roles better. She does have a rare Skill Haste debuff, but it doesn’t salvage her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Biblide’s Alternium Reactor tried to fix her lackluster damage, but unfortunately it’s still not enough to compete with other popular rangers like Gaeun.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF Breaker and Skill Haste debuffer,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Low uptime on the debuffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unimpressive damage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A ranged attacker who deals AoE damage with Enhanced basic attacks"
+            },
+            "introduction": {
+              "introduction": "종이를 자유자재로 다루는 비블리데 루체는 기본 공격에 충실한 레인저입니다.\n한때 기적심의회의 일원이었던 그녀는 모종의 이유로 성황청 도서관 사서직에 지원했습니다. 함께 일했던 사서들은 그녀가 독서에 몰두하는 이유가 촉매로 쓸 책을 찾기 위해서라고 확신합니다.\n낡은 종이도 새것처럼 만들 수 있는 능력과 방대한 지식은 고서 관리가 주된 업무인 성황청 도서관에게 반가운 재능이었습니다.\n주위에서는 심의회 시절부터 이어진 엄격하고 냉정한 성품 탓에 어울리기 힘든 사람이라고 평가하기도 합니다. 하지만 한편으로는 사비를 털어 보육원에 그림책을 기부하거나, 집안 사정으로 학교에 가지 못한 아이들을 가르쳐 주는 등 배움에 목마른 이들을 외면하지 않는 일면도 존재합니다.\n최근 성황청에서 벌어졌던 사건을 계기로, 은퇴를 번복하고 심의회에 복귀하였다는 첩보를 확보하였습니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "CDR DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1223_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Attack the closest enemy with paper sheets."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1223_2",
+                "name": "Silence When Reading",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After 3 basic attacks, performs Enhanced Attacks with increased ranged and Valid Hits for 7 seconds."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "ATK +25% during Enhanced Attacks"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1223_3",
+                "name": "Dust Angel",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 25,
+                "baseDescription": {
+                  "baseDescription": "Creates a paper tornado that deals AoE damage to a target and enemies nearby, decreasing their DEF by 15% for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Adds Skill Haste -15% to debuff"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1223_4",
+                "name": "Blessing of Knowledge",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 54,
+                "baseDescription": {
+                  "baseDescription": "After knocking back nearby enemies to the target the caster is facing, activates Passive Effect for 12 seconds and increases DEF Penetration by 20%."
+                },
+                "level2": {
+                  "level2": "Buff duration +1 s"
+                },
+                "level3": {
+                  "level3": "Buff duration +1 s"
+                },
+                "level4": {
+                  "level4": "Buff duration +2 s"
+                },
+                "level5": {
+                  "level5": "Ultimate Skill cooldown decreases by 3 seconds every time Passive is cast"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 30.01,
+                "critical": 3.49,
+                "def": 3.74,
+                "evade": 0.73,
+                "hit": 3.19,
+                "hp": 240
+              },
+              "base": {
+                "hp": 1907,
+                "atk": 294,
+                "def": 261,
+                "hit": 223,
+                "critical": 244,
+                "evade": 51
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c57df364-7d66-5b10-9069-03c1b43d5e60"
+    }
+  },
+  "staticQueryHashes": []
+}

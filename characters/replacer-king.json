@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/replacer-king",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "c5e0bbff-74c1-5ec8-9192-a5b3e6bf3752",
+            "updatedAt": "2024-12-12T22:02:12.979Z",
+            "createdAt": "2021-10-22T06:46:50.077Z",
+            "unitId": "1171",
+            "fullName": "Replacer King",
+            "slug": "replacer-king",
+            "shortName": "Replacer King",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/dc3f60d033c938c89679c55da64ff16a/acb7c/emp-1171.png",
+                        "srcSet": "/static/dc3f60d033c938c89679c55da64ff16a/1c9ce/emp-1171.png 64w,\n/static/dc3f60d033c938c89679c55da64ff16a/bf8e1/emp-1171.png 128w,\n/static/dc3f60d033c938c89679c55da64ff16a/acb7c/emp-1171.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/dc3f60d033c938c89679c55da64ff16a/8257c/emp-1171.webp 64w,\n/static/dc3f60d033c938c89679c55da64ff16a/6766a/emp-1171.webp 128w,\n/static/dc3f60d033c938c89679c55da64ff16a/22bfc/emp-1171.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 5,
+            "rarityClassName": "ASSR",
+            "title": "Replacer Syndicate",
+            "seaReleaseDate": "December 29th, 2021",
+            "krReleaseDate": "March 16th, 2021",
+            "globalReleaseDate": "September 15th, 2022",
+            "cost": 6,
+            "type": [
+              "Counter"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Buffer",
+              "Dispeller",
+              "Summoner"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Summary\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Replacer King (RKing) is a PVP-oriented damage dealer who puts heavy pressure on the enemy backline with his unlimited range, unlimited valid hit basic attacks. RKing is a meta PVP unit who demands a dedicated team built around him and careful positional play to fully enable his kit. Played correctly, he can be incredibly oppressive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"RKing’s power budget is in his Basic Attack and Passive. When a non-mech ally unit dies (summons included), RKing gains unlimited range and valid hits on his basic attacks, allowing him to deal damage to all units in front of him, including the enemy ship. Additionally, RKing’s Basic Attack itself gains range, allowing him to attack from a distance.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Although RKing is classified as a defender, he transforms into a backline unit when his passive is activated (you should not be treating him as a traditional defender to begin with).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"PVE Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"RKing has limited application in PVE, because his kit runs counter to what you would want in PVE; the opportunity cost of sacrificing team slots is too high. In addition, RKing’s single target damage output is severely lacking compared to other competitive damage dealers, even before factoring in DP cost differences. The ridiculous stat scaling on ships and bosses results in RKing running out of steam too soon, which then forces you to waste even more units to reactivate his passive again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a damage dealer, RKing does not deliver damage commensurate to cost. As a frontline tank, RKing does not provide anything that cheaper frontline tanks can’t do better. RKing doesn’t function well in a PVE environment.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"PVP Review\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-5\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"RKing defines an archetype of comps (RKing comps) built around him. There are a number of variations to how he can be played but the core concept remains unchanged; RKing comps are built around keeping RKing protected while he slowly but consistently chips the entire enemy team with his punches. RKing can be run as both the focal point of the comp or as one of two win conditions (e.g. Curian).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The two major considerations with RKing comps are:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Maintaining uptime on RKing’s passive\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Keeping RKing safe\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To maintain uptime on RKing’s passive, he is frequently be run with:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Blue Bridge Mk.2: Blue Bridge’s S2 summons 3 waves of soldiers over a period of time. This synergizes perfectly with RKing’s passive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cheap fodder: Summoners and multi-unit characters pair well with RKing to feed his passive when Blue Bridge’s S2 is on cooldown. These characters include but are not limited to: Eins & Zwei, Laura, Kang, and Assault Troopers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"RKing will only punch forward. To make sure nothing gets behind him, it is imperative to learn how to manipulate positioning so your RKing is not at risk of being redirected. This is done by achieving a “camp”. For more information on PVP positioning, please refer to: https://www.prydwen.gg/counter-side/guides/rta-concepts\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"RKing has several weaknesses that can be exploited. RKing is usually countered through a combination of:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Serina Crew (Operator): Serina Crew’s Command skill shuts down RKing’s damage and can ruin the RKing player’s positioning. Serina creates opportunities to kill RKing where he would otherwise be turtled up behind his frontline.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Awakened Lyudmila: Awakened Lyudmila’s kit directly counters RKing by applying crippling debuffs when enemies die, which perfectly times her debuff with RKing’s self-buff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong positioning: RKing comps are heavily incentivized to “camp” under their own ship to mitigate the risk of being redirected. Being able to “out-camp” RKing can create opportunities to turn the RKing or put him in positions where he can be more easily killed. This can come naturally from better play but the process can be greatly assisted by tools like Albion’s (ship) skill 1.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Counter-comps: Certain comps have inherently good matchup against RKing. These include frontline-heavy comps (e.g. Awakened Yuna, Awakened Joo Shiyoon), comps with extremely good early game pressure (e.g. Soldier comps), and teams that make use of characters with buff nullification (e.g. Jisoo, Awakened Jake, Awakened Regina).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While losing to RKing can feel miserable, it helps to understand that not every scenario is a decision-making opportunity. Many situations reflect the consequence of an earlier decision. It is pretty much impossible to win against a perfectly set up RKing comp. What’s important is denying RKing as much positioning as possible. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"RKing provides unparalleled access to the enemy backline via his buffed basic attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"RKing whittles down the enemy ship, expanding your deployment zone and creating an alternate win-condition (e.g. deploying Awakened Mina directly on the enemy ship) if you aren’t able to close out the game cleanly.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"As a defender with MDL, RKing is significantly tankier than your average damage dealer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"As one of CounterSide’s oldest and most notorious meta-defining PVP characters, a number of strategies have been devised to counter him. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"RKing has significant influence over the week’s meta. RKing players should expect to play against counter-comps and mirror matches.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- RKing is reliant on Blue Bridge. Both RKing and Blue Bridge are almost perpetually banned. It is practically a miracle when both are simultaneously free. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "8",
+              "pvp_global": "9",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Defender that summons units and dominates the field with AoE attacks."
+            },
+            "introduction": {
+              "introduction": "  The Replacer King is a Defender capable of summoning multiple soldiers and delivering unlimited AoE attacks in certain situations.\n\n  He's also the founder of the Replacer Syndicate, whose core members are fervent supporters of his ideals. Turncoats claim that the rest of the organization looks up to him as if he's a pioneer. \n  Despite vigorous attempts by various intelligence agencies, he's managed to keep his identity secret. Some people suspect he may have worked for an intelligence agency or an illegal military regiment that ran covert ops."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": "Ranged DMG latent ASPD Britra set."
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": "Ranged DMG latent ASPD Britra set."
+              }
+            },
+            "isAwakened": true,
+            "skillsUpdated": [
+              {
+                "skillId": "1171_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings his fists, inflicting AoE damage on enemies in front. The Passive buff uncaps this skill's Valid Hits and range."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1171_2",
+                "name": "King of Neohumanity",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Increases DMG RES by 30% and becomes immune to Hitstun from Special or lower skills for 6 seconds when a non-Mech ally unit dies. Summons up to 1 Replacer that matches this ally's role. (Supporter, Tower, and Siege excluded) This summoned unit is immune to Hitstun from Special skills, loses 2% of HP every second, and can't be healed."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "His and all other Replacers' ATK & DMG RES +20% while in the field"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1171_3",
+                "name": "Ground Ravager",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Forcefully strikes the ground with his fist, inflicting AoE damage on surrounding enemies and forcing them to attack him for 6 seconds. Stuns surrounding targets for 1 second."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Target ATK -50% for 6 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1171_4",
+                "name": "Dimensional Calamity",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Quickly charges back and forth, creating a wind that inflicts AoE damage on enemies in front. Immediately cancels all debuffs cast on himself."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Immune to all non-Permanent debuffs for 15 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 30.14,
+                "critical": 2,
+                "def": 8.15,
+                "evade": 1.01,
+                "hit": 4.35,
+                "hp": 496
+              },
+              "base": {
+                "hp": 4022,
+                "atk": 301,
+                "def": 617,
+                "hit": 329,
+                "critical": 151,
+                "evade": 76
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "c5e0bbff-74c1-5ec8-9192-a5b3e6bf3752"
+    }
+  },
+  "staticQueryHashes": []
+}

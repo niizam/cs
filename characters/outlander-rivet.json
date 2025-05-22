@@ -1,0 +1,342 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/outlander-rivet",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "1ae9add4-cf01-57ee-9758-dc8883879e3b",
+            "updatedAt": "2025-04-12T08:17:31.459Z",
+            "createdAt": "2022-11-08T07:34:26.389Z",
+            "unitId": "2148",
+            "fullName": "Outlander Rivet",
+            "slug": "outlander-rivet",
+            "shortName": "Outlander Rivet",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c6ff028a45968719946d6327c3885489/acb7c/emp-2148.png",
+                        "srcSet": "/static/c6ff028a45968719946d6327c3885489/1c9ce/emp-2148.png 64w,\n/static/c6ff028a45968719946d6327c3885489/bf8e1/emp-2148.png 128w,\n/static/c6ff028a45968719946d6327c3885489/acb7c/emp-2148.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c6ff028a45968719946d6327c3885489/8257c/emp-2148.webp 64w,\n/static/c6ff028a45968719946d6327c3885489/6766a/emp-2148.webp 128w,\n/static/c6ff028a45968719946d6327c3885489/22bfc/emp-2148.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Outlander",
+            "seaReleaseDate": "March 21st, 2023",
+            "krReleaseDate": "November 8th, 2022",
+            "globalReleaseDate": "September 6th, 2023",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "Buffer",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outlander Rivet (RRivet) is a potent backline damage dealer. RRivet is a huge upgrade over the base version. She has more stats, a much stronger special and a new enhanced attack that deals good damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, RRivet boasts one of the best damage to cost ratios in the game while also having extremely potent burst damage when casting her special and enhanced attacks. These traits lead to her seeing usage in almost any content tagged as C.O. or Counter. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, RRivet is the default ranger option whenever free. Her immunity to stun and confusion means that she gets to ignore some disruption tools while outputting best in class DPS per cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Massive Anti-C.O./Counter damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"High burst. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Low cost. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"None. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "11",
+              "pvp_global": "11",
+              "pve_early": "10",
+              "pve_late": "9"
+            },
+            "description": {
+              "description": "A Ranger who specializes in killing C.O. and Counters."
+            },
+            "introduction": {
+              "introduction": "학회에는 무언가에 미쳐 있는 인간들이 많습니다. 그런 측면에서 리벳은 학회와 놀랍도록 잘 어울리는 인물입니다. 스릴을 위해서라면 어떤 위험 속으로도 기꺼이 뛰어들고, 현실에 안주하는 대신 매번 새로운 스릴을 찾아 나서기 때문이죠.\n리벳의 출신은 학회에 온 뒤에도 여전히 베일에 싸여 있습니다. 이따금 풀어 놓는 인생 역경은 하나같이 기상천외한 것들뿐이므로 평가에 도움이 되지는 않을 것입니다. 경영학부는 이 때문에 그녀에게 맡겨진 고유무장을 회수하길 강력하게 주장했으나, 결국 학회장 선에서 반려되었습니다.\n학회에서 수수께끼의 인물이란 잠재적인 위협이 아니라 새로운 탐구 소재이니 말입니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2148_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a rifle at a target in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2148_2",
+                "name": "Popcorn Brain",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Those who are addicted to thrills look for them everywhere. Gains 50% Debuff Res."
+                },
+                "level2": {
+                  "level2": "Anti-CO and Anti-Counter DMG +10%"
+                },
+                "level3": {
+                  "level3": "Anti-CO and Anti-Counter DMG +10%"
+                },
+                "level4": {
+                  "level4": "Anti-CO and Anti-Counter DMG +10%"
+                },
+                "level5": {
+                  "level5": "HP +25%"
+                },
+                "level6": {
+                  "level6": "Anti-CO and Anti-Counter DMG +10%"
+                },
+                "level7": {
+                  "level7": "Anti-CO and Anti-Counter DMG +10%"
+                },
+                "level8": {
+                  "level8": "Anti-CO and Anti-Counter DMG +10%"
+                },
+                "level9": {
+                  "level9": "Anti-CO and Anti-Counter DMG +20%"
+                },
+                "level10": {
+                  "level10": "Gains Stun and Confusion immunity."
+                }
+              },
+              {
+                "skillId": "2148_3",
+                "name": "Unexpected Ambush",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Shoots a pile driver into the ground to inflict shock damage to Ground enemies, and recklessly fires her gun to deal additional damage to one enemy in front."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "The skill gains the Surefire effect."
+                }
+              },
+              {
+                "skillId": "2148_4",
+                "name": "Color From Space",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Every 5 basic attacks, fires a cannonball to inflict AoE damage in front. Counter/C.O. units lose 30% ATK for 5 seconds (excluding bosses)."
+                },
+                "level2": {
+                  "level2": "ATK +2%"
+                },
+                "level3": {
+                  "level3": "ATK +2%"
+                },
+                "level4": {
+                  "level4": "ATK +3%"
+                },
+                "level5": {
+                  "level5": "Enemies other than Counter and C.O. lose 15% ATK for 5 seconds."
+                },
+                "level6": {
+                  "level6": "ATK +2%"
+                },
+                "level7": {
+                  "level7": "ATK +2%"
+                },
+                "level8": {
+                  "level8": "ATK +2%"
+                },
+                "level9": {
+                  "level9": "ATK +3%"
+                },
+                "level10": {
+                  "level10": "Adds one stack of [Chill] to damaged enemies."
+                }
+              },
+              {
+                "skillId": "2148_5",
+                "name": "Dirty Work Expert",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After being deployed, all allies (including self) gain 20% Counter/C.O. DMG Res for 8 seconds. Fires enhanced attacks 2 times instead."
+                },
+                "level2": {
+                  "level2": "ASPD +5%"
+                },
+                "level3": {
+                  "level3": "Buff duration +2 s"
+                },
+                "level4": {
+                  "level4": "ASPD +5%"
+                },
+                "level5": {
+                  "level5": "Buff duration +2 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.13,
+                "critical": 2.12,
+                "def": 1.97,
+                "evade": 2.53,
+                "hit": 2.58,
+                "hp": 184
+              },
+              "base": {
+                "hp": 1493,
+                "atk": 281,
+                "def": 149,
+                "hit": 195,
+                "critical": 160,
+                "evade": 191
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1148",
+              "slug": "rivet",
+              "shortName": "Rivet",
+              "rarityClassName": "SR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#f8f8f8",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/8999e3744569a6ac1a3003fc81c93988/acb7c/emp-1148.png",
+                          "srcSet": "/static/8999e3744569a6ac1a3003fc81c93988/1c9ce/emp-1148.png 64w,\n/static/8999e3744569a6ac1a3003fc81c93988/bf8e1/emp-1148.png 128w,\n/static/8999e3744569a6ac1a3003fc81c93988/acb7c/emp-1148.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/8999e3744569a6ac1a3003fc81c93988/8257c/emp-1148.webp 64w,\n/static/8999e3744569a6ac1a3003fc81c93988/6766a/emp-1148.webp 128w,\n/static/8999e3744569a6ac1a3003fc81c93988/22bfc/emp-1148.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "1ae9add4-cf01-57ee-9758-dc8883879e3b"
+    }
+  },
+  "staticQueryHashes": []
+}

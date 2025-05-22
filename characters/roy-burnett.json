@@ -1,0 +1,244 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/roy-burnett",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "787fe3b9-2404-5011-b931-bbaa6298572e",
+            "updatedAt": "2024-02-18T08:48:23.775Z",
+            "createdAt": "2021-10-21T23:46:25.549Z",
+            "unitId": "1117",
+            "fullName": "Roy Burnett",
+            "slug": "roy-burnett",
+            "shortName": "Roy Burnett",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2707bc735d6b9a4ff543e842db86d36a/acb7c/emp-1117.png",
+                        "srcSet": "/static/2707bc735d6b9a4ff543e842db86d36a/1c9ce/emp-1117.png 64w,\n/static/2707bc735d6b9a4ff543e842db86d36a/bf8e1/emp-1117.png 128w,\n/static/2707bc735d6b9a4ff543e842db86d36a/acb7c/emp-1117.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2707bc735d6b9a4ff543e842db86d36a/8257c/emp-1117.webp 64w,\n/static/2707bc735d6b9a4ff543e842db86d36a/6766a/emp-1117.webp 128w,\n/static/2707bc735d6b9a4ff543e842db86d36a/22bfc/emp-1117.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SR",
+            "rarityNumber": 3,
+            "rarityClassName": "SR",
+            "title": "Prydwen Institution",
+            "seaReleaseDate": "May 17th, 2021",
+            "krReleaseDate": "February 11th, 2020",
+            "globalReleaseDate": "June 1st, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Roy is one of the best PVE Strikers in the game. The sheer amount of debuffs he provides for his team makes him an auto-pick for any content where you fight a single enemy like Danger Close, Raids, and Guild Coop. Just give him defensive gear and keep him alive, and he will make the boss way weaker.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- top tier debuffer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- barely deals any damage himself.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "6",
+              "pve_early": "6",
+              "pve_late": "7"
+            },
+            "description": {
+              "description": "A Melee attacker who weakens enemies to increase allies' attack capabilities."
+            },
+            "introduction": {
+              "introduction": "　Roy Burnett is a vanguard who can break down enemy defenses with the hypergravitational force created from his chains.\n\n　Hailed from a ruined noble family, he gained fame in the West End for his outdated gangster fashion and perverse attitude. His father's folly forced him to become a rookie agent at Prydwen, but he doesn't seem to like working as a spy.\n　He resorts to his fists whenever things go wrong, but those who are subject to his anger are limited to criminals who harass ordinary citizens or bullies who do whatever as they please.\n　There is an unbelievable rumor that he is actually a model citizen who waits for a green light at a crosswalk even when there is no car on the road. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank, Defensive CDR or CDR Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1117_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings the chain, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1117_2",
+                "name": "Chain Drive",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Applies hypergravity onto enemies, neutralizing them. Basic attacks increase their targets' incoming damage by 10% for 5 seconds. This debuff effect can't be renewed before it expires."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Basic attacks increase target's DMG Taken by 15% instead"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1117_3",
+                "name": "Sidewinder",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Extends the chain and swings it with might, inflicting AoE damage. Enemies lose 30% of ASPD for 8 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -4 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1117_4",
+                "name": "Wild Skip Chain",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 55,
+                "baseDescription": {
+                  "baseDescription": "Unearths a big rock with the chain and slams it onto the ground, inflicting AoE damage. Decreases targets' DEF by 25% for 12 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +2"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 26.03,
+                "critical": 2.02,
+                "def": 2.28,
+                "evade": 4.18,
+                "hit": 1.31,
+                "hp": 281
+              },
+              "base": {
+                "hp": 2231,
+                "atk": 255,
+                "def": 159,
+                "hit": 91,
+                "critical": 141,
+                "evade": 292
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "787fe3b9-2404-5011-b931-bbaa6298572e"
+    }
+  },
+  "staticQueryHashes": []
+}

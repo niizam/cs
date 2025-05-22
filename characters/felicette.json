@@ -1,0 +1,247 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/felicette",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a0760cb8-593d-5093-b7cd-aa74ed9e68ad",
+            "updatedAt": "2024-08-17T20:40:29.311Z",
+            "createdAt": "2023-04-06T07:20:55.131Z",
+            "unitId": "1244",
+            "fullName": "Felicette",
+            "slug": "felicette",
+            "shortName": "Felicette",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/445e34b555fca408f2efd88c45b39506/acb7c/1244.png",
+                        "srcSet": "/static/445e34b555fca408f2efd88c45b39506/1c9ce/1244.png 64w,\n/static/445e34b555fca408f2efd88c45b39506/bf8e1/1244.png 128w,\n/static/445e34b555fca408f2efd88c45b39506/acb7c/1244.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/445e34b555fca408f2efd88c45b39506/8257c/1244.webp 64w,\n/static/445e34b555fca408f2efd88c45b39506/6766a/1244.webp 128w,\n/static/445e34b555fca408f2efd88c45b39506/22bfc/1244.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Canary squad",
+            "seaReleaseDate": "August 16th, 2023",
+            "krReleaseDate": "March 29th, 2023",
+            "globalReleaseDate": "November 22nd, 2023",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Defender",
+            "alterniumInfo": {
+              "name": "Zoom Lens",
+              "type": "Passive Skill Enh.",
+              "skill_name": "What Matters is Unbreakable Vengeance",
+              "description": "DEF +30%. Gains immunity to Hitstun from Special or lower skills for 12 s instead. If an ally Laika existson the battlefield, gains immunity to Hitstun from Ultimate or lower skills instead"
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Felicette is a cheap soldier frontline tank notable for her forward dash on ETB. Due to low stats, Felicette struggles to perform her role. She is occasionally played for the Laika-Felicette synergy. Felicette otherwise sees little use.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Felicette’s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Alternium Reactor\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" provides a small survivability boost and much needed hitstun immunity to make her evasion issues less awful. She is still bad outside of Laika-Felicette synergy. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Buffs Laika.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- ETB dash has novel applications.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Soldier tier defensive stats.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- Felicette wants Laika, but Laika (and the team) doesn’t want her.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "7",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Defender who controls enemy units and synergizes with Leica"
+            },
+            "introduction": null,
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1244_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a pistol, dealing single target damage to the closest enemy in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1244_2",
+                "name": "Trustworthy Pointman",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Deals damage with knockback at the deployment position using a shield. Throws a grenade in front every 18s, creating a stasis field for 3s that periodically deals damage and knocking enemies airborne. Does not deal damage to targets exceeding valid hits."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Activation condition changed to 13s."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1244_3",
+                "name": "Final Legacy",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 24,
+                "baseDescription": {
+                  "baseDescription": "Uses the trump card, delivering a shock impact on the ground at the furthest unit within sight range, dealing AoE damage and knocking them airborne"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "HIT+100% while casting special skill"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1244_4",
+                "name": "What Matters is Unbreakable Vengeance",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Survives with a single determination to avenge those who ruined her life. Gain 10% Counter DMG RES and shares half of the effect with allied soldiers. Gain Immunity to hitstun from Special or lower skills for 7s every time Felicette receives 25 hits."
+                },
+                "level2": {
+                  "level2": "Counter DMG RES +7.5%"
+                },
+                "level3": {
+                  "level3": "Counter DMG RES +7.5%"
+                },
+                "level4": {
+                  "level4": "Counter DMG RES +15%"
+                },
+                "level5": {
+                  "level5": "Felicette's DMG Taken Limit is set to 10% if Laika is present on the battlefield"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 19.92,
+                "critical": 0.41,
+                "def": 5.01,
+                "evade": 1.43,
+                "hit": 4.11,
+                "hp": 342
+              },
+              "base": {
+                "hp": 2769,
+                "atk": 199,
+                "def": 379,
+                "hit": 311,
+                "critical": 31,
+                "evade": 108
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": true,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": false,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a0760cb8-593d-5093-b7cd-aa74ed9e68ad"
+    }
+  },
+  "staticQueryHashes": []
+}

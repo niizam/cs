@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/joo-shiyoung",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "aa21e6bd-4c2b-52c7-930d-0e95d2391e22",
+            "updatedAt": "2025-03-27T09:16:41.616Z",
+            "createdAt": "2021-10-22T00:18:17.311Z",
+            "unitId": "1138",
+            "fullName": "Joo Shiyoung",
+            "slug": "joo-shiyoung",
+            "shortName": "Joo Shiyoung",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/c4b1a7ef96c467ab4cbff97050d234d7/acb7c/emp-1138.png",
+                        "srcSet": "/static/c4b1a7ef96c467ab4cbff97050d234d7/1c9ce/emp-1138.png 64w,\n/static/c4b1a7ef96c467ab4cbff97050d234d7/bf8e1/emp-1138.png 128w,\n/static/c4b1a7ef96c467ab4cbff97050d234d7/acb7c/emp-1138.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/c4b1a7ef96c467ab4cbff97050d234d7/8257c/emp-1138.webp 64w,\n/static/c4b1a7ef96c467ab4cbff97050d234d7/6766a/emp-1138.webp 128w,\n/static/c4b1a7ef96c467ab4cbff97050d234d7/22bfc/emp-1138.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Delta Seven: Pathfinder",
+            "seaReleaseDate": "May 27th, 2021",
+            "krReleaseDate": "March 26th, 2020",
+            "globalReleaseDate": "May 26th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "Offtank"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Joo Shiyoung is one of many middling frontline tanks that struggle to carve a niche for themselves. The only notable part of her kit is her Ultimate - a long dash that goes through enemies and stuns them for a short duration. She is painfully average, with decent defensive stats and a low impact skill set.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Joo Shiyoung meets the baseline requirements expected of her as a frontline tank, and contributes nothing more to the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a general frontline tank, Joo Shiyoung struggles to distinguish herself from the pool of stronger, cheaper alternatives (e.g. Rearm Kaci, Rearm Alex).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- None.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Absence of teamwide utility hampers her viability when stronger alternatives not only tank better, but also provide more. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "6",
+              "pve_early": "5",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Periodically Counters Basic attacks, disrupting enemy lines."
+            },
+            "introduction": {
+              "introduction": "　Joo Shiyoung is a tricky vanguard specializing in countering her enemies' Normal attacks. She can also improve her Evasion, so she can take on multiple enemies at the same time.\n\n　A freelancing mercenary whose motto is \"I do as much as I'm paid for,\" she claims that she's the epitome of professionalism.\n　An excellent fighter, she keeps a clear dividing line between work and play, and never gets involved in unnecessary fights. Because of this, Delta Seven has assigned her to its detached force, the Pathfinder, under the command of the most rational member it has, for special management.\n　She becomes helplessly sentimental when she encounters things from her past, which always earns her a lecture from her leader who puts work before everything else. "
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1138_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her longsword, inflicting AoE damage on enemies in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1138_2",
+                "name": "Counter Stance",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Ranged attack DMG Taken -30% After every 3rd Basic attack, she takes the counterattack stance and responds to incoming Basic damage with AoE damage. If she doesn't counterattack, then increases her own EVA by 50% for 6 seconds."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Counterattack DMG +30%, Non-counterattack buff also adds ASPD +30%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1138_3",
+                "name": "Bite",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Swings her longsword and levitates nearby enemies. She then follows and cuts at them with a dagger, inflicting AoE damage. Blinds the targets for 4 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1138_4",
+                "name": "Spatial Breakthrough",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 48,
+                "baseDescription": {
+                  "baseDescription": "Forcefully stabs with her longsword, inflicting AoE damage on enemies in front. Afterward, increases ATK and DMG RES by 20% for 12 seconds, and Stuns the enemies for 3 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Cooldown -8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 28.73,
+                "critical": 3.66,
+                "def": 2.37,
+                "evade": 5.64,
+                "hit": 2.41,
+                "hp": 321
+              },
+              "base": {
+                "hp": 2600,
+                "atk": 287,
+                "def": 179,
+                "hit": 182,
+                "critical": 277,
+                "evade": 427
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "aa21e6bd-4c2b-52c7-930d-0e95d2391e22"
+    }
+  },
+  "staticQueryHashes": []
+}

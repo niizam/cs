@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kang-soyoung",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "a1cd448f-a1dd-511e-974f-b819d5678d8b",
+            "updatedAt": "2024-10-18T22:49:57.626Z",
+            "createdAt": "2021-10-21T13:45:03.331Z",
+            "unitId": "1098",
+            "fullName": "Kang Soyoung",
+            "slug": "kang-soyoung",
+            "shortName": "Kang Soyoung",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2d81bc82b30513383cc6d741abb769de/acb7c/emp-1098.png",
+                        "srcSet": "/static/2d81bc82b30513383cc6d741abb769de/1c9ce/emp-1098.png 64w,\n/static/2d81bc82b30513383cc6d741abb769de/bf8e1/emp-1098.png 128w,\n/static/2d81bc82b30513383cc6d741abb769de/acb7c/emp-1098.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2d81bc82b30513383cc6d741abb769de/8257c/emp-1098.webp 64w,\n/static/2d81bc82b30513383cc6d741abb769de/6766a/emp-1098.webp 128w,\n/static/2d81bc82b30513383cc6d741abb769de/22bfc/emp-1098.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Police SWAT 4",
+            "seaReleaseDate": "June 3rd, 2021",
+            "krReleaseDate": "February 27th, 2020",
+            "globalReleaseDate": "May 26th, 2022",
+            "cost": 2,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "ETB",
+              "CC",
+              "Paratrooper",
+              "Summoner",
+              "Buffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kang Soyoung is a forward-deployment character notable for her ability to deploy anywhere on the map, which can be used creatively as a disruption tool. Kang’s low cost and multi-faceted kit gives her plenty of flexibility in how she can be used... if not for her woefully inadequate stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, Kang’s soldier-specific buffs are not competitive with stronger alternatives (e.g. any of the meta PVE buffers). There exists one scenario where Kang is played for her buffs: when Curian-Vivian burst comps don’t have the DP to play a stronger supporter before their burst goes off. Otherwise, there are stronger alternatives that take priority for the slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Of note, Kang sees novel use in Challenge Stages 3-1 to 3-5 as the core component to a cheese strategy that involves spamming Kang off cooldown until Karin, the stage boss, dies of blunt force trauma.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Otherwise, in the current state of the CounterSide, Kang does not have the stats necessary to impact the game in any meaningful way.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Farmable\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": null,
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "Forward deployment, and enhances surrounding Soldiers."
+            },
+            "introduction": {
+              "introduction": "　Kang Soyoung, an officer of SWAT 4, is a supportive ranged attacker who rehabilitates criminals by crashing into them with a police car.\n\n　She works in a special division that deals with Counter criminals. Despite her team having the highest death rate, she has maintained her position longer than anyone and solved countless cases with her excellent marksmanship and deduction skills. But her true talent is boldness beyond common sense that enables her to catch the criminals off guard.\n　Most people don't understand why she can't get out of her lowly position despite her great performance. But she doesn't really care about how she is treated within the force. Maybe she is marked by the commissioner for crashing so many cars."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1098_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a pistol at a target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1098_2",
+                "name": "Where's the Location?",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Driving a police car, she can be deployed anywhere on the battlefield. Knocks enemies backward with AoE damage when deployed, and summons a Shieldman at the same level on the spot where her car exploded."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Explosion DMG +50%, summons Stronghold instead of Shieldman"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1098_3",
+                "name": "Special Service Commander",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses her experience of fighting C.O. as a non-Counter commander, decreasing surrounding Soldiers' DMG Taken by 15% and increasing their ATK by 15%."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Buff effect changes to Soldiers' DMG Taken -20% and ATK +20%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1098_4",
+                "name": "Special Operation Strategy",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses a strategy developed to counter special crimes. Inflicts 5% more damage on Counters."
+                },
+                "level2": {
+                  "level2": "DMG to Counter +3%"
+                },
+                "level3": {
+                  "level3": "DMG to Counter +3%"
+                },
+                "level4": {
+                  "level4": "DMG to Counter +4%"
+                },
+                "level5": {
+                  "level5": "DMG to Counter +5%, DMG to Sniper +30%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 18.12,
+                "critical": 3.23,
+                "def": 1.31,
+                "evade": 1.69,
+                "hit": 3.29,
+                "hp": 164
+              },
+              "base": {
+                "hp": 1327,
+                "atk": 181,
+                "def": 99,
+                "hit": 249,
+                "critical": 244,
+                "evade": 128
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "a1cd448f-a1dd-511e-974f-b819d5678d8b"
+    }
+  },
+  "staticQueryHashes": []
+}

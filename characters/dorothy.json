@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/dorothy",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "186ad4a1-e00d-5417-a0da-b5e1ed98a863",
+            "updatedAt": "2024-10-17T22:08:57.087Z",
+            "createdAt": "2022-03-31T00:50:31.016Z",
+            "unitId": "1211",
+            "fullName": "Dorothy",
+            "slug": "dorothy",
+            "shortName": "Dorothy",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/d7a92ee38eb21de02a565fb2e3a9ff26/acb7c/emp-1211.png",
+                        "srcSet": "/static/d7a92ee38eb21de02a565fb2e3a9ff26/1c9ce/emp-1211.png 64w,\n/static/d7a92ee38eb21de02a565fb2e3a9ff26/bf8e1/emp-1211.png 128w,\n/static/d7a92ee38eb21de02a565fb2e3a9ff26/acb7c/emp-1211.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/d7a92ee38eb21de02a565fb2e3a9ff26/8257c/emp-1211.webp 64w,\n/static/d7a92ee38eb21de02a565fb2e3a9ff26/6766a/emp-1211.webp 128w,\n/static/d7a92ee38eb21de02a565fb2e3a9ff26/22bfc/emp-1211.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "OZ",
+            "seaReleaseDate": "September 21st, 2022",
+            "krReleaseDate": "March 30th, 2022",
+            "globalReleaseDate": "March 22nd, 2023",
+            "cost": 3,
+            "type": [
+              "Soldier"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Buffer",
+              "CC",
+              "Perfect Evasion"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Dorothy is a buffer/ damage dealer hybrid, offering offensive buffs on a cheap sniper body.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE, her ASPD and CRIT DMG buffs are universally appreciated. Moreover Sniper role is part of Vivian’s operator proc order, making her a natural way to complete the command skill sequence (as sniper class lacks buffers).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVP, Dorothy sees niche play for similar reasons - sometimes a sniper is needed to complete the operator proc and she is one of the rare support-oriented options.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Sniper that provides offensive buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Short perfect evasion for allied soldiers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"- \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Personal damage is low.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "7",
+              "pve_late": "10"
+            },
+            "description": {
+              "description": "A Ranged attacker that neutralizes enemies and buffs allies."
+            },
+            "introduction": {
+              "introduction": "도로시는 적들을 무력화시키고 아군의 전투를 보조하는 지원형 스나이퍼 입니다. 의족으로 고속 기동을 하여 적에게 원거리 공격을 가합니다.\n 과거 육상부 선수를 꿈꿨던 소녀는 불의의 사고로 꿈을 잃게 되었습니다. 그런 소녀에게 새로운 다리가 되어 준 것은 「구두」라는 별명의 의족이었습니다.\n이 실험적인 기계장치는 뛰어난 고속 기동 능력과 도약력을 지니고 있지만, 통제하기 어려운 야생마와 같았습니다. 소녀가 구두를 다룰 수 있었던 것은 다시 달리고 싶다는 염원이 고삐가 되었기 때문일지도 모릅니다.\n한편, 이와 같은 기술을 다루는 곳은 극소수이기에 소녀에게 구두를 제공해 준 조직에 대해서도 의문점이 남는 상황입니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": "Likes ASPD latent Swift Relics."
+              },
+              "pvp": {
+                "set": "Anti-Striker Autoattack DPS",
+                "notes": "Likes ASPD latent Swift Relics."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1211_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Dorothy uses her modified prosthesis to deal AoE DMG to enemies in front of her. All of Dorothy’s attacks grant Immune to Damage while moving to the target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1211_2",
+                "name": "Warming Up",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "After every 4 basic attacks, Dorothy’s next basic attack becomes enhanced and knocks up enemies in front of her. Enhanced attacks grant 2 Fury."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Gain 3 Fury instead during an Enhanced Attack."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1211_3",
+                "name": "Long Strides",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 13,
+                "baseDescription": {
+                  "baseDescription": "Turns into a blur and attacks enemies at extreme speeds. The last enemy to receive DMG is Stunned for 1s."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Stun duration +2s. The last strike is guaranteed to CRIT."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1211_4",
+                "name": "Pace Maker",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "When deployed, self and all allies ASPD +10%, CRIT DMG +20% for 8s. If CRIT is triggered 5 times, the buff is applied again. Allied Soldiers additionally gain 4s of Perfect Evasion, which is not triggered again."
+                },
+                "level2": {
+                  "level2": "CRIT +5%"
+                },
+                "level3": {
+                  "level3": "CRIT +5%"
+                },
+                "level4": {
+                  "level4": "CRIT +10%"
+                },
+                "level5": {
+                  "level5": "Buff duration +2s, Ally ASPD +7% (does not apply to Dorothy)."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 31.93,
+                "critical": 3.69,
+                "def": 1.51,
+                "evade": 2.39,
+                "hit": 5.75,
+                "hp": 168
+              },
+              "base": {
+                "hp": 1312,
+                "atk": 307,
+                "def": 98,
+                "hit": 373,
+                "critical": 239,
+                "evade": 155
+              }
+            },
+            "isRearmed": false,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": true,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "186ad4a1-e00d-5417-a0da-b5e1ed98a863"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,246 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/overflow",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "45519348-d24c-5116-a5ee-2bceb5b437dc",
+            "updatedAt": "2024-06-23T20:37:53.205Z",
+            "createdAt": "2021-10-22T07:11:21.853Z",
+            "unitId": "1188",
+            "fullName": "Overflow",
+            "slug": "overflow",
+            "shortName": "Overflow",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/bb3e0b91cd16cc286fed764377f8d0f0/acb7c/emp-1188.png",
+                        "srcSet": "/static/bb3e0b91cd16cc286fed764377f8d0f0/1c9ce/emp-1188.png 64w,\n/static/bb3e0b91cd16cc286fed764377f8d0f0/bf8e1/emp-1188.png 128w,\n/static/bb3e0b91cd16cc286fed764377f8d0f0/acb7c/emp-1188.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/bb3e0b91cd16cc286fed764377f8d0f0/8257c/emp-1188.webp 64w,\n/static/bb3e0b91cd16cc286fed764377f8d0f0/6766a/emp-1188.webp 128w,\n/static/bb3e0b91cd16cc286fed764377f8d0f0/22bfc/emp-1188.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Scavengers",
+            "seaReleaseDate": "December 1st, 2021",
+            "krReleaseDate": "July 20th, 2021",
+            "globalReleaseDate": "November 10th, 2022",
+            "cost": 4,
+            "type": [
+              "Soldier",
+              "Mech"
+            ],
+            "role": "Defender",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "ETB",
+              "CC",
+              "Debuffer"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"As with all Scavenger units, Overflow is a Soldier/Mech hybrid. He is an offensive defender who can't be stunned or knocked back, while also being able to charge forward and push the enemy team back toward their ship, stunning them from time to time. But he's not as useful as other tanks like Serapel when it comes to most other PVE gamemodes.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"His knockback immunity can help with holding the line in PVE gamemodes, where he can be used as a main frontline tank to great effect. His passive DMG AMP% aura also gives him an additional bit of PVE utility. However, you are better off using another defender or striker with more utility or better stats most of the time. \",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"In PVP he is often used to keep Evolved-1 safe and push enemies away from her, but he can also be used in hybrid teams.\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Be aware that while he is a hybrid employee, he can only wear Soldier gear.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- CC monster who himself is immune to Knockback,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- really tanky and hard to kill,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- debuff aura lets allies do more damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- high cost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "6",
+              "pve_late": "6"
+            },
+            "description": {
+              "description": "A Melee Defender with high Knockback Resistance specializing in penetrating enemy territory"
+            },
+            "introduction": {
+              "introduction": "  Overflow is a charger-type Defender capable of resisting Knockback and pressing on through enemies.\n\n  As the combatants of the Scavengers' penetration unit, Picador, Overflows take the lead and open up a path for the others once their looting target is decided. Because things worth stealing are always protected with great care. Their hammer, a non-firearm weapon that can hardly be seen anymore, works synergistically with their power suit, easily crushing through even the most reliable security system. Of course, people and weapons are no exceptions if they stood in its way."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1188_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings his Boost Hammer downward, inflicting AoE damage in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1188_2",
+                "name": "Field Domination",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Forcefully slams into enemies, resisting Knockback. Upon deployment, swings his hammer downward, inflicting AoE damage and Stunning targets even in Special Skill mode."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Immunity to Stun, DMG +10% to surrounding enemies"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1188_3",
+                "name": "Gateway Crusher",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 20,
+                "baseDescription": {
+                  "baseDescription": "Charges forward, using his hammer's rocket propulsion power. Inflicts AoE damage and forces enemies to attack him for 5 seconds. After charging, swings his hammer to attack again and Stun enemies for 2 seconds."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Charging attack decreases enemies' ATK -25% for 5 s. Subsequent attack's Stun duration +1 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1188_4",
+                "name": "Overwhelm",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Uses the weight of his hammer to shock enemies. Basic attacks Stun enemies for 2 seconds. This effect can't be reactivated in 10 seconds."
+                },
+                "level2": {
+                  "level2": "DMG RES +2%"
+                },
+                "level3": {
+                  "level3": "DMG RES +3%"
+                },
+                "level4": {
+                  "level4": "DMG RES +5%"
+                },
+                "level5": {
+                  "level5": "CRIT DMG RES +75%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 24.33,
+                "critical": 1.85,
+                "def": 5.58,
+                "evade": 0.84,
+                "hit": 2.14,
+                "hp": 383
+              },
+              "base": {
+                "hp": 3108,
+                "atk": 243,
+                "def": 422,
+                "hit": 162,
+                "critical": 140,
+                "evade": 63
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "45519348-d24c-5116-a5ee-2bceb5b437dc"
+    }
+  },
+  "staticQueryHashes": []
+}

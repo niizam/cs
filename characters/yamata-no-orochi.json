@@ -1,0 +1,251 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/yamata-no-orochi",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "fb19b99d-5399-58f6-80fc-b0d6381099a8",
+            "updatedAt": "2024-11-07T21:48:43.019Z",
+            "createdAt": "2021-12-14T09:13:48.846Z",
+            "unitId": "1201",
+            "fullName": "Yamata no Orochi",
+            "slug": "yamata-no-orochi",
+            "shortName": "Yamata no Orochi",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/2d0bd631327df69319350db0f23dc2d7/acb7c/1201.png",
+                        "srcSet": "/static/2d0bd631327df69319350db0f23dc2d7/1c9ce/1201.png 64w,\n/static/2d0bd631327df69319350db0f23dc2d7/bf8e1/1201.png 128w,\n/static/2d0bd631327df69319350db0f23dc2d7/acb7c/1201.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/2d0bd631327df69319350db0f23dc2d7/8257c/1201.webp 64w,\n/static/2d0bd631327df69319350db0f23dc2d7/6766a/1201.webp 128w,\n/static/2d0bd631327df69319350db0f23dc2d7/22bfc/1201.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Depraved Backstory",
+            "seaReleaseDate": "June 15th, 2022",
+            "krReleaseDate": "December 14th, 2021",
+            "globalReleaseDate": "February 22nd, 2023",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Ranger",
+            "alterniumInfo": {
+              "name": "Divine Jadestone",
+              "type": "Passive Skill Enh.",
+              "skill_name": "Snake that swallowed the thunderstorm",
+              "description": "The orb is created on every 9th basic attack hit instead. Orb's DMG +50%."
+            },
+            "hasAlternium": true,
+            "movementType": "Ground",
+            "attackType": "All",
+            "speciality": [
+              "CC",
+              "Debuffer",
+              "Dispeller",
+              "Perfect Evasion"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yamata no Orochi is a pure DPS employee who has a unique passive - she will deploy an orb (that lasts for 5 seconds) after a certain number of basic attacks, and this orb will deal the same amount of damage as her basic attacks. With her Alternium Reactor equipped, the orb will be deployed after just 9 hits, and it will also deal 50% additional damage. This makes Orochi a good pick for a sustained DPS option, especially against a single target with a high a large HP pool e.g. raid bosses.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her range is also decently long, allowing her to avoid getting hit by melee attacks in Lvl 130+ Britra raids. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unfortunately, sustained DPS output is her only strength. Both her special and ultimate skills do not do anything noteworthy (and will actually result in a drop to her DPS output), and are useless in both PVE and PVP. This makes her only good in PVE, because sustained DPS output on a single target is not exactly needed in PVP. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- good single target damage\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Special and ultimate skills are not impactful\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- Other characters easily bring more utility and more damage than her\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "6",
+              "pvp_global": "7",
+              "pve_early": "6",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "A Ranged attacker with quick basic attacks, especially strong against a single target"
+            },
+            "introduction": {
+              "introduction": "오로치는 뱀의 분신을 부려 한 상대를 집요하게 공격하는 레인저입니다.세상이 오랜 대흉년에 시달릴 때, 만물의 소리를 듣는 여인이 가뭄으로부터 외로움을 듣고 달래어 풍요를 되찾았습니다. 여인은 오랫동안 풍요를 모시며 무녀로 추앙받았습니다. 하지만 풍요에 만족하지 못한 인간들은 영생을 탐했고, 기어이 손에 무녀의 피를 묻히고 말았습니다. 풍요는 비와, 번개와, 산을 덮는 여덟 머리의 뱀으로 변해 인간을 벌했습니다. 많은 인간들의 희생 끝에 결국 그녀는 봉인됐습니다. 하지만 인간에게 욕망이 존재하는 한, 그녀는 인간들에게 영생을 속삭이며 다시 깨어나게 될 겁니다."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "CDR DPS",
+                "notes": ""
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1201_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The snake discharges electricity, attacking a target in front. It stops attacking the target if 5 seconds pass, if the target dies, or if the target moves 1000 reach away from the caster."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1201_2",
+                "name": "Snake That Swallowed The Thunderstorm",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "During Basic attacks, every 15th hit creates an orb that inflicts the same damage as Basic attacks on a nearby target for 5 seconds."
+                },
+                "level2": {
+                  "level2": "ATK +3%"
+                },
+                "level3": {
+                  "level3": "ATK +3%"
+                },
+                "level4": {
+                  "level4": "ATK +6%"
+                },
+                "level5": {
+                  "level5": "Passive effect activated with every 13th attack instead."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1201_3",
+                "name": "Soul Cleansing Storm",
+                "type": "Special",
+                "validHits": 3,
+                "cooldown": 26,
+                "baseDescription": {
+                  "baseDescription": "Generates a twister, levitating enemies in front with AoE damage. Casts Perfect EVA for 8 seconds when cast."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Removes targets' barriers."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1201_4",
+                "name": "Heaven's Wrath",
+                "type": "Ultimate",
+                "validHits": 4,
+                "cooldown": 58,
+                "baseDescription": {
+                  "baseDescription": "Causes a storm with her snake, levitating enemies in front while inflicting AoE damage. During this skill, increases DMG RDC by 50% and all enemies' ASPD and SPD decreases by 50%. (Bosses excluded)"
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "50% of skill effect applied for 10 s after skill."
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 37.05,
+                "critical": 2.85,
+                "def": 2.91,
+                "evade": 1.71,
+                "hit": 5.55,
+                "hp": 301
+              },
+              "base": {
+                "hp": 2391,
+                "atk": 363,
+                "def": 203,
+                "hit": 388,
+                "critical": 199,
+                "evade": 119
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": false,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "fb19b99d-5399-58f6-80fc-b0d6381099a8"
+    }
+  },
+  "staticQueryHashes": []
+}

@@ -1,0 +1,341 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/kestrel-xiao-lin",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "dca08e28-8100-5c81-932d-b5082d702946",
+            "updatedAt": "2025-03-27T09:23:23.759Z",
+            "createdAt": "2021-11-16T10:29:46.193Z",
+            "unitId": "2006",
+            "fullName": "Kestrel Xiao Lin",
+            "slug": "kestrel-xiao-lin",
+            "shortName": "Kestrel Xiao Lin",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#282828",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4729d29935ee74c853e4613bcc439456/acb7c/emp-2006.png",
+                        "srcSet": "/static/4729d29935ee74c853e4613bcc439456/1c9ce/emp-2006.png 64w,\n/static/4729d29935ee74c853e4613bcc439456/bf8e1/emp-2006.png 128w,\n/static/4729d29935ee74c853e4613bcc439456/acb7c/emp-2006.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4729d29935ee74c853e4613bcc439456/8257c/emp-2006.webp 64w,\n/static/4729d29935ee74c853e4613bcc439456/6766a/emp-2006.webp 128w,\n/static/4729d29935ee74c853e4613bcc439456/22bfc/emp-2006.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Kestrel",
+            "seaReleaseDate": "March 2nd, 2022",
+            "krReleaseDate": "November 2nd, 2021",
+            "globalReleaseDate": "December 8th, 2022",
+            "cost": 4,
+            "type": [
+              "Counter"
+            ],
+            "role": "Sniper",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "CC"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kestrel Xiao Lin is a similar but better employee compared to her base version. She has excellent range and more damage than base Xiao Lin, and a stray car can't kill her as easily anymore due to her increased stats. Apart from that, her skill now stuns enemies as well, including mechs, making her provide some CC along with her damage. She is one of, if not the strongest, damage dealers in the game as long as she stays alive - so strong that it's hard to find a reason to not use her in PVE unless the enemy is a Defender or has a gimmick against her. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As for PVP, she's almost like what Awakened Na Yubin is to Towers, but for Strikers instead: she does so much damage to them that almost all striker frontliners are deemed unviable when she isn't banned (Rearmed Esterosa is a major exception).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I guess the only major flaw in her kit is that she can't hit air units despite literally being named after a bird.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- absurd single target damage which makes her great bossing employee,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- 2-second stun.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- squishy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can't target air.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "7",
+              "pvp_global": "8",
+              "pve_early": "6",
+              "pve_late": "8"
+            },
+            "description": {
+              "description": "Provides powerful support from the rear and boasts high accuracy."
+            },
+            "introduction": {
+              "introduction": "Xiao Lin has further improved her bioelectricity-controlling ability, which she previously used for precise shooting. Her 4 support drones, which she controls through electric current, volley-fire at her target, eliminating even the slimmest possibility of survival. Door Knocker, having been intensified by the mutual interference between her and her support drones, now makes a good siege method to resolve a stalemate on the battlefield."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Autoattack DPS",
+                "notes": "One of the few units who can effectively utilise CRIT DMG sets and substats. Her EE is absolutely mandatory for best performance."
+              },
+              "pvp": {
+                "set": "Autoattack DPS",
+                "notes": "One of the few units who can effectively utilise CRIT DMG sets and substats. Her EE is absolutely mandatory for best performance."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "2006_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 1,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Fires a sniper rifle at the foremost target."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +3%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +3%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +3%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +3%"
+                },
+                "level6": {
+                  "level6": "Basic Attack DMG +2%"
+                },
+                "level7": {
+                  "level7": "Basic Attack DMG +2%"
+                },
+                "level8": {
+                  "level8": "Basic Attack DMG +2%"
+                },
+                "level9": {
+                  "level9": "Basic Attack DMG +2%"
+                },
+                "level10": {
+                  "level10": "Basic Attack DMG +5%"
+                }
+              },
+              {
+                "skillId": "2006_2",
+                "name": "Hunting Insight",
+                "type": "Passive",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Controls her bioelectric currents for improved accuracy. Increases Basic Attack damage by up to 20%, depending on the distance between her and her target."
+                },
+                "level2": {
+                  "level2": "CRIT DMG +5%"
+                },
+                "level3": {
+                  "level3": "CRIT DMG +5%"
+                },
+                "level4": {
+                  "level4": "CRIT DMG +10%"
+                },
+                "level5": {
+                  "level5": "Basic attacks always crit"
+                },
+                "level6": {
+                  "level6": "CRIT DMG +2%"
+                },
+                "level7": {
+                  "level7": "CRIT DMG +2%"
+                },
+                "level8": {
+                  "level8": "CRIT DMG +2%"
+                },
+                "level9": {
+                  "level9": "CRIT DMG +4%"
+                },
+                "level10": {
+                  "level10": "Basic attack DMG +20% regardless of distance"
+                }
+              },
+              {
+                "skillId": "2006_3",
+                "name": "Hunting Mark",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 22,
+                "baseDescription": {
+                  "baseDescription": "Fires a special electric projectile, inflicting AoE damage on and around the foremost target. This skill only affects as many targets as its Valid Hits."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "ATK +15% for 5 s immediately after skill"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Stuns targets for 2 s (Mechs included)"
+                }
+              },
+              {
+                "skillId": "2006_4",
+                "name": "Overcharged Door Knocker",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 60,
+                "baseDescription": {
+                  "baseDescription": "Fires a bullet imbued with a special power, inflicting AoE damage. This bullet causes a rear blast that knocks enemies backward."
+                },
+                "level2": {
+                  "level2": "DMG +3%"
+                },
+                "level3": {
+                  "level3": "DMG +3%"
+                },
+                "level4": {
+                  "level4": "DMG +9%"
+                },
+                "level5": {
+                  "level5": "Valid Hits +1"
+                },
+                "level6": {
+                  "level6": "DMG +3%"
+                },
+                "level7": {
+                  "level7": "DMG +3%"
+                },
+                "level8": {
+                  "level8": "DMG +3%"
+                },
+                "level9": {
+                  "level9": "DMG +6%"
+                },
+                "level10": {
+                  "level10": "Cooldown -8 s"
+                }
+              },
+              {
+                "skillId": "2006_5",
+                "name": "Reloading Assistant",
+                "type": "Leader",
+                "validHits": null,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "The drones help their commander load her weapon. Increases ASPD by 15% for 9 seconds when deployed."
+                },
+                "level2": {
+                  "level2": "HP +10%"
+                },
+                "level3": {
+                  "level3": "Buff duration +3 s"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "Buff duration +3 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 55.11,
+                "critical": 4.04,
+                "def": 2.65,
+                "evade": 1.26,
+                "hit": 9.89,
+                "hp": 167
+              },
+              "base": {
+                "hp": 1324,
+                "atk": 540,
+                "def": 185,
+                "hit": 691,
+                "critical": 497,
+                "evade": 88
+              }
+            },
+            "isRearmed": true,
+            "originalUnitRef": {
+              "unitId": "1006",
+              "slug": "xiao-lin",
+              "shortName": "Xiao Lin",
+              "rarityClassName": "SSR",
+              "smallAvatar": {
+                "localFile": {
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "backgroundColor": "#080808",
+                      "images": {
+                        "fallback": {
+                          "src": "/static/aa6db1d7516e17e428242d9fc9aac00d/acb7c/emp-1006.png",
+                          "srcSet": "/static/aa6db1d7516e17e428242d9fc9aac00d/1c9ce/emp-1006.png 64w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/bf8e1/emp-1006.png 128w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/acb7c/emp-1006.png 256w",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/aa6db1d7516e17e428242d9fc9aac00d/8257c/emp-1006.webp 64w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/6766a/emp-1006.webp 128w,\n/static/aa6db1d7516e17e428242d9fc9aac00d/22bfc/emp-1006.webp 256w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 256px) 256px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 256,
+                      "height": 256
+                    }
+                  }
+                }
+              }
+            },
+            "isTranslationUnofficial": false,
+            "isRatingPending": false,
+            "showNewTag": false,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": null
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "dca08e28-8100-5c81-932d-b5082d702946"
+    }
+  },
+  "staticQueryHashes": []
+}

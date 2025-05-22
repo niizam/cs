@@ -1,0 +1,245 @@
+{
+  "componentChunkName": "component---src-dynamic-pages-employee-tsx",
+  "path": "/counter-side/characters/spira",
+  "result": {
+    "data": {
+      "currentUnit": {
+        "nodes": [
+          {
+            "id": "7de14249-cf05-5bab-8716-7ebf2b4cbdb7",
+            "updatedAt": "2025-01-28T07:15:26.325Z",
+            "createdAt": "2021-10-22T06:52:43.363Z",
+            "unitId": "1175",
+            "fullName": "Spira",
+            "slug": "spira",
+            "shortName": "Spira",
+            "smallAvatar": {
+              "localFile": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                      "fallback": {
+                        "src": "/static/f6f0edd3df01e541cacd67d23af2fa27/acb7c/emp-1175.png",
+                        "srcSet": "/static/f6f0edd3df01e541cacd67d23af2fa27/1c9ce/emp-1175.png 64w,\n/static/f6f0edd3df01e541cacd67d23af2fa27/bf8e1/emp-1175.png 128w,\n/static/f6f0edd3df01e541cacd67d23af2fa27/acb7c/emp-1175.png 256w",
+                        "sizes": "(min-width: 256px) 256px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/f6f0edd3df01e541cacd67d23af2fa27/8257c/emp-1175.webp 64w,\n/static/f6f0edd3df01e541cacd67d23af2fa27/6766a/emp-1175.webp 128w,\n/static/f6f0edd3df01e541cacd67d23af2fa27/22bfc/emp-1175.webp 256w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 256px) 256px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 256,
+                    "height": 256
+                  }
+                }
+              }
+            },
+            "regions": [
+              "KR",
+              "SEA",
+              "Global"
+            ],
+            "rarity": "SSR",
+            "rarityNumber": 4,
+            "rarityClassName": "SSR",
+            "title": "Demon-type C.O.",
+            "seaReleaseDate": "February 2nd, 2022",
+            "krReleaseDate": "April 20th, 2021",
+            "globalReleaseDate": "October 20th, 2022",
+            "cost": 3,
+            "type": [
+              "Counter",
+              "Corrupted Object"
+            ],
+            "role": "Striker",
+            "alterniumInfo": null,
+            "hasAlternium": null,
+            "movementType": "Ground",
+            "attackType": "Ground",
+            "speciality": [
+              "Debuffer",
+              "Healblock"
+            ],
+            "reviewGeneral": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Spira is the best non-awakened striker in PVP because of her ability to freely attack and murder the backline. Thanks to the fog that blinds targets during her charge, she can't be countered and all you can do is watch and cry as your Awakened Ministra and Seo Yoon, who you thought were safe in the back, are slaughtered by her. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In PVE she is often used in harder content like Dive 50 or later acts of Challenge Mode.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "pros": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- backline killer,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- awakened employee killer,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- can survive quite a beating thanks to her passive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "cons": {
+              "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"- even though she's good in high-end PVE content, PVP is where she shines.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "newRatings": {
+              "pvp_sea": "5",
+              "pvp_global": "8",
+              "pve_early": "7",
+              "pve_late": "5"
+            },
+            "description": {
+              "description": "A Melee Attacker that breaks through enemy lines to get at the Attackers in the rear."
+            },
+            "introduction": {
+              "introduction": "  Spira is a Demon-type C.O. and Striker that rushes into enemy territory and attacks the rear line when her HP is low.\n\n  Suspected to have transmuted into a Shadow just recently, she shows a strong desire to go back to reality, and the visible damage in her joints must have been from her body's resistance to the transmutation.\n  Because she's been often seen with Ministra the Named Demon, it's believed that Spira was made a C.O. to be her watchdog."
+            },
+            "gearRecommendation": {
+              "pve": {
+                "set": "Full Tank",
+                "notes": ""
+              },
+              "pvp": {
+                "set": "Full Tank",
+                "notes": "Uses DPS gear in terror."
+              }
+            },
+            "isAwakened": false,
+            "skillsUpdated": [
+              {
+                "skillId": "1175_1",
+                "name": "Basic Attack",
+                "type": "Basic",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Swings her transmuted hand, inflicting AoE damage in front."
+                },
+                "level2": {
+                  "level2": "Basic Attack DMG +5%"
+                },
+                "level3": {
+                  "level3": "Basic Attack DMG +5%"
+                },
+                "level4": {
+                  "level4": "Basic Attack DMG +5%"
+                },
+                "level5": {
+                  "level5": "Basic Attack DMG +5%"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1175_2",
+                "name": "Painful Scream",
+                "type": "Passive",
+                "validHits": 2,
+                "cooldown": null,
+                "baseDescription": {
+                  "baseDescription": "Looks for a target to pour her pain onto. At 50% HP, she moves forward, inflicts AoE damage where she stops, and releases fog that causes Blind and HIT -50% for 5 seconds."
+                },
+                "level2": {
+                  "level2": "HP +5%"
+                },
+                "level3": {
+                  "level3": "HP +5%"
+                },
+                "level4": {
+                  "level4": "HP +10%"
+                },
+                "level5": {
+                  "level5": "ASPD +20% for 8 s after Passive"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1175_3",
+                "name": "Crimson Scar",
+                "type": "Special",
+                "validHits": 2,
+                "cooldown": 18,
+                "baseDescription": {
+                  "baseDescription": "Shoots spirit swords at the front area, inflicting AoE damage."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Affected enemies' Incoming Healing -25% for 8 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              },
+              {
+                "skillId": "1175_4",
+                "name": "Thorns of Pain",
+                "type": "Ultimate",
+                "validHits": 3,
+                "cooldown": 46,
+                "baseDescription": {
+                  "baseDescription": "Morphs her body into gigantic shooting thorns, inflicting AoE damage in front."
+                },
+                "level2": {
+                  "level2": "DMG +5%"
+                },
+                "level3": {
+                  "level3": "DMG +5%"
+                },
+                "level4": {
+                  "level4": "DMG +15%"
+                },
+                "level5": {
+                  "level5": "Affected enemies' ATK -20% for 12 s"
+                },
+                "level6": null,
+                "level7": null,
+                "level8": null,
+                "level9": null,
+                "level10": null
+              }
+            ],
+            "stats": {
+              "perLevel": {
+                "atk": 25.62,
+                "critical": 3.77,
+                "def": 4.62,
+                "evade": 2.97,
+                "hit": 1.81,
+                "hp": 288
+              },
+              "base": {
+                "hp": 2286,
+                "atk": 251,
+                "def": 323,
+                "hit": 126,
+                "critical": 263,
+                "evade": 207
+              }
+            },
+            "isRearmed": null,
+            "originalUnitRef": null,
+            "isTranslationUnofficial": null,
+            "isRatingPending": null,
+            "showNewTag": null,
+            "hasBeenBuffedRecently": null,
+            "isItFuryUser": null,
+            "isPartOfTerrorDeck": true
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "contentfulId": "7de14249-cf05-5bab-8716-7ebf2b4cbdb7"
+    }
+  },
+  "staticQueryHashes": []
+}
